@@ -1,0 +1,1 @@
+{"id":"DEC-0001","date":"2026-10-09","decision":"Initialize minimal state; corpus directories created on demand; single coordinator writes shared indices.","rationale":"Repository and issue queue empty. Preserve small recovery footprint; await main assignment.","task_ids":[]}

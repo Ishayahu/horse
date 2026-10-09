@@ -1,14 +1,38 @@
 {
   "schema_version": 1,
-  "phase": "awaiting_research_assignment",
-  "current_assignment": null,
-  "session_id": "setup-2026-10-09",
-  "active_task_ids": [],
-  "pending_task_ids": [],
+  "phase": "research_in_progress",
+  "current_assignment": {
+    "id": "HORSE-RESEARCH-001",
+    "goal": "Образ коня в еврейских источниках и проверка связи со сверхъестественным перемещением",
+    "specification_path": "docs/research-assignment.md"
+  },
+  "session_id": "research-2026-10-09-01",
+  "active_task_ids": [
+    "TAN-001",
+    "BAV-001",
+    "YER-001",
+    "MID-001",
+    "PSH-001",
+    "COM-001"
+  ],
+  "pending_task_ids": [
+    "TAN-002",
+    "VER-001",
+    "BAV-002",
+    "YER-002",
+    "MID-002",
+    "COM-002",
+    "LAT-001",
+    "KAB-001",
+    "EGY-001",
+    "SYN-001",
+    "CMP-001",
+    "AUD-001"
+  ],
   "unsaved_results": [],
   "blockers": [],
-  "next_action": "Read remote checkpoint; receive main research assignment; create bounded task DAG.",
-  "last_confirmed_commit": "4930bc320901d3adbd82e782d0c15eae2403b962",
+  "next_action": "Collect first six bounded batches, independently verify central evidence, commit each completed batch, continue ready queue.",
+  "last_confirmed_commit": "41282433b114ea5d8c9b183f02ca265e55df2885",
   "capabilities": {
     "github_read": true,
     "github_write": true,

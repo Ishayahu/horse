@@ -1,5 +1,131 @@
 {
   "schema_version": 1,
-  "corpora": [],
-  "note": "Scope awaits main assignment; no corpus searched."
+  "corpora": [
+    {
+      "id": "tanakh",
+      "works": [],
+      "status": "not_started",
+      "queries": [],
+      "ranges": [],
+      "candidate_count": 0,
+      "confirmed_count": 0,
+      "commentary_count": 0,
+      "limitations": [
+        "Initial search assignment started; no completed coverage yet"
+      ],
+      "next_checks": []
+    },
+    {
+      "id": "bavli",
+      "works": [],
+      "status": "not_started",
+      "queries": [],
+      "ranges": [],
+      "candidate_count": 0,
+      "confirmed_count": 0,
+      "commentary_count": 0,
+      "limitations": [
+        "Initial search assignment started; no completed coverage yet"
+      ],
+      "next_checks": []
+    },
+    {
+      "id": "yerushalmi",
+      "works": [],
+      "status": "not_started",
+      "queries": [],
+      "ranges": [],
+      "candidate_count": 0,
+      "confirmed_count": 0,
+      "commentary_count": 0,
+      "limitations": [
+        "Initial search assignment started; no completed coverage yet"
+      ],
+      "next_checks": []
+    },
+    {
+      "id": "midrash",
+      "works": [],
+      "status": "not_started",
+      "queries": [],
+      "ranges": [],
+      "candidate_count": 0,
+      "confirmed_count": 0,
+      "commentary_count": 0,
+      "limitations": [
+        "Initial search assignment started; no completed coverage yet"
+      ],
+      "next_checks": []
+    },
+    {
+      "id": "perek-shira",
+      "works": [],
+      "status": "not_started",
+      "queries": [],
+      "ranges": [],
+      "candidate_count": 0,
+      "confirmed_count": 0,
+      "commentary_count": 0,
+      "limitations": [
+        "Initial search assignment started; no completed coverage yet"
+      ],
+      "next_checks": []
+    },
+    {
+      "id": "commentaries",
+      "works": [],
+      "status": "not_started",
+      "queries": [],
+      "ranges": [],
+      "candidate_count": 0,
+      "confirmed_count": 0,
+      "commentary_count": 0,
+      "limitations": [
+        "Initial search assignment started; no completed coverage yet"
+      ],
+      "next_checks": []
+    },
+    {
+      "id": "later-literature",
+      "works": [],
+      "status": "not_started",
+      "queries": [],
+      "ranges": [],
+      "candidate_count": 0,
+      "confirmed_count": 0,
+      "commentary_count": 0,
+      "limitations": [
+        "Initial search assignment started; no completed coverage yet"
+      ],
+      "next_checks": []
+    },
+    {
+      "id": "kabbalah-hasidism",
+      "works": [],
+      "status": "not_started",
+      "queries": [],
+      "ranges": [],
+      "candidate_count": 0,
+      "confirmed_count": 0,
+      "commentary_count": 0,
+      "limitations": [
+        "Initial search assignment started; no completed coverage yet"
+      ],
+      "next_checks": []
+    },
+    {
+      "id": "comparative",
+      "works": [],
+      "status": "not_started",
+      "queries": [],
+      "ranges": [],
+      "candidate_count": 0,
+      "confirmed_count": 0,
+      "commentary_count": 0,
+      "limitations": [
+        "Initial search assignment started; no completed coverage yet"
+      ],
+      "next_checks": []
+    }
+  ]
 }

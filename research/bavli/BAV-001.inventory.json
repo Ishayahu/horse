@@ -1,0 +1,249 @@
+{
+  "schema_version": 1,
+  "task_id": "BAV-001",
+  "generated_at": "2026-10-02T06:06:29Z",
+  "inventory_url": "https://raw.githubusercontent.com/Sefaria/Sefaria-Export/master/books.json",
+  "selected": [
+    {
+      "title": "Berakhot",
+      "language": "Hebrew",
+      "versionTitle": "merged",
+      "categories": [
+        "Talmud",
+        "Bavli",
+        "Seder Zeraim"
+      ],
+      "json_url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Zeraim/Berakhot/Hebrew/merged.json",
+      "txt_url": "https://storage.googleapis.com/sefaria-export/txt/Talmud/Bavli/Seder%20Zeraim/Berakhot/Hebrew/merged.txt",
+      "cltk_full_url": "https://storage.googleapis.com/sefaria-export/cltk-full/Talmud/Bavli/Seder%20Zeraim/Berakhot/Hebrew/merged.json",
+      "cltk_flat_url": "https://storage.googleapis.com/sefaria-export/cltk-flat/Talmud/Bavli/Seder%20Zeraim/Berakhot/Hebrew/merged.json"
+    },
+    {
+      "title": "Pesachim",
+      "language": "Hebrew",
+      "versionTitle": "merged",
+      "categories": [
+        "Talmud",
+        "Bavli",
+        "Seder Moed"
+      ],
+      "json_url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Moed/Pesachim/Hebrew/merged.json",
+      "txt_url": "https://storage.googleapis.com/sefaria-export/txt/Talmud/Bavli/Seder%20Moed/Pesachim/Hebrew/merged.txt",
+      "cltk_full_url": "https://storage.googleapis.com/sefaria-export/cltk-full/Talmud/Bavli/Seder%20Moed/Pesachim/Hebrew/merged.json",
+      "cltk_flat_url": "https://storage.googleapis.com/sefaria-export/cltk-flat/Talmud/Bavli/Seder%20Moed/Pesachim/Hebrew/merged.json"
+    },
+    {
+      "title": "Sanhedrin",
+      "language": "Hebrew",
+      "versionTitle": "merged",
+      "categories": [
+        "Talmud",
+        "Bavli",
+        "Seder Nezikin"
+      ],
+      "json_url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Nezikin/Sanhedrin/Hebrew/merged.json",
+      "txt_url": "https://storage.googleapis.com/sefaria-export/txt/Talmud/Bavli/Seder%20Nezikin/Sanhedrin/Hebrew/merged.txt",
+      "cltk_full_url": "https://storage.googleapis.com/sefaria-export/cltk-full/Talmud/Bavli/Seder%20Nezikin/Sanhedrin/Hebrew/merged.json",
+      "cltk_flat_url": "https://storage.googleapis.com/sefaria-export/cltk-flat/Talmud/Bavli/Seder%20Nezikin/Sanhedrin/Hebrew/merged.json"
+    }
+  ],
+  "complete_corpus_downloaded": false,
+  "hebrew_merged_bavli_including_commentary_count": 1232,
+  "downloaded": [
+    {
+      "title": "Berakhot",
+      "sha256": "64cede864a44464bb529a7d8d3bd4eca640fb36b3ad2d5fc989357103d6d9fe1",
+      "array_slots": 127,
+      "nonempty_amudim": 125,
+      "edition": [
+        [
+          "William Davidson Edition - Vocalized Aramaic",
+          "http://sefaria.org"
+        ]
+      ]
+    },
+    {
+      "title": "Pesachim",
+      "sha256": "39ec9edbd5e4a0d0629e99b74fc31a33f63e8d35307ec9c7421c62028f9bd03a",
+      "array_slots": 242,
+      "nonempty_amudim": 240,
+      "edition": [
+        [
+          "William Davidson Edition - Vocalized Aramaic",
+          "http://sefaria.org"
+        ]
+      ]
+    },
+    {
+      "title": "Sanhedrin",
+      "sha256": "1c37c0df10a66f9f482051df2a032d138eace0250e1410abbd52c7ce0fcef74f",
+      "array_slots": 226,
+      "nonempty_amudim": 224,
+      "edition": [
+        [
+          "William Davidson Edition - Vocalized Aramaic",
+          "https://korenpub.co.il/collections/the-noe-edition-koren-talmud-bavli-1"
+        ]
+      ]
+    }
+  ],
+  "three_level_bavli_category_count": 67,
+  "base_tractates": [
+    {
+      "title": "Arakhin",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Kodashim/Arakhin/Hebrew/merged.json"
+    },
+    {
+      "title": "Avodah Zarah",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Nezikin/Avodah%20Zarah/Hebrew/merged.json"
+    },
+    {
+      "title": "Bava Batra",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Nezikin/Bava%20Batra/Hebrew/merged.json"
+    },
+    {
+      "title": "Bava Kamma",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Nezikin/Bava%20Kamma/Hebrew/merged.json"
+    },
+    {
+      "title": "Bava Metzia",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Nezikin/Bava%20Metzia/Hebrew/merged.json"
+    },
+    {
+      "title": "Beitzah",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Moed/Beitzah/Hebrew/merged.json"
+    },
+    {
+      "title": "Bekhorot",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Kodashim/Bekhorot/Hebrew/merged.json"
+    },
+    {
+      "title": "Berakhot",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Zeraim/Berakhot/Hebrew/merged.json"
+    },
+    {
+      "title": "Chagigah",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Moed/Chagigah/Hebrew/merged.json"
+    },
+    {
+      "title": "Chullin",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Kodashim/Chullin/Hebrew/merged.json"
+    },
+    {
+      "title": "Eruvin",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Moed/Eruvin/Hebrew/merged.json"
+    },
+    {
+      "title": "Gittin",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Nashim/Gittin/Hebrew/merged.json"
+    },
+    {
+      "title": "Horayot",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Nezikin/Horayot/Hebrew/merged.json"
+    },
+    {
+      "title": "Keritot",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Kodashim/Keritot/Hebrew/merged.json"
+    },
+    {
+      "title": "Ketubot",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Nashim/Ketubot/Hebrew/merged.json"
+    },
+    {
+      "title": "Kiddushin",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Nashim/Kiddushin/Hebrew/merged.json"
+    },
+    {
+      "title": "Makkot",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Nezikin/Makkot/Hebrew/merged.json"
+    },
+    {
+      "title": "Megillah",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Moed/Megillah/Hebrew/merged.json"
+    },
+    {
+      "title": "Meilah",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Kodashim/Meilah/Hebrew/merged.json"
+    },
+    {
+      "title": "Menachot",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Kodashim/Menachot/Hebrew/merged.json"
+    },
+    {
+      "title": "Moed Katan",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Moed/Moed%20Katan/Hebrew/merged.json"
+    },
+    {
+      "title": "Nazir",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Nashim/Nazir/Hebrew/merged.json"
+    },
+    {
+      "title": "Nedarim",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Nashim/Nedarim/Hebrew/merged.json"
+    },
+    {
+      "title": "Niddah",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Tahorot/Niddah/Hebrew/merged.json"
+    },
+    {
+      "title": "Pesachim",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Moed/Pesachim/Hebrew/merged.json"
+    },
+    {
+      "title": "Rosh Hashanah",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Moed/Rosh%20Hashanah/Hebrew/merged.json"
+    },
+    {
+      "title": "Sanhedrin",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Nezikin/Sanhedrin/Hebrew/merged.json"
+    },
+    {
+      "title": "Shabbat",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Moed/Shabbat/Hebrew/merged.json"
+    },
+    {
+      "title": "Shevuot",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Nezikin/Shevuot/Hebrew/merged.json"
+    },
+    {
+      "title": "Sotah",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Nashim/Sotah/Hebrew/merged.json"
+    },
+    {
+      "title": "Sukkah",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Moed/Sukkah/Hebrew/merged.json"
+    },
+    {
+      "title": "Taanit",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Moed/Taanit/Hebrew/merged.json"
+    },
+    {
+      "title": "Tamid",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Kodashim/Tamid/Hebrew/merged.json"
+    },
+    {
+      "title": "Temurah",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Kodashim/Temurah/Hebrew/merged.json"
+    },
+    {
+      "title": "Yevamot",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Nashim/Yevamot/Hebrew/merged.json"
+    },
+    {
+      "title": "Yoma",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Moed/Yoma/Hebrew/merged.json"
+    },
+    {
+      "title": "Zevachim",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Kodashim/Zevachim/Hebrew/merged.json"
+    }
+  ],
+  "base_tractate_count": 37,
+  "category_filter_warning": "Bavli contains commentary, introductions, minor tractates; require explicit title whitelist, not category length alone.",
+  "license_metadata": {
+    "url": "https://raw.githubusercontent.com/Sefaria/Sefaria-Export/master/LICENSE.md",
+    "read": true,
+    "summary": "Each text licensed separately; inspect JSON license field. Downloaded merged files expose versions but no top-level license field; do not redistribute corpus.",
+    "full_corpus_persisted": false
+  }
+}

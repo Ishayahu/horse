@@ -3,87 +3,223 @@
   "corpora": [
     {
       "id": "tanakh",
-      "works": [],
-      "status": "not_started",
-      "queries": [],
-      "ranges": [],
-      "candidate_count": 0,
-      "confirmed_count": 0,
+      "works": [
+        "Gen",
+        "Exod",
+        "Lev",
+        "Num",
+        "Deut",
+        "Josh",
+        "Judg",
+        "Ruth",
+        "1Sam",
+        "2Sam",
+        "1Kgs",
+        "2Kgs",
+        "1Chr",
+        "2Chr",
+        "Ezra",
+        "Neh",
+        "Esth",
+        "Job",
+        "Ps",
+        "Prov",
+        "Eccl",
+        "Song",
+        "Isa",
+        "Jer",
+        "Lam",
+        "Ezek",
+        "Dan",
+        "Hos",
+        "Joel",
+        "Amos",
+        "Obad",
+        "Jonah",
+        "Mic",
+        "Nah",
+        "Hab",
+        "Zeph",
+        "Hag",
+        "Zech",
+        "Mal"
+      ],
+      "status": "partial",
+      "queries": [
+        "5483 b",
+        "5484",
+        "normalized סוס",
+        "6571/7392/7393/7398/7399/7400/47"
+      ],
+      "ranges": [
+        "All 39 OSHB WLC XML books; 23,213 verses"
+      ],
+      "candidate_count": 367,
+      "confirmed_count": 129,
       "commentary_count": 0,
       "limitations": [
-        "Initial search assignment started; no completed coverage yet"
+        "129 verses machine verified, 139 direct tokens; context not yet all checked.",
+        "238 indirect candidates not confirmed;5 lexical exclusions."
       ],
-      "next_checks": []
+      "next_checks": [
+        "Manual contextual classification",
+        "Indirect candidate filter",
+        "Independent lexical audit"
+      ]
     },
     {
       "id": "bavli",
-      "works": [],
-      "status": "not_started",
-      "queries": [],
-      "ranges": [],
-      "candidate_count": 0,
-      "confirmed_count": 0,
+      "works": [
+        "Berakhot",
+        "Pesachim",
+        "Sanhedrin"
+      ],
+      "status": "partial",
+      "queries": [
+        "normalized סוס",
+        "סוסיא",
+        "סוסייא"
+      ],
+      "ranges": [
+        "589 nonempty amudim of three exports"
+      ],
+      "candidate_count": 111,
+      "confirmed_count": 13,
       "commentary_count": 0,
       "limitations": [
-        "Initial search assignment started; no completed coverage yet"
+        "50 equine candidate segments; 13 selected registered records include one non-equine mule boundary case; not 13 horse occurrences.",
+        "Remaining canonical tractates being scanned."
       ],
-      "next_checks": []
+      "next_checks": [
+        "BAV-002",
+        "Independent Sanhedrin93a/98a/95a review"
+      ]
     },
     {
       "id": "yerushalmi",
-      "works": [],
-      "status": "not_started",
-      "queries": [],
-      "ranges": [],
-      "candidate_count": 0,
-      "confirmed_count": 0,
+      "works": [
+        "Jerusalem Talmud Sanhedrin"
+      ],
+      "status": "partial",
+      "queries": [
+        "סוס",
+        "סוסים",
+        "סוסיא",
+        "סוסייא",
+        "פרש",
+        "פרשים",
+        "מרכבה",
+        "מרכבת",
+        "רכב",
+        "אורוו"
+      ],
+      "ranges": [
+        "Sanhedrin 2:1–2:6 (47 segments)",
+        "Sanhedrin 6:1 (3 segments)"
+      ],
+      "candidate_count": 6,
+      "confirmed_count": 5,
       "commentary_count": 0,
       "limitations": [
-        "Initial search assignment started; no completed coverage yet"
+        "50 returned segments searched; remaining Yerushalmi not searched.",
+        "Counts are candidate/confirmed segment records, not unique horse motifs.",
+        "One false positive פרשתא rejected.",
+        "Unqualified legacy API reference silently resolves to first halakha.",
+        "No folio concordance/manuscript collation; chapter/halakha/segment locators exact to Guggenheimer/Sefaria."
       ],
-      "next_checks": []
+      "next_checks": [
+        "Obtain full index or explicit halakha inventory before corpus-wide scan.",
+        "Continue Sanhedrin outside checked ranges.",
+        "Search other tractates with normalized morphology, סוסתא/סוסין/סוסייה and cavalry/Greek loanword variants.",
+        "Independent check for interpretation of royal horse equipment and burning clause."
+      ]
     },
     {
       "id": "midrash",
-      "works": [],
-      "status": "not_started",
-      "queries": [],
-      "ranges": [],
-      "candidate_count": 0,
-      "confirmed_count": 0,
+      "works": [
+        "Mekhilta de-Rabbi Ishmael",
+        "Sifrei Devarim",
+        "Shemot Rabbah"
+      ],
+      "status": "partial",
+      "queries": [
+        "סוס ורכבו",
+        "לא ירבה לו סוסים"
+      ],
+      "ranges": [
+        "Exodus15:1 units",
+        "Deuteronomy17:16",
+        "Shemot Rabbah23:14–15"
+      ],
+      "candidate_count": 5,
+      "confirmed_count": 5,
       "commentary_count": 0,
       "limitations": [
-        "Initial search assignment started; no completed coverage yet"
+        "Five selected units only; online transcriptions, no historical dating validation."
       ],
-      "next_checks": []
+      "next_checks": [
+        "MID-003",
+        "Broad licensed corpus discovery"
+      ]
     },
     {
       "id": "perek-shira",
-      "works": [],
-      "status": "not_started",
-      "queries": [],
-      "ranges": [],
-      "candidate_count": 0,
-      "confirmed_count": 0,
-      "commentary_count": 0,
-      "limitations": [
-        "Initial search assignment started; no completed coverage yet"
+      "works": [
+        "Perek Shira",
+        "Psalms123",
+        "Mabit commentary",
+        "Hida Kikar LeAden candidate"
       ],
-      "next_checks": []
+      "status": "partial",
+      "queries": [
+        "סוס אומר",
+        "ככר לאדן"
+      ],
+      "ranges": [
+        "Horse song and Psalm123:2",
+        "Mabit horse section"
+      ],
+      "candidate_count": 4,
+      "confirmed_count": 3,
+      "commentary_count": 1,
+      "limitations": [
+        "Hida original passage not read; scan access failed.",
+        "Mabit edition attribution awaits printed collation."
+      ],
+      "next_checks": [
+        "Hida scan alternative access",
+        "More classical comments"
+      ]
     },
     {
       "id": "commentaries",
-      "works": [],
-      "status": "not_started",
-      "queries": [],
-      "ranges": [],
-      "candidate_count": 0,
-      "confirmed_count": 0,
-      "commentary_count": 0,
-      "limitations": [
-        "Initial search assignment started; no completed coverage yet"
+      "works": [
+        "Rashi",
+        "Radak",
+        "Ralbag",
+        "Malbim",
+        "Ramban"
       ],
-      "next_checks": []
+      "status": "partial",
+      "queries": [
+        "2Kings2:11",
+        "2Kings6:17",
+        "Zechariah1/6",
+        "Deuteronomy17:16"
+      ],
+      "ranges": [
+        "13 selected commentaries; see COM-001 report"
+      ],
+      "candidate_count": 13,
+      "confirmed_count": 13,
+      "commentary_count": 13,
+      "limitations": [
+        "Selected locators only; five comments independently reviewed, not print-collated."
+      ],
+      "next_checks": [
+        "Remaining meaningful comments",
+        "COM-002"
+      ]
     },
     {
       "id": "later-literature",

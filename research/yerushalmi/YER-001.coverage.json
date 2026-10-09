@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "corpora": [
+    {
+      "id": "yerushalmi",
+      "works": [
+        "Jerusalem Talmud Sanhedrin"
+      ],
+      "status": "partial",
+      "queries": [
+        "סוס",
+        "סוסים",
+        "סוסיא",
+        "סוסייא",
+        "פרש",
+        "פרשים",
+        "מרכבה",
+        "מרכבת",
+        "רכב",
+        "אורוו"
+      ],
+      "ranges": [
+        "Sanhedrin 2:1–2:6 (47 segments)",
+        "Sanhedrin 6:1 (3 segments)"
+      ],
+      "candidate_count": 6,
+      "confirmed_count": 5,
+      "commentary_count": 0,
+      "limitations": [
+        "50 returned segments searched; remaining Yerushalmi not searched.",
+        "Counts are candidate/confirmed segment records, not unique horse motifs.",
+        "One false positive פרשתא rejected.",
+        "Unqualified legacy API reference silently resolves to first halakha.",
+        "No folio concordance/manuscript collation; chapter/halakha/segment locators exact to Guggenheimer/Sefaria."
+      ],
+      "next_checks": [
+        "Obtain full index or explicit halakha inventory before corpus-wide scan.",
+        "Continue Sanhedrin outside checked ranges.",
+        "Search other tractates with normalized morphology, סוסתא/סוסין/סוסייה and cavalry/Greek loanword variants.",
+        "Independent check for interpretation of royal horse equipment and burning clause."
+      ]
+    }
+  ]
+}

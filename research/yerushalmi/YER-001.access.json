@@ -1,0 +1,84 @@
+{
+  "schema_version": 1,
+  "api_probe": "reachable; unqualified work/chapter resolves to first halakha, not whole requested work/chapter",
+  "scope": [
+    {
+      "requested_ref": "Jerusalem_Talmud_Sanhedrin.2.1",
+      "returned_ref": "Jerusalem Talmud Sanhedrin 2:1",
+      "segments": 6,
+      "api_url": "https://www.sefaria.org/api/texts/Jerusalem_Talmud_Sanhedrin.2.1?context=0",
+      "version": "The Jerusalem Talmud, edition by Heinrich W. Guggenheimer. Berlin, De Gruyter, 1999-2015",
+      "license": "CC-BY"
+    },
+    {
+      "requested_ref": "Jerusalem_Talmud_Sanhedrin.2.2",
+      "returned_ref": "Jerusalem Talmud Sanhedrin 2:2",
+      "segments": 6,
+      "api_url": "https://www.sefaria.org/api/texts/Jerusalem_Talmud_Sanhedrin.2.2?context=0",
+      "version": "The Jerusalem Talmud, edition by Heinrich W. Guggenheimer. Berlin, De Gruyter, 1999-2015",
+      "license": "CC-BY"
+    },
+    {
+      "requested_ref": "Jerusalem_Talmud_Sanhedrin.2.3",
+      "returned_ref": "Jerusalem Talmud Sanhedrin 2:3",
+      "segments": 10,
+      "api_url": "https://www.sefaria.org/api/texts/Jerusalem_Talmud_Sanhedrin.2.3?context=0",
+      "version": "The Jerusalem Talmud, edition by Heinrich W. Guggenheimer. Berlin, De Gruyter, 1999-2015",
+      "license": "CC-BY"
+    },
+    {
+      "requested_ref": "Jerusalem_Talmud_Sanhedrin.2.4",
+      "returned_ref": "Jerusalem Talmud Sanhedrin 2:4",
+      "segments": 5,
+      "api_url": "https://www.sefaria.org/api/texts/Jerusalem_Talmud_Sanhedrin.2.4?context=0",
+      "version": "The Jerusalem Talmud, edition by Heinrich W. Guggenheimer. Berlin, De Gruyter, 1999-2015",
+      "license": "CC-BY"
+    },
+    {
+      "requested_ref": "Jerusalem_Talmud_Sanhedrin.2.5",
+      "returned_ref": "Jerusalem Talmud Sanhedrin 2:5",
+      "segments": 6,
+      "api_url": "https://www.sefaria.org/api/texts/Jerusalem_Talmud_Sanhedrin.2.5?context=0",
+      "version": "The Jerusalem Talmud, edition by Heinrich W. Guggenheimer. Berlin, De Gruyter, 1999-2015",
+      "license": "CC-BY"
+    },
+    {
+      "requested_ref": "Jerusalem_Talmud_Sanhedrin.2.6",
+      "returned_ref": "Jerusalem Talmud Sanhedrin 2:6",
+      "segments": 14,
+      "api_url": "https://www.sefaria.org/api/texts/Jerusalem_Talmud_Sanhedrin.2.6?context=0",
+      "version": "The Jerusalem Talmud, edition by Heinrich W. Guggenheimer. Berlin, De Gruyter, 1999-2015",
+      "license": "CC-BY"
+    },
+    {
+      "requested_ref": "Jerusalem_Talmud_Sanhedrin.6.1",
+      "returned_ref": "Jerusalem Talmud Sanhedrin 6:1",
+      "segments": 3,
+      "api_url": "https://www.sefaria.org/api/texts/Jerusalem_Talmud_Sanhedrin.6.1?context=0",
+      "version": "The Jerusalem Talmud, edition by Heinrich W. Guggenheimer. Berlin, De Gruyter, 1999-2015",
+      "license": "CC-BY"
+    }
+  ],
+  "lexemes": [
+    "סוס",
+    "סוסים",
+    "סוסיא",
+    "סוסייא",
+    "פרש",
+    "פרשים",
+    "מרכבה",
+    "מרכבת",
+    "רכב",
+    "אורוו"
+  ],
+  "match_method": "strip HTML and Hebrew combining marks; substring lexemes; contextual review required",
+  "candidate_count": 6,
+  "scope_status": "bounded seven-halakhah batch; rest of Yerushalmi unsearched",
+  "false_positive_rejections": [
+    {
+      "ref": "Jerusalem Talmud Sanhedrin 2:3:9",
+      "lexeme": "פרש",
+      "reason": "פרשתא means passage/section here, not horseman."
+    }
+  ]
+}

@@ -1,0 +1,704 @@
+{
+  "schema_version": 1,
+  "task_id": "KAB-001",
+  "inventory_url": "https://raw.githubusercontent.com/Sefaria/Sefaria-Export/master/books.json",
+  "inventory_cache_reused": "/workspace/scratch/a22a5d9e342f/horse-check/research/later-literature/LAT-001.inventory-cache.json",
+  "inventory_sha256": "ccffe97aaf276cfabba921ee05d5a091c0e2264611997ee040105e071883b021",
+  "selected": [
+    {
+      "title": "Pri Etz Chaim",
+      "language": "Hebrew",
+      "versionTitle": "merged",
+      "categories": [
+        "Kabbalah",
+        "Arizal and Chaim Vital"
+      ],
+      "json_url": "https://storage.googleapis.com/sefaria-export/json/Kabbalah/Arizal%20and%20Chaim%20Vital/Pri%20Etz%20Chaim/Hebrew/merged.json",
+      "txt_url": "https://storage.googleapis.com/sefaria-export/txt/Kabbalah/Arizal%20and%20Chaim%20Vital/Pri%20Etz%20Chaim/Hebrew/merged.txt",
+      "cltk_full_url": "https://storage.googleapis.com/sefaria-export/cltk-full/Kabbalah/Arizal%20and%20Chaim%20Vital/Pri%20Etz%20Chaim/Hebrew/merged.json",
+      "cltk_flat_url": "https://storage.googleapis.com/sefaria-export/cltk-flat/Kabbalah/Arizal%20and%20Chaim%20Vital/Pri%20Etz%20Chaim/Hebrew/merged.json"
+    },
+    {
+      "title": "Sefer Etz Chaim",
+      "language": "Hebrew",
+      "versionTitle": "merged",
+      "categories": [
+        "Kabbalah",
+        "Arizal and Chaim Vital"
+      ],
+      "json_url": "https://storage.googleapis.com/sefaria-export/json/Kabbalah/Arizal%20and%20Chaim%20Vital/Sefer%20Etz%20Chaim/Hebrew/merged.json",
+      "txt_url": "https://storage.googleapis.com/sefaria-export/txt/Kabbalah/Arizal%20and%20Chaim%20Vital/Sefer%20Etz%20Chaim/Hebrew/merged.txt",
+      "cltk_full_url": "https://storage.googleapis.com/sefaria-export/cltk-full/Kabbalah/Arizal%20and%20Chaim%20Vital/Sefer%20Etz%20Chaim/Hebrew/merged.json",
+      "cltk_flat_url": "https://storage.googleapis.com/sefaria-export/cltk-flat/Kabbalah/Arizal%20and%20Chaim%20Vital/Sefer%20Etz%20Chaim/Hebrew/merged.json"
+    },
+    {
+      "title": "Sha'ar HaGilgulim",
+      "language": "Hebrew",
+      "versionTitle": "merged",
+      "categories": [
+        "Kabbalah",
+        "Arizal and Chaim Vital"
+      ],
+      "json_url": "https://storage.googleapis.com/sefaria-export/json/Kabbalah/Arizal%20and%20Chaim%20Vital/Sha%27ar%20HaGilgulim/Hebrew/merged.json",
+      "txt_url": "https://storage.googleapis.com/sefaria-export/txt/Kabbalah/Arizal%20and%20Chaim%20Vital/Sha%27ar%20HaGilgulim/Hebrew/merged.txt",
+      "cltk_full_url": "https://storage.googleapis.com/sefaria-export/cltk-full/Kabbalah/Arizal%20and%20Chaim%20Vital/Sha%27ar%20HaGilgulim/Hebrew/merged.json",
+      "cltk_flat_url": "https://storage.googleapis.com/sefaria-export/cltk-flat/Kabbalah/Arizal%20and%20Chaim%20Vital/Sha%27ar%20HaGilgulim/Hebrew/merged.json"
+    },
+    {
+      "title": "Sha'ar HaHakdamot",
+      "language": "Hebrew",
+      "versionTitle": "merged",
+      "categories": [
+        "Kabbalah",
+        "Arizal and Chaim Vital"
+      ],
+      "json_url": "https://storage.googleapis.com/sefaria-export/json/Kabbalah/Arizal%20and%20Chaim%20Vital/Sha%27ar%20HaHakdamot/Hebrew/merged.json",
+      "txt_url": "https://storage.googleapis.com/sefaria-export/txt/Kabbalah/Arizal%20and%20Chaim%20Vital/Sha%27ar%20HaHakdamot/Hebrew/merged.txt",
+      "cltk_full_url": "https://storage.googleapis.com/sefaria-export/cltk-full/Kabbalah/Arizal%20and%20Chaim%20Vital/Sha%27ar%20HaHakdamot/Hebrew/merged.json",
+      "cltk_flat_url": "https://storage.googleapis.com/sefaria-export/cltk-flat/Kabbalah/Arizal%20and%20Chaim%20Vital/Sha%27ar%20HaHakdamot/Hebrew/merged.json"
+    },
+    {
+      "title": "Sha'ar HaKavanot",
+      "language": "Hebrew",
+      "versionTitle": "merged",
+      "categories": [
+        "Kabbalah",
+        "Arizal and Chaim Vital"
+      ],
+      "json_url": "https://storage.googleapis.com/sefaria-export/json/Kabbalah/Arizal%20and%20Chaim%20Vital/Sha%27ar%20HaKavanot/Hebrew/merged.json",
+      "txt_url": "https://storage.googleapis.com/sefaria-export/txt/Kabbalah/Arizal%20and%20Chaim%20Vital/Sha%27ar%20HaKavanot/Hebrew/merged.txt",
+      "cltk_full_url": "https://storage.googleapis.com/sefaria-export/cltk-full/Kabbalah/Arizal%20and%20Chaim%20Vital/Sha%27ar%20HaKavanot/Hebrew/merged.json",
+      "cltk_flat_url": "https://storage.googleapis.com/sefaria-export/cltk-flat/Kabbalah/Arizal%20and%20Chaim%20Vital/Sha%27ar%20HaKavanot/Hebrew/merged.json"
+    },
+    {
+      "title": "Sha'ar HaMitzvot",
+      "language": "Hebrew",
+      "versionTitle": "merged",
+      "categories": [
+        "Kabbalah",
+        "Arizal and Chaim Vital"
+      ],
+      "json_url": "https://storage.googleapis.com/sefaria-export/json/Kabbalah/Arizal%20and%20Chaim%20Vital/Sha%27ar%20HaMitzvot/Hebrew/merged.json",
+      "txt_url": "https://storage.googleapis.com/sefaria-export/txt/Kabbalah/Arizal%20and%20Chaim%20Vital/Sha%27ar%20HaMitzvot/Hebrew/merged.txt",
+      "cltk_full_url": "https://storage.googleapis.com/sefaria-export/cltk-full/Kabbalah/Arizal%20and%20Chaim%20Vital/Sha%27ar%20HaMitzvot/Hebrew/merged.json",
+      "cltk_flat_url": "https://storage.googleapis.com/sefaria-export/cltk-flat/Kabbalah/Arizal%20and%20Chaim%20Vital/Sha%27ar%20HaMitzvot/Hebrew/merged.json"
+    },
+    {
+      "title": "Sha'ar HaPesukim",
+      "language": "Hebrew",
+      "versionTitle": "merged",
+      "categories": [
+        "Kabbalah",
+        "Arizal and Chaim Vital"
+      ],
+      "json_url": "https://storage.googleapis.com/sefaria-export/json/Kabbalah/Arizal%20and%20Chaim%20Vital/Sha%27ar%20HaPesukim/Hebrew/merged.json",
+      "txt_url": "https://storage.googleapis.com/sefaria-export/txt/Kabbalah/Arizal%20and%20Chaim%20Vital/Sha%27ar%20HaPesukim/Hebrew/merged.txt",
+      "cltk_full_url": "https://storage.googleapis.com/sefaria-export/cltk-full/Kabbalah/Arizal%20and%20Chaim%20Vital/Sha%27ar%20HaPesukim/Hebrew/merged.json",
+      "cltk_flat_url": "https://storage.googleapis.com/sefaria-export/cltk-flat/Kabbalah/Arizal%20and%20Chaim%20Vital/Sha%27ar%20HaPesukim/Hebrew/merged.json"
+    },
+    {
+      "title": "Sha'ar Ma'amarei Rashbi",
+      "language": "Hebrew",
+      "versionTitle": "merged",
+      "categories": [
+        "Kabbalah",
+        "Arizal and Chaim Vital"
+      ],
+      "json_url": "https://storage.googleapis.com/sefaria-export/json/Kabbalah/Arizal%20and%20Chaim%20Vital/Sha%27ar%20Ma%27amarei%20Rashbi/Hebrew/merged.json",
+      "txt_url": "https://storage.googleapis.com/sefaria-export/txt/Kabbalah/Arizal%20and%20Chaim%20Vital/Sha%27ar%20Ma%27amarei%20Rashbi/Hebrew/merged.txt",
+      "cltk_full_url": "https://storage.googleapis.com/sefaria-export/cltk-full/Kabbalah/Arizal%20and%20Chaim%20Vital/Sha%27ar%20Ma%27amarei%20Rashbi/Hebrew/merged.json",
+      "cltk_flat_url": "https://storage.googleapis.com/sefaria-export/cltk-flat/Kabbalah/Arizal%20and%20Chaim%20Vital/Sha%27ar%20Ma%27amarei%20Rashbi/Hebrew/merged.json"
+    },
+    {
+      "title": "Sha'ar Ma'amarei Razal",
+      "language": "Hebrew",
+      "versionTitle": "merged",
+      "categories": [
+        "Kabbalah",
+        "Arizal and Chaim Vital"
+      ],
+      "json_url": "https://storage.googleapis.com/sefaria-export/json/Kabbalah/Arizal%20and%20Chaim%20Vital/Sha%27ar%20Ma%27amarei%20Razal/Hebrew/merged.json",
+      "txt_url": "https://storage.googleapis.com/sefaria-export/txt/Kabbalah/Arizal%20and%20Chaim%20Vital/Sha%27ar%20Ma%27amarei%20Razal/Hebrew/merged.txt",
+      "cltk_full_url": "https://storage.googleapis.com/sefaria-export/cltk-full/Kabbalah/Arizal%20and%20Chaim%20Vital/Sha%27ar%20Ma%27amarei%20Razal/Hebrew/merged.json",
+      "cltk_flat_url": "https://storage.googleapis.com/sefaria-export/cltk-flat/Kabbalah/Arizal%20and%20Chaim%20Vital/Sha%27ar%20Ma%27amarei%20Razal/Hebrew/merged.json"
+    },
+    {
+      "title": "Sha'ar Ruach HaKodesh",
+      "language": "Hebrew",
+      "versionTitle": "merged",
+      "categories": [
+        "Kabbalah",
+        "Arizal and Chaim Vital"
+      ],
+      "json_url": "https://storage.googleapis.com/sefaria-export/json/Kabbalah/Arizal%20and%20Chaim%20Vital/Sha%27ar%20Ruach%20HaKodesh/Hebrew/merged.json",
+      "txt_url": "https://storage.googleapis.com/sefaria-export/txt/Kabbalah/Arizal%20and%20Chaim%20Vital/Sha%27ar%20Ruach%20HaKodesh/Hebrew/merged.txt",
+      "cltk_full_url": "https://storage.googleapis.com/sefaria-export/cltk-full/Kabbalah/Arizal%20and%20Chaim%20Vital/Sha%27ar%20Ruach%20HaKodesh/Hebrew/merged.json",
+      "cltk_flat_url": "https://storage.googleapis.com/sefaria-export/cltk-flat/Kabbalah/Arizal%20and%20Chaim%20Vital/Sha%27ar%20Ruach%20HaKodesh/Hebrew/merged.json"
+    },
+    {
+      "title": "Sha'arei Kedusha",
+      "language": "Hebrew",
+      "versionTitle": "merged",
+      "categories": [
+        "Kabbalah",
+        "Arizal and Chaim Vital"
+      ],
+      "json_url": "https://storage.googleapis.com/sefaria-export/json/Kabbalah/Arizal%20and%20Chaim%20Vital/Sha%27arei%20Kedusha/Hebrew/merged.json",
+      "txt_url": "https://storage.googleapis.com/sefaria-export/txt/Kabbalah/Arizal%20and%20Chaim%20Vital/Sha%27arei%20Kedusha/Hebrew/merged.txt",
+      "cltk_full_url": "https://storage.googleapis.com/sefaria-export/cltk-full/Kabbalah/Arizal%20and%20Chaim%20Vital/Sha%27arei%20Kedusha/Hebrew/merged.json",
+      "cltk_flat_url": "https://storage.googleapis.com/sefaria-export/cltk-flat/Kabbalah/Arizal%20and%20Chaim%20Vital/Sha%27arei%20Kedusha/Hebrew/merged.json"
+    },
+    {
+      "title": "Tikkunei Zohar",
+      "language": "Hebrew",
+      "versionTitle": "merged",
+      "categories": [
+        "Kabbalah",
+        "Zohar"
+      ],
+      "json_url": "https://storage.googleapis.com/sefaria-export/json/Kabbalah/Zohar/Tikkunei%20Zohar/Hebrew/merged.json",
+      "txt_url": "https://storage.googleapis.com/sefaria-export/txt/Kabbalah/Zohar/Tikkunei%20Zohar/Hebrew/merged.txt",
+      "cltk_full_url": "https://storage.googleapis.com/sefaria-export/cltk-full/Kabbalah/Zohar/Tikkunei%20Zohar/Hebrew/merged.json",
+      "cltk_flat_url": "https://storage.googleapis.com/sefaria-export/cltk-flat/Kabbalah/Zohar/Tikkunei%20Zohar/Hebrew/merged.json"
+    },
+    {
+      "title": "Zohar",
+      "language": "Hebrew",
+      "versionTitle": "merged",
+      "categories": [
+        "Kabbalah",
+        "Zohar"
+      ],
+      "json_url": "https://storage.googleapis.com/sefaria-export/json/Kabbalah/Zohar/Zohar/Hebrew/merged.json",
+      "txt_url": "https://storage.googleapis.com/sefaria-export/txt/Kabbalah/Zohar/Zohar/Hebrew/merged.txt",
+      "cltk_full_url": "https://storage.googleapis.com/sefaria-export/cltk-full/Kabbalah/Zohar/Zohar/Hebrew/merged.json",
+      "cltk_flat_url": "https://storage.googleapis.com/sefaria-export/cltk-flat/Kabbalah/Zohar/Zohar/Hebrew/merged.json"
+    }
+  ],
+  "searched": [
+    {
+      "work": "Pri Etz Chaim",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Kabbalah/Arizal%20and%20Chaim%20Vital/Pri%20Etz%20Chaim/Hebrew/merged.json",
+      "sha256": "d004d0de23d5f5beeb531094171c7598ff3c94527590d734fc9c535f2e2ab761",
+      "versions": [
+        [
+          "Pri Etz Chaim",
+          "http://www.hebrew.grimoar.cz/vital/pri_ec_chajim.htm"
+        ]
+      ],
+      "leaf_count": 3946,
+      "candidate_count": 7,
+      "text_structure": [
+        "Gate of Prayer",
+        "Gate of Blessings",
+        "Gate of Fringes",
+        "Gate of Teffilin",
+        "Gate of the World of Action",
+        "Gate of the Holies",
+        "Gate of Songs",
+        "Gate of the Recitation of the Shema",
+        "Gate of the Silent Prayer",
+        "Gate of the Repetition of the Silent Prayer",
+        "Gate of Amen Intention",
+        "Gate of Confession",
+        "Gate of Putting Down the Head",
+        "Gate of Reading the Torah",
+        "Gate of the Afternoon and Evening Prayers",
+        "Gate of the Recitation of the Shema Before Retiring",
+        "Gate of the Midnight Prayer",
+        "Gate of Conduct While Learning",
+        "Gate of the Sabbath",
+        "Gate of The New Month, Chanukah, and Purim",
+        "Gate of Festival",
+        "Gate of Passover",
+        "Gate of the Omer Count",
+        "Gate of Shavuot",
+        "Gate of Rosh Hashana",
+        "Gate of the Prayers of Rosh Hashana",
+        "Gate of the Shofer",
+        "Gate of Yom Kippur",
+        "Gate of Sukkot",
+        "Gate of Lulav"
+      ]
+    },
+    {
+      "work": "Sefer Etz Chaim",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Kabbalah/Arizal%20and%20Chaim%20Vital/Sefer%20Etz%20Chaim/Hebrew/merged.json",
+      "sha256": "6c00f7c222f0bba865bdfb119ea378b1a7b72ba46e027140c62df4a132abd654",
+      "versions": [
+        [
+          "Sefer Etz Chaim",
+          "http://www.hebrew.grimoar.cz/vital/ec_chajim.htm"
+        ]
+      ],
+      "leaf_count": 944,
+      "candidate_count": 3,
+      "text_structure": [
+        "Shaar HaKlalim",
+        ""
+      ]
+    },
+    {
+      "work": "Sha'ar HaGilgulim",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Kabbalah/Arizal%20and%20Chaim%20Vital/Sha%27ar%20HaGilgulim/Hebrew/merged.json",
+      "sha256": "a5e35280ec435e9c9d39c86bfaecd97833429d94226fa41815cbe1d6f99cb932",
+      "versions": [
+        [
+          "Shaar HaGilgulim",
+          "http://www.hebrew.grimoar.cz/vital/saar_ha-gilgulim.htm"
+        ]
+      ],
+      "leaf_count": 854,
+      "candidate_count": 0,
+      "text_structure": "list"
+    },
+    {
+      "work": "Sha'ar HaHakdamot",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Kabbalah/Arizal%20and%20Chaim%20Vital/Sha%27ar%20HaHakdamot/Hebrew/merged.json",
+      "sha256": "9c454051207f56bf0043c55a2463a88261924939582ebfe7d70949aed4e743ef",
+      "versions": [
+        [
+          "Jerusalem, 1909",
+          "https://www.nli.org.il/he/books/NNL_ALEPH990012777260205171/NLI"
+        ]
+      ],
+      "leaf_count": 722,
+      "candidate_count": 1,
+      "text_structure": [
+        "Introductions",
+        "Adam Kadmon",
+        "Akudim",
+        "Mati velo Mati",
+        "Nekudim",
+        "The Seven Kings of Edom",
+        "Tikkun",
+        "A Short Discourse on Adam Kadmon",
+        "Derush Gadol",
+        "Zeir Anpin and Nukba",
+        "Atzilut",
+        "Abba and Imma",
+        "Daat",
+        "Ohr Penimi and Ohr Makif",
+        "Chesed and Gevurah",
+        "Zeir Anpin",
+        "Partzuf Rachel",
+        "The Four Worlds",
+        "Miscellany"
+      ]
+    },
+    {
+      "work": "Sha'ar HaKavanot",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Kabbalah/Arizal%20and%20Chaim%20Vital/Sha%27ar%20HaKavanot/Hebrew/merged.json",
+      "sha256": "25095edb7bb707e135b1e21dc6484769c9cfd24b28a37b68f959c260a5201381",
+      "versions": [
+        [
+          "Shaar HaKavanot",
+          "http://www.hebrew.grimoar.cz/vital/saar_ha-kavanot.htm"
+        ]
+      ],
+      "leaf_count": 1310,
+      "candidate_count": 4,
+      "text_structure": [
+        "Introduction",
+        "Sermons on the Intentions of Blessings",
+        "Sermons on Morning Blessings",
+        "Sermons on Tzitzit",
+        "Sermons on Tefillin",
+        "Sermons on Morning Prayers",
+        "Sermons on Kaddish",
+        "Morning Prayers",
+        "Sermons on Intentions of the Shema Recitation",
+        "Sermons on the Standing Prayer",
+        "Sermons on the Repetition of the Standing Prayer",
+        "Sermons on Vaya'avor",
+        "Sermons on the Falling on the Face Prayer",
+        "Sermons on Torah Reading",
+        "Sermons on Ashrei, Incense Compositions, and Aleinu",
+        "Sermons on Aleinu and the Prayer Formula",
+        "Sermons on the Afternoon Prayers",
+        "Sermons on the Evening Prayers",
+        "Sermons on the Night Ritual",
+        "Sermons on Midnight Reparations",
+        "Sermons on the Order of the Sabbath",
+        "Sermons on Receiving the Sabbath",
+        "Sermons on Sabbath Additions",
+        "Sermons on Sabbath Evening Prayers",
+        "Sermons on Sabbath Night Kiddush",
+        "Sermons on Rosh Chodesh",
+        "Sermons on Isru Chag",
+        "Sermons on Passover",
+        "Sermons on the Festival of Shavuot",
+        "Sermons on Rosh Hashanah Introduction",
+        "Sermons on Rosh Hashanah",
+        "Sermons on Yom Kippur Introduction",
+        "Sermons on Yom Kippur",
+        "Sermons on the Festival of Sukkot",
+        "Sermons on the Festival of Hanukkah",
+        "Sermons on the Festival of Purim"
+      ]
+    },
+    {
+      "work": "Sha'ar HaMitzvot",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Kabbalah/Arizal%20and%20Chaim%20Vital/Sha%27ar%20HaMitzvot/Hebrew/merged.json",
+      "sha256": "1feb36feb9d14e2da33224837716e5ee7ab0ca0b52a858d9769bc29ddb21faf2",
+      "versions": [
+        [
+          "Jerusalem, 1872",
+          "https://www.nli.org.il/he/books/NNL_ALEPH990018959660205171/NLI"
+        ]
+      ],
+      "leaf_count": 328,
+      "candidate_count": 3,
+      "text_structure": [
+        "Introduction",
+        "Bereshit",
+        "Noach",
+        "Lech Lecha",
+        "Vayechi",
+        "Shemot",
+        "Bo",
+        "Beshalach",
+        "Yitro",
+        "Mishpatim",
+        "Terumah",
+        "Tetzaveh",
+        "Ki Tissa",
+        "Vayikra",
+        "Tzav",
+        "Shemini",
+        "Tazria",
+        "Acharei",
+        "Kedoshim",
+        "Emor",
+        "Behar",
+        "Nasso",
+        "Beha'alotcha",
+        "Shelach",
+        "Korach",
+        "Chokat",
+        "Pinchas",
+        "Vaetchanan",
+        "Eikev",
+        "Re'eh",
+        "Shoftim",
+        "Ki Teitzei",
+        "Vayelekh"
+      ]
+    },
+    {
+      "work": "Sha'ar HaPesukim",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Kabbalah/Arizal%20and%20Chaim%20Vital/Sha%27ar%20HaPesukim/Hebrew/merged.json",
+      "sha256": "ce67775a43251815fbc248df803dfa05e4086a0af92a01d9f85be9de1c17e749",
+      "versions": [
+        [
+          "Shaar HaPesukim",
+          "http://www.hebrew.grimoar.cz/vital/saar_ha-pasukim.htm"
+        ]
+      ],
+      "leaf_count": 2051,
+      "candidate_count": 18,
+      "text_structure": [
+        "Parashat Bereshit",
+        "Parashat Noach",
+        "Parashat Lech Lecha",
+        "Parashat Vayera",
+        "Parashat Chayei Sarah",
+        "Parashat Toldot",
+        "Parashat Vayetze",
+        "Parashat Vayishlach",
+        "Parashat Vayeshev",
+        "Parashat Miketz",
+        "Parashat Vayigash",
+        "Parashat Vayechi",
+        "Parashat Shemot",
+        "Parashat Vaera",
+        "Parashat Bo",
+        "Parashat Beshalach",
+        "Parashat Yitro",
+        "Parashat Mishpatim",
+        "Parashat Terumah",
+        "Parashat Tetzaveh",
+        "Parashat Ki Tisa",
+        "Parashat Vayakhel",
+        "Parashat Pekudei",
+        "Parashat Vayikra",
+        "Parashat Shmini",
+        "Parashat Tazria",
+        "Parashat Kedoshim",
+        "Parashat Emor",
+        "Parashat Behar",
+        "Parashat Bechukotai",
+        "Parashat Bamidbar",
+        "Parashat Naso",
+        "Parashat Beha'alotcha",
+        "Parashat Shelach Lecha",
+        "Parashat Korach",
+        "Parashat Chukat",
+        "Parashat Balak",
+        "Parashat Pinchas",
+        "Parashat Matot",
+        "Parashat Devarim",
+        "Parashat Vaetchanan",
+        "Parashat Eikev",
+        "Parashat Re'eh",
+        "Parashat Shoftim",
+        "Parashat Ki Tetze",
+        "Parashat Ki Tavo",
+        "Parashat Nitzavim",
+        "Parashat Ha'azinu",
+        "Parashat Vezot Habracha",
+        "Book of Song of Songs",
+        "Book of Lamentations",
+        "Book of Ecclesiastes",
+        "Book of Esther",
+        "Book of Joshua",
+        "Book of Judges",
+        "Book of Samuel I",
+        "Book of Samuel II",
+        "Book of Kings I",
+        "Book of Kings II",
+        "Book of Isaiah",
+        "Book of Jeremiah",
+        "Book of Ezekiel",
+        "Book of Hosea",
+        "Book of Amos",
+        "Book of Habakkuk",
+        "Book of Psalms",
+        "Book of Proverbs",
+        "Book of Job",
+        "Book of Nehemiah",
+        "Book of Chronicles"
+      ]
+    },
+    {
+      "work": "Sha'ar Ma'amarei Rashbi",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Kabbalah/Arizal%20and%20Chaim%20Vital/Sha%27ar%20Ma%27amarei%20Rashbi/Hebrew/merged.json",
+      "sha256": "5861b7c2172cc0d5df964636270c0c5135f26a0e4574c4e0926cb65f93d45abf",
+      "versions": [
+        [
+          "Shaar Maamarei Rashbi",
+          "http://www.hebrew.grimoar.cz/vital/maamarej_rasbi.htm"
+        ]
+      ],
+      "leaf_count": 595,
+      "candidate_count": 5,
+      "text_structure": [
+        "Introduction",
+        "Parashat Bereshit",
+        "Parashat Noach",
+        "Parashat Lech Lecha",
+        "Parashat Vayera",
+        "Parashat Chayei Sarah",
+        "Parashat Vayetze",
+        "Parashat Vayishlach",
+        "Parashat Miketz",
+        "Parashat Vayechi",
+        "Parashat Shemot",
+        "Parashat Vaera",
+        "Parashat Bo",
+        "Parashat Beshalach",
+        "Parashat Yitro",
+        "Parashat Mishpatim",
+        "Parashat Terumah",
+        "Commentary on Sifra DeTzeniuta",
+        "Parashat Tetzaveh",
+        "Parashat Ki Tissa",
+        "Parashat Vayakhel",
+        "Parashat Pekudei",
+        "Parashat Vayikra",
+        "Parashat Tzav",
+        "Parashat Tazria",
+        "Parashat Acharei Mot",
+        "Parashat Kedoshim",
+        "Parashat Emor",
+        "Parashat Behar",
+        "Parashat Bamidbar",
+        "Parashat Naso",
+        "Commentary on the Holy Idra Rabba",
+        "Parashat Beha'alotecha",
+        "Parashat Shelach Lecha",
+        "Parashat Balak",
+        "Parashat Pinchas",
+        "Parashat Vaetchanan",
+        "Parashat Eikev",
+        "Parashat Tetzei",
+        "Parashat Vayelech",
+        "Parashat Ha'azinu",
+        "Commentary on the Idra Zuta Kaddisha",
+        "Commentary on the Book of Yetzirah",
+        "Commentary on the Chapter of Song",
+        "Commentary on the Zohar Song of Songs",
+        "Omission"
+      ]
+    },
+    {
+      "work": "Sha'ar Ma'amarei Razal",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Kabbalah/Arizal%20and%20Chaim%20Vital/Sha%27ar%20Ma%27amarei%20Razal/Hebrew/merged.json",
+      "sha256": "5ac1c164bdf14d790999faf0e4adc49f0a32730f48e6bff60575b80df6dc77ee",
+      "versions": [
+        [
+          "Shaar Maamarei Razal",
+          "http://www.hebrew.grimoar.cz/vital/saar_maamarej_razal.htm"
+        ]
+      ],
+      "leaf_count": 153,
+      "candidate_count": 3,
+      "text_structure": [
+        "Tractate Berakhot",
+        "Tractate Shabbat",
+        "Tractate Eruvin",
+        "Tractate Pesachim",
+        "Tractate Chagigah",
+        "Tractate Moed Katan",
+        "Tractate Rosh Hashanah",
+        "Tractate Yoma",
+        "Tractate Megillah",
+        "Tractate Yevamot",
+        "Tractate Ketubot",
+        "Tractate Nedarim",
+        "Tractate Sotah",
+        "Tractate Bava Kamma",
+        "Tractate Bava Metzia",
+        "Tractate Bava Batra",
+        "Tractate Sanhedrin",
+        "Pirkei Avot",
+        "Tractate Niddah",
+        "Midrashim"
+      ]
+    },
+    {
+      "work": "Sha'ar Ruach HaKodesh",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Kabbalah/Arizal%20and%20Chaim%20Vital/Sha%27ar%20Ruach%20HaKodesh/Hebrew/merged.json",
+      "sha256": "72b1a42eda5b2d87c6e456cf4e3e7a6884eec4fa75c55edac2896e9effad6817",
+      "versions": [
+        [
+          "Jerusalem, 1863",
+          "https://www.nli.org.il/he/books/NNL_ALEPH990018959310205171/NLI"
+        ]
+      ],
+      "leaf_count": 424,
+      "candidate_count": 1,
+      "text_structure": [
+        "Introduction",
+        "",
+        "Silent Prayer Before Yichud"
+      ]
+    },
+    {
+      "work": "Sha'arei Kedusha",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Kabbalah/Arizal%20and%20Chaim%20Vital/Sha%27arei%20Kedusha/Hebrew/merged.json",
+      "sha256": "fcab38c40aaa4b23b8770e9b9410c92fc6042ee3f0ca927bc7a547a440b4310f",
+      "versions": [
+        [
+          "Shaarei Kedusha",
+          "http://www.hebrew.grimoar.cz/vital/saare_kedusa.htm"
+        ]
+      ],
+      "leaf_count": 462,
+      "candidate_count": 0,
+      "text_structure": [
+        "Introduction",
+        "Part 1",
+        "Part 2",
+        "Part 3",
+        "Part 4"
+      ]
+    },
+    {
+      "work": "Tikkunei Zohar",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Kabbalah/Zohar/Tikkunei%20Zohar/Hebrew/merged.json",
+      "sha256": "9a04574a7906b5a326679782114d9c38051f599fdc9003eac23a31450eeeaf7a",
+      "versions": [
+        [
+          "Constantinople, 1740",
+          "https://margalya.com/pages/tz"
+        ],
+        [
+          "Tikkunei Zohar - Vocalized",
+          "https://www.toratemetfreeware.com/online/f_01153_all.html"
+        ]
+      ],
+      "leaf_count": 3364,
+      "candidate_count": 22,
+      "text_structure": "list"
+    },
+    {
+      "work": "Zohar",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Kabbalah/Zohar/Zohar/Hebrew/merged.json",
+      "sha256": "97f394fe11d43d03f2c8bb119a26b3e0ef1420d66cea37cd3727d6c97f63b5b1",
+      "versions": [
+        [
+          "Vocalized Zohar, Israel 2013",
+          "https://www.nli.org.il/he/books/NNL_ALEPH990035741170205171/NLI"
+        ]
+      ],
+      "leaf_count": 16852,
+      "candidate_count": 47,
+      "text_structure": [
+        "Introduction",
+        "Bereshit",
+        "Noach",
+        "Lech Lecha",
+        "Vayera",
+        "Chayei Sara",
+        "Toldot",
+        "Vayetzei",
+        "Vayishlach",
+        "Vayeshev",
+        "Miketz",
+        "Vayigash",
+        "Vayechi",
+        "Shemot",
+        "Vaera",
+        "Bo",
+        "Beshalach",
+        "Yitro",
+        "Mishpatim",
+        "Terumah",
+        "Sifra DiTzniuta",
+        "Tetzaveh",
+        "Ki Tisa",
+        "Vayakhel",
+        "Pekudei",
+        "Vayikra",
+        "Tzav",
+        "Shmini",
+        "Tazria",
+        "Metzora",
+        "Achrei Mot",
+        "Kedoshim",
+        "Emor",
+        "Behar",
+        "Bechukotai",
+        "Bamidbar",
+        "Nasso",
+        "Idra Rabba",
+        "Beha'alotcha",
+        "Sh'lach",
+        "Korach",
+        "Chukat",
+        "Balak",
+        "Pinchas",
+        "Matot",
+        "Vaetchanan",
+        "Eikev",
+        "Shoftim",
+        "Ki Teitzei",
+        "Vayeilech",
+        "Ha'Azinu",
+        "Idra Zuta",
+        "Addenda"
+      ]
+    }
+  ],
+  "queries": [
+    "סוס",
+    "סוסיא",
+    "סוסין",
+    "סוס ורכבו",
+    "סוס ורוכבו",
+    "לסוסתי",
+    "לא ירבה"
+  ],
+  "normalization": "strip HTML and Unicode combining marks; substring matching; false positives retained"
+}

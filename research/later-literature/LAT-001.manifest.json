@@ -1,0 +1,424 @@
+{
+  "schema_version": 1,
+  "task_id": "LAT-001",
+  "inventory_url": "https://raw.githubusercontent.com/Sefaria/Sefaria-Export/master/books.json",
+  "selected": [
+    {
+      "title": "Be'er HaGolah",
+      "language": "Hebrew",
+      "versionTitle": "merged",
+      "categories": [
+        "Jewish Thought",
+        "Acharonim",
+        "Maharal"
+      ],
+      "json_url": "https://storage.googleapis.com/sefaria-export/json/Jewish%20Thought/Acharonim/Maharal/Be%27er%20HaGolah/Hebrew/merged.json",
+      "txt_url": "https://storage.googleapis.com/sefaria-export/txt/Jewish%20Thought/Acharonim/Maharal/Be%27er%20HaGolah/Hebrew/merged.txt",
+      "cltk_full_url": "https://storage.googleapis.com/sefaria-export/cltk-full/Jewish%20Thought/Acharonim/Maharal/Be%27er%20HaGolah/Hebrew/merged.json",
+      "cltk_flat_url": "https://storage.googleapis.com/sefaria-export/cltk-flat/Jewish%20Thought/Acharonim/Maharal/Be%27er%20HaGolah/Hebrew/merged.json"
+    },
+    {
+      "title": "Chomat Anakh on II Kings",
+      "language": "Hebrew",
+      "versionTitle": "merged",
+      "categories": [
+        "Tanakh",
+        "Acharonim on Tanakh",
+        "Chida",
+        "Chomat Anakh",
+        "Prophets"
+      ],
+      "json_url": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20II%20Kings/Hebrew/merged.json",
+      "txt_url": "https://storage.googleapis.com/sefaria-export/txt/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20II%20Kings/Hebrew/merged.txt",
+      "cltk_full_url": "https://storage.googleapis.com/sefaria-export/cltk-full/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20II%20Kings/Hebrew/merged.json",
+      "cltk_flat_url": "https://storage.googleapis.com/sefaria-export/cltk-flat/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20II%20Kings/Hebrew/merged.json"
+    },
+    {
+      "title": "Chomat Anakh on Zechariah",
+      "language": "Hebrew",
+      "versionTitle": "merged",
+      "categories": [
+        "Tanakh",
+        "Acharonim on Tanakh",
+        "Chida",
+        "Chomat Anakh",
+        "Prophets"
+      ],
+      "json_url": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20Zechariah/Hebrew/merged.json",
+      "txt_url": "https://storage.googleapis.com/sefaria-export/txt/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20Zechariah/Hebrew/merged.txt",
+      "cltk_full_url": "https://storage.googleapis.com/sefaria-export/cltk-full/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20Zechariah/Hebrew/merged.json",
+      "cltk_flat_url": "https://storage.googleapis.com/sefaria-export/cltk-flat/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20Zechariah/Hebrew/merged.json"
+    },
+    {
+      "title": "Devash LeFi",
+      "language": "Hebrew",
+      "versionTitle": "merged",
+      "categories": [
+        "Reference",
+        "Encyclopedic Works"
+      ],
+      "json_url": "https://storage.googleapis.com/sefaria-export/json/Reference/Encyclopedic%20Works/Devash%20LeFi/Hebrew/merged.json",
+      "txt_url": "https://storage.googleapis.com/sefaria-export/txt/Reference/Encyclopedic%20Works/Devash%20LeFi/Hebrew/merged.txt",
+      "cltk_full_url": "https://storage.googleapis.com/sefaria-export/cltk-full/Reference/Encyclopedic%20Works/Devash%20LeFi/Hebrew/merged.json",
+      "cltk_flat_url": "https://storage.googleapis.com/sefaria-export/cltk-flat/Reference/Encyclopedic%20Works/Devash%20LeFi/Hebrew/merged.json"
+    },
+    {
+      "title": "Gevurot Hashem",
+      "language": "Hebrew",
+      "versionTitle": "merged",
+      "categories": [
+        "Jewish Thought",
+        "Acharonim",
+        "Maharal"
+      ],
+      "json_url": "https://storage.googleapis.com/sefaria-export/json/Jewish%20Thought/Acharonim/Maharal/Gevurot%20Hashem/Hebrew/merged.json",
+      "txt_url": "https://storage.googleapis.com/sefaria-export/txt/Jewish%20Thought/Acharonim/Maharal/Gevurot%20Hashem/Hebrew/merged.txt",
+      "cltk_full_url": "https://storage.googleapis.com/sefaria-export/cltk-full/Jewish%20Thought/Acharonim/Maharal/Gevurot%20Hashem/Hebrew/merged.json",
+      "cltk_flat_url": "https://storage.googleapis.com/sefaria-export/cltk-flat/Jewish%20Thought/Acharonim/Maharal/Gevurot%20Hashem/Hebrew/merged.json"
+    },
+    {
+      "title": "Guide for the Perplexed",
+      "language": "Hebrew",
+      "versionTitle": "merged",
+      "categories": [
+        "Jewish Thought",
+        "Rishonim"
+      ],
+      "json_url": "https://storage.googleapis.com/sefaria-export/json/Jewish%20Thought/Rishonim/Guide%20for%20the%20Perplexed/Hebrew/merged.json",
+      "txt_url": "https://storage.googleapis.com/sefaria-export/txt/Jewish%20Thought/Rishonim/Guide%20for%20the%20Perplexed/Hebrew/merged.txt",
+      "cltk_full_url": "https://storage.googleapis.com/sefaria-export/cltk-full/Jewish%20Thought/Rishonim/Guide%20for%20the%20Perplexed/Hebrew/merged.json",
+      "cltk_flat_url": "https://storage.googleapis.com/sefaria-export/cltk-flat/Jewish%20Thought/Rishonim/Guide%20for%20the%20Perplexed/Hebrew/merged.json"
+    },
+    {
+      "title": "Midbar Kedemot",
+      "language": "Hebrew",
+      "versionTitle": "merged",
+      "categories": [
+        "Reference",
+        "Encyclopedic Works"
+      ],
+      "json_url": "https://storage.googleapis.com/sefaria-export/json/Reference/Encyclopedic%20Works/Midbar%20Kedemot/Hebrew/merged.json",
+      "txt_url": "https://storage.googleapis.com/sefaria-export/txt/Reference/Encyclopedic%20Works/Midbar%20Kedemot/Hebrew/merged.txt",
+      "cltk_full_url": "https://storage.googleapis.com/sefaria-export/cltk-full/Reference/Encyclopedic%20Works/Midbar%20Kedemot/Hebrew/merged.json",
+      "cltk_flat_url": "https://storage.googleapis.com/sefaria-export/cltk-flat/Reference/Encyclopedic%20Works/Midbar%20Kedemot/Hebrew/merged.json"
+    },
+    {
+      "title": "Petach Einayim on Berakhot",
+      "language": "Hebrew",
+      "versionTitle": "merged",
+      "categories": [
+        "Talmud",
+        "Bavli",
+        "Acharonim on Talmud",
+        "Petach Einayim",
+        "Seder Zeraim"
+      ],
+      "json_url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Acharonim%20on%20Talmud/Petach%20Einayim/Seder%20Zeraim/Petach%20Einayim%20on%20Berakhot/Hebrew/merged.json",
+      "txt_url": "https://storage.googleapis.com/sefaria-export/txt/Talmud/Bavli/Acharonim%20on%20Talmud/Petach%20Einayim/Seder%20Zeraim/Petach%20Einayim%20on%20Berakhot/Hebrew/merged.txt",
+      "cltk_full_url": "https://storage.googleapis.com/sefaria-export/cltk-full/Talmud/Bavli/Acharonim%20on%20Talmud/Petach%20Einayim/Seder%20Zeraim/Petach%20Einayim%20on%20Berakhot/Hebrew/merged.json",
+      "cltk_flat_url": "https://storage.googleapis.com/sefaria-export/cltk-flat/Talmud/Bavli/Acharonim%20on%20Talmud/Petach%20Einayim/Seder%20Zeraim/Petach%20Einayim%20on%20Berakhot/Hebrew/merged.json"
+    },
+    {
+      "title": "Petach Einayim on Pesachim",
+      "language": "Hebrew",
+      "versionTitle": "merged",
+      "categories": [
+        "Talmud",
+        "Bavli",
+        "Acharonim on Talmud",
+        "Petach Einayim",
+        "Seder Moed"
+      ],
+      "json_url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Acharonim%20on%20Talmud/Petach%20Einayim/Seder%20Moed/Petach%20Einayim%20on%20Pesachim/Hebrew/merged.json",
+      "txt_url": "https://storage.googleapis.com/sefaria-export/txt/Talmud/Bavli/Acharonim%20on%20Talmud/Petach%20Einayim/Seder%20Moed/Petach%20Einayim%20on%20Pesachim/Hebrew/merged.txt",
+      "cltk_full_url": "https://storage.googleapis.com/sefaria-export/cltk-full/Talmud/Bavli/Acharonim%20on%20Talmud/Petach%20Einayim/Seder%20Moed/Petach%20Einayim%20on%20Pesachim/Hebrew/merged.json",
+      "cltk_flat_url": "https://storage.googleapis.com/sefaria-export/cltk-flat/Talmud/Bavli/Acharonim%20on%20Talmud/Petach%20Einayim/Seder%20Moed/Petach%20Einayim%20on%20Pesachim/Hebrew/merged.json"
+    },
+    {
+      "title": "Petach Einayim on Sanhedrin",
+      "language": "Hebrew",
+      "versionTitle": "merged",
+      "categories": [
+        "Talmud",
+        "Bavli",
+        "Acharonim on Talmud",
+        "Petach Einayim",
+        "Seder Nezikin"
+      ],
+      "json_url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Acharonim%20on%20Talmud/Petach%20Einayim/Seder%20Nezikin/Petach%20Einayim%20on%20Sanhedrin/Hebrew/merged.json",
+      "txt_url": "https://storage.googleapis.com/sefaria-export/txt/Talmud/Bavli/Acharonim%20on%20Talmud/Petach%20Einayim/Seder%20Nezikin/Petach%20Einayim%20on%20Sanhedrin/Hebrew/merged.txt",
+      "cltk_full_url": "https://storage.googleapis.com/sefaria-export/cltk-full/Talmud/Bavli/Acharonim%20on%20Talmud/Petach%20Einayim/Seder%20Nezikin/Petach%20Einayim%20on%20Sanhedrin/Hebrew/merged.json",
+      "cltk_flat_url": "https://storage.googleapis.com/sefaria-export/cltk-flat/Talmud/Bavli/Acharonim%20on%20Talmud/Petach%20Einayim/Seder%20Nezikin/Petach%20Einayim%20on%20Sanhedrin/Hebrew/merged.json"
+    }
+  ],
+  "searched": [
+    {
+      "work": "Chomat Anakh on Zechariah",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20Zechariah/Hebrew/merged.json",
+      "sha256": "1af4935e9d5179dabdb279dae0fd7718fc28accebbb1d8d4fb04bb82d57364dd",
+      "versions": [
+        [
+          "Chomat Anakh, Jerusalem 1965",
+          "https://www.nli.org.il/he/books/NNL_ALEPH001139222"
+        ]
+      ],
+      "leaf_count": 20,
+      "top_keys": [
+        "title",
+        "language",
+        "versionTitle",
+        "versionSource",
+        "text",
+        "versions",
+        "heTitle",
+        "categories",
+        "sectionNames"
+      ],
+      "candidate_count": 0
+    },
+    {
+      "work": "Chomat Anakh on II Kings",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20II%20Kings/Hebrew/merged.json",
+      "sha256": "defa3a216c7382b4b205117225fb66a5e737603a311708dd0b246f8ea1328535",
+      "versions": [
+        [
+          "Chomat Anakh, Jerusalem 1965",
+          "https://www.nli.org.il/he/books/NNL_ALEPH001139222"
+        ]
+      ],
+      "leaf_count": 195,
+      "top_keys": [
+        "title",
+        "language",
+        "versionTitle",
+        "versionSource",
+        "text",
+        "versions",
+        "heTitle",
+        "categories",
+        "sectionNames"
+      ],
+      "candidate_count": 5
+    },
+    {
+      "work": "Gevurot Hashem",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Jewish%20Thought/Acharonim/Maharal/Gevurot%20Hashem/Hebrew/merged.json",
+      "sha256": "49c7ced9c45434ff9e48ab048cf89b355ebd622984aba34d3d63f0ee60504166",
+      "versions": [
+        [
+          "Gevurot Hashem, with footnotes and annotations by Rabbi Yehoshua D. Hartman, Machon Yerushalyim, 2015-2020",
+          "https://www.nli.org.il/he/books/NNL_ALEPH003874699/NLI"
+        ]
+      ],
+      "leaf_count": 1863,
+      "top_keys": [
+        "title",
+        "language",
+        "versionTitle",
+        "versionSource",
+        "text",
+        "versions",
+        "heTitle",
+        "categories",
+        "schema"
+      ],
+      "candidate_count": 24
+    },
+    {
+      "work": "Be'er HaGolah",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Jewish%20Thought/Acharonim/Maharal/Be%27er%20HaGolah/Hebrew/merged.json",
+      "sha256": "16dbd043c81a2f2706de74598eb14201bb679a96ab6570944fc2ff5368ade7ad",
+      "versions": [
+        [
+          "Be'er HaGolah, with footnotes and annotations by Rabbi Yehoshua D. Hartman, Machon Yerushalyim, 2002",
+          "https://www.nli.org.il/he/books/NNL_ALEPH002605581/NLI"
+        ]
+      ],
+      "leaf_count": 529,
+      "top_keys": [
+        "title",
+        "language",
+        "versionTitle",
+        "versionSource",
+        "text",
+        "versions",
+        "heTitle",
+        "categories",
+        "schema"
+      ],
+      "candidate_count": 7
+    },
+    {
+      "work": "Devash LeFi",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Reference/Encyclopedic%20Works/Devash%20LeFi/Hebrew/merged.json",
+      "sha256": "6bf6bbe1b6d32215546c064fcc72257550ab5a60ddd842a383d965d8544671e5",
+      "versions": [
+        [
+          "Livorno, 1801",
+          "http://beta.nli.org.il/he/books/NNL_ALEPH001156963/NLI"
+        ]
+      ],
+      "leaf_count": 716,
+      "top_keys": [
+        "title",
+        "language",
+        "versionTitle",
+        "versionSource",
+        "text",
+        "versions",
+        "heTitle",
+        "categories",
+        "schema"
+      ],
+      "candidate_count": 10
+    },
+    {
+      "work": "Petach Einayim on Sanhedrin",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Acharonim%20on%20Talmud/Petach%20Einayim/Seder%20Nezikin/Petach%20Einayim%20on%20Sanhedrin/Hebrew/merged.json",
+      "sha256": "984fd302a95499ab39c566cf39cf4313916aa9592ed7960a8c4a241121034266",
+      "versions": [
+        [
+          "Petach Einayim, Jerusalem 1959",
+          "https://www.nli.org.il/he/books/NNL_ALEPH001157028"
+        ]
+      ],
+      "leaf_count": 254,
+      "top_keys": [
+        "title",
+        "language",
+        "versionTitle",
+        "versionSource",
+        "text",
+        "versions",
+        "heTitle",
+        "categories",
+        "sectionNames"
+      ],
+      "candidate_count": 3
+    },
+    {
+      "work": "Petach Einayim on Pesachim",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Acharonim%20on%20Talmud/Petach%20Einayim/Seder%20Moed/Petach%20Einayim%20on%20Pesachim/Hebrew/merged.json",
+      "sha256": "7b6038a1d444fa8dd5f68b9200e6ef9fbd9d61858cc8578732004251e191299b",
+      "versions": [
+        [
+          "Petach Einayim, Jerusalem 1959",
+          "https://www.nli.org.il/he/books/NNL_ALEPH001157028"
+        ]
+      ],
+      "leaf_count": 124,
+      "top_keys": [
+        "title",
+        "language",
+        "versionTitle",
+        "versionSource",
+        "text",
+        "versions",
+        "heTitle",
+        "categories",
+        "sectionNames"
+      ],
+      "candidate_count": 1
+    },
+    {
+      "work": "Midbar Kedemot",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Reference/Encyclopedic%20Works/Midbar%20Kedemot/Hebrew/merged.json",
+      "sha256": "247be572e1cb8919988cc0153e9921374ec35e01ac100400fec7d7a10c2c3bd0",
+      "versions": [
+        [
+          "Livorno 1792",
+          "http://beta.nli.org.il/he/books/NNL_ALEPH001156825/NLI"
+        ]
+      ],
+      "leaf_count": 599,
+      "top_keys": [
+        "title",
+        "language",
+        "versionTitle",
+        "versionSource",
+        "text",
+        "versions",
+        "heTitle",
+        "categories",
+        "schema"
+      ],
+      "candidate_count": 16
+    },
+    {
+      "work": "Petach Einayim on Berakhot",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Acharonim%20on%20Talmud/Petach%20Einayim/Seder%20Zeraim/Petach%20Einayim%20on%20Berakhot/Hebrew/merged.json",
+      "sha256": "87a6a3cc8e8fbdefe4fb6984603822bec99dc54b1cfab6cfbdf8f5911d8e325f",
+      "versions": [
+        [
+          "Petach Einayim, Jerusalem 1959",
+          "https://www.nli.org.il/he/books/NNL_ALEPH001157028"
+        ]
+      ],
+      "leaf_count": 291,
+      "top_keys": [
+        "title",
+        "language",
+        "versionTitle",
+        "versionSource",
+        "text",
+        "versions",
+        "heTitle",
+        "categories",
+        "sectionNames"
+      ],
+      "candidate_count": 0
+    },
+    {
+      "work": "Guide for the Perplexed",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Jewish%20Thought/Rishonim/Guide%20for%20the%20Perplexed/Hebrew/merged.json",
+      "sha256": "40a7a3408921e4fdf418e3993219e4b9be6251f7799491f4fa0aecd67274e0d5",
+      "versions": [
+        [
+          "Makbili Edition, Mif'al Mishneh Torah, 2024",
+          "https://www.nli.org.il/he/books/NNL_ALEPH990047768710205171/NLI"
+        ],
+        [
+          "Moreh Nevuchim, translated by Ibn Tibon",
+          "http://mobile.tora.ws/"
+        ],
+        [
+          "Moreh Nevuchim, Ibn Tibon Introduction",
+          "https://he.wikisource.org/"
+        ]
+      ],
+      "leaf_count": 1473,
+      "top_keys": [
+        "title",
+        "language",
+        "versionTitle",
+        "versionSource",
+        "text",
+        "versions",
+        "heTitle",
+        "categories",
+        "schema"
+      ],
+      "candidate_count": 44
+    }
+  ],
+  "queries": [
+    "סוס",
+    "רכב אש",
+    "רוכב",
+    "מרכבה",
+    "לא ירבה",
+    "רכב ישראל"
+  ],
+  "additional_quote_verification": {
+    "work": "Guide for the Perplexed",
+    "versionTitle": "Moreh Nevuchim, translated by Ibn Tibon",
+    "versionSource": "http://mobile.tora.ws/",
+    "sha256": "652a096c8678ae9a84b6bde82cba4cb36f2d122d6a46a31f92249571eb40584a",
+    "read_ranges": [
+      "I:70:1-9",
+      "II:43:1-6"
+    ],
+    "search_scope": "Selected passages only; not full Ibn Tibbon search",
+    "source_language_limitation": "Medieval Hebrew translation; Judeo-Arabic not collated"
+  }
+}

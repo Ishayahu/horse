@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "task_id": "VER-004m",
+  "primary_access": [
+    {
+      "url": "https://www.sefaria.org/api/texts/Midrash%20Tehillim.21?context=0",
+      "returned_ref": "Midrash Tehillim 21",
+      "sha256": "09763d43163341e5f25a82b914857c528ee447bfdca522e114f2ceaa688fff60",
+      "versionTitle": "OYW",
+      "versionSource": "http://mobile.tora.ws/",
+      "license": "Public Domain",
+      "retrieved_segments": 5,
+      "selected_segment": 2,
+      "accessed_at": "2026-10-09"
+    },
+    {
+      "url": "https://www.sefaria.org/api/texts/Pirkei%20DeRabbi%20Eliezer.42?context=0",
+      "returned_ref": "Pirkei DeRabbi Eliezer 42",
+      "sha256": "7255ab53287f01a1f93ff88d97a928b90e936dc45fa20342ca354bdf4c1da0df",
+      "versionTitle": "Pirke DeRabbi Eliezer, Sefaria Vocalized Edition",
+      "versionSource": "http://sefaria.org.il",
+      "license": "Public Domain",
+      "retrieved_segments": 16,
+      "selected_segment": 6,
+      "accessed_at": "2026-10-09"
+    },
+    {
+      "url": "https://www.sefaria.org/api/texts/Bereshit%20Rabbah.75?context=0",
+      "returned_ref": "Bereshit Rabbah 75",
+      "sha256": "9c93a5c728d18298a80807aa4d22195cfa8f63a0bb4c46eac8be342c68a9f053",
+      "versionTitle": "Midrash Rabbah -- TE",
+      "versionSource": "http://www.toratemetfreeware.com/online/f_01633.html",
+      "license": "unknown",
+      "retrieved_segments": 13,
+      "selected_segment": 10,
+      "accessed_at": "2026-10-09"
+    }
+  ],
+  "additional_read_pages": [
+    {
+      "url": "https://he.wikisource.org/wiki/פרקי_דרבי_אליעזר_פרק_מב",
+      "revision": "3035992"
+    },
+    {
+      "url": "https://he.wikisource.org/wiki/בראשית_רבה_עה_י",
+      "revision": "362186"
+    }
+  ],
+  "failed_second_witness": [
+    {
+      "url": "https://mg.alhatorah.org/Parshan/Midrash_Tehillim/Tehillim/21",
+      "result": "Loading text only; no primary comparison"
+    },
+    {
+      "url": "https://mgs.alhatorah.org/Full/Tehillim/21/2",
+      "result": "Loading text only; no primary comparison"
+    },
+    {
+      "url": "https://he.wikisource.org/wiki/מדרש_תהלים_כא",
+      "result": "web retrieval internal error"
+    }
+  ]
+}

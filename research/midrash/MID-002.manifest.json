@@ -1,0 +1,5135 @@
+{
+  "schema_version": 1,
+  "task_id": "MID-002",
+  "inventory_url": "https://raw.githubusercontent.com/Sefaria/Sefaria-Export/master/books.json",
+  "inventory_sha256": "00a8da34a5c1e8bfc4983897e4e0711eb4c8e3971d4e7b08957fb61a34424917",
+  "whitelist": [
+    "Mekhilta DeRabbi Yishmael",
+    "Mekhilta DeRabbi Shimon Ben Yochai",
+    "Sifra",
+    "Sifrei Bamidbar",
+    "Sifrei Devarim",
+    "Bereshit Rabbah",
+    "Shemot Rabbah",
+    "Vayikra Rabbah",
+    "Bamidbar Rabbah",
+    "Devarim Rabbah",
+    "Midrash Tanchuma",
+    "Midrash Tanchuma Buber",
+    "Pesikta DeRav Kahana",
+    "Pesikta Rabbati",
+    "Midrash Tehillim",
+    "Midrash Mishlei",
+    "Pirkei DeRabbi Eliezer",
+    "Yalkut Shimoni on Torah",
+    "Yalkut Shimoni on Nach",
+    "Shir HaShirim Rabbah",
+    "Ruth Rabbah",
+    "Eikhah Rabbah",
+    "Esther Rabbah",
+    "Kohelet Rabbah",
+    "Aggadat Bereshit",
+    "Bereshit Rabbati",
+    "Midrash Aggadah",
+    "Midrash Shmuel",
+    "Mishnat Rabbi Eliezer",
+    "Otzar Midrashim",
+    "Tanna DeBei Eliyahu Rabbah",
+    "Tanna DeBei Eliyahu Zuta",
+    "Sefer HaYashar (midrash)",
+    "Midrash Tannaim on Deuteronomy",
+    "Sifrei Zuta"
+  ],
+  "works": [
+    {
+      "work": "Aggadat Bereshit",
+      "status": "searched",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Midrash/Aggadah/Aggadat%20Bereshit/Hebrew/merged.json",
+      "sha256": "aa8b2c45024418595b035aa43f7d1bc32b67f3d334dbcc3eb5d7c41c9f3bdfc6",
+      "segments": 222,
+      "candidates": 15,
+      "metadata": {
+        "title": "Aggadat Bereshit",
+        "language": "he",
+        "versionTitle": "merged",
+        "versionSource": "https://www.sefaria.org/Aggadat_Bereshit",
+        "heTitle": "אגדת בראשית",
+        "categories": [
+          "Midrash",
+          "Aggadah"
+        ],
+        "sectionNames": [
+          "Chapter",
+          "Paragraph"
+        ]
+      }
+    },
+    {
+      "work": "Bamidbar Rabbah",
+      "status": "searched",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Midrash/Aggadah/Midrash%20Rabbah/Bamidbar%20Rabbah/Hebrew/merged.json",
+      "sha256": "5966339a6cd9f9b7c398cd1fe3dc72f7a453ce9c6b75d220e7ae7212442ffccf",
+      "segments": 444,
+      "candidates": 103,
+      "metadata": {
+        "title": "Bamidbar Rabbah",
+        "language": "he",
+        "versionTitle": "merged",
+        "versionSource": "https://www.sefaria.org/Bamidbar_Rabbah",
+        "heTitle": "במדבר רבה",
+        "categories": [
+          "Midrash",
+          "Aggadah",
+          "Midrash Rabbah"
+        ],
+        "sectionNames": [
+          "Chapter",
+          "Paragraph"
+        ]
+      }
+    },
+    {
+      "work": "Bereshit Rabbah",
+      "status": "searched",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Midrash/Aggadah/Midrash%20Rabbah/Bereshit%20Rabbah/Hebrew/merged.json",
+      "sha256": "494a7e536989c0765be4826e3bdcf2bc199e183a7d9160f78fc640c72fc8ffd1",
+      "segments": 1036,
+      "candidates": 85,
+      "metadata": {
+        "title": "Bereshit Rabbah",
+        "language": "he",
+        "versionTitle": "merged",
+        "versionSource": "https://www.sefaria.org/Bereshit_Rabbah",
+        "heTitle": "בראשית רבה",
+        "categories": [
+          "Midrash",
+          "Aggadah",
+          "Midrash Rabbah"
+        ],
+        "sectionNames": [
+          "Chapter",
+          "Paragraph"
+        ]
+      }
+    },
+    {
+      "work": "Bereshit Rabbati",
+      "status": "searched",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Midrash/Aggadah/Bereshit%20Rabbati/Hebrew/merged.json",
+      "sha256": "d848139f6367439c9e3eff7df37f6fd937d383a5396bfd878f145e1f16f1f855",
+      "segments": 632,
+      "candidates": 31,
+      "metadata": {
+        "title": "Bereshit Rabbati",
+        "language": "he",
+        "versionTitle": "merged",
+        "versionSource": "https://www.sefaria.org/Bereshit_Rabbati",
+        "heTitle": "בראשית רבתי",
+        "categories": [
+          "Midrash",
+          "Aggadah"
+        ],
+        "schema": {
+          "heTitle": "בראשית רבתי",
+          "enTitle": "Bereshit Rabbati",
+          "key": "Bereshit Rabbati",
+          "nodes": [
+            {
+              "heTitle": "פרשת בראשית",
+              "enTitle": "Parashat Bereshit"
+            },
+            {
+              "heTitle": "פרשת נח",
+              "enTitle": "Parashat Noah"
+            },
+            {
+              "heTitle": "פרשת לך לך",
+              "enTitle": "Parashat Lech Lecha"
+            },
+            {
+              "heTitle": "פרשת וירא",
+              "enTitle": "Parashat Vayera"
+            },
+            {
+              "heTitle": "פרשת חיי שרה",
+              "enTitle": "Parashat Chayei Sarah"
+            },
+            {
+              "heTitle": "פרשת תולדות",
+              "enTitle": "Parashat Toldot"
+            },
+            {
+              "heTitle": "פרשת ויצא",
+              "enTitle": "Parashat Vayetze"
+            },
+            {
+              "heTitle": "פרשת וישלח",
+              "enTitle": "Parashat Vayishlach"
+            },
+            {
+              "heTitle": "פרשת וישב",
+              "enTitle": "Parashat Vayeshev"
+            },
+            {
+              "heTitle": "פרשת מקץ",
+              "enTitle": "Parashat Miketz"
+            },
+            {
+              "heTitle": "פרשת ויגש",
+              "enTitle": "Parashat Vayigash"
+            },
+            {
+              "heTitle": "פרשת ויחי",
+              "enTitle": "Parashat Vayechi"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "work": "Devarim Rabbah",
+      "status": "searched",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Midrash/Aggadah/Midrash%20Rabbah/Devarim%20Rabbah/Hebrew/merged.json",
+      "sha256": "968a2a965d861c5f799e71045f5aa7a8f10572e52abdce3d624f74ac05f9582a",
+      "segments": 160,
+      "candidates": 19,
+      "metadata": {
+        "title": "Devarim Rabbah",
+        "language": "he",
+        "versionTitle": "merged",
+        "versionSource": "https://www.sefaria.org/Devarim_Rabbah",
+        "heTitle": "דברים רבה",
+        "categories": [
+          "Midrash",
+          "Aggadah",
+          "Midrash Rabbah"
+        ],
+        "sectionNames": [
+          "Chapter",
+          "Paragraph"
+        ]
+      }
+    },
+    {
+      "work": "Eikhah Rabbah",
+      "status": "searched",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Midrash/Aggadah/Midrash%20Rabbah/Eikhah%20Rabbah/Hebrew/merged.json",
+      "sha256": "ffec9f392ff58883c5d365d925787f9056c663d64ac1967f8270fb63459a8e8f",
+      "segments": 186,
+      "candidates": 18,
+      "metadata": {
+        "title": "Eikhah Rabbah",
+        "language": "he",
+        "versionTitle": "merged",
+        "versionSource": "https://www.sefaria.org/Eikhah_Rabbah",
+        "heTitle": "איכה רבה",
+        "categories": [
+          "Midrash",
+          "Aggadah",
+          "Midrash Rabbah"
+        ],
+        "schema": {
+          "heTitle": "איכה רבה",
+          "enTitle": "Eikhah Rabbah",
+          "key": "Eikhah Rabbah",
+          "nodes": [
+            {
+              "heTitle": "פתיחתא",
+              "enTitle": "Petichta"
+            },
+            {
+              "heTitle": "",
+              "enTitle": ""
+            }
+          ]
+        }
+      }
+    },
+    {
+      "work": "Esther Rabbah",
+      "status": "searched",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Midrash/Aggadah/Midrash%20Rabbah/Esther%20Rabbah/Hebrew/merged.json",
+      "sha256": "6c25561052dfd4a6a7c5826726abac97011609cc9a52b9dec45b152e0436679e",
+      "segments": 136,
+      "candidates": 10,
+      "metadata": {
+        "title": "Esther Rabbah",
+        "language": "he",
+        "versionTitle": "merged",
+        "versionSource": "https://www.sefaria.org/Esther_Rabbah",
+        "heTitle": "אסתר רבה",
+        "categories": [
+          "Midrash",
+          "Aggadah",
+          "Midrash Rabbah"
+        ],
+        "schema": {
+          "heTitle": "אסתר רבה",
+          "enTitle": "Esther Rabbah",
+          "key": "Esther Rabbah",
+          "nodes": [
+            {
+              "heTitle": "פתיחתא",
+              "enTitle": "Petichta"
+            },
+            {
+              "heTitle": "",
+              "enTitle": ""
+            }
+          ]
+        }
+      }
+    },
+    {
+      "work": "Kohelet Rabbah",
+      "status": "searched",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Midrash/Aggadah/Midrash%20Rabbah/Kohelet%20Rabbah/Hebrew/merged.json",
+      "sha256": "89492c036e07865bcc893a5b1a6c33644e812ee41c4e5a1ad5e5258d37cd2543",
+      "segments": 271,
+      "candidates": 29,
+      "metadata": {
+        "title": "Kohelet Rabbah",
+        "language": "he",
+        "versionTitle": "merged",
+        "versionSource": "https://www.sefaria.org/Kohelet_Rabbah",
+        "heTitle": "קוהלת רבה",
+        "categories": [
+          "Midrash",
+          "Aggadah",
+          "Midrash Rabbah"
+        ],
+        "sectionNames": [
+          "Parasha",
+          "Chapter",
+          "Midrash"
+        ]
+      }
+    },
+    {
+      "work": "Mekhilta DeRabbi Shimon Ben Yochai",
+      "status": "searched",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Midrash/Halakhah/Mekhilta%20DeRabbi%20Shimon%20Ben%20Yochai/Hebrew/merged.json",
+      "sha256": "38533670e43372cf3bae8b7baf462d480c13c317844cb1228db1da65b56933f5",
+      "segments": 382,
+      "candidates": 45,
+      "metadata": {
+        "title": "Mekhilta DeRabbi Shimon Ben Yochai",
+        "language": "he",
+        "versionTitle": "merged",
+        "versionSource": "https://www.sefaria.org/Mekhilta_DeRabbi_Shimon_Ben_Yochai",
+        "heTitle": "מכילתא דרבי שמעון בן יוחאי",
+        "categories": [
+          "Midrash",
+          "Halakhah"
+        ],
+        "schema": {
+          "heTitle": "מכילתא דרבי שמעון בן יוחאי",
+          "enTitle": "Mekhilta DeRabbi Shimon Ben Yochai",
+          "key": "Mekhilta DeRabbi Shimon Ben Yochai",
+          "nodes": [
+            {
+              "heTitle": "",
+              "enTitle": ""
+            },
+            {
+              "heTitle": "הוספה",
+              "enTitle": "Additions"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "work": "Mekhilta DeRabbi Yishmael",
+      "status": "searched",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Midrash/Halakhah/Mekhilta%20DeRabbi%20Yishmael/Hebrew/merged.json",
+      "sha256": "c58542cf9189e14b225cc98029c2e13c373c95a8e943843f16e9d610ddfb59af",
+      "segments": 2043,
+      "candidates": 108,
+      "metadata": {
+        "title": "Mekhilta DeRabbi Yishmael",
+        "language": "he",
+        "versionTitle": "merged",
+        "versionSource": "https://www.sefaria.org/Mekhilta_DeRabbi_Yishmael",
+        "heTitle": "מכילתא דרבי ישמעאל",
+        "categories": [
+          "Midrash",
+          "Halakhah"
+        ],
+        "schema": {
+          "heTitle": "מכילתא דרבי ישמעאל",
+          "enTitle": "Mekhilta DeRabbi Yishmael",
+          "key": "Mekhilta DeRabbi Yishmael",
+          "nodes": [
+            {
+              "heTitle": "מַסֶּכְתָּא דְפִסְחָא",
+              "enTitle": "Tractate Pischa"
+            },
+            {
+              "heTitle": "מַסֶּכְתָּא דְוַיְהִי בְּשַׁלַּח",
+              "enTitle": "Tractate Vayehi Beshalach"
+            },
+            {
+              "heTitle": "מַסֶּכְתָּא דְשִׁירָה",
+              "enTitle": "Tractate Shirah"
+            },
+            {
+              "heTitle": "מַסֶּכְתָּא דְוַיַּסַּע",
+              "enTitle": "Tractate Vayassa"
+            },
+            {
+              "heTitle": "מַסֶּכְתָּא דַעֲמָלֵק",
+              "enTitle": "Tractate Amalek"
+            },
+            {
+              "heTitle": "מַסֶּכְתָּא דְבַחֹדֶשׁ",
+              "enTitle": "Tractate Bachodesh"
+            },
+            {
+              "heTitle": "מַסֶּכְתָּא דִנְזִיקִין",
+              "enTitle": "Tractate Nezikin"
+            },
+            {
+              "heTitle": "מַסֶּכְתָּא דְכַסְפָּא",
+              "enTitle": "Tractate Kaspa"
+            },
+            {
+              "heTitle": "מַסֶּכְתָּא דְשַׁבְּתָא",
+              "enTitle": "Tractate Shabbata"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "work": "Midrash Aggadah",
+      "status": "searched",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Midrash/Aggadah/Midrash%20Aggadah/Hebrew/merged.json",
+      "sha256": "af354bdf8a5b0336622bc941621901b5e68c5a1aa03171b04d9b6a628cb864b4",
+      "segments": 3817,
+      "candidates": 89,
+      "metadata": {
+        "title": "Midrash Aggadah",
+        "language": "he",
+        "versionTitle": "merged",
+        "versionSource": "https://www.sefaria.org/Midrash_Aggadah",
+        "heTitle": "מדרש אגדה",
+        "categories": [
+          "Midrash",
+          "Aggadah"
+        ],
+        "schema": {
+          "heTitle": "מדרש אגדה",
+          "enTitle": "Midrash Aggadah",
+          "key": "Midrash Aggadah",
+          "nodes": [
+            {
+              "heTitle": "בראשית",
+              "enTitle": "Genesis"
+            },
+            {
+              "heTitle": "שמות",
+              "enTitle": "Exodus"
+            },
+            {
+              "heTitle": "ויקרא",
+              "enTitle": "Leviticus"
+            },
+            {
+              "heTitle": "במדבר",
+              "enTitle": "Numbers"
+            },
+            {
+              "heTitle": "דברים",
+              "enTitle": "Deuteronomy"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "work": "Midrash Mishlei",
+      "status": "searched",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Midrash/Aggadah/Midrash%20Mishlei/Hebrew/merged.json",
+      "sha256": "398b229b117f675e6a3579dd27b1b97affede1844af443898001128fec408c54",
+      "segments": 140,
+      "candidates": 13,
+      "metadata": {
+        "title": "Midrash Mishlei",
+        "language": "he",
+        "versionTitle": "merged",
+        "versionSource": "https://www.sefaria.org/Midrash_Mishlei",
+        "heTitle": "מדרש משלי",
+        "categories": [
+          "Midrash",
+          "Aggadah"
+        ],
+        "sectionNames": [
+          "Chapter",
+          "Verse"
+        ]
+      }
+    },
+    {
+      "work": "Midrash Shmuel",
+      "status": "searched",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Midrash/Aggadah/Midrash%20Shmuel/Hebrew/merged.json",
+      "sha256": "1eda19a760e91d6471797fc5ac91c8e8bb1ddd61985a4e852523fcdf301ddadd",
+      "segments": 207,
+      "candidates": 5,
+      "metadata": {
+        "title": "Midrash Shmuel",
+        "language": "he",
+        "versionTitle": "merged",
+        "versionSource": "https://www.sefaria.org/Midrash_Shmuel",
+        "heTitle": "מדרש שמואל",
+        "categories": [
+          "Midrash",
+          "Aggadah"
+        ],
+        "sectionNames": [
+          "Parasha",
+          "Paragraph"
+        ]
+      }
+    },
+    {
+      "work": "Midrash Tanchuma",
+      "status": "searched",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Midrash/Aggadah/Midrash%20Tanchuma/Hebrew/merged.json",
+      "sha256": "e1580c0176bbedcb8e7c5b4cea43bf1a5b13023346d60de530aba297a637480f",
+      "segments": 2122,
+      "candidates": 177,
+      "metadata": {
+        "title": "Midrash Tanchuma",
+        "language": "he",
+        "versionTitle": "merged",
+        "versionSource": "https://www.sefaria.org/Midrash_Tanchuma",
+        "heTitle": "מדרש תנחומא",
+        "categories": [
+          "Midrash",
+          "Aggadah"
+        ],
+        "schema": {
+          "heTitle": "מדרש תנחומא",
+          "enTitle": "Midrash Tanchuma",
+          "key": "Midrash Tanchuma",
+          "nodes": [
+            {
+              "heTitle": "בראשית",
+              "enTitle": "Bereshit"
+            },
+            {
+              "heTitle": "נח",
+              "enTitle": "Noach"
+            },
+            {
+              "heTitle": "לך לך",
+              "enTitle": "Lech Lecha"
+            },
+            {
+              "heTitle": "וירא",
+              "enTitle": "Vayera"
+            },
+            {
+              "heTitle": "חיי שרה",
+              "enTitle": "Chayei Sara"
+            },
+            {
+              "heTitle": "תולדות",
+              "enTitle": "Toldot"
+            },
+            {
+              "heTitle": "ויצא",
+              "enTitle": "Vayetzei"
+            },
+            {
+              "heTitle": "וישלח",
+              "enTitle": "Vayishlach"
+            },
+            {
+              "heTitle": "וישב",
+              "enTitle": "Vayeshev"
+            },
+            {
+              "heTitle": "מקץ",
+              "enTitle": "Miketz"
+            },
+            {
+              "heTitle": "ויגש",
+              "enTitle": "Vayigash"
+            },
+            {
+              "heTitle": "ויחי",
+              "enTitle": "Vayechi"
+            },
+            {
+              "heTitle": "שמות",
+              "enTitle": "Shemot"
+            },
+            {
+              "heTitle": "וארא",
+              "enTitle": "Vaera"
+            },
+            {
+              "heTitle": "בא",
+              "enTitle": "Bo"
+            },
+            {
+              "heTitle": "בשלח",
+              "enTitle": "Beshalach"
+            },
+            {
+              "heTitle": "יתרו",
+              "enTitle": "Yitro"
+            },
+            {
+              "heTitle": "משפטים",
+              "enTitle": "Mishpatim"
+            },
+            {
+              "heTitle": "תרומה",
+              "enTitle": "Terumah"
+            },
+            {
+              "heTitle": "תצוה",
+              "enTitle": "Tetzaveh"
+            },
+            {
+              "heTitle": "כי תשא",
+              "enTitle": "Ki Tisa"
+            },
+            {
+              "heTitle": "ויקהל",
+              "enTitle": "Vayakhel"
+            },
+            {
+              "heTitle": "פקודי",
+              "enTitle": "Pekudei"
+            },
+            {
+              "heTitle": "ויקרא",
+              "enTitle": "Vayikra"
+            },
+            {
+              "heTitle": "צו",
+              "enTitle": "Tzav"
+            },
+            {
+              "heTitle": "שמיני",
+              "enTitle": "Shmini"
+            },
+            {
+              "heTitle": "תזריע",
+              "enTitle": "Tazria"
+            },
+            {
+              "heTitle": "מצורע",
+              "enTitle": "Metzora"
+            },
+            {
+              "heTitle": "אחרי מות",
+              "enTitle": "Achrei Mot"
+            },
+            {
+              "heTitle": "קדושים",
+              "enTitle": "Kedoshim"
+            },
+            {
+              "heTitle": "אמור",
+              "enTitle": "Emor"
+            },
+            {
+              "heTitle": "בהר",
+              "enTitle": "Behar"
+            },
+            {
+              "heTitle": "בחוקתי",
+              "enTitle": "Bechukotai"
+            },
+            {
+              "heTitle": "במדבר",
+              "enTitle": "Bamidbar"
+            },
+            {
+              "heTitle": "נשא",
+              "enTitle": "Nasso"
+            },
+            {
+              "heTitle": "בהעלותך",
+              "enTitle": "Beha'alotcha"
+            },
+            {
+              "heTitle": "שלח",
+              "enTitle": "Sh'lach"
+            },
+            {
+              "heTitle": "קרח",
+              "enTitle": "Korach"
+            },
+            {
+              "heTitle": "חקת",
+              "enTitle": "Chukat"
+            },
+            {
+              "heTitle": "בלק",
+              "enTitle": "Balak"
+            },
+            {
+              "heTitle": "פנחס",
+              "enTitle": "Pinchas"
+            },
+            {
+              "heTitle": "מטות",
+              "enTitle": "Matot"
+            },
+            {
+              "heTitle": "מסעי",
+              "enTitle": "Masei"
+            },
+            {
+              "heTitle": "דברים",
+              "enTitle": "Devarim"
+            },
+            {
+              "heTitle": "ואתחנן",
+              "enTitle": "Vaetchanan"
+            },
+            {
+              "heTitle": "עקב",
+              "enTitle": "Eikev"
+            },
+            {
+              "heTitle": "ראה",
+              "enTitle": "Re'eh"
+            },
+            {
+              "heTitle": "שופטים",
+              "enTitle": "Shoftim"
+            },
+            {
+              "heTitle": "כי תצא",
+              "enTitle": "Ki Teitzei"
+            },
+            {
+              "heTitle": "כי תבוא",
+              "enTitle": "Ki Tavo"
+            },
+            {
+              "heTitle": "נצבים",
+              "enTitle": "Nitzavim"
+            },
+            {
+              "heTitle": "וילך",
+              "enTitle": "Vayeilech"
+            },
+            {
+              "heTitle": "האזינו",
+              "enTitle": "Ha'Azinu"
+            },
+            {
+              "heTitle": "וזאת הברכה",
+              "enTitle": "V'Zot HaBerachah"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "work": "Midrash Tanchuma Buber",
+      "status": "searched",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Midrash/Aggadah/Midrash%20Tanchuma%20Buber/Hebrew/merged.json",
+      "sha256": "45a13af12b85a72ac0d2bf04fdfa0f796e41f092e3d36967b1d85a6a6a7084dc",
+      "segments": 2086,
+      "candidates": 146,
+      "metadata": {
+        "title": "Midrash Tanchuma Buber",
+        "language": "he",
+        "versionTitle": "merged",
+        "versionSource": "https://www.sefaria.org/Midrash_Tanchuma_Buber",
+        "heTitle": "תנחומא בובר",
+        "categories": [
+          "Midrash",
+          "Aggadah"
+        ],
+        "schema": {
+          "heTitle": "תנחומא בובר",
+          "enTitle": "Midrash Tanchuma Buber",
+          "key": "Midrash Tanchuma Buber",
+          "nodes": [
+            {
+              "heTitle": "בראשית",
+              "enTitle": "Bereshit"
+            },
+            {
+              "heTitle": "נח",
+              "enTitle": "Noach"
+            },
+            {
+              "heTitle": "לך לך",
+              "enTitle": "Lech Lecha"
+            },
+            {
+              "heTitle": "וירא",
+              "enTitle": "Vayera"
+            },
+            {
+              "heTitle": "חיי שרה",
+              "enTitle": "Chayei Sara"
+            },
+            {
+              "heTitle": "תולדות",
+              "enTitle": "Toldot"
+            },
+            {
+              "heTitle": "ויצא",
+              "enTitle": "Vayetzei"
+            },
+            {
+              "heTitle": "וישלח",
+              "enTitle": "Vayishlach"
+            },
+            {
+              "heTitle": "וישב",
+              "enTitle": "Vayeshev"
+            },
+            {
+              "heTitle": "מקץ",
+              "enTitle": "Miketz"
+            },
+            {
+              "heTitle": "ויגש",
+              "enTitle": "Vayigash"
+            },
+            {
+              "heTitle": "ויחי",
+              "enTitle": "Vayechi"
+            },
+            {
+              "heTitle": "שמות",
+              "enTitle": "Shemot"
+            },
+            {
+              "heTitle": "וארא",
+              "enTitle": "Vaera"
+            },
+            {
+              "heTitle": "בא",
+              "enTitle": "Bo"
+            },
+            {
+              "heTitle": "בשלח",
+              "enTitle": "Beshalach"
+            },
+            {
+              "heTitle": "יתרו",
+              "enTitle": "Yitro"
+            },
+            {
+              "heTitle": "משפטים",
+              "enTitle": "Mishpatim"
+            },
+            {
+              "heTitle": "תרומה",
+              "enTitle": "Terumah"
+            },
+            {
+              "heTitle": "תצוה",
+              "enTitle": "Tetzaveh"
+            },
+            {
+              "heTitle": "כי תשא",
+              "enTitle": "Ki Tisa"
+            },
+            {
+              "heTitle": "ויקהל",
+              "enTitle": "Vayakhel"
+            },
+            {
+              "heTitle": "פקודי",
+              "enTitle": "Pekudei"
+            },
+            {
+              "heTitle": "ויקרא",
+              "enTitle": "Vayikra"
+            },
+            {
+              "heTitle": "צו",
+              "enTitle": "Tzav"
+            },
+            {
+              "heTitle": "שמיני",
+              "enTitle": "Shmini"
+            },
+            {
+              "heTitle": "תזריע",
+              "enTitle": "Tazria"
+            },
+            {
+              "heTitle": "מצורע",
+              "enTitle": "Metzora"
+            },
+            {
+              "heTitle": "אחרי מות",
+              "enTitle": "Achrei Mot"
+            },
+            {
+              "heTitle": "קדושים",
+              "enTitle": "Kedoshim"
+            },
+            {
+              "heTitle": "אמור",
+              "enTitle": "Emor"
+            },
+            {
+              "heTitle": "בהר",
+              "enTitle": "Behar"
+            },
+            {
+              "heTitle": "בחוקתי",
+              "enTitle": "Bechukotai"
+            },
+            {
+              "heTitle": "במדבר",
+              "enTitle": "Bamidbar"
+            },
+            {
+              "heTitle": "נשא",
+              "enTitle": "Nasso"
+            },
+            {
+              "heTitle": "בהעלותך",
+              "enTitle": "Beha'alotcha"
+            },
+            {
+              "heTitle": "שלח",
+              "enTitle": "Sh'lach"
+            },
+            {
+              "heTitle": "הוספה לשלח",
+              "enTitle": "Appendix to Sh'lach"
+            },
+            {
+              "heTitle": "קרח",
+              "enTitle": "Korach"
+            },
+            {
+              "heTitle": "הוספה לקרח",
+              "enTitle": "Appendix to Korach"
+            },
+            {
+              "heTitle": "חקת",
+              "enTitle": "Chukat"
+            },
+            {
+              "heTitle": "הוספה לחקת",
+              "enTitle": "Appendix to Chukat"
+            },
+            {
+              "heTitle": "בלק",
+              "enTitle": "Balak"
+            },
+            {
+              "heTitle": "פנחס",
+              "enTitle": "Pinchas"
+            },
+            {
+              "heTitle": "מטות",
+              "enTitle": "Matot"
+            },
+            {
+              "heTitle": "מסעי",
+              "enTitle": "Masei"
+            },
+            {
+              "heTitle": "דברים",
+              "enTitle": "Devarim"
+            },
+            {
+              "heTitle": "הוספה לדברים",
+              "enTitle": "Appendix to Devarim"
+            },
+            {
+              "heTitle": "ואתחנן",
+              "enTitle": "Vaetchanan"
+            },
+            {
+              "heTitle": "הוספה לואתחנן",
+              "enTitle": "Appendix to Vaetchanan"
+            },
+            {
+              "heTitle": "עקב",
+              "enTitle": "Eikev"
+            },
+            {
+              "heTitle": "ראה",
+              "enTitle": "Re'eh"
+            },
+            {
+              "heTitle": "הוספה לראה",
+              "enTitle": "Appendix to Re'eh"
+            },
+            {
+              "heTitle": "שופטים",
+              "enTitle": "Shoftim"
+            },
+            {
+              "heTitle": "כי תצא",
+              "enTitle": "Ki Teitzei"
+            },
+            {
+              "heTitle": "כי תבוא",
+              "enTitle": "Ki Tavo"
+            },
+            {
+              "heTitle": "נצבים",
+              "enTitle": "Nitzavim"
+            },
+            {
+              "heTitle": "האזינו",
+              "enTitle": "Ha'Azinu"
+            },
+            {
+              "heTitle": "וזאת הברכה",
+              "enTitle": "V'Zot HaBerachah"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "work": "Midrash Tannaim on Deuteronomy",
+      "status": "searched",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Midrash/Halakhah/Midrash%20Tannaim%20on%20Deuteronomy/Hebrew/merged.json",
+      "sha256": "6bb9dba2f3d58d4d6f33d477a72c72fc2a4a98fd40df4ad3d7f34d29e87d2c78",
+      "segments": 3978,
+      "candidates": 66,
+      "metadata": {
+        "title": "Midrash Tannaim on Deuteronomy",
+        "language": "he",
+        "versionTitle": "merged",
+        "versionSource": "https://www.sefaria.org/Midrash_Tannaim_on_Deuteronomy",
+        "heTitle": "מדרש תנאים על ספר דברים",
+        "categories": [
+          "Midrash",
+          "Halakhah"
+        ],
+        "sectionNames": [
+          "Chapter",
+          "Verse",
+          "Paragraph"
+        ]
+      }
+    },
+    {
+      "work": "Midrash Tehillim",
+      "status": "searched",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Midrash/Aggadah/Midrash%20Tehillim/Hebrew/merged.json",
+      "sha256": "b3830fc2e8bdcd3381f404200140295a0ebdfe4b8624c8a4547d414d2c5608e1",
+      "segments": 808,
+      "candidates": 51,
+      "metadata": {
+        "title": "Midrash Tehillim",
+        "language": "he",
+        "versionTitle": "merged",
+        "versionSource": "https://www.sefaria.org/Midrash_Tehillim",
+        "heTitle": "מדרש תהילים",
+        "categories": [
+          "Midrash",
+          "Aggadah"
+        ],
+        "sectionNames": [
+          "Psalm",
+          "Comment"
+        ]
+      }
+    },
+    {
+      "work": "Mishnat Rabbi Eliezer",
+      "status": "searched",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Midrash/Aggadah/Mishnat%20Rabbi%20Eliezer/Hebrew/merged.json",
+      "sha256": "f30abfa7271e6939716d60e32911ad9980a839ad38e74b45815397f448a0a01c",
+      "segments": 589,
+      "candidates": 48,
+      "metadata": {
+        "title": "Mishnat Rabbi Eliezer",
+        "language": "he",
+        "versionTitle": "merged",
+        "versionSource": "https://www.sefaria.org/Mishnat_Rabbi_Eliezer",
+        "heTitle": "משנת רבי אליעזר",
+        "categories": [
+          "Midrash",
+          "Aggadah"
+        ],
+        "sectionNames": [
+          "Parasha",
+          "Paragraph"
+        ]
+      }
+    },
+    {
+      "work": "Otzar Midrashim",
+      "status": "searched",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Midrash/Aggadah/Otzar%20Midrashim/Hebrew/merged.json",
+      "sha256": "89b3dab01e524df2b3d4783f53b3dc6c271522fc84961118928a102ab277b37a",
+      "segments": 7555,
+      "candidates": 391,
+      "metadata": {
+        "title": "Otzar Midrashim",
+        "language": "he",
+        "versionTitle": "merged",
+        "versionSource": "https://www.sefaria.org/Otzar_Midrashim",
+        "heTitle": "אוצר מדרשים",
+        "categories": [
+          "Midrash",
+          "Aggadah"
+        ],
+        "schema": {
+          "heTitle": "אוצר מדרשים",
+          "enTitle": "Otzar Midrashim",
+          "key": "Otzar Midrashim",
+          "nodes": [
+            {
+              "heTitle": "אבא גוריון",
+              "enTitle": "Midrash Abba Gorion"
+            },
+            {
+              "heTitle": "פרקי אבות",
+              "enTitle": "Ethics of the Fathers"
+            },
+            {
+              "heTitle": "אבות דרבי נתן",
+              "enTitle": "Ethics of The Fathers of Rabbi Nathan"
+            },
+            {
+              "heTitle": "אבכיר",
+              "enTitle": "Midrash Avkir"
+            },
+            {
+              "heTitle": "אברהם אבינו",
+              "enTitle": "Avraham our Father",
+              "nodes": [
+                {
+                  "heTitle": "הקדמה",
+                  "enTitle": "Introduction"
+                },
+                {
+                  "heTitle": "מעשה אברהם אבינו ע״ה ממה שאירע לו עם נמרד",
+                  "enTitle": "The Story of Avraham our Father and Nimrod"
+                },
+                {
+                  "heTitle": "מעשה אברהם",
+                  "enTitle": "The Story of Avraham"
+                },
+                {
+                  "heTitle": "מדרש דאברהם אבינו",
+                  "enTitle": "Midrash on Avraham our Forefather"
+                },
+                {
+                  "heTitle": "אגדת אברהם",
+                  "enTitle": "The Legend of Avraham"
+                }
+              ]
+            },
+            {
+              "heTitle": "אגדה",
+              "enTitle": "Aggadah"
+            },
+            {
+              "heTitle": "אגדת בראשית",
+              "enTitle": "Aggadah on Genesis"
+            },
+            {
+              "heTitle": "אגדתא",
+              "enTitle": "Aggadata"
+            },
+            {
+              "heTitle": "אגור",
+              "enTitle": "Agur"
+            },
+            {
+              "heTitle": "פרק אדם הראשון",
+              "enTitle": "Chapter on Adam HaRishon",
+              "nodes": [
+                {
+                  "heTitle": "הקדמה",
+                  "enTitle": "Introduction"
+                },
+                {
+                  "heTitle": "פרק אדם הראשון [נוסחא א]",
+                  "enTitle": "Chapter on the First Man (Version 1)"
+                },
+                {
+                  "heTitle": "פרק אדם הראשון [נוסחא ב]",
+                  "enTitle": "Chapter on the First Man (Version 2)"
+                }
+              ]
+            },
+            {
+              "heTitle": "אדרא רבא ואדרא זוטא",
+              "enTitle": "Idra Rabba & Idra Zuta"
+            },
+            {
+              "heTitle": "אהרן",
+              "enTitle": "Aharon",
+              "nodes": [
+                {
+                  "heTitle": "הקדמה",
+                  "enTitle": "Introduction"
+                },
+                {
+                  "heTitle": "ואלה תולדות אהרן ומשה",
+                  "enTitle": "And These are the Generations of Aharon and Moshe"
+                },
+                {
+                  "heTitle": "מדרש על פטירת אהרן",
+                  "enTitle": "Midrash on the Death of Aharon"
+                }
+              ]
+            },
+            {
+              "heTitle": "אותות עליונים",
+              "enTitle": "Divine Signs"
+            },
+            {
+              "heTitle": "אותיות דרבי אליעזר",
+              "enTitle": "Otiot D'Rabbi Eliezer"
+            },
+            {
+              "heTitle": "אותיות דרבי עקיבא",
+              "enTitle": "Otiot D'Rabbi Akiva"
+            },
+            {
+              "heTitle": "מדרש איוב",
+              "enTitle": "Midrash on Job"
+            },
+            {
+              "heTitle": "איכה רבה",
+              "enTitle": "Midrash on Lamentations"
+            },
+            {
+              "heTitle": "מדרש אל יתהלל",
+              "enTitle": "Midrash Al Yit'hallel",
+              "nodes": [
+                {
+                  "heTitle": "הקדמה",
+                  "enTitle": "Introduction"
+                },
+                {
+                  "heTitle": "",
+                  "enTitle": ""
+                }
+              ]
+            },
+            {
+              "heTitle": "אלדד הדני",
+              "enTitle": "Eldad HaDani",
+              "nodes": [
+                {
+                  "heTitle": "הקדמה",
+                  "enTitle": "Introduction"
+                },
+                {
+                  "heTitle": "ספר אלדד הדני, ספור א׳",
+                  "enTitle": "The Book of Eldad HaDani, Story 1"
+                },
+                {
+                  "heTitle": "ספר אלדד הדני, ספור ב׳",
+                  "enTitle": "The Book of Eldad HaDani, Story 2"
+                }
+              ]
+            },
+            {
+              "heTitle": "אלה אזכרה",
+              "enTitle": "Midrash 'These I Recall' (Eleh Ezkerah)"
+            },
+            {
+              "heTitle": "ספר אליהו",
+              "enTitle": "Sefer Eliyahu",
+              "nodes": [
+                {
+                  "heTitle": "הקדמה",
+                  "enTitle": "Introduction"
+                },
+                {
+                  "heTitle": "",
+                  "enTitle": ""
+                }
+              ]
+            },
+            {
+              "heTitle": "מדרשי רבי אליעזר",
+              "enTitle": "Midrashim of Rabbi Eliezer",
+              "nodes": [
+                {
+                  "heTitle": "הקדמה",
+                  "enTitle": "Introduction"
+                },
+                {
+                  "heTitle": "ספר ארחות חיים",
+                  "enTitle": "Book of the Ways of Life"
+                },
+                {
+                  "heTitle": "מעשה רבי אליעזר בן הורקנוס",
+                  "enTitle": "The Tale of Rabbi Eliezer ben Hurkanus"
+                },
+                {
+                  "heTitle": "פרק דרבי אליעזר בן הורקנוס",
+                  "enTitle": "The Chapter of Rabbi Eliezer ben Hurkanus"
+                }
+              ]
+            },
+            {
+              "heTitle": "אלפא ביתא דבן סירא",
+              "enTitle": "The Aleph Bet of ben Sira",
+              "nodes": [
+                {
+                  "heTitle": "הקדמה",
+                  "enTitle": "Introduction"
+                },
+                {
+                  "heTitle": "",
+                  "enTitle": ""
+                },
+                {
+                  "heTitle": "אלפא ביתא אחרת לבן סירא",
+                  "enTitle": "The Alphabet of ben Sira, (alternative version)"
+                }
+              ]
+            },
+            {
+              "heTitle": "אלפא ביתא על מזמור קי\"ט",
+              "enTitle": "Midrash 'Aleph Bet' on Psalm 119"
+            },
+            {
+              "heTitle": "אלפא ביתא דרבי עקיבא",
+              "enTitle": "Aleph Bet of Rabbi Akiva"
+            },
+            {
+              "heTitle": "מגילת אנטיוכוס",
+              "enTitle": "Megilat Antiochus"
+            },
+            {
+              "heTitle": "מדרש אספה",
+              "enTitle": "Midrash Esfah"
+            },
+            {
+              "heTitle": "מדרשים על מגילת אסתר",
+              "enTitle": "Midrashim on Megilat Esther",
+              "nodes": [
+                {
+                  "heTitle": "הקדמה",
+                  "enTitle": "Introduction"
+                },
+                {
+                  "heTitle": "מדרש מגילת אסתר",
+                  "enTitle": "Midrash on the Book of Esther"
+                },
+                {
+                  "heTitle": "דרש לפורים",
+                  "enTitle": "Drash on Purim"
+                },
+                {
+                  "heTitle": "מדרש מגילה",
+                  "enTitle": "Midrash on the Megillah (of Esther)"
+                },
+                {
+                  "heTitle": "חלום מרדכי והוספות למגילת אסתר",
+                  "enTitle": "Mordechai's Dream and Additions to the Book of Esther"
+                },
+                {
+                  "heTitle": "[תפלת מרדכי ואסתר [ארמית ותרגום עברי",
+                  "enTitle": "The Prayer of Mordechai and Esther (Hebrew and Aramaic)"
+                }
+              ]
+            },
+            {
+              "heTitle": "מסכת אצילות",
+              "enTitle": "Tractate of Emanations",
+              "nodes": [
+                {
+                  "heTitle": "הקדמה",
+                  "enTitle": "Introduction"
+                },
+                {
+                  "heTitle": "",
+                  "enTitle": ""
+                }
+              ]
+            },
+            {
+              "heTitle": "מאמר ארבעה מלכים",
+              "enTitle": "Midrash on The Four Kings",
+              "nodes": [
+                {
+                  "heTitle": "הקדמה",
+                  "enTitle": "Introduction"
+                },
+                {
+                  "heTitle": "",
+                  "enTitle": ""
+                }
+              ]
+            },
+            {
+              "heTitle": "ארחות תושיה",
+              "enTitle": "'Resourceful Ways'"
+            },
+            {
+              "heTitle": "ארחות חיים",
+              "enTitle": "Orchot Chaim"
+            },
+            {
+              "heTitle": "סדר ארקים",
+              "enTitle": "The Order of Arakim",
+              "nodes": [
+                {
+                  "heTitle": "הקדמה",
+                  "enTitle": "Introduction"
+                },
+                {
+                  "heTitle": "",
+                  "enTitle": ""
+                }
+              ]
+            },
+            {
+              "heTitle": "בהיר",
+              "enTitle": "Sefer HaBahir (\"The Book of Brightness\")"
+            },
+            {
+              "heTitle": "בוסתנאי",
+              "enTitle": "Bustanai",
+              "nodes": [
+                {
+                  "heTitle": "מעשה (רבי) בוסתנאי",
+                  "enTitle": "The Tale of Rabbi Bustanai"
+                }
+              ]
+            },
+            {
+              "heTitle": "בטחון",
+              "enTitle": "The Book of Trust"
+            },
+            {
+              "heTitle": "מדרש ביום השמיני",
+              "enTitle": "Midrash Bayom HaShmini (\"on the Eighth Day\")",
+              "nodes": [
+                {
+                  "heTitle": "הקדמה",
+                  "enTitle": "Introduction"
+                },
+                {
+                  "heTitle": "",
+                  "enTitle": ""
+                }
+              ]
+            },
+            {
+              "heTitle": "בן סירא",
+              "enTitle": "Ben Sira"
+            },
+            {
+              "heTitle": "בן שוע",
+              "enTitle": "Ben Shua"
+            },
+            {
+              "heTitle": "דרשות ר' בנאה",
+              "enTitle": "Drashot of Rabbi Bena'ah",
+              "nodes": [
+                {
+                  "heTitle": "הקדמה",
+                  "enTitle": "Introduction"
+                },
+                {
+                  "heTitle": "",
+                  "enTitle": ""
+                },
+                {
+                  "heTitle": "נוסחא אחרת של דרשת ר' בנאה",
+                  "enTitle": "Drashot of Rabbi Bena'ah (Alternate Version)"
+                }
+              ]
+            },
+            {
+              "heTitle": "מדרש הגדול",
+              "enTitle": "Midrash Hagadol"
+            },
+            {
+              "heTitle": "מדרש גדול וגדולה",
+              "enTitle": "Midrash Gadol u'Gedolah",
+              "nodes": [
+                {
+                  "heTitle": "הקדמה",
+                  "enTitle": "Introduction"
+                },
+                {
+                  "heTitle": "",
+                  "enTitle": ""
+                }
+              ]
+            },
+            {
+              "heTitle": "גיהנם",
+              "enTitle": "Gehinnom"
+            },
+            {
+              "heTitle": "מדרש הגלוי",
+              "enTitle": "Midrash HaGalui"
+            },
+            {
+              "heTitle": "מדרש גלית הפלשתי",
+              "enTitle": "Midrash on Goliath the Phillistine",
+              "nodes": [
+                {
+                  "heTitle": "הקדמה",
+                  "enTitle": "Introduction"
+                },
+                {
+                  "heTitle": "",
+                  "enTitle": ""
+                }
+              ]
+            },
+            {
+              "heTitle": "גן עדן; גיהנם",
+              "enTitle": "The Garden of Eden; Gehinnom",
+              "nodes": [
+                {
+                  "heTitle": "הקדמה",
+                  "enTitle": "Introduction"
+                },
+                {
+                  "heTitle": "מסכת גן עדן",
+                  "enTitle": "Tractate of Gan Eden"
+                },
+                {
+                  "heTitle": "סדר גן עדן",
+                  "enTitle": "Seder Gan Eden"
+                },
+                {
+                  "heTitle": "סדר גן עדן, נוסחא ב",
+                  "enTitle": "Seder Gan Eden, (version 2)"
+                },
+                {
+                  "heTitle": "סעודת גן עדן",
+                  "enTitle": "The Feast of the Garden of Eden"
+                },
+                {
+                  "heTitle": "סעודת לויתן",
+                  "enTitle": "The Feast of the Leviathan"
+                },
+                {
+                  "heTitle": "פרק גן החיים",
+                  "enTitle": "Chapter of the Garden of Life"
+                },
+                {
+                  "heTitle": "מסכת גיהנם",
+                  "enTitle": "The Book of Gehinnom"
+                },
+                {
+                  "heTitle": "פרק מגיהנם לר׳ יצחק בן פרנך",
+                  "enTitle": "Chapter from Gehinnom, by Rabbi Yitzchak ben Parnach"
+                },
+                {
+                  "heTitle": "מסכת חבוט הקבר",
+                  "enTitle": "Tractate 'The Beating in the Grave'"
+                },
+                {
+                  "heTitle": "כיצד דין הקבר",
+                  "enTitle": "The Judgment of the Grave"
+                }
+              ]
+            },
+            {
+              "heTitle": "דברי הימים של משה",
+              "enTitle": "Divrei Hayamim of Moshe"
+            },
+            {
+              "heTitle": "דברים זוטא",
+              "enTitle": "Devarim Zuta"
+            },
+            {
+              "heTitle": "אגדות של דורשי רשומות",
+              "enTitle": "Agadot of Dorshei Reshumot",
+              "nodes": [
+                {
+                  "heTitle": "הקדמה",
+                  "enTitle": "Introduction"
+                },
+                {
+                  "heTitle": "",
+                  "enTitle": ""
+                },
+                {
+                  "heTitle": "דורשי חמורות",
+                  "enTitle": "Dorshei Chamurot"
+                }
+              ]
+            },
+            {
+              "heTitle": "מעשה דניאל ע״ה",
+              "enTitle": "The Story of Daniel",
+              "nodes": [
+                {
+                  "heTitle": "הקדמה",
+                  "enTitle": "Introduction"
+                },
+                {
+                  "heTitle": "",
+                  "enTitle": ""
+                }
+              ]
+            },
+            {
+              "heTitle": "מסכת דרך ארץ",
+              "enTitle": "Tractate  Derech Eretz"
+            },
+            {
+              "heTitle": "ה׳ בחכמה יסד ארץ",
+              "enTitle": "The Lord Founded the Earth by Wisdom",
+              "nodes": [
+                {
+                  "heTitle": "הקדמה",
+                  "enTitle": "Introduction"
+                },
+                {
+                  "heTitle": "",
+                  "enTitle": ""
+                }
+              ]
+            },
+            {
+              "heTitle": "הגדה",
+              "enTitle": "Haggadah"
+            },
+            {
+              "heTitle": "הגדה של פסח",
+              "enTitle": "Passover Haggadah"
+            },
+            {
+              "heTitle": "הזהיר",
+              "enTitle": "Midrash \"Hizhir\""
+            },
+            {
+              "heTitle": "היכלות",
+              "enTitle": "Hekhalot",
+              "nodes": [
+                {
+                  "heTitle": "הקדמה",
+                  "enTitle": "Introduction"
+                },
+                {
+                  "heTitle": "מסכת היכלות",
+                  "enTitle": "Tractate Hekhalot"
+                },
+                {
+                  "heTitle": "היכלות רבתי",
+                  "enTitle": "Hekhalot Rabbati"
+                },
+                {
+                  "heTitle": "פרק מפרקי היכלות",
+                  "enTitle": "Chapter from the Chapters of Hekhalot"
+                },
+                {
+                  "heTitle": "שבעה היכלות הטומאה",
+                  "enTitle": "The Seven Palaces of Impurity"
+                }
+              ]
+            },
+            {
+              "heTitle": "מדרש הַלֵל הנקרא ספר המעשים",
+              "enTitle": "Midrash on Hallel 'Sefer HaMa'asim'",
+              "nodes": [
+                {
+                  "heTitle": "הקדמה",
+                  "enTitle": "Introduction"
+                },
+                {
+                  "heTitle": "",
+                  "enTitle": ""
+                }
+              ]
+            },
+            {
+              "heTitle": "הרנינו",
+              "enTitle": "Midrash Harninu"
+            },
+            {
+              "heTitle": "השכם",
+              "enTitle": "Hashkem",
+              "nodes": [
+                {
+                  "heTitle": "הקדמה",
+                  "enTitle": "Introduction"
+                },
+                {
+                  "heTitle": "מדרש השכם",
+                  "enTitle": "Midrash Hashkem ('Arise Early')"
+                }
+              ]
+            },
+            {
+              "heTitle": "ואשה אחת מנשי בני הנביאים",
+              "enTitle": "A Certain Woman From the Wives of the Sons of the Prophets",
+              "nodes": [
+                {
+                  "heTitle": "",
+                  "enTitle": ""
+                }
+              ]
+            },
+            {
+              "heTitle": "מדרש והוא עבר לפניהם",
+              "enTitle": "Midrash 'And He Passed Before Them'"
+            },
+            {
+              "heTitle": "מדרש והזהיר",
+              "enTitle": "Midrash V'Hizhir ('And He Warned')"
+            },
+            {
+              "heTitle": "מדרש ויושע",
+              "enTitle": "Midrash  Vayosha ('And He Saved')",
+              "nodes": [
+                {
+                  "heTitle": "הקדמה",
+                  "enTitle": "Introduction"
+                },
+                {
+                  "heTitle": "",
+                  "enTitle": ""
+                }
+              ]
+            },
+            {
+              "heTitle": "מדרש ויכלו",
+              "enTitle": "Vayechulu ('And They Were Completed')",
+              "nodes": [
+                {
+                  "heTitle": "הקדמה",
+                  "enTitle": "Introduction"
+                },
+                {
+                  "heTitle": "",
+                  "enTitle": ""
+                }
+              ]
+            },
+            {
+              "heTitle": "מדרש ויסעו",
+              "enTitle": "Midrash Vayissu ('And They Journeyed')"
+            },
+            {
+              "heTitle": "זהר",
+              "enTitle": "Zohar"
+            },
+            {
+              "heTitle": "זהר חדש",
+              "enTitle": "Zohar Chadash"
+            },
+            {
+              "heTitle": "זוטא",
+              "enTitle": "Zuta"
+            },
+            {
+              "heTitle": "ספר זרובבל",
+              "enTitle": "The Book of Zerubavel",
+              "nodes": [
+                {
+                  "heTitle": "הקדמה",
+                  "enTitle": "Introduction"
+                },
+                {
+                  "heTitle": "",
+                  "enTitle": ""
+                }
+              ]
+            },
+            {
+              "heTitle": "מסכת חיבוט הקבר",
+              "enTitle": "Tractate Chibut HaKever ('Beating in the Grave')"
+            },
+            {
+              "heTitle": "חולדה ובור",
+              "enTitle": "The Weasel and the Pit",
+              "nodes": [
+                {
+                  "heTitle": "הקדמה",
+                  "enTitle": "Introduction"
+                },
+                {
+                  "heTitle": "",
+                  "enTitle": ""
+                }
+              ]
+            },
+            {
+              "heTitle": "חופת אליהו",
+              "enTitle": "Chuppah of Eliyahu",
+              "nodes": [
+                {
+                  "heTitle": "הקדמה",
+                  "enTitle": "Introduction"
+                },
+                {
+                  "heTitle": "שבע חופות או חופת אליהו",
+                  "enTitle": "Seven Chupot or Eliyahu's Chuppah"
+                },
+                {
+                  "heTitle": "חופת אליהו רבה",
+                  "enTitle": "Chuppat Eliyahu Rabbah"
+                }
+              ]
+            },
+            {
+              "heTitle": "מדרש חָזִיתָ",
+              "enTitle": "Midrash Chazita"
+            },
+            {
+              "heTitle": "ענין חירם מלך צור",
+              "enTitle": "The Incident of Chiram, King of Tsur",
+              "nodes": [
+                {
+                  "heTitle": "הקדמה",
+                  "enTitle": "Introduction"
+                },
+                {
+                  "heTitle": "",
+                  "enTitle": ""
+                }
+              ]
+            },
+            {
+              "heTitle": "חכם הרזים",
+              "enTitle": "The Wise One of Secrets"
+            },
+            {
+              "heTitle": "ספר חנוך",
+              "enTitle": "The Book of Chanoch",
+              "nodes": [
+                {
+                  "heTitle": "הקדמה",
+                  "enTitle": "Introduction"
+                },
+                {
+                  "heTitle": "חיי חנוך",
+                  "enTitle": "The Life of Chanoch"
+                },
+                {
+                  "heTitle": "",
+                  "enTitle": ""
+                }
+              ]
+            },
+            {
+              "heTitle": "מדרשים על חנוכה",
+              "enTitle": "Chanukah",
+              "nodes": [
+                {
+                  "heTitle": "הקדמה",
+                  "enTitle": "Introduction"
+                },
+                {
+                  "heTitle": "מגלת אנטיוכס הנקראת מגלה יונית",
+                  "enTitle": "Megilat Antiochus, Called \"The Greek Scroll\""
+                },
+                {
+                  "heTitle": "מדרש מעשה חנוכה",
+                  "enTitle": "Midrash The Tale of Chanukah"
+                },
+                {
+                  "heTitle": "מעשה חנוכה נוסח ב׳",
+                  "enTitle": "The Tale of Chanukah, (Version 2)"
+                },
+                {
+                  "heTitle": "מדרש לחנוכה",
+                  "enTitle": "Midrash for Chanukah"
+                }
+              ]
+            },
+            {
+              "heTitle": "מדרשי חסר ויתר",
+              "enTitle": "Midrashim on Missing and Extra Letters",
+              "nodes": [
+                {
+                  "heTitle": "הקדמה",
+                  "enTitle": "Introduction"
+                },
+                {
+                  "heTitle": "",
+                  "enTitle": ""
+                }
+              ]
+            },
+            {
+              "heTitle": "חרב של משה",
+              "enTitle": "Moshe's Sword"
+            },
+            {
+              "heTitle": "פרק ר' יאשיהו",
+              "enTitle": "Chapter of Rabbi Yoshiahu",
+              "nodes": [
+                {
+                  "heTitle": "הקדמה",
+                  "enTitle": "Introduction"
+                },
+                {
+                  "heTitle": "",
+                  "enTitle": ""
+                }
+              ]
+            },
+            {
+              "heTitle": "יהודית",
+              "enTitle": "Yehudit",
+              "nodes": [
+                {
+                  "heTitle": "הקדמה",
+                  "enTitle": "Introduction"
+                },
+                {
+                  "heTitle": "מעשה יהודית 1",
+                  "enTitle": "The Tale of Yehudit (Version 1)"
+                },
+                {
+                  "heTitle": "מעשה יהודית 2",
+                  "enTitle": "The Tale of Yehudit (Version 2)"
+                }
+              ]
+            },
+            {
+              "heTitle": "ספור יהושע בן נון",
+              "enTitle": "Tale of Yehoshua Bin Nun",
+              "nodes": [
+                {
+                  "heTitle": "הקדמה",
+                  "enTitle": "Introduction"
+                },
+                {
+                  "heTitle": "אגרת יהושע בן נון",
+                  "enTitle": "Letter of Yehoshua bin Nun"
+                }
+              ]
+            },
+            {
+              "heTitle": "מעשה דר׳ יהושע בן לוי",
+              "enTitle": "A Tale of Rabbi Yehoshua ben Levy",
+              "nodes": [
+                {
+                  "heTitle": "הקדמה",
+                  "enTitle": "Introduction"
+                },
+                {
+                  "heTitle": "",
+                  "enTitle": ""
+                },
+                {
+                  "heTitle": "אגרת ר׳ יהושע בן לוי",
+                  "enTitle": "Letter of Rabbi Yehoshua ben Levy"
+                }
+              ]
+            },
+            {
+              "heTitle": "יואב",
+              "enTitle": "Yoav",
+              "nodes": [
+                {
+                  "heTitle": "הקדמה",
+                  "enTitle": "Introduction"
+                },
+                {
+                  "heTitle": "מדרש רבותינו על הפסוק והוא עבר לפניהם",
+                  "enTitle": "Midrash on the Verse \"And He Passed Before Them\""
+                }
+              ]
+            },
+            {
+              "heTitle": "מכתב ר׳ יוחנן בן זכאי מירושלם",
+              "enTitle": "Letter of Rabbi Yochanan ben Zakkai from Jerusalem",
+              "nodes": [
+                {
+                  "heTitle": "הקדמה",
+                  "enTitle": "Introduction"
+                },
+                {
+                  "heTitle": "",
+                  "enTitle": ""
+                }
+              ]
+            },
+            {
+              "heTitle": "מדרשים על ספר יונה",
+              "enTitle": "Midrashim on Sefer Yonah",
+              "nodes": [
+                {
+                  "heTitle": "הקדמה",
+                  "enTitle": "Introduction"
+                },
+                {
+                  "heTitle": "(מדרש יונה (מפרקי דר\"א",
+                  "enTitle": "Midrash Yonah (From Pirkei d'Rabi Eliezer)"
+                },
+                {
+                  "heTitle": "מדרש יונה נוסחא א׳",
+                  "enTitle": "Midrash Yonah (version 1)"
+                },
+                {
+                  "heTitle": "'מדרש יונה נוסחא ב",
+                  "enTitle": "Midrash Yonah (Version 2)"
+                }
+              ]
+            },
+            {
+              "heTitle": "ילמדנו",
+              "enTitle": "Midrash Yelamdeinu",
+              "nodes": [
+                {
+                  "heTitle": "הקדמה",
+                  "enTitle": "Introduction"
+                },
+                {
+                  "heTitle": "קונדריס אחרון ממדרש ילמדנו",
+                  "enTitle": "Last Composition from Midrash Yelamdenu"
+                }
+              ]
+            },
+            {
+              "heTitle": "ילקוט",
+              "enTitle": "Yalkut"
+            },
+            {
+              "heTitle": "ספר יסוד",
+              "enTitle": "Sefer Yesod (\"Foundation\") of Rabbi Moshe HaDarshan"
+            },
+            {
+              "heTitle": "יעקב אבינו",
+              "enTitle": "Yaakov Our Father",
+              "nodes": [
+                {
+                  "heTitle": "הקדמה",
+                  "enTitle": "Introduction"
+                },
+                {
+                  "heTitle": "ברכת יעקב אבינו לבניו",
+                  "enTitle": "Yaakov Our Father's Blessing to His Sons"
+                },
+                {
+                  "heTitle": "לקח טוב על ברכת יעקב אבינו ע״ה",
+                  "enTitle": "Lekach Tov on the Blessings of Yaakov Our Father"
+                },
+                {
+                  "heTitle": "צוואת נפתלי בן יעקב",
+                  "enTitle": "The Testament of Naftali ben Yaakov"
+                },
+                {
+                  "heTitle": "אגדה בבני יעקב",
+                  "enTitle": "Aggadah of the Sons of Yaakov"
+                }
+              ]
+            },
+            {
+              "heTitle": "ספר יצירה",
+              "enTitle": "Sefer Yetzirah",
+              "nodes": [
+                {
+                  "heTitle": "הקדמה",
+                  "enTitle": "Introduction"
+                },
+                {
+                  "heTitle": "",
+                  "enTitle": ""
+                }
+              ]
+            },
+            {
+              "heTitle": "יצירת הולד",
+              "enTitle": "The Creation of the Embryo",
+              "nodes": [
+                {
+                  "heTitle": "הקדמה",
+                  "enTitle": "Introduction"
+                },
+                {
+                  "heTitle": "",
+                  "enTitle": ""
+                },
+                {
+                  "heTitle": "סדר יצירת הולד",
+                  "enTitle": "Order of the Creation of the Embryo"
+                }
+              ]
+            },
+            {
+              "heTitle": "מדרש ירמיה",
+              "enTitle": "Midrash on Yirmiyahu",
+              "nodes": [
+                {
+                  "heTitle": "הקדמה",
+                  "enTitle": "Introduction"
+                },
+                {
+                  "heTitle": "אגדה ממדרש איכה רבתי",
+                  "enTitle": "Aggadah from Midrash Eichah Rabbati"
+                }
+              ]
+            },
+            {
+              "heTitle": "ברייתא דישועה",
+              "enTitle": "Baraita of Yeshua (\"Salvation\")",
+              "nodes": [
+                {
+                  "heTitle": "הקדמה",
+                  "enTitle": "Introduction"
+                },
+                {
+                  "heTitle": "",
+                  "enTitle": ""
+                }
+              ]
+            },
+            {
+              "heTitle": "אגדת רבי ישמעאל",
+              "enTitle": "Aggadah of Rabbi Yishmael",
+              "nodes": [
+                {
+                  "heTitle": "הקדמה",
+                  "enTitle": "Introduction"
+                },
+                {
+                  "heTitle": "",
+                  "enTitle": ""
+                }
+              ]
+            },
+            {
+              "heTitle": "ספר הישר",
+              "enTitle": "Sefer HaYashar"
+            },
+            {
+              "heTitle": "מדרש יתברך",
+              "enTitle": "Midrash Yitbarach ('May He Be Blessed')",
+              "nodes": [
+                {
+                  "heTitle": "הקדמה",
+                  "enTitle": "Introduction"
+                },
+                {
+                  "heTitle": "",
+                  "enTitle": ""
+                }
+              ]
+            },
+            {
+              "heTitle": "מעשה ברב כהנא",
+              "enTitle": "A Tale of Rabbi Kahana",
+              "nodes": [
+                {
+                  "heTitle": "הקדמה",
+                  "enTitle": "Introduction"
+                },
+                {
+                  "heTitle": "",
+                  "enTitle": ""
+                }
+              ]
+            },
+            {
+              "heTitle": "מדרש כונן",
+              "enTitle": "Midrash Konen ('He Established')",
+              "nodes": [
+                {
+                  "heTitle": "הקדמה",
+                  "enTitle": "Introduction"
+                },
+                {
+                  "heTitle": "",
+                  "enTitle": ""
+                }
+              ]
+            },
+            {
+              "heTitle": "מסכת כלה",
+              "enTitle": "Tractate Kallah"
+            },
+            {
+              "heTitle": "(מסכת כלים (של בית המקדש",
+              "enTitle": "Tractate Keilim (Vessels of the Temple)",
+              "nodes": [
+                {
+                  "heTitle": "הקדמה",
+                  "enTitle": "Introduction"
+                },
+                {
+                  "heTitle": "",
+                  "enTitle": ""
+                }
+              ]
+            },
+            {
+              "heTitle": "מדרש כתפוח בעצי היער",
+              "enTitle": "Midrash 'As an Apple Tree Among the Trees of the Forest'",
+              "nodes": [
+                {
+                  "heTitle": "הקדמה",
+                  "enTitle": "Introduction"
+                },
+                {
+                  "heTitle": "",
+                  "enTitle": ""
+                }
+              ]
+            },
+            {
+              "heTitle": "מדרש לבנת הספיר",
+              "enTitle": "Midrash Livnat HaSaphir"
+            },
+            {
+              "heTitle": "סעודת לויתן",
+              "enTitle": "Feast of Leviathan"
+            },
+            {
+              "heTitle": "ל\"ב מדות באגדה",
+              "enTitle": "Baraita of The 32 Midot of Aggadah",
+              "nodes": [
+                {
+                  "heTitle": "הקדמה",
+                  "enTitle": "Introduction"
+                },
+                {
+                  "heTitle": "",
+                  "enTitle": ""
+                }
+              ]
+            },
+            {
+              "heTitle": "מדרש לעולם",
+              "enTitle": "Midrash  'Leolam'",
+              "nodes": [
+                {
+                  "heTitle": "הקדמה",
+                  "enTitle": "Introduction"
+                },
+                {
+                  "heTitle": "",
+                  "enTitle": ""
+                }
+              ]
+            },
+            {
+              "heTitle": "מדרש לקח טוב",
+              "enTitle": "Midrash Lekach Tov"
+            },
+            {
+              "heTitle": "מעשה בר' מאיר",
+              "enTitle": "A Tale of Rabbi Meir",
+              "nodes": [
+                {
+                  "heTitle": "הקדמה",
+                  "enTitle": "Introduction"
+                },
+                {
+                  "heTitle": "",
+                  "enTitle": ""
+                }
+              ]
+            },
+            {
+              "heTitle": "מגילות שונות",
+              "enTitle": "Various 'Megilot'",
+              "nodes": [
+                {
+                  "heTitle": "הקדמה",
+                  "enTitle": "Introduction"
+                },
+                {
+                  "heTitle": "מגילת בית במקדש",
+                  "enTitle": "Megillat Beit Hamikdash"
+                },
+                {
+                  "heTitle": "מגילת סממנין",
+                  "enTitle": "Megillat Samemanin ('Spices')"
+                },
+                {
+                  "heTitle": "מגילה שמצא אדם אחד",
+                  "enTitle": "Megillah that was found"
+                },
+                {
+                  "heTitle": "מגילת חסידים",
+                  "enTitle": "Megillat Hasidim"
+                },
+                {
+                  "heTitle": "מגילת סתרים",
+                  "enTitle": "Megillat Setarim"
+                },
+                {
+                  "heTitle": "מגילת יוחסין",
+                  "enTitle": "Megillat Yuchsin"
+                },
+                {
+                  "heTitle": "מגילת בית חשמונאי",
+                  "enTitle": "Megillat Beit Chashmonai"
+                }
+              ]
+            },
+            {
+              "heTitle": "מדות טובות",
+              "enTitle": "Midot Tovot"
+            },
+            {
+              "heTitle": "ברייתא דמזלות",
+              "enTitle": "Baraita on Mazalot",
+              "nodes": [
+                {
+                  "heTitle": "הקדמה",
+                  "enTitle": "Introduction"
+                },
+                {
+                  "heTitle": "",
+                  "enTitle": ""
+                }
+              ]
+            },
+            {
+              "heTitle": "מטטרון - חנוך",
+              "enTitle": "The Angel Metatron (Chanoch)",
+              "nodes": [
+                {
+                  "heTitle": "הקדמה",
+                  "enTitle": "Introduction"
+                },
+                {
+                  "heTitle": "",
+                  "enTitle": ""
+                },
+                {
+                  "heTitle": "סדר רוחות",
+                  "enTitle": "Seder Ruchot (Spirits)"
+                },
+                {
+                  "heTitle": "סדר עירין",
+                  "enTitle": "Seder Irin (Angels)"
+                },
+                {
+                  "heTitle": "סדר דין",
+                  "enTitle": "Seder Din (Judgement)"
+                },
+                {
+                  "heTitle": "סדר מחנות",
+                  "enTitle": "Seder Machanot (Groups of Angels)"
+                }
+              ]
+            },
+            {
+              "heTitle": "מ\"ט מדות",
+              "enTitle": "Forty Nine Midot",
+              "nodes": [
+                {
+                  "heTitle": "הקדמה",
+                  "enTitle": "Introduction"
+                },
+                {
+                  "heTitle": "לקוטים מברייתא דמ\"ט מדות",
+                  "enTitle": "Compilation from Baraita of 49 Midot"
+                }
+              ]
+            },
+            {
+              "heTitle": "מי השילוח",
+              "enTitle": "Midrash Mei HaShiloach"
+            },
+            {
+              "heTitle": "מכילתא",
+              "enTitle": "Mechilta"
+            },
+            {
+              "heTitle": "ילקוט המכירי",
+              "enTitle": "Yalkut Machiri"
+            },
+            {
+              "heTitle": "ברייתא דמלאכת המשכן",
+              "enTitle": "Baraita of Melechet HaMishkan",
+              "nodes": [
+                {
+                  "heTitle": "הקדמה",
+                  "enTitle": "Introduction"
+                },
+                {
+                  "heTitle": "",
+                  "enTitle": ""
+                }
+              ]
+            },
+            {
+              "heTitle": "מדרש מִנַיִן",
+              "enTitle": "Midrash Minayin",
+              "nodes": [
+                {
+                  "heTitle": "הקדמה",
+                  "enTitle": "Introduction"
+                },
+                {
+                  "heTitle": "",
+                  "enTitle": ""
+                }
+              ]
+            },
+            {
+              "heTitle": "מעין החכמה",
+              "enTitle": "Maayan HaChochmah",
+              "nodes": [
+                {
+                  "heTitle": "הקדמה",
+                  "enTitle": "Introduction"
+                },
+                {
+                  "heTitle": "'מעין החכמה נוסחא א",
+                  "enTitle": "Maayan HaChochmah (Version 1)"
+                },
+                {
+                  "heTitle": "'מעין החכמה נוסחא ב",
+                  "enTitle": "Maayan HaChochmah (Version 2)"
+                }
+              ]
+            },
+            {
+              "heTitle": "מעשה בראשית ומעשה מרכבה",
+              "enTitle": "Maaseh Beraishit & Maaseh Merkavah",
+              "nodes": [
+                {
+                  "heTitle": "הקדמה",
+                  "enTitle": "Introduction"
+                },
+                {
+                  "heTitle": "סדר רבה דבראשית דמרכבה דר\"י כ\"ג",
+                  "enTitle": "Seder Rabbah d'Beraishit d'Merkavah"
+                },
+                {
+                  "heTitle": "זה מעשה בראשית",
+                  "enTitle": "Zeh Maaseh Beraishit (Work of Creation)"
+                },
+                {
+                  "heTitle": "ברייתא דמעשה בראשית",
+                  "enTitle": "Baraita of Maaseh Beraishit"
+                }
+              ]
+            },
+            {
+              "heTitle": "מעשה תורה דרבינו הקדוש",
+              "enTitle": "Maaseh Torah of Our Holy Master (Rabeinu HaKadosh)"
+            },
+            {
+              "heTitle": "מעשיות שונות",
+              "enTitle": "Selection of Various Tales",
+              "nodes": [
+                {
+                  "heTitle": "הקדמה",
+                  "enTitle": "Translation"
+                },
+                {
+                  "heTitle": "מעשה ביכניהו המלך",
+                  "enTitle": "Story of King Jechonya"
+                },
+                {
+                  "heTitle": "מעשה באחד מארץ ישראל",
+                  "enTitle": "Story of the Man from the Land of Israel"
+                },
+                {
+                  "heTitle": "עובדא דיהודאה דאזל לארעא דקדר",
+                  "enTitle": "Story of the Jew Who Went to Land of Kedar"
+                },
+                {
+                  "heTitle": "מעשה בשני תלמידי חכמים חסידים",
+                  "enTitle": "Story of Two Pious Sages"
+                },
+                {
+                  "heTitle": "מעשה ברבי אליעזר ורבי יהושע שעלו לרגל",
+                  "enTitle": "Story of Rabbi Eliezer & Rabbi Joshua on Pilgrimage"
+                },
+                {
+                  "heTitle": "מעשה באיש תלמיד חכם חסיד ועניו",
+                  "enTitle": "Story of a Pious and Humble Sage"
+                },
+                {
+                  "heTitle": "מעשה באיש אחד עשיר גדול מאד",
+                  "enTitle": "Story of the Wealthy Man"
+                },
+                {
+                  "heTitle": "איש חסיד היה",
+                  "enTitle": "The Pious Pauper"
+                },
+                {
+                  "heTitle": "מעשה בחסיד אחד שהיה לו עשרה בנים",
+                  "enTitle": "Story of the Pious Man with Ten Sons"
+                },
+                {
+                  "heTitle": "נתן דציצותא",
+                  "enTitle": "Nathan of Tzitzuta"
+                },
+                {
+                  "heTitle": "מעשה בשני בני אדם לסטים",
+                  "enTitle": "Story of the Two Bandits"
+                },
+                {
+                  "heTitle": "מעשה באדם אחד שהיו לו שלש בנות",
+                  "enTitle": "Story of the Man with Three Daughters"
+                },
+                {
+                  "heTitle": "מעשה בימי דוד מלך ישראל שהלך יואב",
+                  "enTitle": "Story of David and Joab"
+                },
+                {
+                  "heTitle": "מעשה ברבי ראובן",
+                  "enTitle": "Story of Rabbi Reuben"
+                },
+                {
+                  "heTitle": "מעשה ברבי שמעון הגדול בעיר מגנצא",
+                  "enTitle": "The Story of Rabbi Shimon of Mainz"
+                },
+                {
+                  "heTitle": "האפיפיור היהודי",
+                  "enTitle": "The Jewish Pope"
+                },
+                {
+                  "heTitle": "איש תם ומשכיל בארץ שנער",
+                  "enTitle": "The Wise and Honest Man of Shinar"
+                },
+                {
+                  "heTitle": "אשה העניה והשידה",
+                  "enTitle": "The Poor Woman and the Demon"
+                },
+                {
+                  "heTitle": "ביטול הגזירות",
+                  "enTitle": "Annulling the Decree"
+                },
+                {
+                  "heTitle": "מעשה בבן סבר",
+                  "enTitle": "Story of Ben Sabar"
+                },
+                {
+                  "heTitle": "מעשה באדם אחד שהלך בדרך בסחורה",
+                  "enTitle": "Story of the Traveling Merchant"
+                },
+                {
+                  "heTitle": "ארווש הפילוסוף",
+                  "enTitle": "Arvas the Philosopher"
+                },
+                {
+                  "heTitle": "מעשה בימי ר' יהודה החסיד",
+                  "enTitle": "Story with Rabbi Judah the Pious"
+                },
+                {
+                  "heTitle": "זמן הגאולה",
+                  "enTitle": "The Time of Redemption"
+                },
+                {
+                  "heTitle": "מעשה בקמצן גדול שאין כמוהו בכל העולם",
+                  "enTitle": "Story of the Big Miser"
+                },
+                {
+                  "heTitle": "מעשה באיש זקן עשיר גדול שהיה לו בן יחיד",
+                  "enTitle": "Story of the Old Man with Only Son"
+                },
+                {
+                  "heTitle": "מעשה באדם אחד עני מאד",
+                  "enTitle": "Story of the Pauper with Many Children"
+                },
+                {
+                  "heTitle": "מעשה באדם שהיה לו בן והיה אוהב אותו",
+                  "enTitle": "Story of the Man with the Beloved Son"
+                },
+                {
+                  "heTitle": "החסיד שהתעשר",
+                  "enTitle": "The Righteous Man Who Became Wealthy"
+                },
+                {
+                  "heTitle": "השיכור ובניו",
+                  "enTitle": "The Drunkard and His Sons"
+                },
+                {
+                  "heTitle": "מעשה בחסיד אחד שהיה רגיל ליתן צדקה",
+                  "enTitle": "Story of The Righteous and Charitable Man"
+                },
+                {
+                  "heTitle": "מי הבן האמיתי",
+                  "enTitle": "Who is the True Son"
+                },
+                {
+                  "heTitle": "האשה שנסקלה",
+                  "enTitle": "The Woman Who Was Stoned"
+                },
+                {
+                  "heTitle": "מעשה בחסיד אחד שהיה לו בן אחד ושמו ר' יוחנן",
+                  "enTitle": "Story of the Pious Man and His Son Rabbi Yochanan"
+                },
+                {
+                  "heTitle": "הביצה השלוקה",
+                  "enTitle": "The Boiled Egg"
+                },
+                {
+                  "heTitle": "מעשה בשני אחים אחד עשיר ואחד עני",
+                  "enTitle": "The Rich Man and the Pauper"
+                },
+                {
+                  "heTitle": "מעשה באדם אחד עשיר גדול ולו אשה יפה",
+                  "enTitle": "The Rich Man with the Beautiful Wife"
+                },
+                {
+                  "heTitle": "צדיק מצרה נחלץ",
+                  "enTitle": "The Righteous Man Rescued from Distress"
+                }
+              ]
+            },
+            {
+              "heTitle": "ספר המעשים",
+              "enTitle": "The Book of Tales",
+              "nodes": [
+                {
+                  "heTitle": "הקדמה",
+                  "enTitle": "Introduction"
+                },
+                {
+                  "heTitle": "",
+                  "enTitle": ""
+                }
+              ]
+            },
+            {
+              "heTitle": "מרגניתא דבי רב",
+              "enTitle": "Marganita d'Bei Rav",
+              "nodes": [
+                {
+                  "heTitle": "הקדמה",
+                  "enTitle": "Introduction"
+                },
+                {
+                  "heTitle": "",
+                  "enTitle": ""
+                }
+              ]
+            },
+            {
+              "heTitle": "מרדכי דאסתר",
+              "enTitle": "Mordechai & Esther"
+            },
+            {
+              "heTitle": "מדרשים על משה רבינו",
+              "enTitle": "Midrashim on Moses Our Master",
+              "nodes": [
+                {
+                  "heTitle": "הקדמה",
+                  "enTitle": "Introduction"
+                },
+                {
+                  "heTitle": "דברי הימים למשה רבינו",
+                  "enTitle": "Divrei HaYamim of Moses Our Master"
+                },
+                {
+                  "heTitle": "פטירת משה רבינו ע״ה  נוסחא א",
+                  "enTitle": "The Death of Moses (Version 1)"
+                },
+                {
+                  "heTitle": "פטירת משה רבינו ע״ה  נוסחא ב",
+                  "enTitle": "The Death of Moses (Version 2)"
+                },
+                {
+                  "heTitle": "דרש לפטירת מרע״ה",
+                  "enTitle": "Drash on Petirat Moshe"
+                },
+                {
+                  "heTitle": "מדרש פטירת משה רבינו ע״ה",
+                  "enTitle": "Midrash on the Death of Moses"
+                },
+                {
+                  "heTitle": "אגדתא דבני משה",
+                  "enTitle": "Aggadah of the Descendants of Moses"
+                }
+              ]
+            },
+            {
+              "heTitle": "משיח",
+              "enTitle": "Midrashim on The Messiah",
+              "nodes": [
+                {
+                  "heTitle": "הקדמה",
+                  "enTitle": "Introduction"
+                },
+                {
+                  "heTitle": "אגדת משיח",
+                  "enTitle": "Aggadah on The Messiah"
+                },
+                {
+                  "heTitle": "אותות המשיח",
+                  "enTitle": "Otot Mashiach (Signs of the Messiah)"
+                },
+                {
+                  "heTitle": "פרקי משיח",
+                  "enTitle": "Pirkei Mashiach"
+                },
+                {
+                  "heTitle": "מלחמות מלך המשיח",
+                  "enTitle": "Wars of the Messiah"
+                }
+              ]
+            },
+            {
+              "heTitle": "נבואת הילד",
+              "enTitle": "Prophecy of the Young Boy",
+              "nodes": [
+                {
+                  "heTitle": "הקדמה",
+                  "enTitle": "Introduction"
+                },
+                {
+                  "heTitle": "",
+                  "enTitle": ""
+                }
+              ]
+            },
+            {
+              "heTitle": "ברייתא דמס׳ נדה",
+              "enTitle": "Baraita on Tractate Niddah",
+              "nodes": [
+                {
+                  "heTitle": "הקדמה",
+                  "enTitle": "Introduction"
+                },
+                {
+                  "heTitle": "",
+                  "enTitle": ""
+                }
+              ]
+            },
+            {
+              "heTitle": "ספר נח",
+              "enTitle": "Book of Noah",
+              "nodes": [
+                {
+                  "heTitle": "הקדמה",
+                  "enTitle": "Introduction"
+                },
+                {
+                  "heTitle": "",
+                  "enTitle": ""
+                }
+              ]
+            },
+            {
+              "heTitle": "ר' נחוניא בן הקנה",
+              "enTitle": "R' Nechunya Ben HaKanah"
+            },
+            {
+              "heTitle": "נמוקי רב נחמן",
+              "enTitle": "Nemukei R' Nachman"
+            },
+            {
+              "heTitle": "מדרש הנעלם",
+              "enTitle": "Midrash HaNe'elam"
+            },
+            {
+              "heTitle": "סוד העבור",
+              "enTitle": "Sod Ha'Ibur"
+            },
+            {
+              "heTitle": "סוף דבר",
+              "enTitle": "Sof Davar"
+            },
+            {
+              "heTitle": "ספרא",
+              "enTitle": "Siphra"
+            },
+            {
+              "heTitle": "ספרא דצניעותא",
+              "enTitle": "Siphra D'Tzniuta"
+            },
+            {
+              "heTitle": "ספרי",
+              "enTitle": "Siphrei"
+            },
+            {
+              "heTitle": "ספרי זוטא",
+              "enTitle": "Siphrei Zuta"
+            },
+            {
+              "heTitle": "ע׳ שמות למט״ט",
+              "enTitle": "Seventy Names of Metatron"
+            },
+            {
+              "heTitle": "ספר עדינות",
+              "enTitle": "Sefer Adinut"
+            },
+            {
+              "heTitle": "אגדת עוזא ועזאל",
+              "enTitle": "Agadat Uzza and Azael"
+            },
+            {
+              "heTitle": "אגדת עולם קטן",
+              "enTitle": "Agadat Olam Katan",
+              "nodes": [
+                {
+                  "heTitle": "הקדמה",
+                  "enTitle": "Introduction"
+                },
+                {
+                  "heTitle": "",
+                  "enTitle": ""
+                }
+              ]
+            },
+            {
+              "heTitle": "מדרש עזרא",
+              "enTitle": "Midrash Ezra"
+            },
+            {
+              "heTitle": "ספר העיון",
+              "enTitle": "Sefer HaIyun"
+            },
+            {
+              "heTitle": "מדרשי רבי עקיבא",
+              "enTitle": "Midrashim of Rabbi Akiba",
+              "nodes": [
+                {
+                  "heTitle": "אלפא ביתא דרבי עקיבא נוסחא א׳",
+                  "enTitle": "Aleph Bet of Rabbi Akiba (Version 1)"
+                },
+                {
+                  "heTitle": "'אלפא ביתא דרבי עקיבא נוסחא ב",
+                  "enTitle": "Aleph Bet of Rabbi Akiba (Version 2)"
+                },
+                {
+                  "heTitle": "מדרש רבי עקיבא בן יוסף",
+                  "enTitle": "Midrash of Rabbi Akiba"
+                },
+                {
+                  "heTitle": "אותיות קטנות וטעמיהן",
+                  "enTitle": "The Small Letters and their Purposes"
+                },
+                {
+                  "heTitle": "אותיות גדולות",
+                  "enTitle": "The Enlarged Letters"
+                }
+              ]
+            },
+            {
+              "heTitle": "מדרש עשר גליות",
+              "enTitle": "The Ten Exiles",
+              "nodes": [
+                {
+                  "heTitle": "הקדמה",
+                  "enTitle": "Introduction"
+                },
+                {
+                  "heTitle": "",
+                  "enTitle": ""
+                },
+                {
+                  "heTitle": "עקטאן דמר יעקב",
+                  "enTitle": "The Travails of R' Jacob"
+                }
+              ]
+            },
+            {
+              "heTitle": "עשרה הרוגי מלכות",
+              "enTitle": "The Ten Martyrs",
+              "nodes": [
+                {
+                  "heTitle": "הקדמה",
+                  "enTitle": "Introduction"
+                },
+                {
+                  "heTitle": "מדרש אלה אזכרה",
+                  "enTitle": "Midrash on the Ten Martyrs 'These I recall'"
+                },
+                {
+                  "heTitle": "עשרה הרוגי מלכות  נוסחא ב׳",
+                  "enTitle": "Midrash on the Ten Martyrs (Version 2)"
+                },
+                {
+                  "heTitle": "עשרה הרוגי מלכות  נוסחא ג׳",
+                  "enTitle": "Midrash on the Ten Martyrs (Version 3)"
+                },
+                {
+                  "heTitle": "הוספה למדרש עשרה הרוגי מלכות",
+                  "enTitle": "Addendum to Midrash on the Ten Martyrs"
+                }
+              ]
+            },
+            {
+              "heTitle": "מדרש עשרת הדברות",
+              "enTitle": "Midrash on the Ten Commandments",
+              "nodes": [
+                {
+                  "heTitle": "הקדמה",
+                  "enTitle": "Introduction"
+                },
+                {
+                  "heTitle": "",
+                  "enTitle": ""
+                }
+              ]
+            },
+            {
+              "heTitle": "מדרש עשרת מלכים",
+              "enTitle": "Midrash on the Ten Kings",
+              "nodes": [
+                {
+                  "heTitle": "הקדמה",
+                  "enTitle": "Introduction"
+                },
+                {
+                  "heTitle": "",
+                  "enTitle": ""
+                }
+              ]
+            },
+            {
+              "heTitle": "מדרשים על עשרת השבטים",
+              "enTitle": "Midrashim on the Ten Lost Tribes",
+              "nodes": [
+                {
+                  "heTitle": "הקדמה",
+                  "enTitle": "Introduction"
+                },
+                {
+                  "heTitle": "טופס הכתב ששלח פרישטי יואן לאפיפיור ברומאה",
+                  "enTitle": "Letter from Peter Guan to Pope in Rome"
+                },
+                {
+                  "heTitle": "טופס האגרת ששלח פיטרי גואן אל פרדליק קיסר של רומאה",
+                  "enTitle": "Letter from Peter Guan to Roman Caesar"
+                }
+              ]
+            },
+            {
+              "heTitle": "פטירת אהרן",
+              "enTitle": "Death of Aaron"
+            },
+            {
+              "heTitle": "פטירת משה",
+              "enTitle": "Death of Moses"
+            },
+            {
+              "heTitle": "מדרש פליאה",
+              "enTitle": "Midrash Peliah ('Wondrous Midrash')"
+            },
+            {
+              "heTitle": "ברייתא דר׳ פנחס בן יאיר",
+              "enTitle": "Baraita of Rabbi Pinchas Ben Yair",
+              "nodes": [
+                {
+                  "heTitle": "הקדמה",
+                  "enTitle": "Introduction"
+                },
+                {
+                  "heTitle": "",
+                  "enTitle": ""
+                }
+              ]
+            },
+            {
+              "heTitle": "פנים אחרים",
+              "enTitle": "Panim Acheirim"
+            },
+            {
+              "heTitle": "פסיקתא",
+              "enTitle": "Pesikta",
+              "nodes": [
+                {
+                  "heTitle": "הקדמה",
+                  "enTitle": "Introduction"
+                },
+                {
+                  "heTitle": "פסיקתא חדתא",
+                  "enTitle": "Pesikta Chadata"
+                }
+              ]
+            },
+            {
+              "heTitle": "פרקי ר' אליעזר",
+              "enTitle": "Pirkei Rabbi Eliezer"
+            },
+            {
+              "heTitle": "פרקי ר׳ יוסי",
+              "enTitle": "Pirkei Rabbi Yosi"
+            },
+            {
+              "heTitle": "פרקי בן עזאי",
+              "enTitle": "Pirkei Ben Azzai"
+            },
+            {
+              "heTitle": "פרק צדקות",
+              "enTitle": "Perek Tzedakot",
+              "nodes": [
+                {
+                  "heTitle": "הקדמה",
+                  "enTitle": "Introduction"
+                },
+                {
+                  "heTitle": "",
+                  "enTitle": ""
+                }
+              ]
+            },
+            {
+              "heTitle": "ספר ציוני",
+              "enTitle": "Sefer Tziyoni"
+            },
+            {
+              "heTitle": "קדושא",
+              "enTitle": "Kedusha",
+              "nodes": [
+                {
+                  "heTitle": "הקדמה",
+                  "enTitle": "Introduction"
+                },
+                {
+                  "heTitle": "קדושא ליחיד",
+                  "enTitle": "Kedusha for Individual"
+                },
+                {
+                  "heTitle": "קדושת ברכו ליחיד",
+                  "enTitle": "Barchu for Individual"
+                }
+              ]
+            },
+            {
+              "heTitle": "ספר הקנה",
+              "enTitle": "Sefer HaKaneh"
+            },
+            {
+              "heTitle": "מדרש הקצר",
+              "enTitle": "Midrash HaKatzar"
+            },
+            {
+              "heTitle": "קרי וכתיב",
+              "enTitle": "Keri & K'tiv",
+              "nodes": [
+                {
+                  "heTitle": "הקדמה",
+                  "enTitle": "Introduction"
+                },
+                {
+                  "heTitle": "מדרש קרי ולא כתיב",
+                  "enTitle": "Midrash Keri V'lo Ketiv"
+                },
+                {
+                  "heTitle": "מדרש כתיב ולא קרי",
+                  "enTitle": "Midrash Ketiv V'lo Keri"
+                }
+              ]
+            },
+            {
+              "heTitle": "אגדת קרני ראמים",
+              "enTitle": "Aggadat Karnei Re'emim",
+              "nodes": [
+                {
+                  "heTitle": "הקדמה",
+                  "enTitle": "Introduction"
+                },
+                {
+                  "heTitle": "",
+                  "enTitle": ""
+                }
+              ]
+            },
+            {
+              "heTitle": "מדרש רבה",
+              "enTitle": "Midrash Rabbah"
+            },
+            {
+              "heTitle": "פרקי רבינו הקדוש",
+              "enTitle": "Pirkei Rabbeinu HaKadosh",
+              "nodes": [
+                {
+                  "heTitle": "הקדמה",
+                  "enTitle": "Introduction"
+                },
+                {
+                  "heTitle": "",
+                  "enTitle": ""
+                }
+              ]
+            },
+            {
+              "heTitle": "מדרש רות",
+              "enTitle": "Midrash on Ruth",
+              "nodes": [
+                {
+                  "heTitle": "הקדמה",
+                  "enTitle": "Introduction"
+                },
+                {
+                  "heTitle": "",
+                  "enTitle": ""
+                }
+              ]
+            },
+            {
+              "heTitle": "רזיאל המלאך",
+              "enTitle": "Book of Rezial the Angel"
+            },
+            {
+              "heTitle": "רעיא מהימנא",
+              "enTitle": "Raaya Mehimna"
+            },
+            {
+              "heTitle": "שאילתות",
+              "enTitle": "She'iltot"
+            },
+            {
+              "heTitle": "טעם שבע נקודות",
+              "enTitle": "Explanation of the Seven Vowels",
+              "nodes": [
+                {
+                  "heTitle": "הקדמה",
+                  "enTitle": "Introduction"
+                },
+                {
+                  "heTitle": "",
+                  "enTitle": ""
+                }
+              ]
+            },
+            {
+              "heTitle": "שבעים שמות למט״ט",
+              "enTitle": "Seventy Names of Metatron"
+            },
+            {
+              "heTitle": "מדרש שוחר טוב",
+              "enTitle": "Midrash Shocher Tov"
+            },
+            {
+              "heTitle": "שיר השירים רבה",
+              "enTitle": "Midrash on Song of Songs"
+            },
+            {
+              "heTitle": "פרק שירה",
+              "enTitle": "Perek Shirah ('Chapter of Song')",
+              "nodes": [
+                {
+                  "heTitle": "הקדמה",
+                  "enTitle": "Introduction"
+                },
+                {
+                  "heTitle": "",
+                  "enTitle": ""
+                }
+              ]
+            },
+            {
+              "heTitle": "מדרש שכל טוב",
+              "enTitle": "Midrash Sechel Tov"
+            },
+            {
+              "heTitle": "מדרשים על שלמה המלך",
+              "enTitle": "Midrashim on King Solomon",
+              "nodes": [
+                {
+                  "heTitle": "הקדמה",
+                  "enTitle": "Introduction"
+                },
+                {
+                  "heTitle": "דמות כסא של שלמה המלך ע״ה",
+                  "enTitle": "Description of Solomon's Throne"
+                },
+                {
+                  "heTitle": "כסא ואיפודרומין של שלמה המלך",
+                  "enTitle": "Throne and Hippodrome of King Solomon"
+                },
+                {
+                  "heTitle": "שלמה המלך ונעמה העמונית",
+                  "enTitle": "The Marriage of Solomon and Naamah"
+                },
+                {
+                  "heTitle": "מעשה בעשיר שהיה לו בן יחיד",
+                  "enTitle": "Story of the Wealthy Man with the Only Son"
+                },
+                {
+                  "heTitle": "האשה שבגדה",
+                  "enTitle": "The Unfaithful Wife"
+                },
+                {
+                  "heTitle": "ואשה בכל אלה לא מצאתי",
+                  "enTitle": "The Unfaithful Wife  (2)"
+                },
+                {
+                  "heTitle": "שלושה דברי חכמה",
+                  "enTitle": "The Three Wise Sayings"
+                },
+                {
+                  "heTitle": "כדי הדבש והזהב",
+                  "enTitle": "The Jugs of Honey and the Coins"
+                },
+                {
+                  "heTitle": "האיש בעל שני הראשים",
+                  "enTitle": "The Man with Two Heads"
+                },
+                {
+                  "heTitle": "מעשה הנמלה וההיכל הסגור",
+                  "enTitle": "The Story of the Ant and the Sealed Palace"
+                }
+              ]
+            },
+            {
+              "heTitle": "מדרש שלשה וארבעה",
+              "enTitle": "Midrash Shelosha v'Arba'ah",
+              "nodes": [
+                {
+                  "heTitle": "הקדמה",
+                  "enTitle": "Introduction"
+                },
+                {
+                  "heTitle": "",
+                  "enTitle": ""
+                }
+              ]
+            },
+            {
+              "heTitle": "מדרש שמואל",
+              "enTitle": "Midrash on Book of Samuel"
+            },
+            {
+              "heTitle": "ברייתא דשמואל הקטן",
+              "enTitle": "Baraita of Samuel HaKatan",
+              "nodes": [
+                {
+                  "heTitle": "הקדמה",
+                  "enTitle": "Introduction"
+                },
+                {
+                  "heTitle": "",
+                  "enTitle": ""
+                }
+              ]
+            },
+            {
+              "heTitle": "שמושא רבא וזוטא",
+              "enTitle": "Shimusha Rabba & Zuta",
+              "nodes": [
+                {
+                  "heTitle": "הקדמה",
+                  "enTitle": "Introduction"
+                },
+                {
+                  "heTitle": "סדרי דשמושא רבא וסדרי היכלות",
+                  "enTitle": "Shimusha Rabba"
+                }
+              ]
+            },
+            {
+              "heTitle": "שמחזי ועזאל",
+              "enTitle": "Shamchazai & Azael",
+              "nodes": [
+                {
+                  "heTitle": "הקדמה",
+                  "enTitle": "Introduction"
+                },
+                {
+                  "heTitle": "",
+                  "enTitle": ""
+                }
+              ]
+            },
+            {
+              "heTitle": "אגדת שמע ישראל",
+              "enTitle": "Aggadat Shema Yisrael",
+              "nodes": [
+                {
+                  "heTitle": "הקדמה",
+                  "enTitle": "Introduction"
+                },
+                {
+                  "heTitle": "",
+                  "enTitle": ""
+                }
+              ]
+            },
+            {
+              "heTitle": "מדרשי רבי שמעון בן יוחאי",
+              "enTitle": "Midrashim of Rabbi Shimon bar Yochai",
+              "nodes": [
+                {
+                  "heTitle": "הקדמה",
+                  "enTitle": "Introduction"
+                },
+                {
+                  "heTitle": "תפלת רבי שמעון בן יוחאי",
+                  "enTitle": "Prayer of Rabbi Shimon Bar Yochai"
+                },
+                {
+                  "heTitle": "פרק ר' שמעון בן יוחי",
+                  "enTitle": "Chapter of Rabbi Shimon Bar Yochai"
+                }
+              ]
+            },
+            {
+              "heTitle": "אגדתא דשמעון כיפא",
+              "enTitle": "Aggada of Shimon Kippa",
+              "nodes": [
+                {
+                  "heTitle": "הקדמה",
+                  "enTitle": "Introduction"
+                },
+                {
+                  "heTitle": "אגדתא דשמעון כיפא  נוסחא א",
+                  "enTitle": "Aggada of Shimon Kippa (Version 1)"
+                },
+                {
+                  "heTitle": "אגדתא דשמעון כיפא  נוסחא ב",
+                  "enTitle": "Aggada of Shimon Kippa (Version 2)"
+                },
+                {
+                  "heTitle": "אגדתא דשמעון כיפא   נוסחא ג",
+                  "enTitle": "Aggada of Shimon Kippa (Version 3)"
+                }
+              ]
+            },
+            {
+              "heTitle": "מדרש שני כתובים",
+              "enTitle": "Midrash Shnei Ketuvim",
+              "nodes": [
+                {
+                  "heTitle": "הקדמה",
+                  "enTitle": "Introduction"
+                },
+                {
+                  "heTitle": "",
+                  "enTitle": ""
+                }
+              ]
+            },
+            {
+              "heTitle": "שעור קומה",
+              "enTitle": "Shiur Komah",
+              "nodes": [
+                {
+                  "heTitle": "הקדמה",
+                  "enTitle": "Introduction"
+                },
+                {
+                  "heTitle": "",
+                  "enTitle": ""
+                }
+              ]
+            },
+            {
+              "heTitle": "ספר תגין",
+              "enTitle": "Sefer Tagin ('Crowns')",
+              "nodes": [
+                {
+                  "heTitle": "הקדמה",
+                  "enTitle": "Introduction"
+                },
+                {
+                  "heTitle": "",
+                  "enTitle": ""
+                }
+              ]
+            },
+            {
+              "heTitle": "מדרש תדשא",
+              "enTitle": "Midrash Tadshe ('Let There Be Grass')"
+            },
+            {
+              "heTitle": "מדרש תהלים",
+              "enTitle": "Midrash on Psalms",
+              "nodes": [
+                {
+                  "heTitle": "הקדמה",
+                  "enTitle": "Introduction"
+                },
+                {
+                  "heTitle": "אשרי תמימי דרך",
+                  "enTitle": "Midrash on Psalm 118"
+                },
+                {
+                  "heTitle": "הוספה למזמור קי״ט",
+                  "enTitle": "Addendum to Psalm 118"
+                }
+              ]
+            },
+            {
+              "heTitle": "תורת כהנים",
+              "enTitle": "Torat Kohanim"
+            },
+            {
+              "heTitle": "מדרש תחיית המתים",
+              "enTitle": "Midrash on Revival of the Dead",
+              "nodes": [
+                {
+                  "heTitle": "הקדמה",
+                  "enTitle": "Introduction"
+                },
+                {
+                  "heTitle": "שאלות ר׳ אליעזר בענין התחיה",
+                  "enTitle": "Questions of Rabbi Eliezer Regarding the Revival"
+                }
+              ]
+            },
+            {
+              "heTitle": "תלמוד תורה",
+              "enTitle": "Talmud Torah"
+            },
+            {
+              "heTitle": "תלפיות",
+              "enTitle": "Talpiyot"
+            },
+            {
+              "heTitle": "ספר התמונה",
+              "enTitle": "Sefer HaTemunah"
+            },
+            {
+              "heTitle": "מדרש תמורה",
+              "enTitle": "Midrash Temurah",
+              "nodes": [
+                {
+                  "heTitle": "הקדמה",
+                  "enTitle": "Introduction"
+                },
+                {
+                  "heTitle": "",
+                  "enTitle": ""
+                }
+              ]
+            },
+            {
+              "heTitle": "מדרש תנחומא",
+              "enTitle": "Midrash Tanchuma"
+            },
+            {
+              "heTitle": "תפלת רב המנונא סבא",
+              "enTitle": "Prayer of Rabbi Hamnuna Saba"
+            },
+            {
+              "heTitle": "אגדה על תפלת שמונה עשרה",
+              "enTitle": "Aggada on Shemona Esrei Prayer"
+            },
+            {
+              "heTitle": "תקיעתא דבי רב",
+              "enTitle": "Tekiata d'Bei Rav"
+            },
+            {
+              "heTitle": "תרגומים",
+              "enTitle": "Targumim"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "work": "Pesikta DeRav Kahana",
+      "status": "searched",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Midrash/Aggadah/Pesikta%20DeRav%20Kahana/Hebrew/merged.json",
+      "sha256": "a4c40eeb1116db3b72e7b22c4cbd844df9b672569847afd2c42881b01eeb461f",
+      "segments": 304,
+      "candidates": 38,
+      "metadata": {
+        "title": "Pesikta DeRav Kahana",
+        "language": "he",
+        "versionTitle": "merged",
+        "versionSource": "https://www.sefaria.org/Pesikta_DeRav_Kahana",
+        "heTitle": "פסיקתא דרב כהנא",
+        "categories": [
+          "Midrash",
+          "Aggadah"
+        ],
+        "sectionNames": [
+          "Paragraph",
+          "Ot"
+        ]
+      }
+    },
+    {
+      "work": "Pesikta Rabbati",
+      "status": "searched",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Midrash/Aggadah/Pesikta%20Rabbati/Hebrew/merged.json",
+      "sha256": "ec6d064ed7efc871ba492ee121dc0e1dd49b493a8a6402b1b71c87983df8c520",
+      "segments": 80,
+      "candidates": 25,
+      "metadata": {
+        "title": "Pesikta Rabbati",
+        "language": "he",
+        "versionTitle": "merged",
+        "versionSource": "https://www.sefaria.org/Pesikta_Rabbati",
+        "heTitle": "פסיקתא רבתי",
+        "categories": [
+          "Midrash",
+          "Aggadah"
+        ],
+        "schema": {
+          "heTitle": "פסיקתא רבתי",
+          "enTitle": "Pesikta Rabbati",
+          "key": "Pesikta Rabbati",
+          "nodes": [
+            {
+              "heTitle": "",
+              "enTitle": ""
+            },
+            {
+              "heTitle": "הוספה א",
+              "enTitle": "Supplement A"
+            },
+            {
+              "heTitle": "הוספה ב",
+              "enTitle": "Supplement B"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "work": "Pirkei DeRabbi Eliezer",
+      "status": "searched",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Midrash/Aggadah/Pirkei%20DeRabbi%20Eliezer/Hebrew/merged.json",
+      "sha256": "8d733bcfbac01523204f66f7491861efc8fb62528bc4809d0cc3cbfd768b6ffa",
+      "segments": 656,
+      "candidates": 19,
+      "metadata": {
+        "title": "Pirkei DeRabbi Eliezer",
+        "language": "he",
+        "versionTitle": "merged",
+        "versionSource": "https://www.sefaria.org/Pirkei_DeRabbi_Eliezer",
+        "heTitle": "פרקי דרבי אליעזר",
+        "categories": [
+          "Midrash",
+          "Aggadah"
+        ],
+        "sectionNames": [
+          "Chapter",
+          "Paragraph"
+        ]
+      }
+    },
+    {
+      "work": "Ruth Rabbah",
+      "status": "searched",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Midrash/Aggadah/Midrash%20Rabbah/Ruth%20Rabbah/Hebrew/merged.json",
+      "sha256": "a01daf2b9d587019a83cffe2636bf14bae2522788104abd254c19a6a20bad1a3",
+      "segments": 88,
+      "candidates": 14,
+      "metadata": {
+        "title": "Ruth Rabbah",
+        "language": "he",
+        "versionTitle": "merged",
+        "versionSource": "https://www.sefaria.org/Ruth_Rabbah",
+        "heTitle": "רות רבה",
+        "categories": [
+          "Midrash",
+          "Aggadah",
+          "Midrash Rabbah"
+        ],
+        "schema": {
+          "heTitle": "רות רבה",
+          "enTitle": "Ruth Rabbah",
+          "key": "Ruth Rabbah",
+          "nodes": [
+            {
+              "heTitle": "פתיחתא",
+              "enTitle": "Petichta"
+            },
+            {
+              "heTitle": "",
+              "enTitle": ""
+            }
+          ]
+        }
+      }
+    },
+    {
+      "work": "Sefer HaYashar (midrash)",
+      "status": "searched",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Midrash/Aggadah/Sefer%20HaYashar%20%28midrash%29/Hebrew/merged.json",
+      "sha256": "cbf5e72b77b2209b58883524ec259f1b6cf0afa7971fd625248880e154142f97",
+      "segments": 308,
+      "candidates": 35,
+      "metadata": {
+        "title": "Sefer HaYashar (midrash)",
+        "language": "he",
+        "versionTitle": "merged",
+        "versionSource": "https://www.sefaria.org/Sefer_HaYashar_(midrash)",
+        "heTitle": "ספר הישר (מדרש)",
+        "categories": [
+          "Midrash",
+          "Aggadah"
+        ],
+        "schema": {
+          "heTitle": "ספר הישר (מדרש)",
+          "enTitle": "Sefer HaYashar (midrash)",
+          "key": "Sefer HaYashar (midrash)",
+          "nodes": [
+            {
+              "heTitle": "הקדמה",
+              "enTitle": "Introduction"
+            },
+            {
+              "heTitle": "ספר בראשית",
+              "enTitle": "Book of Genesis",
+              "nodes": [
+                {
+                  "heTitle": "בראשית",
+                  "enTitle": "Bereshit"
+                },
+                {
+                  "heTitle": "נח",
+                  "enTitle": "Noach"
+                },
+                {
+                  "heTitle": "לך לך",
+                  "enTitle": "Lech Lecha"
+                },
+                {
+                  "heTitle": "וירא",
+                  "enTitle": "Vayera"
+                },
+                {
+                  "heTitle": "חיי שרה",
+                  "enTitle": "Chayei Sara"
+                },
+                {
+                  "heTitle": "תולדות",
+                  "enTitle": "Toldot"
+                },
+                {
+                  "heTitle": "ויצא",
+                  "enTitle": "Vayetzei"
+                },
+                {
+                  "heTitle": "וישלח",
+                  "enTitle": "Vayishlach"
+                },
+                {
+                  "heTitle": "וישב",
+                  "enTitle": "Vayeshev"
+                },
+                {
+                  "heTitle": "מקץ",
+                  "enTitle": "Miketz"
+                },
+                {
+                  "heTitle": "ויגש",
+                  "enTitle": "Vayigash"
+                },
+                {
+                  "heTitle": "ויחי",
+                  "enTitle": "Vayechi"
+                }
+              ]
+            },
+            {
+              "heTitle": "ספר שמות",
+              "enTitle": "Book of Exodus"
+            },
+            {
+              "heTitle": "ספר ויקרא",
+              "enTitle": "Book of Leviticus"
+            },
+            {
+              "heTitle": "ספר במדבר",
+              "enTitle": "Book of Numbers"
+            },
+            {
+              "heTitle": "ספר דברים",
+              "enTitle": "Book of Deuteronomy"
+            },
+            {
+              "heTitle": "ספר יהושע",
+              "enTitle": "Book of Joshua"
+            },
+            {
+              "heTitle": "ספר שופטים",
+              "enTitle": "Book of Judges"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "work": "Shemot Rabbah",
+      "status": "searched",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Midrash/Aggadah/Midrash%20Rabbah/Shemot%20Rabbah/Hebrew/merged.json",
+      "sha256": "4153de1e4d9ba2fc5f440aea16bb5a58bef0293e2265fc9961d2e95331aa8734",
+      "segments": 464,
+      "candidates": 65,
+      "metadata": {
+        "title": "Shemot Rabbah",
+        "language": "he",
+        "versionTitle": "merged",
+        "versionSource": "https://www.sefaria.org/Shemot_Rabbah",
+        "heTitle": "שמות רבה",
+        "categories": [
+          "Midrash",
+          "Aggadah",
+          "Midrash Rabbah"
+        ],
+        "sectionNames": [
+          "Chapter",
+          "Paragraph"
+        ]
+      }
+    },
+    {
+      "work": "Shir HaShirim Rabbah",
+      "status": "searched",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Midrash/Aggadah/Midrash%20Rabbah/Shir%20HaShirim%20Rabbah/Hebrew/merged.json",
+      "sha256": "32335db38edcadecde594e4752771cdd609977b29b183097d0a764e92eb56442",
+      "segments": 264,
+      "candidates": 39,
+      "metadata": {
+        "title": "Shir HaShirim Rabbah",
+        "language": "he",
+        "versionTitle": "merged",
+        "versionSource": "https://www.sefaria.org/Shir_HaShirim_Rabbah",
+        "heTitle": "שיר השירים רבה",
+        "categories": [
+          "Midrash",
+          "Aggadah",
+          "Midrash Rabbah"
+        ],
+        "sectionNames": [
+          "Parasha",
+          "Chapter",
+          "Midrash"
+        ]
+      }
+    },
+    {
+      "work": "Sifra",
+      "status": "searched",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Midrash/Halakhah/Sifra/Hebrew/merged.json",
+      "sha256": "9deca8d94b52c40847412076437df555b451495e03182facee697be95f1100b0",
+      "segments": 2765,
+      "candidates": 55,
+      "metadata": {
+        "title": "Sifra",
+        "language": "he",
+        "versionTitle": "merged",
+        "versionSource": "https://www.sefaria.org/Sifra",
+        "heTitle": "ספרא",
+        "categories": [
+          "Midrash",
+          "Halakhah"
+        ],
+        "schema": {
+          "heTitle": "ספרא",
+          "enTitle": "Sifra",
+          "key": "Sifra",
+          "nodes": [
+            {
+              "heTitle": "ברייתא דרבי ישמעאל",
+              "enTitle": "Baraita DeRabbi Yishmael"
+            },
+            {
+              "heTitle": "ויקרא דבורא דנדבה",
+              "enTitle": "Vayikra Dibbura DeNedavah",
+              "nodes": [
+                {
+                  "heTitle": "פרק א",
+                  "enTitle": "Chapter 1"
+                },
+                {
+                  "heTitle": "פרק ב",
+                  "enTitle": "Chapter 2"
+                },
+                {
+                  "heTitle": "פרשה ב",
+                  "enTitle": "Section 2"
+                },
+                {
+                  "heTitle": "פרק ג",
+                  "enTitle": "Chapter 3"
+                },
+                {
+                  "heTitle": "פרשה ג",
+                  "enTitle": "Section 3"
+                },
+                {
+                  "heTitle": "פרק ד",
+                  "enTitle": "Chapter 4"
+                },
+                {
+                  "heTitle": "פרשה ד",
+                  "enTitle": "Section 4"
+                },
+                {
+                  "heTitle": "פרק ה",
+                  "enTitle": "Chapter 5"
+                },
+                {
+                  "heTitle": "פרק ו",
+                  "enTitle": "Chapter 6"
+                },
+                {
+                  "heTitle": "פרשה ה",
+                  "enTitle": "Section 5"
+                },
+                {
+                  "heTitle": "פרק ז",
+                  "enTitle": "Chapter 7"
+                },
+                {
+                  "heTitle": "פרשה ו",
+                  "enTitle": "Section 6"
+                },
+                {
+                  "heTitle": "פרק ח",
+                  "enTitle": "Chapter 8"
+                },
+                {
+                  "heTitle": "פרשה ז",
+                  "enTitle": "Section 7"
+                },
+                {
+                  "heTitle": "פרק ט",
+                  "enTitle": "Chapter 9"
+                },
+                {
+                  "heTitle": "פרשה ח",
+                  "enTitle": "Section 8"
+                },
+                {
+                  "heTitle": "פרק י",
+                  "enTitle": "Chapter 10"
+                },
+                {
+                  "heTitle": "פרשה ט",
+                  "enTitle": "Section 9"
+                },
+                {
+                  "heTitle": "פרק יא",
+                  "enTitle": "Chapter 11"
+                },
+                {
+                  "heTitle": "פרשה י",
+                  "enTitle": "Section 10"
+                },
+                {
+                  "heTitle": "פרק יב",
+                  "enTitle": "Chapter 12"
+                },
+                {
+                  "heTitle": "פרשה יא",
+                  "enTitle": "Section 11"
+                },
+                {
+                  "heTitle": "פרק יג",
+                  "enTitle": "Chapter 13"
+                },
+                {
+                  "heTitle": "פרשה יב",
+                  "enTitle": "Section 12"
+                },
+                {
+                  "heTitle": "פרק יד",
+                  "enTitle": "Chapter 14"
+                },
+                {
+                  "heTitle": "פרשה יג",
+                  "enTitle": "Section 13"
+                },
+                {
+                  "heTitle": "פרק טו",
+                  "enTitle": "Chapter 15"
+                },
+                {
+                  "heTitle": "פרק טז",
+                  "enTitle": "Chapter 16"
+                },
+                {
+                  "heTitle": "פרק יז",
+                  "enTitle": "Chapter 17"
+                },
+                {
+                  "heTitle": "פרשה יד",
+                  "enTitle": "Section 14"
+                },
+                {
+                  "heTitle": "פרק יח",
+                  "enTitle": "Chapter 18"
+                },
+                {
+                  "heTitle": "פרק יט",
+                  "enTitle": "Chapter 19"
+                },
+                {
+                  "heTitle": "פרק כ",
+                  "enTitle": "Chapter 20"
+                }
+              ]
+            },
+            {
+              "heTitle": "ויקרא דבורא דחובה",
+              "enTitle": "Vayikra Dibbura DeChovah",
+              "nodes": [
+                {
+                  "heTitle": "פרשה א",
+                  "enTitle": "Section 1"
+                },
+                {
+                  "heTitle": "פרק א",
+                  "enTitle": "Chapter 1"
+                },
+                {
+                  "heTitle": "פרשה ב",
+                  "enTitle": "Section 2"
+                },
+                {
+                  "heTitle": "פרק ב",
+                  "enTitle": "Chapter 2"
+                },
+                {
+                  "heTitle": "פרק ג",
+                  "enTitle": "Chapter 3"
+                },
+                {
+                  "heTitle": "פרשה ג",
+                  "enTitle": "Section 3"
+                },
+                {
+                  "heTitle": "פרק ד",
+                  "enTitle": "Chapter 4"
+                },
+                {
+                  "heTitle": "פרק ה",
+                  "enTitle": "Chapter 5"
+                },
+                {
+                  "heTitle": "פרשה ד",
+                  "enTitle": "Section 4"
+                },
+                {
+                  "heTitle": "פרק ו",
+                  "enTitle": "Chapter 6"
+                },
+                {
+                  "heTitle": "פרשה ה",
+                  "enTitle": "Section 5"
+                },
+                {
+                  "heTitle": "פרק ז",
+                  "enTitle": "Chapter 7"
+                },
+                {
+                  "heTitle": "פרשה ו",
+                  "enTitle": "Section 6"
+                },
+                {
+                  "heTitle": "פרק ח",
+                  "enTitle": "Chapter 8"
+                },
+                {
+                  "heTitle": "פרק ט",
+                  "enTitle": "Chapter 9"
+                },
+                {
+                  "heTitle": "פרשה ז",
+                  "enTitle": "Section 7"
+                },
+                {
+                  "heTitle": "פרק י",
+                  "enTitle": "Chapter 10"
+                },
+                {
+                  "heTitle": "פרק יא",
+                  "enTitle": "Chapter 11"
+                },
+                {
+                  "heTitle": "פרשה ח",
+                  "enTitle": "Section 8"
+                },
+                {
+                  "heTitle": "פרק יב",
+                  "enTitle": "Chapter 12"
+                },
+                {
+                  "heTitle": "פרק יג",
+                  "enTitle": "Chapter 13"
+                },
+                {
+                  "heTitle": "פרשה ט",
+                  "enTitle": "Section 9"
+                },
+                {
+                  "heTitle": "פרק יד",
+                  "enTitle": "Chapter 14"
+                },
+                {
+                  "heTitle": "פרק טו",
+                  "enTitle": "Chapter 15"
+                },
+                {
+                  "heTitle": "פרק טז",
+                  "enTitle": "Chapter 16"
+                },
+                {
+                  "heTitle": "פרק יז",
+                  "enTitle": "Chapter 17"
+                },
+                {
+                  "heTitle": "פרשה י",
+                  "enTitle": "Section 10"
+                },
+                {
+                  "heTitle": "פרק יח",
+                  "enTitle": "Chapter 18"
+                },
+                {
+                  "heTitle": "פרק יט",
+                  "enTitle": "Chapter 19"
+                },
+                {
+                  "heTitle": "פרשה יא",
+                  "enTitle": "Section 11"
+                },
+                {
+                  "heTitle": "פרק כ",
+                  "enTitle": "Chapter 20"
+                },
+                {
+                  "heTitle": "פרשה יב",
+                  "enTitle": "Section 12"
+                },
+                {
+                  "heTitle": "פרק כא",
+                  "enTitle": "Chapter 21"
+                },
+                {
+                  "heTitle": "פרק כב",
+                  "enTitle": "Chapter 22"
+                },
+                {
+                  "heTitle": "פרשה יג",
+                  "enTitle": "Section 13"
+                },
+                {
+                  "heTitle": "פרק כג",
+                  "enTitle": "Chapter 23"
+                }
+              ]
+            },
+            {
+              "heTitle": "צו",
+              "enTitle": "Tzav",
+              "nodes": [
+                {
+                  "heTitle": "פרק א",
+                  "enTitle": "Chapter 1"
+                },
+                {
+                  "heTitle": "פרק ב",
+                  "enTitle": "Chapter 2"
+                },
+                {
+                  "heTitle": "פרשה ב",
+                  "enTitle": "Section 2"
+                },
+                {
+                  "heTitle": "פרק ג",
+                  "enTitle": "Chapter 3"
+                },
+                {
+                  "heTitle": "פרשה ג",
+                  "enTitle": "Section 3"
+                },
+                {
+                  "heTitle": "פרק ד",
+                  "enTitle": "Chapter 4"
+                },
+                {
+                  "heTitle": "פרק ה",
+                  "enTitle": "Chapter 5"
+                },
+                {
+                  "heTitle": "פרשה ד",
+                  "enTitle": "Section 4"
+                },
+                {
+                  "heTitle": "פרק ו",
+                  "enTitle": "Chapter 6"
+                },
+                {
+                  "heTitle": "פרק ז",
+                  "enTitle": "Chapter 7"
+                },
+                {
+                  "heTitle": "פרק ח",
+                  "enTitle": "Chapter 8"
+                },
+                {
+                  "heTitle": "פרשה ה",
+                  "enTitle": "Section 5"
+                },
+                {
+                  "heTitle": "פרק ט",
+                  "enTitle": "Chapter 9"
+                },
+                {
+                  "heTitle": "פרק י",
+                  "enTitle": "Chapter 10"
+                },
+                {
+                  "heTitle": "פרשה ו",
+                  "enTitle": "Section 6"
+                },
+                {
+                  "heTitle": "פרק יא",
+                  "enTitle": "Chapter 11"
+                },
+                {
+                  "heTitle": "פרשה ז",
+                  "enTitle": "Section 7"
+                },
+                {
+                  "heTitle": "פרק יב",
+                  "enTitle": "Chapter 12"
+                },
+                {
+                  "heTitle": "פרשה ח",
+                  "enTitle": "Section 8"
+                },
+                {
+                  "heTitle": "פרק יג",
+                  "enTitle": "Chapter 13"
+                },
+                {
+                  "heTitle": "פרשה ט",
+                  "enTitle": "Section 9"
+                },
+                {
+                  "heTitle": "פרק יד",
+                  "enTitle": "Chapter 14"
+                },
+                {
+                  "heTitle": "פרק טו",
+                  "enTitle": "Chapter 15"
+                },
+                {
+                  "heTitle": "פרשה י",
+                  "enTitle": "Section 10"
+                },
+                {
+                  "heTitle": "פרשה יא",
+                  "enTitle": "Section 11"
+                },
+                {
+                  "heTitle": "פרק טז",
+                  "enTitle": "Chapter 16"
+                },
+                {
+                  "heTitle": "פרק יז",
+                  "enTitle": "Chapter 17"
+                },
+                {
+                  "heTitle": "פרק יח",
+                  "enTitle": "Chapter 18"
+                },
+                {
+                  "heTitle": "מכילתא דמילואים א",
+                  "enTitle": "Mekhilta DeMiluim I"
+                }
+              ]
+            },
+            {
+              "heTitle": "שמיני",
+              "enTitle": "Shemini",
+              "nodes": [
+                {
+                  "heTitle": "מכילתא דמילואים ב",
+                  "enTitle": "Mekhilta DeMiluim II"
+                },
+                {
+                  "heTitle": "פרשה א",
+                  "enTitle": "Section 1"
+                },
+                {
+                  "heTitle": "פרק א",
+                  "enTitle": "Chapter 1"
+                },
+                {
+                  "heTitle": "פרק ב",
+                  "enTitle": "Chapter 2"
+                },
+                {
+                  "heTitle": "פרשה ב",
+                  "enTitle": "Section 2"
+                },
+                {
+                  "heTitle": "פרק ג",
+                  "enTitle": "Chapter 3"
+                },
+                {
+                  "heTitle": "פרק ד",
+                  "enTitle": "Chapter 4"
+                },
+                {
+                  "heTitle": "פרשה ג",
+                  "enTitle": "Section 3"
+                },
+                {
+                  "heTitle": "פרק ה",
+                  "enTitle": "Chapter 5"
+                },
+                {
+                  "heTitle": "פרשה ד",
+                  "enTitle": "Section 4"
+                },
+                {
+                  "heTitle": "פרק ו",
+                  "enTitle": "Chapter 6"
+                },
+                {
+                  "heTitle": "פרשה ה",
+                  "enTitle": "Section 5"
+                },
+                {
+                  "heTitle": "פרק ז",
+                  "enTitle": "Chapter 7"
+                },
+                {
+                  "heTitle": "פרשה ו",
+                  "enTitle": "Section 6"
+                },
+                {
+                  "heTitle": "פרק ח",
+                  "enTitle": "Chapter 8"
+                },
+                {
+                  "heTitle": "פרשה ז",
+                  "enTitle": "Section 7"
+                },
+                {
+                  "heTitle": "פרק ט",
+                  "enTitle": "Chapter 9"
+                },
+                {
+                  "heTitle": "פרשה ח",
+                  "enTitle": "Section 8"
+                },
+                {
+                  "heTitle": "פרק י",
+                  "enTitle": "Chapter 10"
+                },
+                {
+                  "heTitle": "פרשה ט",
+                  "enTitle": "Section 9"
+                },
+                {
+                  "heTitle": "פרק יא",
+                  "enTitle": "Chapter 11"
+                },
+                {
+                  "heTitle": "פרשה י",
+                  "enTitle": "Section 10"
+                },
+                {
+                  "heTitle": "פרק יב",
+                  "enTitle": "Chapter 12"
+                }
+              ]
+            },
+            {
+              "heTitle": "תזריע פרשת יולדת",
+              "enTitle": "Tazria Parashat Yoledet",
+              "nodes": [
+                {
+                  "heTitle": "פרשה א",
+                  "enTitle": "Section 1"
+                },
+                {
+                  "heTitle": "פרק א",
+                  "enTitle": "Chapter 1"
+                },
+                {
+                  "heTitle": "פרק ב",
+                  "enTitle": "Chapter 2"
+                },
+                {
+                  "heTitle": "פרק ג",
+                  "enTitle": "Chapter 3"
+                },
+                {
+                  "heTitle": "פרק ד",
+                  "enTitle": "Chapter 4"
+                }
+              ]
+            },
+            {
+              "heTitle": "תזריע פרשת נגעים",
+              "enTitle": "Tazria Parashat Negaim",
+              "nodes": [
+                {
+                  "heTitle": "פרק א",
+                  "enTitle": "Section 1"
+                },
+                {
+                  "heTitle": "פרק ב",
+                  "enTitle": "Chapter 2"
+                },
+                {
+                  "heTitle": "פרשה ב",
+                  "enTitle": "Section 2"
+                },
+                {
+                  "heTitle": "פרק ב*",
+                  "enTitle": "Chapter 2*"
+                },
+                {
+                  "heTitle": "פרשה ג",
+                  "enTitle": "Section 3"
+                },
+                {
+                  "heTitle": "פרק ג",
+                  "enTitle": "Chapter 3"
+                },
+                {
+                  "heTitle": "פרק ד",
+                  "enTitle": "Chapter 4"
+                },
+                {
+                  "heTitle": "פרק ה",
+                  "enTitle": "Chapter 5"
+                },
+                {
+                  "heTitle": "פרק ו",
+                  "enTitle": "Chapter 6"
+                },
+                {
+                  "heTitle": "פרשה ד",
+                  "enTitle": "Section 4"
+                },
+                {
+                  "heTitle": "פרק ז",
+                  "enTitle": "Chapter 7"
+                },
+                {
+                  "heTitle": "פרשה ה",
+                  "enTitle": "Section 5"
+                },
+                {
+                  "heTitle": "פרק ח",
+                  "enTitle": "Chapter 8"
+                },
+                {
+                  "heTitle": "פרק ט",
+                  "enTitle": "Chapter 9"
+                },
+                {
+                  "heTitle": "פרק י",
+                  "enTitle": "Chapter 10"
+                },
+                {
+                  "heTitle": "פרק יא",
+                  "enTitle": "Chapter 11"
+                },
+                {
+                  "heTitle": "פרק יב",
+                  "enTitle": "Chapter 12"
+                },
+                {
+                  "heTitle": "פרק יג",
+                  "enTitle": "Chapter 13"
+                },
+                {
+                  "heTitle": "פרק יד",
+                  "enTitle": "Chapter 14"
+                },
+                {
+                  "heTitle": "פרק טו",
+                  "enTitle": "Chapter 15"
+                },
+                {
+                  "heTitle": "פרק טז",
+                  "enTitle": "Chapter 16"
+                }
+              ]
+            },
+            {
+              "heTitle": "מצורע",
+              "enTitle": "Metzora",
+              "nodes": [
+                {
+                  "heTitle": "פרשה א",
+                  "enTitle": "Section 1"
+                },
+                {
+                  "heTitle": "פרק א",
+                  "enTitle": "Chapter 1"
+                },
+                {
+                  "heTitle": "פרשה ב",
+                  "enTitle": "Section 2"
+                },
+                {
+                  "heTitle": "פרק ב",
+                  "enTitle": "Chapter 2"
+                },
+                {
+                  "heTitle": "פרשה ג",
+                  "enTitle": "Section 3"
+                },
+                {
+                  "heTitle": "פרק ג",
+                  "enTitle": "Chapter 3"
+                },
+                {
+                  "heTitle": "פרשה ד",
+                  "enTitle": "Section 4"
+                },
+                {
+                  "heTitle": "פרשה ה",
+                  "enTitle": "Section 5"
+                },
+                {
+                  "heTitle": "פרשה ו",
+                  "enTitle": "Section 6"
+                },
+                {
+                  "heTitle": "פרק ד",
+                  "enTitle": "Chapter 4"
+                },
+                {
+                  "heTitle": "פרשה ז",
+                  "enTitle": "Section 7"
+                },
+                {
+                  "heTitle": "פרק ה",
+                  "enTitle": "Chapter 5"
+                }
+              ]
+            },
+            {
+              "heTitle": "מצורע פרשת זבים",
+              "enTitle": "Metzora Parashat Zavim",
+              "nodes": [
+                {
+                  "heTitle": "פרשה א",
+                  "enTitle": "Section 1"
+                },
+                {
+                  "heTitle": "פרק א",
+                  "enTitle": "Chapter 1"
+                },
+                {
+                  "heTitle": "פרק ב",
+                  "enTitle": "Chapter 2"
+                },
+                {
+                  "heTitle": "פרשה ב",
+                  "enTitle": "Section 2"
+                },
+                {
+                  "heTitle": "פרק ג",
+                  "enTitle": "Chapter 3"
+                },
+                {
+                  "heTitle": "פרק ד",
+                  "enTitle": "Chapter 4"
+                },
+                {
+                  "heTitle": "פרשה ג",
+                  "enTitle": "Section 3"
+                },
+                {
+                  "heTitle": "פרק ה",
+                  "enTitle": "Chapter 5"
+                },
+                {
+                  "heTitle": "פרק ו",
+                  "enTitle": "Chapter 6"
+                },
+                {
+                  "heTitle": "פרשה ד",
+                  "enTitle": "Section 4"
+                },
+                {
+                  "heTitle": "פרק ז",
+                  "enTitle": "Chapter 7"
+                },
+                {
+                  "heTitle": "פרשה ה",
+                  "enTitle": "Section 5"
+                },
+                {
+                  "heTitle": "פרק ח",
+                  "enTitle": "Chapter 8"
+                },
+                {
+                  "heTitle": "פרק ט",
+                  "enTitle": "Chapter 9"
+                }
+              ]
+            },
+            {
+              "heTitle": "אחרי מות",
+              "enTitle": "Acharei Mot",
+              "nodes": [
+                {
+                  "heTitle": "פרשה א",
+                  "enTitle": "Section 1"
+                },
+                {
+                  "heTitle": "פרק א",
+                  "enTitle": "Chapter 1"
+                },
+                {
+                  "heTitle": "פרשה ב",
+                  "enTitle": "Section 2"
+                },
+                {
+                  "heTitle": "פרק ב",
+                  "enTitle": "Chapter 2"
+                },
+                {
+                  "heTitle": "פרק ג",
+                  "enTitle": "Chapter 3"
+                },
+                {
+                  "heTitle": "פרשה ג",
+                  "enTitle": "Section 3"
+                },
+                {
+                  "heTitle": "פרק ד",
+                  "enTitle": "Chapter 4"
+                },
+                {
+                  "heTitle": "פרשה ד",
+                  "enTitle": "Section 4"
+                },
+                {
+                  "heTitle": "פרק ה",
+                  "enTitle": "Chapter 5"
+                },
+                {
+                  "heTitle": "פרק ו",
+                  "enTitle": "Chapter 6"
+                },
+                {
+                  "heTitle": "פרשה ה",
+                  "enTitle": "Section 5"
+                },
+                {
+                  "heTitle": "פרק ז",
+                  "enTitle": "Chapter 7"
+                },
+                {
+                  "heTitle": "פרק ח",
+                  "enTitle": "Chapter 8"
+                },
+                {
+                  "heTitle": "פרשה ו",
+                  "enTitle": "Section 6"
+                },
+                {
+                  "heTitle": "פרק ט",
+                  "enTitle": "Chapter 9"
+                },
+                {
+                  "heTitle": "פרק י",
+                  "enTitle": "Chapter 10"
+                },
+                {
+                  "heTitle": "פרשה ז",
+                  "enTitle": "Section 7"
+                },
+                {
+                  "heTitle": "פרק יא",
+                  "enTitle": "Chapter 11"
+                },
+                {
+                  "heTitle": "פרק יב",
+                  "enTitle": "Chapter 12"
+                },
+                {
+                  "heTitle": "פרשה ח",
+                  "enTitle": "Section 8"
+                },
+                {
+                  "heTitle": "פרק יג",
+                  "enTitle": "Chapter 13"
+                }
+              ]
+            },
+            {
+              "heTitle": "קדושים",
+              "enTitle": "Kedoshim",
+              "nodes": [
+                {
+                  "heTitle": "פרשה א",
+                  "enTitle": "Section 1"
+                },
+                {
+                  "heTitle": "פרק א",
+                  "enTitle": "Chapter 1"
+                },
+                {
+                  "heTitle": "פרק ב",
+                  "enTitle": "Chapter 2"
+                },
+                {
+                  "heTitle": "פרק ג",
+                  "enTitle": "Chapter 3"
+                },
+                {
+                  "heTitle": "פרשה ב",
+                  "enTitle": "Section 2"
+                },
+                {
+                  "heTitle": "פרק ד",
+                  "enTitle": "Chapter 4"
+                },
+                {
+                  "heTitle": "פרק ה",
+                  "enTitle": "Chapter 5"
+                },
+                {
+                  "heTitle": "פרשה ג",
+                  "enTitle": "Section 3"
+                },
+                {
+                  "heTitle": "פרק ו",
+                  "enTitle": "Chapter 6"
+                },
+                {
+                  "heTitle": "פרק ז",
+                  "enTitle": "Chapter 7"
+                },
+                {
+                  "heTitle": "פרק ח",
+                  "enTitle": "Chapter 8"
+                },
+                {
+                  "heTitle": "פרשה ד",
+                  "enTitle": "Section 4"
+                },
+                {
+                  "heTitle": "פרק ט",
+                  "enTitle": "Chapter 9"
+                },
+                {
+                  "heTitle": "פרק י",
+                  "enTitle": "Chapter 10"
+                },
+                {
+                  "heTitle": "פרק יא",
+                  "enTitle": "Chapter 11"
+                },
+                {
+                  "heTitle": "פרק יב",
+                  "enTitle": "Chapter 12"
+                }
+              ]
+            },
+            {
+              "heTitle": "אמור",
+              "enTitle": "Emor",
+              "nodes": [
+                {
+                  "heTitle": "פרשה א",
+                  "enTitle": "Section 1"
+                },
+                {
+                  "heTitle": "פרק א",
+                  "enTitle": "Chapter 1"
+                },
+                {
+                  "heTitle": "פרשה ב",
+                  "enTitle": "Section 2"
+                },
+                {
+                  "heTitle": "פרק ב",
+                  "enTitle": "Chapter 2"
+                },
+                {
+                  "heTitle": "פרשה ג",
+                  "enTitle": "Section 3"
+                },
+                {
+                  "heTitle": "פרק ג",
+                  "enTitle": "Chapter 3"
+                },
+                {
+                  "heTitle": "פרשה ד",
+                  "enTitle": "Section 4"
+                },
+                {
+                  "heTitle": "פרק ד",
+                  "enTitle": "Chapter 4"
+                },
+                {
+                  "heTitle": "פרשה ה",
+                  "enTitle": "Section 5"
+                },
+                {
+                  "heTitle": "פרשה ו",
+                  "enTitle": "Section 6"
+                },
+                {
+                  "heTitle": "פרק ה",
+                  "enTitle": "Chapter 5"
+                },
+                {
+                  "heTitle": "פרק ו",
+                  "enTitle": "Chapter 6"
+                },
+                {
+                  "heTitle": "פרשה ז",
+                  "enTitle": "Section 7"
+                },
+                {
+                  "heTitle": "פרק ז",
+                  "enTitle": "Chapter 7"
+                },
+                {
+                  "heTitle": "פרשה ח",
+                  "enTitle": "Section 8"
+                },
+                {
+                  "heTitle": "פרק ח",
+                  "enTitle": "Chapter 8"
+                },
+                {
+                  "heTitle": "פרק ט",
+                  "enTitle": "Chapter 9"
+                },
+                {
+                  "heTitle": "פרשה ט",
+                  "enTitle": "Section 9"
+                },
+                {
+                  "heTitle": "פרק י",
+                  "enTitle": "Chapter 10"
+                },
+                {
+                  "heTitle": "פרק יא",
+                  "enTitle": "Chapter 11"
+                },
+                {
+                  "heTitle": "פרשה י",
+                  "enTitle": "Section 10"
+                },
+                {
+                  "heTitle": "פרק יב",
+                  "enTitle": "Chapter 12"
+                },
+                {
+                  "heTitle": "פרק יג",
+                  "enTitle": "Chapter 13"
+                },
+                {
+                  "heTitle": "פרשה יא",
+                  "enTitle": "Section 11"
+                },
+                {
+                  "heTitle": "פרק יד",
+                  "enTitle": "Chapter 14"
+                },
+                {
+                  "heTitle": "פרשה יב",
+                  "enTitle": "Section 12"
+                },
+                {
+                  "heTitle": "פרק טו",
+                  "enTitle": "Chapter 15"
+                },
+                {
+                  "heTitle": "פרק טז",
+                  "enTitle": "Chapter 16"
+                },
+                {
+                  "heTitle": "פרק יז",
+                  "enTitle": "Chapter 17"
+                },
+                {
+                  "heTitle": "פרשה יג",
+                  "enTitle": "Section 13"
+                },
+                {
+                  "heTitle": "פרק יח",
+                  "enTitle": "Chapter 18"
+                },
+                {
+                  "heTitle": "פרשה יד",
+                  "enTitle": "Section 14"
+                },
+                {
+                  "heTitle": "פרק יט",
+                  "enTitle": "Chapter 19"
+                },
+                {
+                  "heTitle": "פרק כ",
+                  "enTitle": "Chapter 20"
+                }
+              ]
+            },
+            {
+              "heTitle": "בהר",
+              "enTitle": "Behar",
+              "nodes": [
+                {
+                  "heTitle": "פרשה א",
+                  "enTitle": "Section 1"
+                },
+                {
+                  "heTitle": "פרק א",
+                  "enTitle": "Chapter 1"
+                },
+                {
+                  "heTitle": "פרשה ב",
+                  "enTitle": "Section 2"
+                },
+                {
+                  "heTitle": "פרק ב",
+                  "enTitle": "Chapter 2"
+                },
+                {
+                  "heTitle": "פרק ג",
+                  "enTitle": "Chapter 3"
+                },
+                {
+                  "heTitle": "פרשה ג",
+                  "enTitle": "Section 3"
+                },
+                {
+                  "heTitle": "פרק ד",
+                  "enTitle": "Chapter 4"
+                },
+                {
+                  "heTitle": "פרק ה",
+                  "enTitle": "Chapter 5"
+                },
+                {
+                  "heTitle": "פרשה ד",
+                  "enTitle": "Section 4"
+                },
+                {
+                  "heTitle": "פרק ו",
+                  "enTitle": "Chapter 6"
+                },
+                {
+                  "heTitle": "פרשה ה",
+                  "enTitle": "Section 5"
+                },
+                {
+                  "heTitle": "פרק ז",
+                  "enTitle": "Chapter 7"
+                },
+                {
+                  "heTitle": "פרשה ו",
+                  "enTitle": "Section 6"
+                },
+                {
+                  "heTitle": "פרק ח",
+                  "enTitle": "Chapter 8"
+                },
+                {
+                  "heTitle": "פרק ט",
+                  "enTitle": "Chapter 9"
+                }
+              ]
+            },
+            {
+              "heTitle": "בחוקתי",
+              "enTitle": "Bechukotai",
+              "nodes": [
+                {
+                  "heTitle": "פרשה א",
+                  "enTitle": "Section 1"
+                },
+                {
+                  "heTitle": "פרק א",
+                  "enTitle": "Chapter 1"
+                },
+                {
+                  "heTitle": "פרק ב",
+                  "enTitle": "Chapter 2"
+                },
+                {
+                  "heTitle": "פרק ג",
+                  "enTitle": "Chapter 3"
+                },
+                {
+                  "heTitle": "פרשה ב",
+                  "enTitle": "Section 2"
+                },
+                {
+                  "heTitle": "פרק ד",
+                  "enTitle": "Chapter 4"
+                },
+                {
+                  "heTitle": "פרק ה",
+                  "enTitle": "Chapter 5"
+                },
+                {
+                  "heTitle": "פרק ו",
+                  "enTitle": "Chapter 6"
+                },
+                {
+                  "heTitle": "פרק ז",
+                  "enTitle": "Chapter 7"
+                },
+                {
+                  "heTitle": "פרק ח",
+                  "enTitle": "Chapter 8"
+                },
+                {
+                  "heTitle": "פרשה ג",
+                  "enTitle": "Section 3"
+                },
+                {
+                  "heTitle": "פרק ט",
+                  "enTitle": "Chapter 9"
+                },
+                {
+                  "heTitle": "פרשה ד",
+                  "enTitle": "Section 4"
+                },
+                {
+                  "heTitle": "פרק י",
+                  "enTitle": "Chapter 10"
+                },
+                {
+                  "heTitle": "פרק יא",
+                  "enTitle": "Chapter 11"
+                },
+                {
+                  "heTitle": "פרשה ה",
+                  "enTitle": "Section 5"
+                },
+                {
+                  "heTitle": "פרק יב",
+                  "enTitle": "Chapter 12"
+                },
+                {
+                  "heTitle": "פרק יג",
+                  "enTitle": "Chapter 13"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "work": "Sifrei Bamidbar",
+      "status": "searched",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Midrash/Halakhah/Sifrei%20Bamidbar/Hebrew/merged.json",
+      "sha256": "bedb7f0b062956aea4b599e7eb8ec19dc2e155ea96c6bd8b500c43c66c619b20",
+      "segments": 295,
+      "candidates": 48,
+      "metadata": {
+        "title": "Sifrei Bamidbar",
+        "language": "he",
+        "versionTitle": "merged",
+        "versionSource": "https://www.sefaria.org/Sifrei_Bamidbar",
+        "heTitle": "ספרי במדבר",
+        "categories": [
+          "Midrash",
+          "Halakhah"
+        ],
+        "sectionNames": [
+          "Paragraph",
+          "Paragraph"
+        ]
+      }
+    },
+    {
+      "work": "Sifrei Devarim",
+      "status": "searched",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Midrash/Halakhah/Sifrei%20Devarim/Hebrew/merged.json",
+      "sha256": "2cc47622678bb03a649fd0d0e9fa35632b154da270a12b43f6624ba41b8ad653",
+      "segments": 2357,
+      "candidates": 59,
+      "metadata": {
+        "title": "Sifrei Devarim",
+        "language": "he",
+        "versionTitle": "merged",
+        "versionSource": "https://www.sefaria.org/Sifrei_Devarim",
+        "heTitle": "ספרי דברים",
+        "categories": [
+          "Midrash",
+          "Halakhah"
+        ],
+        "sectionNames": [
+          "Paragraph",
+          "Paragraph"
+        ]
+      }
+    },
+    {
+      "work": "Sifrei Zuta",
+      "status": "searched",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Midrash/Halakhah/Sifrei%20Zuta/Hebrew/merged.json",
+      "sha256": "2a15f01bd5a862055942f90a15f8cf9b33f0dd3f01a1f7eb6586501d204fadab",
+      "segments": 726,
+      "candidates": 15,
+      "metadata": {
+        "title": "Sifrei Zuta",
+        "language": "he",
+        "versionTitle": "merged",
+        "versionSource": "https://www.sefaria.org/Sifrei_Zuta",
+        "heTitle": "ספרי זוטא",
+        "categories": [
+          "Midrash",
+          "Halakhah"
+        ],
+        "sectionNames": [
+          "Chapter",
+          "Verse",
+          "Paragraph"
+        ]
+      }
+    },
+    {
+      "work": "Tanna DeBei Eliyahu Rabbah",
+      "status": "searched",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Midrash/Aggadah/Tanna%20DeBei%20Eliyahu%20Rabbah/Hebrew/merged.json",
+      "sha256": "81b292ce0b672582acb8ed785d607de21d043aa44a617bcf88d4af94777fbfe0",
+      "segments": 57,
+      "candidates": 16,
+      "metadata": {
+        "title": "Tanna DeBei Eliyahu Rabbah",
+        "language": "he",
+        "versionTitle": "merged",
+        "versionSource": "https://www.sefaria.org/Tanna_DeBei_Eliyahu_Rabbah",
+        "heTitle": "תנא דבי אליהו רבה",
+        "categories": [
+          "Midrash",
+          "Aggadah"
+        ],
+        "sectionNames": [
+          "Chapter",
+          "Paragraph"
+        ]
+      }
+    },
+    {
+      "work": "Tanna DeBei Eliyahu Zuta",
+      "status": "searched",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Midrash/Aggadah/Tanna%20DeBei%20Eliyahu%20Zuta/Hebrew/merged.json",
+      "sha256": "ecd38589dad54f5504d62b137eedce2be3cba3676521320a78a7b1936738ab57",
+      "segments": 112,
+      "candidates": 17,
+      "metadata": {
+        "title": "Tanna DeBei Eliyahu Zuta",
+        "language": "he",
+        "versionTitle": "merged",
+        "versionSource": "https://www.sefaria.org/Tanna_DeBei_Eliyahu_Zuta",
+        "heTitle": "תנא דבי אליהו זוטא",
+        "categories": [
+          "Midrash",
+          "Aggadah"
+        ],
+        "schema": {
+          "heTitle": "תנא דבי אליהו זוטא",
+          "enTitle": "Tanna DeBei Eliyahu Zuta",
+          "key": "Tanna DeBei Eliyahu Zuta",
+          "nodes": [
+            {
+              "heTitle": "",
+              "enTitle": ""
+            },
+            {
+              "heTitle": "נספחים לסדר אליהו זוטא",
+              "enTitle": "Additions to Seder Eliyahu Zuta",
+              "nodes": [
+                {
+                  "heTitle": "הקדמה",
+                  "enTitle": "Hakdamah"
+                },
+                {
+                  "heTitle": "מבוא",
+                  "enTitle": "Mavo"
+                },
+                {
+                  "heTitle": "פרקי דרך ארץ",
+                  "enTitle": "Pirkei Derech Eretz"
+                },
+                {
+                  "heTitle": "פרקי דר' אליעזר",
+                  "enTitle": "Pirkei DeRabbi Eliezer"
+                },
+                {
+                  "heTitle": "הירידות",
+                  "enTitle": "Pirkei HaYeridot"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "work": "Vayikra Rabbah",
+      "status": "searched",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Midrash/Aggadah/Midrash%20Rabbah/Vayikra%20Rabbah/Hebrew/merged.json",
+      "sha256": "79ffdbc64c2cb6db7287f38b0bda93f01f79325b5c653f559146c2dcf543adf8",
+      "segments": 330,
+      "candidates": 46,
+      "metadata": {
+        "title": "Vayikra Rabbah",
+        "language": "he",
+        "versionTitle": "merged",
+        "versionSource": "https://www.sefaria.org/Vayikra_Rabbah",
+        "heTitle": "ויקרא רבה",
+        "categories": [
+          "Midrash",
+          "Aggadah",
+          "Midrash Rabbah"
+        ],
+        "sectionNames": [
+          "Chapter",
+          "Paragraph"
+        ]
+      }
+    },
+    {
+      "work": "Yalkut Shimoni on Nach",
+      "status": "searched",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Midrash/Aggadah/Yalkut%20Shimoni%20on%20Nach/Hebrew/merged.json",
+      "sha256": "4504846c9068709658f608ac18ca48d26d138f8bb31b11ad13cc8cae427de8ad",
+      "segments": 5294,
+      "candidates": 275,
+      "metadata": {
+        "title": "Yalkut Shimoni on Nach",
+        "language": "he",
+        "versionTitle": "merged",
+        "versionSource": "https://www.sefaria.org/Yalkut_Shimoni_on_Nach",
+        "heTitle": "ילקוט שמעוני על נ\"ך",
+        "categories": [
+          "Midrash",
+          "Aggadah"
+        ],
+        "sectionNames": [
+          "Remez",
+          "Paragraph"
+        ]
+      }
+    },
+    {
+      "work": "Yalkut Shimoni on Torah",
+      "status": "searched",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Midrash/Aggadah/Yalkut%20Shimoni%20on%20Torah/Hebrew/merged.json",
+      "sha256": "5b0f56b4123ab15812fdb1ea913e6521985f4fe36a35d8463c55de1f38addb66",
+      "segments": 4786,
+      "candidates": 635,
+      "metadata": {
+        "title": "Yalkut Shimoni on Torah",
+        "language": "he",
+        "versionTitle": "merged",
+        "versionSource": "https://www.sefaria.org/Yalkut_Shimoni_on_Torah",
+        "heTitle": "ילקוט שמעוני על התורה",
+        "categories": [
+          "Midrash",
+          "Aggadah"
+        ],
+        "sectionNames": [
+          "Remez",
+          "Paragraph"
+        ]
+      }
+    }
+  ],
+  "limitations": [
+    "Merged versions may combine editions; source locator and historical attribution require schema/manual validation.",
+    "Full exports cached outside repository; brief original excerpts only.",
+    "Substring search generates false positives; no completeness claim for synonyms or motifs."
+  ]
+}

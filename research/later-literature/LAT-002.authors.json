@@ -1,0 +1,189 @@
+[
+  {
+    "work": "Nachal Kedumim on Torah",
+    "metadata_url": "https://www.sefaria.org/api/v2/raw/index/Nachal_Kedumim_on_Torah",
+    "authors": [
+      "hayyim-joseph-david-azulai"
+    ],
+    "categories": [
+      "Tanakh",
+      "Acharonim on Tanakh",
+      "Chida"
+    ],
+    "title": "Nachal Kedumim on Torah",
+    "status": "author_metadata_read"
+  },
+  {
+    "work": "Penei David",
+    "metadata_url": "https://www.sefaria.org/api/v2/raw/index/Penei_David",
+    "authors": [
+      "hayyim-joseph-david-azulai"
+    ],
+    "categories": [
+      "Tanakh",
+      "Acharonim on Tanakh",
+      "Chida"
+    ],
+    "title": "Penei David",
+    "status": "author_metadata_read"
+  },
+  {
+    "work": "Mesillat Yesharim",
+    "metadata_url": "https://www.sefaria.org/api/v2/raw/index/Mesillat_Yesharim",
+    "authors": [
+      "moses-chaim-luzzatto-(ramchal)"
+    ],
+    "categories": [
+      "Musar",
+      "Acharonim"
+    ],
+    "title": "Mesillat Yesharim",
+    "status": "author_metadata_read"
+  },
+  {
+    "work": "Derekh Hashem",
+    "metadata_url": "https://www.sefaria.org/api/v2/raw/index/Derekh_Hashem",
+    "authors": [
+      "moses-chaim-luzzatto-(ramchal)"
+    ],
+    "categories": [
+      "Jewish Thought",
+      "Acharonim"
+    ],
+    "title": "Derekh Hashem",
+    "status": "author_metadata_read"
+  },
+  {
+    "work": "Da'at Tevunot",
+    "metadata_url": "https://www.sefaria.org/api/v2/raw/index/Da%27at_Tevunot",
+    "authors": [
+      "moses-chaim-luzzatto-(ramchal)"
+    ],
+    "categories": [
+      "Kabbalah",
+      "Ramchal"
+    ],
+    "title": "Da'at Tevunot",
+    "status": "author_metadata_read"
+  },
+  {
+    "work": "Kalach Pitchei Chokhmah",
+    "metadata_url": "https://www.sefaria.org/api/v2/raw/index/Kalach_Pitchei_Chokhmah",
+    "authors": [
+      "moses-chaim-luzzatto-(ramchal)"
+    ],
+    "categories": [
+      "Kabbalah",
+      "Ramchal"
+    ],
+    "title": "Kalach Pitchei Chokhmah",
+    "status": "author_metadata_read"
+  },
+  {
+    "work": "Asarah Perakim LeRamchal",
+    "metadata_url": "https://www.sefaria.org/api/v2/raw/index/Asarah_Perakim_LeRamchal",
+    "authors": [
+      "moses-chaim-luzzatto-(ramchal)"
+    ],
+    "categories": [
+      "Kabbalah",
+      "Ramchal"
+    ],
+    "title": "Asarah Perakim LeRamchal",
+    "status": "author_metadata_read"
+  },
+  {
+    "work": "Derech Etz Chayim (Ramchal)",
+    "metadata_url": "https://www.sefaria.org/api/v2/raw/index/Derech_Etz_Chayim_%28Ramchal%29",
+    "authors": [
+      "moses-chaim-luzzatto-(ramchal)"
+    ],
+    "categories": [
+      "Kabbalah",
+      "Ramchal"
+    ],
+    "title": "Derech Etz Chayim (Ramchal)",
+    "status": "author_metadata_read"
+  },
+  {
+    "work": "Tanya",
+    "metadata_url": "https://www.sefaria.org/api/v2/raw/index/Tanya",
+    "authors": [
+      "shneur-zalman-of-liadi"
+    ],
+    "categories": [
+      "Chasidut",
+      "Chabad"
+    ],
+    "title": "Tanya",
+    "status": "author_metadata_read"
+  },
+  {
+    "work": "Kedushat Levi",
+    "metadata_url": "https://www.sefaria.org/api/v2/raw/index/Kedushat_Levi",
+    "authors": [
+      "levi-yitzchak-of-berditchev"
+    ],
+    "categories": [
+      "Chasidut",
+      "Early Works"
+    ],
+    "title": "Kedushat Levi",
+    "status": "author_metadata_read"
+  },
+  {
+    "work": "Degel Machaneh Ephraim",
+    "metadata_url": "https://www.sefaria.org/api/v2/raw/index/Degel_Machaneh_Ephraim",
+    "authors": [
+      "moshe-chaim-ephraim-of-sudilkov"
+    ],
+    "categories": [
+      "Chasidut",
+      "Other Chasidut Works"
+    ],
+    "title": "Degel Machaneh Ephraim",
+    "status": "author_metadata_read"
+  },
+  {
+    "work": "Aderet Eliyahu",
+    "metadata_url": "https://www.sefaria.org/api/v2/raw/index/Aderet_Eliyahu",
+    "authors": [
+      "vilna-gaon"
+    ],
+    "categories": [
+      "Tanakh",
+      "Acharonim on Tanakh",
+      "Aderet Eliyahu"
+    ],
+    "title": "Aderet Eliyahu",
+    "status": "author_metadata_read"
+  },
+  {
+    "work": "Beur HaGra on Sifra DeTzniuta",
+    "metadata_url": "https://www.sefaria.org/api/v2/raw/index/Beur_HaGra_on_Sifra_DeTzniuta",
+    "authors": [
+      "vilna-gaon"
+    ],
+    "categories": [
+      "Kabbalah",
+      "Zohar"
+    ],
+    "title": "Beur HaGra on Sifra DeTzniuta",
+    "status": "author_metadata_read"
+  },
+  {
+    "work": "Chomat Anakh on Torah",
+    "metadata_url": "https://www.sefaria.org/api/v2/raw/index/Chomat_Anakh_on_Torah",
+    "authors": [
+      "hayyim-joseph-david-azulai"
+    ],
+    "categories": [
+      "Tanakh",
+      "Acharonim on Tanakh",
+      "Chida",
+      "Chomat Anakh"
+    ],
+    "title": "Chomat Anakh on Torah",
+    "status": "author_metadata_read"
+  }
+]

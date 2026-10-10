@@ -55,24 +55,21 @@
         "All 39 OSHB WLC XML books; 23,213 verses"
       ],
       "candidate_count": 367,
-      "confirmed_count": 129,
+      "confirmed_count": 160,
       "commentary_count": 0,
       "limitations": [
-        "129 verses machine verified, 139 direct tokens; context not yet all checked.",
-        "238 indirect candidates not confirmed;5 lexical exclusions."
+        "129 direct verses context classified;31 bounded indirect/context records, not exhaustive indirect coverage.",
+        "Corrected lexeme inventory TAN003 pending;139 direct horse tokens."
       ],
       "next_checks": [
-        "Manual contextual classification",
-        "Indirect candidate filter",
-        "Independent lexical audit"
+        "TAN003 corrected indirect search",
+        "Independent full catalogue audit"
       ]
     },
     {
       "id": "bavli",
       "works": [
-        "Berakhot",
-        "Pesachim",
-        "Sanhedrin"
+        "All canonical 37 tractates; detailed inventory BAV001+BAV002"
       ],
       "status": "partial",
       "queries": [
@@ -81,14 +78,14 @@
         "סוסייא"
       ],
       "ranges": [
-        "589 nonempty amudim of three exports"
+        "5349 nonempty exported amudim across37 canonical tractates"
       ],
-      "candidate_count": 111,
-      "confirmed_count": 13,
+      "candidate_count": 999,
+      "confirmed_count": 19,
       "commentary_count": 0,
       "limitations": [
-        "50 equine candidate segments; 13 selected registered records include one non-equine mule boundary case; not 13 horse occurrences.",
-        "Remaining canonical tractates being scanned."
+        "111 first3 +888 remaining34 broad candidate segments; not horse count.",
+        "19 contextual records include mule boundary case; candidate filtration still incomplete."
       ],
       "next_checks": [
         "BAV-002",
@@ -98,7 +95,45 @@
     {
       "id": "yerushalmi",
       "works": [
-        "Jerusalem Talmud Sanhedrin"
+        "Jerusalem Talmud Avodah Zarah",
+        "Jerusalem Talmud Bava Batra",
+        "Jerusalem Talmud Bava Kamma",
+        "Jerusalem Talmud Bava Metzia",
+        "Jerusalem Talmud Beitzah",
+        "Jerusalem Talmud Berakhot",
+        "Jerusalem Talmud Bikkurim",
+        "Jerusalem Talmud Chagigah",
+        "Jerusalem Talmud Challah",
+        "Jerusalem Talmud Demai",
+        "Jerusalem Talmud Eruvin",
+        "Jerusalem Talmud Gittin",
+        "Jerusalem Talmud Horayot",
+        "Jerusalem Talmud Ketubot",
+        "Jerusalem Talmud Kiddushin",
+        "Jerusalem Talmud Kilayim",
+        "Jerusalem Talmud Maaser Sheni",
+        "Jerusalem Talmud Maasrot",
+        "Jerusalem Talmud Makkot",
+        "Jerusalem Talmud Megillah",
+        "Jerusalem Talmud Moed Katan",
+        "Jerusalem Talmud Nazir",
+        "Jerusalem Talmud Nedarim",
+        "Jerusalem Talmud Niddah",
+        "Jerusalem Talmud Orlah",
+        "Jerusalem Talmud Peah",
+        "Jerusalem Talmud Pesachim",
+        "Jerusalem Talmud Rosh Hashanah",
+        "Jerusalem Talmud Sanhedrin",
+        "Jerusalem Talmud Shabbat",
+        "Jerusalem Talmud Shekalim",
+        "Jerusalem Talmud Sheviit",
+        "Jerusalem Talmud Shevuot",
+        "Jerusalem Talmud Sotah",
+        "Jerusalem Talmud Sukkah",
+        "Jerusalem Talmud Taanit",
+        "Jerusalem Talmud Terumot",
+        "Jerusalem Talmud Yevamot",
+        "Jerusalem Talmud Yoma"
       ],
       "status": "partial",
       "queries": [
@@ -114,32 +149,59 @@
         "אורוו"
       ],
       "ranges": [
-        "Sanhedrin 2:1–2:6 (47 segments)",
-        "Sanhedrin 6:1 (3 segments)"
+        "12252 export segments lexical search",
+        "YER001/YER003 context ranges"
       ],
-      "candidate_count": 6,
-      "confirmed_count": 5,
+      "candidate_count": 149,
+      "confirmed_count": 16,
       "commentary_count": 0,
       "limitations": [
-        "50 returned segments searched; remaining Yerushalmi not searched.",
-        "Counts are candidate/confirmed segment records, not unique horse motifs.",
-        "One false positive פרשתא rejected.",
-        "Unqualified legacy API reference silently resolves to first halakha.",
-        "No folio concordance/manuscript collation; chapter/halakha/segment locators exact to Guggenheimer/Sefaria."
+        "149 machine candidates, not confirmed horse mentions; 5 prior+11 contextual records, editorial note separate.",
+        "Niddah mixed provenance/license unresolved; rare Makkot witness G unresolved."
       ],
       "next_checks": [
-        "Obtain full index or explicit halakha inventory before corpus-wide scan.",
-        "Continue Sanhedrin outside checked ranges.",
-        "Search other tractates with normalized morphology, סוסתא/סוסין/סוסייה and cavalry/Greek loanword variants.",
-        "Independent check for interpretation of royal horse equipment and burning clause."
+        "Remaining candidate context",
+        "Rare witness identification"
       ]
     },
     {
       "id": "midrash",
       "works": [
-        "Mekhilta de-Rabbi Ishmael",
+        "Aggadat Bereshit",
+        "Bamidbar Rabbah",
+        "Bereshit Rabbah",
+        "Bereshit Rabbati",
+        "Devarim Rabbah",
+        "Eikhah Rabbah",
+        "Esther Rabbah",
+        "Kohelet Rabbah",
+        "Mekhilta DeRabbi Shimon Ben Yochai",
+        "Mekhilta DeRabbi Yishmael",
+        "Midrash Aggadah",
+        "Midrash Mishlei",
+        "Midrash Shmuel",
+        "Midrash Tanchuma",
+        "Midrash Tanchuma Buber",
+        "Midrash Tannaim on Deuteronomy",
+        "Midrash Tehillim",
+        "Mishnat Rabbi Eliezer",
+        "Otzar Midrashim",
+        "Pesikta DeRav Kahana",
+        "Pesikta Rabbati",
+        "Pirkei DeRabbi Eliezer",
+        "Ruth Rabbah",
+        "Sefer HaYashar (midrash)",
+        "Shemot Rabbah",
+        "Shir HaShirim Rabbah",
+        "Sifra",
+        "Sifrei Bamidbar",
         "Sifrei Devarim",
-        "Shemot Rabbah"
+        "Sifrei Zuta",
+        "Tanna DeBei Eliyahu Rabbah",
+        "Tanna DeBei Eliyahu Zuta",
+        "Vayikra Rabbah",
+        "Yalkut Shimoni on Nach",
+        "Yalkut Shimoni on Torah"
       ],
       "status": "partial",
       "queries": [
@@ -147,19 +209,20 @@
         "לא ירבה לו סוסים"
       ],
       "ranges": [
-        "Exodus15:1 units",
-        "Deuteronomy17:16",
-        "Shemot Rabbah23:14–15"
+        "45700 nonempty exported segments lexical search",
+        "MID001+MID003 selected context"
       ],
-      "candidate_count": 5,
-      "confirmed_count": 5,
+      "candidate_count": 2850,
+      "confirmed_count": 8,
       "commentary_count": 0,
       "limitations": [
-        "Five selected units only; online transcriptions, no historical dating validation."
+        "2850 broad candidates including false פרש hits; not horse mention count.",
+        "8 contextual units from MID001+MID003; MID004 ready but not included in this checkpoint."
       ],
       "next_checks": [
-        "MID-003",
-        "Broad licensed corpus discovery"
+        "MID004 acceptance",
+        "Per-work candidate semantic filtering",
+        "Dating and edition collation"
       ]
     },
     {
@@ -223,31 +286,65 @@
     },
     {
       "id": "later-literature",
-      "works": [],
-      "status": "not_started",
-      "queries": [],
-      "ranges": [],
-      "candidate_count": 0,
-      "confirmed_count": 0,
-      "commentary_count": 0,
-      "limitations": [
-        "Initial search assignment started; no completed coverage yet"
+      "works": [
+        "Gevurot Hashem",
+        "Be'er HaGolah",
+        "Guide for the Perplexed Hebrew",
+        "Devash LeFi",
+        "Midbar Kedemot",
+        "Chomat Anakh II Kings/Zechariah",
+        "Petach Einayim Berakhot/Pesachim/Sanhedrin"
       ],
-      "next_checks": []
+      "status": "partial",
+      "queries": [
+        "normalized horse token",
+        "related biblical verses"
+      ],
+      "ranges": [
+        "10 full export lexical scans;10 selected readings"
+      ],
+      "candidate_count": 110,
+      "confirmed_count": 10,
+      "commentary_count": 10,
+      "limitations": [
+        "31 horse-token candidates within110 broad hits; only10 sources context read.",
+        "IbnTibbon Hebrew translation verified; Arabic not collated."
+      ],
+      "next_checks": [
+        "LAT002",
+        "VER003l",
+        "Historical dating"
+      ]
     },
     {
       "id": "kabbalah-hasidism",
-      "works": [],
-      "status": "not_started",
-      "queries": [],
-      "ranges": [],
-      "candidate_count": 0,
-      "confirmed_count": 0,
-      "commentary_count": 0,
-      "limitations": [
-        "Initial search assignment started; no completed coverage yet"
+      "works": [
+        "Zohar",
+        "Tikkunei Zohar",
+        "11 Ari-school exports; KAB inventory"
       ],
-      "next_checks": []
+      "status": "partial",
+      "queries": [
+        "סוס",
+        "סוסיא",
+        "סוסין",
+        "לסוסתי",
+        "לא ירבה"
+      ],
+      "ranges": [
+        "32005 export leaves;3 selected readings"
+      ],
+      "candidate_count": 114,
+      "confirmed_count": 3,
+      "commentary_count": 3,
+      "limitations": [
+        "Raw114 candidates; no Zohar commentaries or comprehensive Hasidic corpus yet.",
+        "Version licensing/passage dating noted; symbolic terminology preserved."
+      ],
+      "next_checks": [
+        "KAB002",
+        "Remaining candidate filtering"
+      ]
     },
     {
       "id": "comparative",
@@ -263,5 +360,12 @@
       ],
       "next_checks": []
     }
-  ]
+  ],
+  "registry_statistics": {
+    "records": 264,
+    "quote_verified": 263,
+    "context_checked": 263,
+    "independently_reviewed": 39,
+    "note": "Includes source/commentary/editorial/bibliographic records; not unique horse mentions."
+  }
 }

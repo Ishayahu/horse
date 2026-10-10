@@ -1,0 +1,145 @@
+[
+  {
+    "request": "Bereshit Rabbah.52.7",
+    "url": "https://www.sefaria.org/api/texts/Bereshit%20Rabbah.52.7?lang=he&context=1",
+    "ref": "Bereshit Rabbah 52:7",
+    "sectionRef": "Bereshit Rabbah 52",
+    "sections": [
+      52,
+      7
+    ],
+    "sectionNames": [
+      "Chapter",
+      "Paragraph"
+    ],
+    "heVersionTitle": "Midrash Rabbah -- TE",
+    "heVersionSource": "http://www.toratemetfreeware.com/online/f_01633.html",
+    "heLicense": "unknown",
+    "error": null
+  },
+  {
+    "request": "Bereshit Rabbah.68.9",
+    "url": "https://www.sefaria.org/api/texts/Bereshit%20Rabbah.68.9?lang=he&context=1",
+    "ref": "Bereshit Rabbah 68:9",
+    "sectionRef": "Bereshit Rabbah 68",
+    "sections": [
+      68,
+      9
+    ],
+    "sectionNames": [
+      "Chapter",
+      "Paragraph"
+    ],
+    "heVersionTitle": "Midrash Rabbah -- TE",
+    "heVersionSource": "http://www.toratemetfreeware.com/online/f_01633.html",
+    "heLicense": "unknown",
+    "error": null
+  },
+  {
+    "request": "Bereshit Rabbah.75.10",
+    "url": "https://www.sefaria.org/api/texts/Bereshit%20Rabbah.75.10?lang=he&context=1",
+    "ref": "Bereshit Rabbah 75:10",
+    "sectionRef": "Bereshit Rabbah 75",
+    "sections": [
+      75,
+      10
+    ],
+    "sectionNames": [
+      "Chapter",
+      "Paragraph"
+    ],
+    "heVersionTitle": "Midrash Rabbah -- TE",
+    "heVersionSource": "http://www.toratemetfreeware.com/online/f_01633.html",
+    "heLicense": "unknown",
+    "error": null
+  },
+  {
+    "request": "Pirkei DeRabbi Eliezer.42.6",
+    "url": "https://www.sefaria.org/api/texts/Pirkei%20DeRabbi%20Eliezer.42.6?lang=he&context=1",
+    "ref": "Pirkei DeRabbi Eliezer 42:6",
+    "sectionRef": "Pirkei DeRabbi Eliezer 42",
+    "sections": [
+      42,
+      6
+    ],
+    "sectionNames": [
+      "Chapter",
+      "Paragraph"
+    ],
+    "heVersionTitle": "Pirke DeRabbi Eliezer, Sefaria Vocalized Edition",
+    "heVersionSource": "http://sefaria.org.il",
+    "heLicense": "Public Domain",
+    "error": null
+  },
+  {
+    "request": "Midrash Tehillim.18.12",
+    "url": "https://www.sefaria.org/api/texts/Midrash%20Tehillim.18.12?lang=he&context=1",
+    "ref": "Midrash Tehillim 18:12",
+    "sectionRef": "Midrash Tehillim 18",
+    "sections": [
+      18,
+      12
+    ],
+    "sectionNames": [
+      "Psalm",
+      "Comment"
+    ],
+    "heVersionTitle": "OYW",
+    "heVersionSource": "http://mobile.tora.ws/",
+    "heLicense": "Public Domain",
+    "error": null
+  },
+  {
+    "request": "Midrash Tehillim.21.2",
+    "url": "https://www.sefaria.org/api/texts/Midrash%20Tehillim.21.2?lang=he&context=1",
+    "ref": "Midrash Tehillim 21:2",
+    "sectionRef": "Midrash Tehillim 21",
+    "sections": [
+      21,
+      2
+    ],
+    "sectionNames": [
+      "Psalm",
+      "Comment"
+    ],
+    "heVersionTitle": "OYW",
+    "heVersionSource": "http://mobile.tora.ws/",
+    "heLicense": "Public Domain",
+    "error": null
+  },
+  {
+    "request": "Midrash Tanchuma, Bereshit.7.11",
+    "url": "https://www.sefaria.org/api/texts/Midrash%20Tanchuma%2C%20Bereshit.7.11?lang=he&context=1",
+    "ref": "Midrash Tanchuma, Bereshit 7:11",
+    "sectionRef": "Midrash Tanchuma, Bereshit 7",
+    "sections": [
+      7,
+      11
+    ],
+    "sectionNames": [
+      "Siman",
+      "Paragraph"
+    ],
+    "heVersionTitle": "Midrash Tanchuma -- Torat Emet",
+    "heVersionSource": "http://www.toratemetfreeware.com/online/a_root.html",
+    "heLicense": "Public Domain",
+    "error": null
+  },
+  {
+    "request": "Pesikta Rabbati.12",
+    "url": "https://www.sefaria.org/api/texts/Pesikta%20Rabbati.12?lang=he&context=1",
+    "ref": "Pesikta Rabbati 12",
+    "sectionRef": "Pesikta Rabbati 12",
+    "sections": [
+      12
+    ],
+    "sectionNames": [
+      "Chapter",
+      "Section"
+    ],
+    "heVersionTitle": "OYW",
+    "heVersionSource": "http://mobile.tora.ws/",
+    "heLicense": "Public Domain",
+    "error": null
+  }
+]

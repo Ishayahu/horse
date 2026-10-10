@@ -19,3 +19,5 @@ https://he.wikisource.org/wiki/מכילתא_על_שמות_טו
 https://he.wikisource.org/wiki/ספרי_על_דברים_יז_טז
 
 Next MID-003: resolve23:14 abbreviated opening against Shir haShirim Rabbah1:9 and Mekhilta Exodus14 parallel before classifying wings or chariot movement.
+
+Addendum after successful indexed API call: Sefaria Beeri Edition, Koren, Jerusalem2019 Tractate Shirah2:20 and2:24–25 read successfully; bound horse and joint judgment corroborated. API https://www.sefaria.org/api/texts/Mekhilta%20DeRabbi%20Yishmael%2C%20Tractate%20Shirah.2?lang=he&context=0. Earlier guessed15.1 failure is resolved by proper node mapping. Modern edition has רוכבו where Wikisource first lemma spells רכבו; semantic quote matches but preserve orthography if citing an edition verbatim.

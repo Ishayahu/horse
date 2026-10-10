@@ -1,0 +1,122 @@
+[
+  {
+    "request": "Sefer Etz Chaim.49.7.2",
+    "url": "https://www.sefaria.org/api/texts/Sefer%20Etz%20Chaim.49.7.2?lang=he&context=1",
+    "ref": "Sefer Etz Chaim 49:7:2",
+    "sectionRef": "Sefer Etz Chaim 49:7",
+    "sectionNames": [
+      "Gate",
+      "Chapter",
+      "Paragraph"
+    ],
+    "sections": [
+      49,
+      7,
+      2
+    ],
+    "heVersionTitle": "Sefer Etz Chaim",
+    "heVersionSource": "http://www.hebrew.grimoar.cz/vital/ec_chajim.htm",
+    "heLicense": "Public Domain",
+    "error": null
+  },
+  {
+    "request": "Pri Etz Chaim, Gate of Songs.6.8",
+    "url": "https://www.sefaria.org/api/texts/Pri%20Etz%20Chaim%2C%20Gate%20of%20Songs.6.8?lang=he&context=1",
+    "ref": "Pri Etz Chaim, Gate of Songs 6:8",
+    "sectionRef": "Pri Etz Chaim, Gate of Songs 6",
+    "sectionNames": [
+      "Chapter",
+      "Paragraph"
+    ],
+    "sections": [
+      6,
+      8
+    ],
+    "heVersionTitle": "Pri Etz Chaim",
+    "heVersionSource": "http://www.hebrew.grimoar.cz/vital/pri_ec_chajim.htm",
+    "heLicense": "Public Domain",
+    "error": null
+  },
+  {
+    "request": "Sha'ar Ma'amarei Rashbi, Parashat Kedoshim.1",
+    "url": "https://www.sefaria.org/api/texts/Sha%27ar%20Ma%27amarei%20Rashbi%2C%20Parashat%20Kedoshim.1?lang=he&context=1",
+    "ref": "Sha'ar Ma'amarei Rashbi, Parashat Kedoshim 1",
+    "sectionRef": "Sha'ar Ma'amarei Rashbi, Parashat Kedoshim",
+    "sectionNames": [
+      "Paragraph"
+    ],
+    "sections": [
+      1
+    ],
+    "heVersionTitle": "Shaar Maamarei Rashbi",
+    "heVersionSource": "http://www.hebrew.grimoar.cz/vital/maamarej_rasbi.htm",
+    "heLicense": "Public Domain",
+    "error": null
+  },
+  {
+    "request": "Sha'ar Ma'amarei Rashbi, Parashat Kedoshim.2",
+    "url": "https://www.sefaria.org/api/texts/Sha%27ar%20Ma%27amarei%20Rashbi%2C%20Parashat%20Kedoshim.2?lang=he&context=1",
+    "ref": "Sha'ar Ma'amarei Rashbi, Parashat Kedoshim 2",
+    "sectionRef": "Sha'ar Ma'amarei Rashbi, Parashat Kedoshim",
+    "sectionNames": [
+      "Paragraph"
+    ],
+    "sections": [
+      2
+    ],
+    "heVersionTitle": "Shaar Maamarei Rashbi",
+    "heVersionSource": "http://www.hebrew.grimoar.cz/vital/maamarej_rasbi.htm",
+    "heLicense": "Public Domain",
+    "error": null
+  },
+  {
+    "request": "Sha'ar HaPesukim, Book of Psalms.58",
+    "url": "https://www.sefaria.org/api/texts/Sha%27ar%20HaPesukim%2C%20Book%20of%20Psalms.58?lang=he&context=1",
+    "ref": "Sha'ar HaPesukim, Book of Psalms 58",
+    "sectionRef": "Sha'ar HaPesukim, Book of Psalms",
+    "sectionNames": [
+      "paragraph"
+    ],
+    "sections": [
+      58
+    ],
+    "heVersionTitle": "Shaar HaPesukim",
+    "heVersionSource": "http://www.hebrew.grimoar.cz/vital/saar_ha-pasukim.htm",
+    "heLicense": "Public Domain",
+    "error": null
+  },
+  {
+    "request": "Sha'ar HaPesukim, Book of Psalms.59",
+    "url": "https://www.sefaria.org/api/texts/Sha%27ar%20HaPesukim%2C%20Book%20of%20Psalms.59?lang=he&context=1",
+    "ref": "Sha'ar HaPesukim, Book of Psalms 59",
+    "sectionRef": "Sha'ar HaPesukim, Book of Psalms",
+    "sectionNames": [
+      "paragraph"
+    ],
+    "sections": [
+      59
+    ],
+    "heVersionTitle": "Shaar HaPesukim",
+    "heVersionSource": "http://www.hebrew.grimoar.cz/vital/saar_ha-pasukim.htm",
+    "heLicense": "Public Domain",
+    "error": null
+  },
+  {
+    "request": "Sha'ar Ruach HaKodesh.129.20",
+    "url": "https://www.sefaria.org/api/texts/Sha%27ar%20Ruach%20HaKodesh.129.20?lang=he&context=1",
+    "ref": "Sha'ar Ruach HaKodesh 129:20",
+    "sectionRef": "Sha'ar Ruach HaKodesh 129",
+    "sectionNames": [
+      "Section",
+      "Paragraph"
+    ],
+    "sections": [
+      129,
+      20
+    ],
+    "heVersionTitle": "Jerusalem, 1863",
+    "heVersionSource": "https://www.nli.org.il/he/books/NNL_ALEPH990018959310205171/NLI",
+    "heLicense": "Public Domain",
+    "error": null
+  }
+]

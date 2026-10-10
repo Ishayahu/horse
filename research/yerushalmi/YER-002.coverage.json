@@ -1,0 +1,74 @@
+{
+  "schema_version": 1,
+  "task_id": "YER-002",
+  "corpora": [
+    {
+      "id": "yerushalmi",
+      "works": [
+        "Jerusalem Talmud Avodah Zarah",
+        "Jerusalem Talmud Bava Batra",
+        "Jerusalem Talmud Bava Kamma",
+        "Jerusalem Talmud Bava Metzia",
+        "Jerusalem Talmud Beitzah",
+        "Jerusalem Talmud Berakhot",
+        "Jerusalem Talmud Bikkurim",
+        "Jerusalem Talmud Chagigah",
+        "Jerusalem Talmud Challah",
+        "Jerusalem Talmud Demai",
+        "Jerusalem Talmud Eruvin",
+        "Jerusalem Talmud Gittin",
+        "Jerusalem Talmud Horayot",
+        "Jerusalem Talmud Ketubot",
+        "Jerusalem Talmud Kiddushin",
+        "Jerusalem Talmud Kilayim",
+        "Jerusalem Talmud Maaser Sheni",
+        "Jerusalem Talmud Maasrot",
+        "Jerusalem Talmud Makkot",
+        "Jerusalem Talmud Megillah",
+        "Jerusalem Talmud Moed Katan",
+        "Jerusalem Talmud Nazir",
+        "Jerusalem Talmud Nedarim",
+        "Jerusalem Talmud Niddah",
+        "Jerusalem Talmud Orlah",
+        "Jerusalem Talmud Peah",
+        "Jerusalem Talmud Pesachim",
+        "Jerusalem Talmud Rosh Hashanah",
+        "Jerusalem Talmud Sanhedrin",
+        "Jerusalem Talmud Shabbat",
+        "Jerusalem Talmud Shekalim",
+        "Jerusalem Talmud Sheviit",
+        "Jerusalem Talmud Shevuot",
+        "Jerusalem Talmud Sotah",
+        "Jerusalem Talmud Sukkah",
+        "Jerusalem Talmud Taanit",
+        "Jerusalem Talmud Terumot",
+        "Jerusalem Talmud Yevamot",
+        "Jerusalem Talmud Yoma"
+      ],
+      "status": "discovery_complete_manual_review_pending",
+      "queries": [
+        "Normalized Hebrew token containing סוס (covers prefixed/suffixed סוסים סוסין סוסיא סוסייא סוסתא)",
+        "Prefix-bounded פרש/פרשים/פרשין/פרשיא/פרשייא/פרשא ambiguous",
+        "Substring מרכב אורוו אוריו אספסט היפוס ambiguous"
+      ],
+      "ranges": [
+        "All string leaves of 39 merged Hebrew exports from 2026-10-02 books inventory"
+      ],
+      "candidate_count": 149,
+      "confirmed_count": 0,
+      "commentary_count": 0,
+      "existing_confirmed_locations_reused": 5,
+      "limitations": [
+        "Complete accessible merged-export traversal only, not all editions/manuscripts.",
+        "144 candidate locations newly queued; all YER002 manual verification flags false.",
+        "Niddah mixed-version segment provenance unresolved; Mechon-Mamre license unknown.",
+        "Lexical synonyms and indirect horse implications outside probes may remain."
+      ],
+      "next_checks": [
+        "Independent primary/context review Chagigah 2:1:10.",
+        "Review 58 horse-form candidate segments and broader false positives.",
+        "Extend indirect rider/chariot/loanword lexemes."
+      ]
+    }
+  ]
+}

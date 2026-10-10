@@ -1,0 +1,674 @@
+{
+  "schema_version": 1,
+  "task_id": "BAV-002",
+  "reviewer": "/root/bavli",
+  "accessed_at": "2026-10-09",
+  "queries": [
+    "סוס",
+    "פרש",
+    "רכב",
+    "פרד",
+    "סייח",
+    "רכש",
+    "אביר",
+    "אצטבל",
+    "איצטבל",
+    "אורווה",
+    "ארוות"
+  ],
+  "scope": "34 canonical tractates excluding BAV-001 three; discovery only",
+  "works": [
+    {
+      "work": "Arakhin",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Kodashim/Arakhin/Hebrew/merged.json",
+      "status": "scanned",
+      "transport_sha256": "70dedd3f700482a71d1213782663dbe261df70385be006d3ce00284ab7cda77f",
+      "range": "2a–33a",
+      "array_slots": 67,
+      "nonempty_amudim": 65,
+      "candidate_segments": 16,
+      "horse_candidate_segments": 0,
+      "edition_versions": [
+        [
+          "William Davidson Edition - Vocalized Aramaic",
+          "https://korenpub.co.il/collections/the-noe-edition-koren-talmud-bavli-1"
+        ]
+      ],
+      "license": null,
+      "license_note": "No top-level license field present; individual version rights not inferred."
+    },
+    {
+      "work": "Avodah Zarah",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Nezikin/Avodah%20Zarah/Hebrew/merged.json",
+      "status": "scanned",
+      "transport_sha256": "6aba8fe49b4bfafebc519311c1c3e2bdb8c208a63f6a454c27a374ede8e952c8",
+      "range": "2a–76b",
+      "array_slots": 152,
+      "nonempty_amudim": 150,
+      "candidate_segments": 33,
+      "horse_candidate_segments": 9,
+      "edition_versions": [
+        [
+          "William Davidson Edition - Vocalized Aramaic",
+          "https://korenpub.co.il/collections/the-noe-edition-koren-talmud-bavli-1"
+        ]
+      ],
+      "license": null,
+      "license_note": "No top-level license field present; individual version rights not inferred."
+    },
+    {
+      "work": "Bava Batra",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Nezikin/Bava%20Batra/Hebrew/merged.json",
+      "status": "scanned",
+      "transport_sha256": "ef8e87966e6a7648b84953a5342613321b8fc415c9c1ed08ed23a9243c5090d9",
+      "range": "2a–176b",
+      "array_slots": 352,
+      "nonempty_amudim": 350,
+      "candidate_segments": 65,
+      "horse_candidate_segments": 0,
+      "edition_versions": [
+        [
+          "William Davidson Edition - Vocalized Aramaic",
+          "http://sefaria.org"
+        ]
+      ],
+      "license": null,
+      "license_note": "No top-level license field present; individual version rights not inferred."
+    },
+    {
+      "work": "Bava Kamma",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Nezikin/Bava%20Kamma/Hebrew/merged.json",
+      "status": "scanned",
+      "transport_sha256": "162b2f231814c1ea3d89722708ad1d47e1330272e59bdb1fb817bfa4c5fde2a4",
+      "range": "2a–119b",
+      "array_slots": 238,
+      "nonempty_amudim": 236,
+      "candidate_segments": 24,
+      "horse_candidate_segments": 2,
+      "edition_versions": [
+        [
+          "William Davidson Edition - Vocalized Aramaic",
+          "https://korenpub.co.il/collections/the-noe-edition-koren-talmud-bavli-1"
+        ]
+      ],
+      "license": null,
+      "license_note": "No top-level license field present; individual version rights not inferred."
+    },
+    {
+      "work": "Bava Metzia",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Nezikin/Bava%20Metzia/Hebrew/merged.json",
+      "status": "scanned",
+      "transport_sha256": "65da0e6bab6846ad839de567d2f29c4be10cf132e9c79e2207913d935dbe1391",
+      "range": "2a–118a",
+      "array_slots": 237,
+      "nonempty_amudim": 235,
+      "candidate_segments": 48,
+      "horse_candidate_segments": 2,
+      "edition_versions": [
+        [
+          "William Davidson Edition - Vocalized Aramaic",
+          "http://sefaria.org"
+        ]
+      ],
+      "license": null,
+      "license_note": "No top-level license field present; individual version rights not inferred."
+    },
+    {
+      "work": "Beitzah",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Moed/Beitzah/Hebrew/merged.json",
+      "status": "scanned",
+      "transport_sha256": "ecac63302f88016f8c4e10f809efe29e5fa7822395e84d08a985ef345ff7be4b",
+      "range": "2a–40b",
+      "array_slots": 80,
+      "nonempty_amudim": 78,
+      "candidate_segments": 6,
+      "horse_candidate_segments": 0,
+      "edition_versions": [
+        [
+          "William Davidson Edition - Vocalized Aramaic",
+          "https://korenpub.co.il/collections/the-noe-edition-koren-talmud-bavli-1"
+        ]
+      ],
+      "license": null,
+      "license_note": "No top-level license field present; individual version rights not inferred."
+    },
+    {
+      "work": "Bekhorot",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Kodashim/Bekhorot/Hebrew/merged.json",
+      "status": "scanned",
+      "transport_sha256": "282be2d6df83332626df0b28bceb4df74e930aa4f0b6357d5c38be26558942ed",
+      "range": "2a–60a",
+      "array_slots": 121,
+      "nonempty_amudim": 119,
+      "candidate_segments": 31,
+      "horse_candidate_segments": 17,
+      "edition_versions": [
+        [
+          "William Davidson Edition - Vocalized Aramaic",
+          "https://korenpub.co.il/collections/the-noe-edition-koren-talmud-bavli-1"
+        ]
+      ],
+      "license": null,
+      "license_note": "No top-level license field present; individual version rights not inferred."
+    },
+    {
+      "work": "Chagigah",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Moed/Chagigah/Hebrew/merged.json",
+      "status": "scanned",
+      "transport_sha256": "a578fa404ed364c3552cc21dce98d7e930466b813affdec3981090c3097937af",
+      "range": "2a–26a",
+      "array_slots": 53,
+      "nonempty_amudim": 51,
+      "candidate_segments": 23,
+      "horse_candidate_segments": 2,
+      "edition_versions": [
+        [
+          "William Davidson Edition - Vocalized Aramaic",
+          "http://sefaria.org"
+        ]
+      ],
+      "license": null,
+      "license_note": "No top-level license field present; individual version rights not inferred."
+    },
+    {
+      "work": "Chullin",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Kodashim/Chullin/Hebrew/merged.json",
+      "status": "scanned",
+      "transport_sha256": "9b71d5142bcb48ef81977931a6a34a8f416055f0558d88205fe94ec278cb8c56",
+      "range": "2a–141a",
+      "array_slots": 283,
+      "nonempty_amudim": 281,
+      "candidate_segments": 49,
+      "horse_candidate_segments": 9,
+      "edition_versions": [
+        [
+          "William Davidson Edition - Vocalized Aramaic",
+          "https://korenpub.co.il/collections/the-noe-edition-koren-talmud-bavli-1"
+        ]
+      ],
+      "license": null,
+      "license_note": "No top-level license field present; individual version rights not inferred."
+    },
+    {
+      "work": "Eruvin",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Moed/Eruvin/Hebrew/merged.json",
+      "status": "scanned",
+      "transport_sha256": "3e6a56a2c2ba81d4fe8e7c89f7b158c365a01e7ffa7f27ebb921da304e87184e",
+      "range": "2a–104a",
+      "array_slots": 209,
+      "nonempty_amudim": 207,
+      "candidate_segments": 22,
+      "horse_candidate_segments": 0,
+      "edition_versions": [
+        [
+          "William Davidson Edition - Vocalized Aramaic",
+          "http://sefaria.org"
+        ]
+      ],
+      "license": null,
+      "license_note": "No top-level license field present; individual version rights not inferred."
+    },
+    {
+      "work": "Gittin",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Nashim/Gittin/Hebrew/merged.json",
+      "status": "scanned",
+      "transport_sha256": "6d9a0c26ef3044cecb14c8d1a3f212ffcc9f766210c69a93c4f345eb6d5b648e",
+      "range": "2a–90b",
+      "array_slots": 180,
+      "nonempty_amudim": 178,
+      "candidate_segments": 18,
+      "horse_candidate_segments": 1,
+      "edition_versions": [
+        [
+          "William Davidson Edition - Vocalized Aramaic",
+          "https://korenpub.co.il/collections/the-noe-edition-koren-talmud-bavli-1"
+        ]
+      ],
+      "license": null,
+      "license_note": "No top-level license field present; individual version rights not inferred."
+    },
+    {
+      "work": "Horayot",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Nezikin/Horayot/Hebrew/merged.json",
+      "status": "scanned",
+      "transport_sha256": "551ac66bd333ea7d24bc427619c9b0b7e4905b7143b08452e886daf0af1a74ed",
+      "range": "2a–13a",
+      "array_slots": 27,
+      "nonempty_amudim": 25,
+      "candidate_segments": 4,
+      "horse_candidate_segments": 0,
+      "edition_versions": [
+        [
+          "William Davidson Edition - Vocalized Aramaic",
+          "https://korenpub.co.il/collections/the-noe-edition-koren-talmud-bavli-1"
+        ]
+      ],
+      "license": null,
+      "license_note": "No top-level license field present; individual version rights not inferred."
+    },
+    {
+      "work": "Keritot",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Kodashim/Keritot/Hebrew/merged.json",
+      "status": "scanned",
+      "transport_sha256": "1ccd518c96cb86981da0f99d0fe4eb1c105e3fc36cd71e65c1506850770b5542",
+      "range": "2a–28b",
+      "array_slots": 56,
+      "nonempty_amudim": 54,
+      "candidate_segments": 10,
+      "horse_candidate_segments": 0,
+      "edition_versions": [
+        [
+          "William Davidson Edition - Vocalized Aramaic",
+          "https://korenpub.co.il/collections/the-noe-edition-koren-talmud-bavli-1"
+        ]
+      ],
+      "license": null,
+      "license_note": "No top-level license field present; individual version rights not inferred."
+    },
+    {
+      "work": "Ketubot",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Nashim/Ketubot/Hebrew/merged.json",
+      "status": "scanned",
+      "transport_sha256": "ad7083792b329a36caeb175e3dba1a67155042b820203a87c0850631894ef9b9",
+      "range": "2a–112b",
+      "array_slots": 224,
+      "nonempty_amudim": 222,
+      "candidate_segments": 33,
+      "horse_candidate_segments": 4,
+      "edition_versions": [
+        [
+          "William Davidson Edition - Vocalized Aramaic",
+          "https://korenpub.co.il/collections/the-noe-edition-koren-talmud-bavli-1"
+        ]
+      ],
+      "license": null,
+      "license_note": "No top-level license field present; individual version rights not inferred."
+    },
+    {
+      "work": "Kiddushin",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Nashim/Kiddushin/Hebrew/merged.json",
+      "status": "scanned",
+      "transport_sha256": "9e94e6bc98353afd67a916a16723d45f223efd98c3ff6c2b225c462d1ae48929",
+      "range": "2a–82b",
+      "array_slots": 164,
+      "nonempty_amudim": 162,
+      "candidate_segments": 19,
+      "horse_candidate_segments": 1,
+      "edition_versions": [
+        [
+          "William Davidson Edition - Vocalized Aramaic",
+          "https://korenpub.co.il/collections/the-noe-edition-koren-talmud-bavli-1"
+        ]
+      ],
+      "license": null,
+      "license_note": "No top-level license field present; individual version rights not inferred."
+    },
+    {
+      "work": "Makkot",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Nezikin/Makkot/Hebrew/merged.json",
+      "status": "scanned",
+      "transport_sha256": "350242e52b89fe00a450b455f963a2405d2a747d81040d24b22d02a0ecbd1741",
+      "range": "2a–24b",
+      "array_slots": 48,
+      "nonempty_amudim": 46,
+      "candidate_segments": 8,
+      "horse_candidate_segments": 0,
+      "edition_versions": [
+        [
+          "William Davidson Edition - Vocalized Aramaic",
+          "https://korenpub.co.il/collections/the-noe-edition-koren-talmud-bavli-1"
+        ]
+      ],
+      "license": null,
+      "license_note": "No top-level license field present; individual version rights not inferred."
+    },
+    {
+      "work": "Megillah",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Moed/Megillah/Hebrew/merged.json",
+      "status": "scanned",
+      "transport_sha256": "5287d543b0c90a46d50ed664b22e3eeff0f09475baeffd9875ea84b969b08634",
+      "range": "2a–31a",
+      "array_slots": 63,
+      "nonempty_amudim": 61,
+      "candidate_segments": 58,
+      "horse_candidate_segments": 5,
+      "edition_versions": [
+        [
+          "William Davidson Edition - Vocalized Aramaic",
+          "http://sefaria.org"
+        ]
+      ],
+      "license": null,
+      "license_note": "No top-level license field present; individual version rights not inferred."
+    },
+    {
+      "work": "Meilah",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Kodashim/Meilah/Hebrew/merged.json",
+      "status": "scanned",
+      "transport_sha256": "a00ace7e5579c545a3ed55e18c0ad7b964a1a38419d429ccee31aff8159b514b",
+      "range": "2a–21a",
+      "array_slots": 43,
+      "nonempty_amudim": 41,
+      "candidate_segments": 3,
+      "horse_candidate_segments": 0,
+      "edition_versions": [
+        [
+          "William Davidson Edition - Vocalized Aramaic",
+          "http://sefaria.org"
+        ]
+      ],
+      "license": null,
+      "license_note": "No top-level license field present; individual version rights not inferred."
+    },
+    {
+      "work": "Menachot",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Kodashim/Menachot/Hebrew/merged.json",
+      "status": "scanned",
+      "transport_sha256": "32a5bbeed38f6ba5d117b1632559f26e1e0c7397f0c353ab4065d08d99227aac",
+      "range": "2a–109a",
+      "array_slots": 219,
+      "nonempty_amudim": 217,
+      "candidate_segments": 46,
+      "horse_candidate_segments": 4,
+      "edition_versions": [
+        [
+          "William Davidson Edition - Vocalized Aramaic",
+          "https://korenpub.co.il/collections/the-noe-edition-koren-talmud-bavli-1"
+        ]
+      ],
+      "license": null,
+      "license_note": "No top-level license field present; individual version rights not inferred."
+    },
+    {
+      "work": "Moed Katan",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Moed/Moed%20Katan/Hebrew/merged.json",
+      "status": "scanned",
+      "transport_sha256": "851ca5faae0cb5504ba5bdc8035ddff9467ea77f66cfafbed831ae8280c4dd9e",
+      "range": "2a–28a",
+      "array_slots": 57,
+      "nonempty_amudim": 55,
+      "candidate_segments": 14,
+      "horse_candidate_segments": 2,
+      "edition_versions": [
+        [
+          "William Davidson Edition - Vocalized Aramaic",
+          "http://sefaria.org"
+        ]
+      ],
+      "license": null,
+      "license_note": "No top-level license field present; individual version rights not inferred."
+    },
+    {
+      "work": "Nazir",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Nashim/Nazir/Hebrew/merged.json",
+      "status": "scanned",
+      "transport_sha256": "de784bce450525a0c9faac88cca14a8ece05e50169daaed34c81c871dde6f4fd",
+      "range": "2a–66b",
+      "array_slots": 132,
+      "nonempty_amudim": 129,
+      "candidate_segments": 19,
+      "horse_candidate_segments": 0,
+      "edition_versions": [
+        [
+          "William Davidson Edition - Vocalized Aramaic",
+          "http://sefaria.org"
+        ]
+      ],
+      "license": null,
+      "license_note": "No top-level license field present; individual version rights not inferred."
+    },
+    {
+      "work": "Nedarim",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Nashim/Nedarim/Hebrew/merged.json",
+      "status": "scanned",
+      "transport_sha256": "077537a260052bb818f8126225bfeab9034ade0a3adfd6931da1ca05a95d39dd",
+      "range": "2a–91b",
+      "array_slots": 182,
+      "nonempty_amudim": 180,
+      "candidate_segments": 31,
+      "horse_candidate_segments": 1,
+      "edition_versions": [
+        [
+          "William Davidson Edition - Vocalized Aramaic",
+          "http://sefaria.org"
+        ]
+      ],
+      "license": null,
+      "license_note": "No top-level license field present; individual version rights not inferred."
+    },
+    {
+      "work": "Niddah",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Tahorot/Niddah/Hebrew/merged.json",
+      "status": "scanned",
+      "transport_sha256": "880005f0e1cf1eeec57aff03bde91fd31dd0ccd3e9dcd5e6fd6c687761402125",
+      "range": "2a–72a",
+      "array_slots": 145,
+      "nonempty_amudim": 143,
+      "candidate_segments": 26,
+      "horse_candidate_segments": 0,
+      "edition_versions": [
+        [
+          "William Davidson Edition - Vocalized Aramaic",
+          "https://korenpub.co.il/collections/the-noe-edition-koren-talmud-bavli-1"
+        ]
+      ],
+      "license": null,
+      "license_note": "No top-level license field present; individual version rights not inferred."
+    },
+    {
+      "work": "Rosh Hashanah",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Moed/Rosh%20Hashanah/Hebrew/merged.json",
+      "status": "scanned",
+      "transport_sha256": "7922ac8293c09f933bececc79666cdd92577c4348c28479afce91de15176a5b8",
+      "range": "2a–34a",
+      "array_slots": 69,
+      "nonempty_amudim": 67,
+      "candidate_segments": 10,
+      "horse_candidate_segments": 0,
+      "edition_versions": [
+        [
+          "William Davidson Edition - Vocalized Aramaic",
+          "http://sefaria.org"
+        ]
+      ],
+      "license": null,
+      "license_note": "No top-level license field present; individual version rights not inferred."
+    },
+    {
+      "work": "Shabbat",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Moed/Shabbat/Hebrew/merged.json",
+      "status": "scanned",
+      "transport_sha256": "0599e003c06bf5ce6d97669f497569ce5ede93ededbd4804ec77d5751b237e21",
+      "range": "2a–157b",
+      "array_slots": 314,
+      "nonempty_amudim": 312,
+      "candidate_segments": 63,
+      "horse_candidate_segments": 19,
+      "edition_versions": [
+        [
+          "William Davidson Edition - Vocalized Aramaic",
+          "https://www.sefaria.org"
+        ]
+      ],
+      "license": null,
+      "license_note": "No top-level license field present; individual version rights not inferred."
+    },
+    {
+      "work": "Shevuot",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Nezikin/Shevuot/Hebrew/merged.json",
+      "status": "scanned",
+      "transport_sha256": "bca8b6c98175d9bb6f427bc5a8484108bfb05369993170c88c253301951133ed",
+      "range": "2a–49b",
+      "array_slots": 98,
+      "nonempty_amudim": 96,
+      "candidate_segments": 19,
+      "horse_candidate_segments": 0,
+      "edition_versions": [
+        [
+          "William Davidson Edition - Vocalized Aramaic",
+          "https://korenpub.co.il/collections/the-noe-edition-koren-talmud-bavli-1"
+        ]
+      ],
+      "license": null,
+      "license_note": "No top-level license field present; individual version rights not inferred."
+    },
+    {
+      "work": "Sotah",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Nashim/Sotah/Hebrew/merged.json",
+      "status": "scanned",
+      "transport_sha256": "53a65181aecd0467e2b9c9bf4bb60a5e2a95792389b2bf7ef8e3d5cf48f15a4a",
+      "range": "2a–49b",
+      "array_slots": 98,
+      "nonempty_amudim": 96,
+      "candidate_segments": 37,
+      "horse_candidate_segments": 2,
+      "edition_versions": [
+        [
+          "William Davidson Edition - Vocalized Aramaic",
+          "https://korenpub.co.il/collections/the-noe-edition-koren-talmud-bavli-1"
+        ]
+      ],
+      "license": null,
+      "license_note": "No top-level license field present; individual version rights not inferred."
+    },
+    {
+      "work": "Sukkah",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Moed/Sukkah/Hebrew/merged.json",
+      "status": "scanned",
+      "transport_sha256": "5cf5bc310f101d47d0173a1954b28956b02c6280e9aa2cba17f46f1a69c1fddf",
+      "range": "2a–56b",
+      "array_slots": 112,
+      "nonempty_amudim": 110,
+      "candidate_segments": 14,
+      "horse_candidate_segments": 5,
+      "edition_versions": [
+        [
+          "William Davidson Edition - Vocalized Aramaic",
+          "https://korenpub.co.il/collections/the-noe-edition-koren-talmud-bavli-1"
+        ]
+      ],
+      "license": null,
+      "license_note": "No top-level license field present; individual version rights not inferred."
+    },
+    {
+      "work": "Taanit",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Moed/Taanit/Hebrew/merged.json",
+      "status": "scanned",
+      "transport_sha256": "e7baf21c10c94296a363ab30ffce84f16736e36833c90fccb8b7b7a83056d536",
+      "range": "2a–30a",
+      "array_slots": 61,
+      "nonempty_amudim": 59,
+      "candidate_segments": 14,
+      "horse_candidate_segments": 2,
+      "edition_versions": [
+        [
+          "William Davidson Edition - Vocalized Aramaic",
+          "http://sefaria.org"
+        ]
+      ],
+      "license": null,
+      "license_note": "No top-level license field present; individual version rights not inferred."
+    },
+    {
+      "work": "Tamid",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Kodashim/Tamid/Hebrew/merged.json",
+      "status": "scanned",
+      "transport_sha256": "aa87b76f0ea8927cd6a2415fa3639471059121e7f2a2dad16ee91ec6443be0db",
+      "range": "2a–33b",
+      "array_slots": 66,
+      "nonempty_amudim": 17,
+      "candidate_segments": 2,
+      "horse_candidate_segments": 0,
+      "edition_versions": [
+        [
+          "William Davidson Edition - Vocalized Aramaic",
+          "https://korenpub.co.il/collections/the-noe-edition-koren-talmud-bavli-1"
+        ]
+      ],
+      "license": null,
+      "license_note": "No top-level license field present; individual version rights not inferred."
+    },
+    {
+      "work": "Temurah",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Kodashim/Temurah/Hebrew/merged.json",
+      "status": "scanned",
+      "transport_sha256": "aef61b2494d98c387b31be46baa4c9e576fad615efb8439e7ee93a3b22ac43ad",
+      "range": "2a–33a",
+      "array_slots": 67,
+      "nonempty_amudim": 65,
+      "candidate_segments": 17,
+      "horse_candidate_segments": 0,
+      "edition_versions": [
+        [
+          "William Davidson Edition - Vocalized Aramaic",
+          "https://korenpub.co.il/collections/the-noe-edition-koren-talmud-bavli-1"
+        ]
+      ],
+      "license": null,
+      "license_note": "No top-level license field present; individual version rights not inferred."
+    },
+    {
+      "work": "Yevamot",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Nashim/Yevamot/Hebrew/merged.json",
+      "status": "scanned",
+      "transport_sha256": "e515122daaf7e807e40c2651a3c9847e0daf49c199e6447225875250e56d6aa0",
+      "range": "2a–122b",
+      "array_slots": 244,
+      "nonempty_amudim": 242,
+      "candidate_segments": 30,
+      "horse_candidate_segments": 3,
+      "edition_versions": [
+        [
+          "William Davidson Edition - Vocalized Aramaic",
+          "https://korenpub.co.il/collections/the-noe-edition-koren-talmud-bavli-1"
+        ]
+      ],
+      "license": null,
+      "license_note": "No top-level license field present; individual version rights not inferred."
+    },
+    {
+      "work": "Yoma",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Moed/Yoma/Hebrew/merged.json",
+      "status": "scanned",
+      "transport_sha256": "58b5a0b518c0ead552f3c5be060665a2dd122c4136d3a780b5744c1e61868d82",
+      "range": "2a–87a",
+      "array_slots": 175,
+      "nonempty_amudim": 173,
+      "candidate_segments": 39,
+      "horse_candidate_segments": 2,
+      "edition_versions": [
+        [
+          "William Davidson Edition - Vocalized Aramaic",
+          "https://korenpub.co.il/collections/the-noe-edition-koren-talmud-bavli-1"
+        ]
+      ],
+      "license": null,
+      "license_note": "No top-level license field present; individual version rights not inferred."
+    },
+    {
+      "work": "Zevachim",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Kodashim/Zevachim/Hebrew/merged.json",
+      "status": "scanned",
+      "transport_sha256": "048cca6e890233bd8fd8665f46b0cdc93c8e9fd1e9296b9d73a90030b222d3cd",
+      "range": "2a–120b",
+      "array_slots": 240,
+      "nonempty_amudim": 238,
+      "candidate_segments": 37,
+      "horse_candidate_segments": 0,
+      "edition_versions": [
+        [
+          "William Davidson Edition - Vocalized Aramaic",
+          "https://korenpub.co.il/collections/the-noe-edition-koren-talmud-bavli-1"
+        ]
+      ],
+      "license": null,
+      "license_note": "No top-level license field present; individual version rights not inferred."
+    }
+  ],
+  "candidate_count": 888,
+  "context_verified_sources": 6,
+  "full_corpus_persisted": false,
+  "raw_horse_substring_count": 92,
+  "explicit_horse_candidate_count": 74,
+  "excluded_false_horse_substring_count": 18
+}

@@ -1,0 +1,1938 @@
+{
+  "schema_version": 1,
+  "task_id": "LAT-002",
+  "inventory_url": "https://raw.githubusercontent.com/Sefaria/Sefaria-Export/master/books.json",
+  "inventory_sha256": "00a8da34a5c1e8bfc4983897e4e0711eb4c8e3971d4e7b08957fb61a34424917",
+  "whitelist": [
+    "Nachal Kedumim on Torah",
+    "Penei David",
+    "Mesillat Yesharim",
+    "Derekh Hashem",
+    "Da'at Tevunot",
+    "Kalach Pitchei Chokhmah",
+    "Asarah Perakim LeRamchal",
+    "Derech Etz Chayim (Ramchal)",
+    "Tanya",
+    "Kedushat Levi",
+    "Degel Machaneh Ephraim",
+    "Aderet Eliyahu",
+    "Beur HaGra on Sifra DeTzniuta"
+  ],
+  "collection": "All 35 catalogued Chomat Anakh on biblical-book exports; two reused from LAT001",
+  "selected": [
+    {
+      "title": "Aderet Eliyahu",
+      "language": "Hebrew",
+      "versionTitle": "merged",
+      "categories": [
+        "Tanakh",
+        "Acharonim on Tanakh",
+        "Aderet Eliyahu"
+      ],
+      "json_url": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Acharonim%20on%20Tanakh/Aderet%20Eliyahu/Aderet%20Eliyahu/Hebrew/merged.json",
+      "txt_url": "https://storage.googleapis.com/sefaria-export/txt/Tanakh/Acharonim%20on%20Tanakh/Aderet%20Eliyahu/Aderet%20Eliyahu/Hebrew/merged.txt",
+      "cltk_full_url": "https://storage.googleapis.com/sefaria-export/cltk-full/Tanakh/Acharonim%20on%20Tanakh/Aderet%20Eliyahu/Aderet%20Eliyahu/Hebrew/merged.json",
+      "cltk_flat_url": "https://storage.googleapis.com/sefaria-export/cltk-flat/Tanakh/Acharonim%20on%20Tanakh/Aderet%20Eliyahu/Aderet%20Eliyahu/Hebrew/merged.json"
+    },
+    {
+      "title": "Asarah Perakim LeRamchal",
+      "language": "Hebrew",
+      "versionTitle": "merged",
+      "categories": [
+        "Kabbalah",
+        "Ramchal"
+      ],
+      "json_url": "https://storage.googleapis.com/sefaria-export/json/Kabbalah/Ramchal/Asarah%20Perakim%20LeRamchal/Hebrew/merged.json",
+      "txt_url": "https://storage.googleapis.com/sefaria-export/txt/Kabbalah/Ramchal/Asarah%20Perakim%20LeRamchal/Hebrew/merged.txt",
+      "cltk_full_url": "https://storage.googleapis.com/sefaria-export/cltk-full/Kabbalah/Ramchal/Asarah%20Perakim%20LeRamchal/Hebrew/merged.json",
+      "cltk_flat_url": "https://storage.googleapis.com/sefaria-export/cltk-flat/Kabbalah/Ramchal/Asarah%20Perakim%20LeRamchal/Hebrew/merged.json"
+    },
+    {
+      "title": "Beur HaGra on Sifra DeTzniuta",
+      "language": "Hebrew",
+      "versionTitle": "merged",
+      "categories": [
+        "Kabbalah",
+        "Zohar"
+      ],
+      "json_url": "https://storage.googleapis.com/sefaria-export/json/Kabbalah/Zohar/Beur%20HaGra%20on%20Sifra%20DeTzniuta/Hebrew/merged.json",
+      "txt_url": "https://storage.googleapis.com/sefaria-export/txt/Kabbalah/Zohar/Beur%20HaGra%20on%20Sifra%20DeTzniuta/Hebrew/merged.txt",
+      "cltk_full_url": "https://storage.googleapis.com/sefaria-export/cltk-full/Kabbalah/Zohar/Beur%20HaGra%20on%20Sifra%20DeTzniuta/Hebrew/merged.json",
+      "cltk_flat_url": "https://storage.googleapis.com/sefaria-export/cltk-flat/Kabbalah/Zohar/Beur%20HaGra%20on%20Sifra%20DeTzniuta/Hebrew/merged.json"
+    },
+    {
+      "title": "Chomat Anakh on Amos",
+      "language": "Hebrew",
+      "versionTitle": "merged",
+      "categories": [
+        "Tanakh",
+        "Acharonim on Tanakh",
+        "Chida",
+        "Chomat Anakh",
+        "Prophets"
+      ],
+      "json_url": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20Amos/Hebrew/merged.json",
+      "txt_url": "https://storage.googleapis.com/sefaria-export/txt/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20Amos/Hebrew/merged.txt",
+      "cltk_full_url": "https://storage.googleapis.com/sefaria-export/cltk-full/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20Amos/Hebrew/merged.json",
+      "cltk_flat_url": "https://storage.googleapis.com/sefaria-export/cltk-flat/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20Amos/Hebrew/merged.json"
+    },
+    {
+      "title": "Chomat Anakh on Daniel",
+      "language": "Hebrew",
+      "versionTitle": "merged",
+      "categories": [
+        "Tanakh",
+        "Acharonim on Tanakh",
+        "Chida",
+        "Chomat Anakh",
+        "Writings"
+      ],
+      "json_url": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Writings/Chomat%20Anakh%20on%20Daniel/Hebrew/merged.json",
+      "txt_url": "https://storage.googleapis.com/sefaria-export/txt/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Writings/Chomat%20Anakh%20on%20Daniel/Hebrew/merged.txt",
+      "cltk_full_url": "https://storage.googleapis.com/sefaria-export/cltk-full/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Writings/Chomat%20Anakh%20on%20Daniel/Hebrew/merged.json",
+      "cltk_flat_url": "https://storage.googleapis.com/sefaria-export/cltk-flat/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Writings/Chomat%20Anakh%20on%20Daniel/Hebrew/merged.json"
+    },
+    {
+      "title": "Chomat Anakh on Ecclesiastes",
+      "language": "Hebrew",
+      "versionTitle": "merged",
+      "categories": [
+        "Tanakh",
+        "Acharonim on Tanakh",
+        "Chida",
+        "Chomat Anakh",
+        "Writings"
+      ],
+      "json_url": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Writings/Chomat%20Anakh%20on%20Ecclesiastes/Hebrew/merged.json",
+      "txt_url": "https://storage.googleapis.com/sefaria-export/txt/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Writings/Chomat%20Anakh%20on%20Ecclesiastes/Hebrew/merged.txt",
+      "cltk_full_url": "https://storage.googleapis.com/sefaria-export/cltk-full/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Writings/Chomat%20Anakh%20on%20Ecclesiastes/Hebrew/merged.json",
+      "cltk_flat_url": "https://storage.googleapis.com/sefaria-export/cltk-flat/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Writings/Chomat%20Anakh%20on%20Ecclesiastes/Hebrew/merged.json"
+    },
+    {
+      "title": "Chomat Anakh on Esther",
+      "language": "Hebrew",
+      "versionTitle": "merged",
+      "categories": [
+        "Tanakh",
+        "Acharonim on Tanakh",
+        "Chida",
+        "Chomat Anakh",
+        "Writings"
+      ],
+      "json_url": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Writings/Chomat%20Anakh%20on%20Esther/Hebrew/merged.json",
+      "txt_url": "https://storage.googleapis.com/sefaria-export/txt/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Writings/Chomat%20Anakh%20on%20Esther/Hebrew/merged.txt",
+      "cltk_full_url": "https://storage.googleapis.com/sefaria-export/cltk-full/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Writings/Chomat%20Anakh%20on%20Esther/Hebrew/merged.json",
+      "cltk_flat_url": "https://storage.googleapis.com/sefaria-export/cltk-flat/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Writings/Chomat%20Anakh%20on%20Esther/Hebrew/merged.json"
+    },
+    {
+      "title": "Chomat Anakh on Ezekiel",
+      "language": "Hebrew",
+      "versionTitle": "merged",
+      "categories": [
+        "Tanakh",
+        "Acharonim on Tanakh",
+        "Chida",
+        "Chomat Anakh",
+        "Prophets"
+      ],
+      "json_url": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20Ezekiel/Hebrew/merged.json",
+      "txt_url": "https://storage.googleapis.com/sefaria-export/txt/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20Ezekiel/Hebrew/merged.txt",
+      "cltk_full_url": "https://storage.googleapis.com/sefaria-export/cltk-full/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20Ezekiel/Hebrew/merged.json",
+      "cltk_flat_url": "https://storage.googleapis.com/sefaria-export/cltk-flat/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20Ezekiel/Hebrew/merged.json"
+    },
+    {
+      "title": "Chomat Anakh on Ezra",
+      "language": "Hebrew",
+      "versionTitle": "merged",
+      "categories": [
+        "Tanakh",
+        "Acharonim on Tanakh",
+        "Chida",
+        "Chomat Anakh",
+        "Writings"
+      ],
+      "json_url": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Writings/Chomat%20Anakh%20on%20Ezra/Hebrew/merged.json",
+      "txt_url": "https://storage.googleapis.com/sefaria-export/txt/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Writings/Chomat%20Anakh%20on%20Ezra/Hebrew/merged.txt",
+      "cltk_full_url": "https://storage.googleapis.com/sefaria-export/cltk-full/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Writings/Chomat%20Anakh%20on%20Ezra/Hebrew/merged.json",
+      "cltk_flat_url": "https://storage.googleapis.com/sefaria-export/cltk-flat/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Writings/Chomat%20Anakh%20on%20Ezra/Hebrew/merged.json"
+    },
+    {
+      "title": "Chomat Anakh on Habakkuk",
+      "language": "Hebrew",
+      "versionTitle": "merged",
+      "categories": [
+        "Tanakh",
+        "Acharonim on Tanakh",
+        "Chida",
+        "Chomat Anakh",
+        "Prophets"
+      ],
+      "json_url": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20Habakkuk/Hebrew/merged.json",
+      "txt_url": "https://storage.googleapis.com/sefaria-export/txt/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20Habakkuk/Hebrew/merged.txt",
+      "cltk_full_url": "https://storage.googleapis.com/sefaria-export/cltk-full/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20Habakkuk/Hebrew/merged.json",
+      "cltk_flat_url": "https://storage.googleapis.com/sefaria-export/cltk-flat/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20Habakkuk/Hebrew/merged.json"
+    },
+    {
+      "title": "Chomat Anakh on Haggai",
+      "language": "Hebrew",
+      "versionTitle": "merged",
+      "categories": [
+        "Tanakh",
+        "Acharonim on Tanakh",
+        "Chida",
+        "Chomat Anakh",
+        "Prophets"
+      ],
+      "json_url": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20Haggai/Hebrew/merged.json",
+      "txt_url": "https://storage.googleapis.com/sefaria-export/txt/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20Haggai/Hebrew/merged.txt",
+      "cltk_full_url": "https://storage.googleapis.com/sefaria-export/cltk-full/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20Haggai/Hebrew/merged.json",
+      "cltk_flat_url": "https://storage.googleapis.com/sefaria-export/cltk-flat/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20Haggai/Hebrew/merged.json"
+    },
+    {
+      "title": "Chomat Anakh on Hosea",
+      "language": "Hebrew",
+      "versionTitle": "merged",
+      "categories": [
+        "Tanakh",
+        "Acharonim on Tanakh",
+        "Chida",
+        "Chomat Anakh",
+        "Prophets"
+      ],
+      "json_url": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20Hosea/Hebrew/merged.json",
+      "txt_url": "https://storage.googleapis.com/sefaria-export/txt/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20Hosea/Hebrew/merged.txt",
+      "cltk_full_url": "https://storage.googleapis.com/sefaria-export/cltk-full/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20Hosea/Hebrew/merged.json",
+      "cltk_flat_url": "https://storage.googleapis.com/sefaria-export/cltk-flat/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20Hosea/Hebrew/merged.json"
+    },
+    {
+      "title": "Chomat Anakh on I Chronicles",
+      "language": "Hebrew",
+      "versionTitle": "merged",
+      "categories": [
+        "Tanakh",
+        "Acharonim on Tanakh",
+        "Chida",
+        "Chomat Anakh",
+        "Writings"
+      ],
+      "json_url": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Writings/Chomat%20Anakh%20on%20I%20Chronicles/Hebrew/merged.json",
+      "txt_url": "https://storage.googleapis.com/sefaria-export/txt/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Writings/Chomat%20Anakh%20on%20I%20Chronicles/Hebrew/merged.txt",
+      "cltk_full_url": "https://storage.googleapis.com/sefaria-export/cltk-full/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Writings/Chomat%20Anakh%20on%20I%20Chronicles/Hebrew/merged.json",
+      "cltk_flat_url": "https://storage.googleapis.com/sefaria-export/cltk-flat/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Writings/Chomat%20Anakh%20on%20I%20Chronicles/Hebrew/merged.json"
+    },
+    {
+      "title": "Chomat Anakh on I Kings",
+      "language": "Hebrew",
+      "versionTitle": "merged",
+      "categories": [
+        "Tanakh",
+        "Acharonim on Tanakh",
+        "Chida",
+        "Chomat Anakh",
+        "Prophets"
+      ],
+      "json_url": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20I%20Kings/Hebrew/merged.json",
+      "txt_url": "https://storage.googleapis.com/sefaria-export/txt/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20I%20Kings/Hebrew/merged.txt",
+      "cltk_full_url": "https://storage.googleapis.com/sefaria-export/cltk-full/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20I%20Kings/Hebrew/merged.json",
+      "cltk_flat_url": "https://storage.googleapis.com/sefaria-export/cltk-flat/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20I%20Kings/Hebrew/merged.json"
+    },
+    {
+      "title": "Chomat Anakh on I Samuel",
+      "language": "Hebrew",
+      "versionTitle": "merged",
+      "categories": [
+        "Tanakh",
+        "Acharonim on Tanakh",
+        "Chida",
+        "Chomat Anakh",
+        "Prophets"
+      ],
+      "json_url": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20I%20Samuel/Hebrew/merged.json",
+      "txt_url": "https://storage.googleapis.com/sefaria-export/txt/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20I%20Samuel/Hebrew/merged.txt",
+      "cltk_full_url": "https://storage.googleapis.com/sefaria-export/cltk-full/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20I%20Samuel/Hebrew/merged.json",
+      "cltk_flat_url": "https://storage.googleapis.com/sefaria-export/cltk-flat/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20I%20Samuel/Hebrew/merged.json"
+    },
+    {
+      "title": "Chomat Anakh on II Chronicles",
+      "language": "Hebrew",
+      "versionTitle": "merged",
+      "categories": [
+        "Tanakh",
+        "Acharonim on Tanakh",
+        "Chida",
+        "Chomat Anakh",
+        "Writings"
+      ],
+      "json_url": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Writings/Chomat%20Anakh%20on%20II%20Chronicles/Hebrew/merged.json",
+      "txt_url": "https://storage.googleapis.com/sefaria-export/txt/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Writings/Chomat%20Anakh%20on%20II%20Chronicles/Hebrew/merged.txt",
+      "cltk_full_url": "https://storage.googleapis.com/sefaria-export/cltk-full/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Writings/Chomat%20Anakh%20on%20II%20Chronicles/Hebrew/merged.json",
+      "cltk_flat_url": "https://storage.googleapis.com/sefaria-export/cltk-flat/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Writings/Chomat%20Anakh%20on%20II%20Chronicles/Hebrew/merged.json"
+    },
+    {
+      "title": "Chomat Anakh on II Kings",
+      "language": "Hebrew",
+      "versionTitle": "merged",
+      "categories": [
+        "Tanakh",
+        "Acharonim on Tanakh",
+        "Chida",
+        "Chomat Anakh",
+        "Prophets"
+      ],
+      "json_url": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20II%20Kings/Hebrew/merged.json",
+      "txt_url": "https://storage.googleapis.com/sefaria-export/txt/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20II%20Kings/Hebrew/merged.txt",
+      "cltk_full_url": "https://storage.googleapis.com/sefaria-export/cltk-full/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20II%20Kings/Hebrew/merged.json",
+      "cltk_flat_url": "https://storage.googleapis.com/sefaria-export/cltk-flat/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20II%20Kings/Hebrew/merged.json"
+    },
+    {
+      "title": "Chomat Anakh on II Samuel",
+      "language": "Hebrew",
+      "versionTitle": "merged",
+      "categories": [
+        "Tanakh",
+        "Acharonim on Tanakh",
+        "Chida",
+        "Chomat Anakh",
+        "Prophets"
+      ],
+      "json_url": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20II%20Samuel/Hebrew/merged.json",
+      "txt_url": "https://storage.googleapis.com/sefaria-export/txt/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20II%20Samuel/Hebrew/merged.txt",
+      "cltk_full_url": "https://storage.googleapis.com/sefaria-export/cltk-full/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20II%20Samuel/Hebrew/merged.json",
+      "cltk_flat_url": "https://storage.googleapis.com/sefaria-export/cltk-flat/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20II%20Samuel/Hebrew/merged.json"
+    },
+    {
+      "title": "Chomat Anakh on Isaiah",
+      "language": "Hebrew",
+      "versionTitle": "merged",
+      "categories": [
+        "Tanakh",
+        "Acharonim on Tanakh",
+        "Chida",
+        "Chomat Anakh",
+        "Prophets"
+      ],
+      "json_url": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20Isaiah/Hebrew/merged.json",
+      "txt_url": "https://storage.googleapis.com/sefaria-export/txt/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20Isaiah/Hebrew/merged.txt",
+      "cltk_full_url": "https://storage.googleapis.com/sefaria-export/cltk-full/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20Isaiah/Hebrew/merged.json",
+      "cltk_flat_url": "https://storage.googleapis.com/sefaria-export/cltk-flat/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20Isaiah/Hebrew/merged.json"
+    },
+    {
+      "title": "Chomat Anakh on Jeremiah",
+      "language": "Hebrew",
+      "versionTitle": "merged",
+      "categories": [
+        "Tanakh",
+        "Acharonim on Tanakh",
+        "Chida",
+        "Chomat Anakh",
+        "Prophets"
+      ],
+      "json_url": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20Jeremiah/Hebrew/merged.json",
+      "txt_url": "https://storage.googleapis.com/sefaria-export/txt/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20Jeremiah/Hebrew/merged.txt",
+      "cltk_full_url": "https://storage.googleapis.com/sefaria-export/cltk-full/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20Jeremiah/Hebrew/merged.json",
+      "cltk_flat_url": "https://storage.googleapis.com/sefaria-export/cltk-flat/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20Jeremiah/Hebrew/merged.json"
+    },
+    {
+      "title": "Chomat Anakh on Job",
+      "language": "Hebrew",
+      "versionTitle": "merged",
+      "categories": [
+        "Tanakh",
+        "Acharonim on Tanakh",
+        "Chida",
+        "Chomat Anakh",
+        "Writings"
+      ],
+      "json_url": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Writings/Chomat%20Anakh%20on%20Job/Hebrew/merged.json",
+      "txt_url": "https://storage.googleapis.com/sefaria-export/txt/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Writings/Chomat%20Anakh%20on%20Job/Hebrew/merged.txt",
+      "cltk_full_url": "https://storage.googleapis.com/sefaria-export/cltk-full/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Writings/Chomat%20Anakh%20on%20Job/Hebrew/merged.json",
+      "cltk_flat_url": "https://storage.googleapis.com/sefaria-export/cltk-flat/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Writings/Chomat%20Anakh%20on%20Job/Hebrew/merged.json"
+    },
+    {
+      "title": "Chomat Anakh on Joel",
+      "language": "Hebrew",
+      "versionTitle": "merged",
+      "categories": [
+        "Tanakh",
+        "Acharonim on Tanakh",
+        "Chida",
+        "Chomat Anakh",
+        "Prophets"
+      ],
+      "json_url": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20Joel/Hebrew/merged.json",
+      "txt_url": "https://storage.googleapis.com/sefaria-export/txt/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20Joel/Hebrew/merged.txt",
+      "cltk_full_url": "https://storage.googleapis.com/sefaria-export/cltk-full/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20Joel/Hebrew/merged.json",
+      "cltk_flat_url": "https://storage.googleapis.com/sefaria-export/cltk-flat/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20Joel/Hebrew/merged.json"
+    },
+    {
+      "title": "Chomat Anakh on Jonah",
+      "language": "Hebrew",
+      "versionTitle": "merged",
+      "categories": [
+        "Tanakh",
+        "Acharonim on Tanakh",
+        "Chida",
+        "Chomat Anakh",
+        "Prophets"
+      ],
+      "json_url": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20Jonah/Hebrew/merged.json",
+      "txt_url": "https://storage.googleapis.com/sefaria-export/txt/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20Jonah/Hebrew/merged.txt",
+      "cltk_full_url": "https://storage.googleapis.com/sefaria-export/cltk-full/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20Jonah/Hebrew/merged.json",
+      "cltk_flat_url": "https://storage.googleapis.com/sefaria-export/cltk-flat/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20Jonah/Hebrew/merged.json"
+    },
+    {
+      "title": "Chomat Anakh on Joshua",
+      "language": "Hebrew",
+      "versionTitle": "merged",
+      "categories": [
+        "Tanakh",
+        "Acharonim on Tanakh",
+        "Chida",
+        "Chomat Anakh",
+        "Prophets"
+      ],
+      "json_url": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20Joshua/Hebrew/merged.json",
+      "txt_url": "https://storage.googleapis.com/sefaria-export/txt/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20Joshua/Hebrew/merged.txt",
+      "cltk_full_url": "https://storage.googleapis.com/sefaria-export/cltk-full/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20Joshua/Hebrew/merged.json",
+      "cltk_flat_url": "https://storage.googleapis.com/sefaria-export/cltk-flat/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20Joshua/Hebrew/merged.json"
+    },
+    {
+      "title": "Chomat Anakh on Judges",
+      "language": "Hebrew",
+      "versionTitle": "merged",
+      "categories": [
+        "Tanakh",
+        "Acharonim on Tanakh",
+        "Chida",
+        "Chomat Anakh",
+        "Prophets"
+      ],
+      "json_url": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20Judges/Hebrew/merged.json",
+      "txt_url": "https://storage.googleapis.com/sefaria-export/txt/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20Judges/Hebrew/merged.txt",
+      "cltk_full_url": "https://storage.googleapis.com/sefaria-export/cltk-full/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20Judges/Hebrew/merged.json",
+      "cltk_flat_url": "https://storage.googleapis.com/sefaria-export/cltk-flat/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20Judges/Hebrew/merged.json"
+    },
+    {
+      "title": "Chomat Anakh on Lamentations",
+      "language": "Hebrew",
+      "versionTitle": "merged",
+      "categories": [
+        "Tanakh",
+        "Acharonim on Tanakh",
+        "Chida",
+        "Chomat Anakh",
+        "Writings"
+      ],
+      "json_url": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Writings/Chomat%20Anakh%20on%20Lamentations/Hebrew/merged.json",
+      "txt_url": "https://storage.googleapis.com/sefaria-export/txt/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Writings/Chomat%20Anakh%20on%20Lamentations/Hebrew/merged.txt",
+      "cltk_full_url": "https://storage.googleapis.com/sefaria-export/cltk-full/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Writings/Chomat%20Anakh%20on%20Lamentations/Hebrew/merged.json",
+      "cltk_flat_url": "https://storage.googleapis.com/sefaria-export/cltk-flat/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Writings/Chomat%20Anakh%20on%20Lamentations/Hebrew/merged.json"
+    },
+    {
+      "title": "Chomat Anakh on Malachi",
+      "language": "Hebrew",
+      "versionTitle": "merged",
+      "categories": [
+        "Tanakh",
+        "Acharonim on Tanakh",
+        "Chida",
+        "Chomat Anakh",
+        "Prophets"
+      ],
+      "json_url": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20Malachi/Hebrew/merged.json",
+      "txt_url": "https://storage.googleapis.com/sefaria-export/txt/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20Malachi/Hebrew/merged.txt",
+      "cltk_full_url": "https://storage.googleapis.com/sefaria-export/cltk-full/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20Malachi/Hebrew/merged.json",
+      "cltk_flat_url": "https://storage.googleapis.com/sefaria-export/cltk-flat/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20Malachi/Hebrew/merged.json"
+    },
+    {
+      "title": "Chomat Anakh on Micah",
+      "language": "Hebrew",
+      "versionTitle": "merged",
+      "categories": [
+        "Tanakh",
+        "Acharonim on Tanakh",
+        "Chida",
+        "Chomat Anakh",
+        "Prophets"
+      ],
+      "json_url": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20Micah/Hebrew/merged.json",
+      "txt_url": "https://storage.googleapis.com/sefaria-export/txt/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20Micah/Hebrew/merged.txt",
+      "cltk_full_url": "https://storage.googleapis.com/sefaria-export/cltk-full/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20Micah/Hebrew/merged.json",
+      "cltk_flat_url": "https://storage.googleapis.com/sefaria-export/cltk-flat/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20Micah/Hebrew/merged.json"
+    },
+    {
+      "title": "Chomat Anakh on Nahum",
+      "language": "Hebrew",
+      "versionTitle": "merged",
+      "categories": [
+        "Tanakh",
+        "Acharonim on Tanakh",
+        "Chida",
+        "Chomat Anakh",
+        "Prophets"
+      ],
+      "json_url": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20Nahum/Hebrew/merged.json",
+      "txt_url": "https://storage.googleapis.com/sefaria-export/txt/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20Nahum/Hebrew/merged.txt",
+      "cltk_full_url": "https://storage.googleapis.com/sefaria-export/cltk-full/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20Nahum/Hebrew/merged.json",
+      "cltk_flat_url": "https://storage.googleapis.com/sefaria-export/cltk-flat/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20Nahum/Hebrew/merged.json"
+    },
+    {
+      "title": "Chomat Anakh on Nehemiah",
+      "language": "Hebrew",
+      "versionTitle": "merged",
+      "categories": [
+        "Tanakh",
+        "Acharonim on Tanakh",
+        "Chida",
+        "Chomat Anakh",
+        "Writings"
+      ],
+      "json_url": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Writings/Chomat%20Anakh%20on%20Nehemiah/Hebrew/merged.json",
+      "txt_url": "https://storage.googleapis.com/sefaria-export/txt/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Writings/Chomat%20Anakh%20on%20Nehemiah/Hebrew/merged.txt",
+      "cltk_full_url": "https://storage.googleapis.com/sefaria-export/cltk-full/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Writings/Chomat%20Anakh%20on%20Nehemiah/Hebrew/merged.json",
+      "cltk_flat_url": "https://storage.googleapis.com/sefaria-export/cltk-flat/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Writings/Chomat%20Anakh%20on%20Nehemiah/Hebrew/merged.json"
+    },
+    {
+      "title": "Chomat Anakh on Obadiah",
+      "language": "Hebrew",
+      "versionTitle": "merged",
+      "categories": [
+        "Tanakh",
+        "Acharonim on Tanakh",
+        "Chida",
+        "Chomat Anakh",
+        "Prophets"
+      ],
+      "json_url": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20Obadiah/Hebrew/merged.json",
+      "txt_url": "https://storage.googleapis.com/sefaria-export/txt/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20Obadiah/Hebrew/merged.txt",
+      "cltk_full_url": "https://storage.googleapis.com/sefaria-export/cltk-full/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20Obadiah/Hebrew/merged.json",
+      "cltk_flat_url": "https://storage.googleapis.com/sefaria-export/cltk-flat/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20Obadiah/Hebrew/merged.json"
+    },
+    {
+      "title": "Chomat Anakh on Proverbs",
+      "language": "Hebrew",
+      "versionTitle": "merged",
+      "categories": [
+        "Tanakh",
+        "Acharonim on Tanakh",
+        "Chida",
+        "Chomat Anakh",
+        "Writings"
+      ],
+      "json_url": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Writings/Chomat%20Anakh%20on%20Proverbs/Hebrew/merged.json",
+      "txt_url": "https://storage.googleapis.com/sefaria-export/txt/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Writings/Chomat%20Anakh%20on%20Proverbs/Hebrew/merged.txt",
+      "cltk_full_url": "https://storage.googleapis.com/sefaria-export/cltk-full/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Writings/Chomat%20Anakh%20on%20Proverbs/Hebrew/merged.json",
+      "cltk_flat_url": "https://storage.googleapis.com/sefaria-export/cltk-flat/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Writings/Chomat%20Anakh%20on%20Proverbs/Hebrew/merged.json"
+    },
+    {
+      "title": "Chomat Anakh on Psalms",
+      "language": "Hebrew",
+      "versionTitle": "merged",
+      "categories": [
+        "Tanakh",
+        "Acharonim on Tanakh",
+        "Chida",
+        "Chomat Anakh",
+        "Writings"
+      ],
+      "json_url": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Writings/Chomat%20Anakh%20on%20Psalms/Hebrew/merged.json",
+      "txt_url": "https://storage.googleapis.com/sefaria-export/txt/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Writings/Chomat%20Anakh%20on%20Psalms/Hebrew/merged.txt",
+      "cltk_full_url": "https://storage.googleapis.com/sefaria-export/cltk-full/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Writings/Chomat%20Anakh%20on%20Psalms/Hebrew/merged.json",
+      "cltk_flat_url": "https://storage.googleapis.com/sefaria-export/cltk-flat/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Writings/Chomat%20Anakh%20on%20Psalms/Hebrew/merged.json"
+    },
+    {
+      "title": "Chomat Anakh on Ruth",
+      "language": "Hebrew",
+      "versionTitle": "merged",
+      "categories": [
+        "Tanakh",
+        "Acharonim on Tanakh",
+        "Chida",
+        "Chomat Anakh",
+        "Writings"
+      ],
+      "json_url": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Writings/Chomat%20Anakh%20on%20Ruth/Hebrew/merged.json",
+      "txt_url": "https://storage.googleapis.com/sefaria-export/txt/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Writings/Chomat%20Anakh%20on%20Ruth/Hebrew/merged.txt",
+      "cltk_full_url": "https://storage.googleapis.com/sefaria-export/cltk-full/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Writings/Chomat%20Anakh%20on%20Ruth/Hebrew/merged.json",
+      "cltk_flat_url": "https://storage.googleapis.com/sefaria-export/cltk-flat/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Writings/Chomat%20Anakh%20on%20Ruth/Hebrew/merged.json"
+    },
+    {
+      "title": "Chomat Anakh on Song of Songs",
+      "language": "Hebrew",
+      "versionTitle": "merged",
+      "categories": [
+        "Tanakh",
+        "Acharonim on Tanakh",
+        "Chida",
+        "Chomat Anakh",
+        "Writings"
+      ],
+      "json_url": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Writings/Chomat%20Anakh%20on%20Song%20of%20Songs/Hebrew/merged.json",
+      "txt_url": "https://storage.googleapis.com/sefaria-export/txt/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Writings/Chomat%20Anakh%20on%20Song%20of%20Songs/Hebrew/merged.txt",
+      "cltk_full_url": "https://storage.googleapis.com/sefaria-export/cltk-full/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Writings/Chomat%20Anakh%20on%20Song%20of%20Songs/Hebrew/merged.json",
+      "cltk_flat_url": "https://storage.googleapis.com/sefaria-export/cltk-flat/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Writings/Chomat%20Anakh%20on%20Song%20of%20Songs/Hebrew/merged.json"
+    },
+    {
+      "title": "Chomat Anakh on Torah",
+      "language": "Hebrew",
+      "versionTitle": "merged",
+      "categories": [
+        "Tanakh",
+        "Acharonim on Tanakh",
+        "Chida",
+        "Chomat Anakh"
+      ],
+      "json_url": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Chomat%20Anakh%20on%20Torah/Hebrew/merged.json",
+      "txt_url": "https://storage.googleapis.com/sefaria-export/txt/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Chomat%20Anakh%20on%20Torah/Hebrew/merged.txt",
+      "cltk_full_url": "https://storage.googleapis.com/sefaria-export/cltk-full/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Chomat%20Anakh%20on%20Torah/Hebrew/merged.json",
+      "cltk_flat_url": "https://storage.googleapis.com/sefaria-export/cltk-flat/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Chomat%20Anakh%20on%20Torah/Hebrew/merged.json"
+    },
+    {
+      "title": "Chomat Anakh on Zechariah",
+      "language": "Hebrew",
+      "versionTitle": "merged",
+      "categories": [
+        "Tanakh",
+        "Acharonim on Tanakh",
+        "Chida",
+        "Chomat Anakh",
+        "Prophets"
+      ],
+      "json_url": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20Zechariah/Hebrew/merged.json",
+      "txt_url": "https://storage.googleapis.com/sefaria-export/txt/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20Zechariah/Hebrew/merged.txt",
+      "cltk_full_url": "https://storage.googleapis.com/sefaria-export/cltk-full/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20Zechariah/Hebrew/merged.json",
+      "cltk_flat_url": "https://storage.googleapis.com/sefaria-export/cltk-flat/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20Zechariah/Hebrew/merged.json"
+    },
+    {
+      "title": "Chomat Anakh on Zephaniah",
+      "language": "Hebrew",
+      "versionTitle": "merged",
+      "categories": [
+        "Tanakh",
+        "Acharonim on Tanakh",
+        "Chida",
+        "Chomat Anakh",
+        "Prophets"
+      ],
+      "json_url": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20Zephaniah/Hebrew/merged.json",
+      "txt_url": "https://storage.googleapis.com/sefaria-export/txt/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20Zephaniah/Hebrew/merged.txt",
+      "cltk_full_url": "https://storage.googleapis.com/sefaria-export/cltk-full/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20Zephaniah/Hebrew/merged.json",
+      "cltk_flat_url": "https://storage.googleapis.com/sefaria-export/cltk-flat/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20Zephaniah/Hebrew/merged.json"
+    },
+    {
+      "title": "Da'at Tevunot",
+      "language": "Hebrew",
+      "versionTitle": "merged",
+      "categories": [
+        "Kabbalah",
+        "Ramchal"
+      ],
+      "json_url": "https://storage.googleapis.com/sefaria-export/json/Kabbalah/Ramchal/Da%27at%20Tevunot/Hebrew/merged.json",
+      "txt_url": "https://storage.googleapis.com/sefaria-export/txt/Kabbalah/Ramchal/Da%27at%20Tevunot/Hebrew/merged.txt",
+      "cltk_full_url": "https://storage.googleapis.com/sefaria-export/cltk-full/Kabbalah/Ramchal/Da%27at%20Tevunot/Hebrew/merged.json",
+      "cltk_flat_url": "https://storage.googleapis.com/sefaria-export/cltk-flat/Kabbalah/Ramchal/Da%27at%20Tevunot/Hebrew/merged.json"
+    },
+    {
+      "title": "Degel Machaneh Ephraim",
+      "language": "Hebrew",
+      "versionTitle": "merged",
+      "categories": [
+        "Chasidut",
+        "Other Chasidut Works"
+      ],
+      "json_url": "https://storage.googleapis.com/sefaria-export/json/Chasidut/Other%20Chasidut%20Works/Degel%20Machaneh%20Ephraim/Hebrew/merged.json",
+      "txt_url": "https://storage.googleapis.com/sefaria-export/txt/Chasidut/Other%20Chasidut%20Works/Degel%20Machaneh%20Ephraim/Hebrew/merged.txt",
+      "cltk_full_url": "https://storage.googleapis.com/sefaria-export/cltk-full/Chasidut/Other%20Chasidut%20Works/Degel%20Machaneh%20Ephraim/Hebrew/merged.json",
+      "cltk_flat_url": "https://storage.googleapis.com/sefaria-export/cltk-flat/Chasidut/Other%20Chasidut%20Works/Degel%20Machaneh%20Ephraim/Hebrew/merged.json"
+    },
+    {
+      "title": "Derech Etz Chayim (Ramchal)",
+      "language": "Hebrew",
+      "versionTitle": "merged",
+      "categories": [
+        "Kabbalah",
+        "Ramchal"
+      ],
+      "json_url": "https://storage.googleapis.com/sefaria-export/json/Kabbalah/Ramchal/Derech%20Etz%20Chayim%20%28Ramchal%29/Hebrew/merged.json",
+      "txt_url": "https://storage.googleapis.com/sefaria-export/txt/Kabbalah/Ramchal/Derech%20Etz%20Chayim%20%28Ramchal%29/Hebrew/merged.txt",
+      "cltk_full_url": "https://storage.googleapis.com/sefaria-export/cltk-full/Kabbalah/Ramchal/Derech%20Etz%20Chayim%20%28Ramchal%29/Hebrew/merged.json",
+      "cltk_flat_url": "https://storage.googleapis.com/sefaria-export/cltk-flat/Kabbalah/Ramchal/Derech%20Etz%20Chayim%20%28Ramchal%29/Hebrew/merged.json"
+    },
+    {
+      "title": "Derekh Hashem",
+      "language": "Hebrew",
+      "versionTitle": "merged",
+      "categories": [
+        "Jewish Thought",
+        "Acharonim"
+      ],
+      "json_url": "https://storage.googleapis.com/sefaria-export/json/Jewish%20Thought/Acharonim/Derekh%20Hashem/Hebrew/merged.json",
+      "txt_url": "https://storage.googleapis.com/sefaria-export/txt/Jewish%20Thought/Acharonim/Derekh%20Hashem/Hebrew/merged.txt",
+      "cltk_full_url": "https://storage.googleapis.com/sefaria-export/cltk-full/Jewish%20Thought/Acharonim/Derekh%20Hashem/Hebrew/merged.json",
+      "cltk_flat_url": "https://storage.googleapis.com/sefaria-export/cltk-flat/Jewish%20Thought/Acharonim/Derekh%20Hashem/Hebrew/merged.json"
+    },
+    {
+      "title": "Kalach Pitchei Chokhmah",
+      "language": "Hebrew",
+      "versionTitle": "merged",
+      "categories": [
+        "Kabbalah",
+        "Ramchal"
+      ],
+      "json_url": "https://storage.googleapis.com/sefaria-export/json/Kabbalah/Ramchal/Kalach%20Pitchei%20Chokhmah/Hebrew/merged.json",
+      "txt_url": "https://storage.googleapis.com/sefaria-export/txt/Kabbalah/Ramchal/Kalach%20Pitchei%20Chokhmah/Hebrew/merged.txt",
+      "cltk_full_url": "https://storage.googleapis.com/sefaria-export/cltk-full/Kabbalah/Ramchal/Kalach%20Pitchei%20Chokhmah/Hebrew/merged.json",
+      "cltk_flat_url": "https://storage.googleapis.com/sefaria-export/cltk-flat/Kabbalah/Ramchal/Kalach%20Pitchei%20Chokhmah/Hebrew/merged.json"
+    },
+    {
+      "title": "Kedushat Levi",
+      "language": "Hebrew",
+      "versionTitle": "merged",
+      "categories": [
+        "Chasidut",
+        "Early Works"
+      ],
+      "json_url": "https://storage.googleapis.com/sefaria-export/json/Chasidut/Early%20Works/Kedushat%20Levi/Hebrew/merged.json",
+      "txt_url": "https://storage.googleapis.com/sefaria-export/txt/Chasidut/Early%20Works/Kedushat%20Levi/Hebrew/merged.txt",
+      "cltk_full_url": "https://storage.googleapis.com/sefaria-export/cltk-full/Chasidut/Early%20Works/Kedushat%20Levi/Hebrew/merged.json",
+      "cltk_flat_url": "https://storage.googleapis.com/sefaria-export/cltk-flat/Chasidut/Early%20Works/Kedushat%20Levi/Hebrew/merged.json"
+    },
+    {
+      "title": "Mesillat Yesharim",
+      "language": "Hebrew",
+      "versionTitle": "merged",
+      "categories": [
+        "Musar",
+        "Acharonim"
+      ],
+      "json_url": "https://storage.googleapis.com/sefaria-export/json/Musar/Acharonim/Mesillat%20Yesharim/Hebrew/merged.json",
+      "txt_url": "https://storage.googleapis.com/sefaria-export/txt/Musar/Acharonim/Mesillat%20Yesharim/Hebrew/merged.txt",
+      "cltk_full_url": "https://storage.googleapis.com/sefaria-export/cltk-full/Musar/Acharonim/Mesillat%20Yesharim/Hebrew/merged.json",
+      "cltk_flat_url": "https://storage.googleapis.com/sefaria-export/cltk-flat/Musar/Acharonim/Mesillat%20Yesharim/Hebrew/merged.json"
+    },
+    {
+      "title": "Nachal Kedumim on Torah",
+      "language": "Hebrew",
+      "versionTitle": "merged",
+      "categories": [
+        "Tanakh",
+        "Acharonim on Tanakh",
+        "Chida"
+      ],
+      "json_url": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Acharonim%20on%20Tanakh/Chida/Nachal%20Kedumim%20on%20Torah/Hebrew/merged.json",
+      "txt_url": "https://storage.googleapis.com/sefaria-export/txt/Tanakh/Acharonim%20on%20Tanakh/Chida/Nachal%20Kedumim%20on%20Torah/Hebrew/merged.txt",
+      "cltk_full_url": "https://storage.googleapis.com/sefaria-export/cltk-full/Tanakh/Acharonim%20on%20Tanakh/Chida/Nachal%20Kedumim%20on%20Torah/Hebrew/merged.json",
+      "cltk_flat_url": "https://storage.googleapis.com/sefaria-export/cltk-flat/Tanakh/Acharonim%20on%20Tanakh/Chida/Nachal%20Kedumim%20on%20Torah/Hebrew/merged.json"
+    },
+    {
+      "title": "Penei David",
+      "language": "Hebrew",
+      "versionTitle": "merged",
+      "categories": [
+        "Tanakh",
+        "Acharonim on Tanakh",
+        "Chida"
+      ],
+      "json_url": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Acharonim%20on%20Tanakh/Chida/Penei%20David/Hebrew/merged.json",
+      "txt_url": "https://storage.googleapis.com/sefaria-export/txt/Tanakh/Acharonim%20on%20Tanakh/Chida/Penei%20David/Hebrew/merged.txt",
+      "cltk_full_url": "https://storage.googleapis.com/sefaria-export/cltk-full/Tanakh/Acharonim%20on%20Tanakh/Chida/Penei%20David/Hebrew/merged.json",
+      "cltk_flat_url": "https://storage.googleapis.com/sefaria-export/cltk-flat/Tanakh/Acharonim%20on%20Tanakh/Chida/Penei%20David/Hebrew/merged.json"
+    },
+    {
+      "title": "Tanya",
+      "language": "Hebrew",
+      "versionTitle": "merged",
+      "categories": [
+        "Chasidut",
+        "Chabad"
+      ],
+      "json_url": "https://storage.googleapis.com/sefaria-export/json/Chasidut/Chabad/Tanya/Hebrew/merged.json",
+      "txt_url": "https://storage.googleapis.com/sefaria-export/txt/Chasidut/Chabad/Tanya/Hebrew/merged.txt",
+      "cltk_full_url": "https://storage.googleapis.com/sefaria-export/cltk-full/Chasidut/Chabad/Tanya/Hebrew/merged.json",
+      "cltk_flat_url": "https://storage.googleapis.com/sefaria-export/cltk-flat/Chasidut/Chabad/Tanya/Hebrew/merged.json"
+    }
+  ],
+  "searched": [
+    {
+      "work": "Chomat Anakh on Amos",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20Amos/Hebrew/merged.json",
+      "sha256": "2351a8387673942a7ebb27e3a32fdbec94fdb3790775a32b190e52ee0d03f7b0",
+      "versions": [
+        [
+          "Chomat Anakh, Jerusalem 1965",
+          "https://www.nli.org.il/he/books/NNL_ALEPH001139222"
+        ]
+      ],
+      "leaf_count": 31,
+      "candidate_count": 0,
+      "equine_token_candidate_count": 0,
+      "named_version_metadata": [
+        {
+          "versionTitle": "Chomat Anakh, Jerusalem 1965",
+          "url": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20Amos/Hebrew/Chomat%20Anakh%2C%20Jerusalem%201965.json",
+          "license": "unknown",
+          "versionSource": "https://www.nli.org.il/he/books/NNL_ALEPH001139222",
+          "status": "fetched_metadata"
+        }
+      ],
+      "range": "All supplied text leaves; close reading only selected passages",
+      "status": "lexically_searched"
+    },
+    {
+      "work": "Chomat Anakh on Ecclesiastes",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Writings/Chomat%20Anakh%20on%20Ecclesiastes/Hebrew/merged.json",
+      "sha256": "78407a1450ffa80b86168704bd7bb2a08f2188febef3e87190d0fc1f3903238e",
+      "versions": [
+        [
+          "Chomat Anakh, Jerusalem 1965",
+          "https://www.nli.org.il/he/books/NNL_ALEPH001139222"
+        ]
+      ],
+      "leaf_count": 45,
+      "candidate_count": 0,
+      "equine_token_candidate_count": 0,
+      "named_version_metadata": [
+        {
+          "versionTitle": "Chomat Anakh, Jerusalem 1965",
+          "url": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Writings/Chomat%20Anakh%20on%20Ecclesiastes/Hebrew/Chomat%20Anakh%2C%20Jerusalem%201965.json",
+          "license": "unknown",
+          "versionSource": "https://www.nli.org.il/he/books/NNL_ALEPH001139222",
+          "status": "fetched_metadata"
+        }
+      ],
+      "range": "All supplied text leaves; close reading only selected passages",
+      "status": "lexically_searched"
+    },
+    {
+      "work": "Chomat Anakh on Daniel",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Writings/Chomat%20Anakh%20on%20Daniel/Hebrew/merged.json",
+      "sha256": "ae626fffb2e56ce53ac03a66ca5675853f67cbc12fa65b56a61f7fdd990d0d7b",
+      "versions": [
+        [
+          "Chomat Anakh, Jerusalem 1965",
+          "https://www.nli.org.il/he/books/NNL_ALEPH001139222"
+        ]
+      ],
+      "leaf_count": 47,
+      "candidate_count": 1,
+      "equine_token_candidate_count": 0,
+      "named_version_metadata": [
+        {
+          "versionTitle": "Chomat Anakh, Jerusalem 1965",
+          "url": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Writings/Chomat%20Anakh%20on%20Daniel/Hebrew/Chomat%20Anakh%2C%20Jerusalem%201965.json",
+          "license": "unknown",
+          "versionSource": "https://www.nli.org.il/he/books/NNL_ALEPH001139222",
+          "status": "fetched_metadata"
+        }
+      ],
+      "range": "All supplied text leaves; close reading only selected passages",
+      "status": "lexically_searched"
+    },
+    {
+      "work": "Asarah Perakim LeRamchal",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Kabbalah/Ramchal/Asarah%20Perakim%20LeRamchal/Hebrew/merged.json",
+      "sha256": "03986cf96e1bb71935b523e80c44ae6e43d4029f352aa3cdbbccea78848deed5",
+      "versions": [
+        [
+          "Assarah Perakim -- Torat Emet",
+          "http://www.ateret4u.com/online/f_01919.html#HtmpReportNum0001_L2"
+        ]
+      ],
+      "leaf_count": 85,
+      "candidate_count": 0,
+      "equine_token_candidate_count": 0,
+      "named_version_metadata": [
+        {
+          "versionTitle": "Assarah Perakim -- Torat Emet",
+          "url": "https://storage.googleapis.com/sefaria-export/json/Kabbalah/Ramchal/Asarah%20Perakim%20LeRamchal/Hebrew/Assarah%20Perakim%20--%20Torat%20Emet.json",
+          "license": "Public Domain",
+          "versionSource": "http://www.ateret4u.com/online/f_01919.html#HtmpReportNum0001_L2",
+          "status": "fetched_metadata"
+        }
+      ],
+      "range": "All supplied text leaves; close reading only selected passages",
+      "status": "lexically_searched"
+    },
+    {
+      "work": "Beur HaGra on Sifra DeTzniuta",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Kabbalah/Zohar/Beur%20HaGra%20on%20Sifra%20DeTzniuta/Hebrew/merged.json",
+      "sha256": "b48edc32163a9873e755e836cb7942f707fccf979542e2c6b402daa0dfa1064b",
+      "versions": [
+        [
+          "Wikisource",
+          "https://he.wikisource.org/wiki/%D7%92%D7%A8%22%D7%90_%D7%A2%D7%9C_%D7%A1%D7%A4%D7%A8%D7%90_%D7%93%D7%A6%D7%A0%D7%99%D7%A2%D7%95%D7%AA%D7%90"
+        ]
+      ],
+      "leaf_count": 297,
+      "candidate_count": 0,
+      "equine_token_candidate_count": 0,
+      "named_version_metadata": [
+        {
+          "versionTitle": "Wikisource",
+          "url": "https://storage.googleapis.com/sefaria-export/json/Kabbalah/Zohar/Beur%20HaGra%20on%20Sifra%20DeTzniuta/Hebrew/Wikisource.json",
+          "license": "Public Domain",
+          "versionSource": "https://he.wikisource.org/wiki/%D7%92%D7%A8%22%D7%90_%D7%A2%D7%9C_%D7%A1%D7%A4%D7%A8%D7%90_%D7%93%D7%A6%D7%A0%D7%99%D7%A2%D7%95%D7%AA%D7%90",
+          "status": "fetched_metadata"
+        }
+      ],
+      "range": "All supplied text leaves; close reading only selected passages",
+      "status": "lexically_searched"
+    },
+    {
+      "work": "Aderet Eliyahu",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Acharonim%20on%20Tanakh/Aderet%20Eliyahu/Aderet%20Eliyahu/Hebrew/merged.json",
+      "sha256": "eb8f66a59327d543e8cbcb51343ea5ff3505eaf1b836abb7a8556a066507a6c0",
+      "versions": [
+        [
+          "Aderet Eliyahu, Halberstadt, 1860",
+          "https://www.nli.org.il/he/books/NNL_ALEPH001191318 "
+        ]
+      ],
+      "leaf_count": 3540,
+      "candidate_count": 16,
+      "equine_token_candidate_count": 8,
+      "named_version_metadata": [
+        {
+          "versionTitle": "Aderet Eliyahu, Halberstadt, 1860",
+          "url": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Acharonim%20on%20Tanakh/Aderet%20Eliyahu/Aderet%20Eliyahu/Hebrew/Aderet%20Eliyahu%2C%20Halberstadt%2C%201860.json",
+          "license": "Public Domain",
+          "versionSource": "https://www.nli.org.il/he/books/NNL_ALEPH001191318 ",
+          "status": "fetched_metadata"
+        }
+      ],
+      "range": "All supplied text leaves; close reading only selected passages",
+      "status": "lexically_searched"
+    },
+    {
+      "work": "Chomat Anakh on Haggai",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20Haggai/Hebrew/merged.json",
+      "sha256": "c1d231c0381c138206ccbc2802e032bbbac6e42faf8809ffdcd16fd3bdbee515",
+      "versions": [
+        [
+          "Chomat Anakh, Jerusalem 1965",
+          "https://www.nli.org.il/he/books/NNL_ALEPH001139222"
+        ]
+      ],
+      "leaf_count": 5,
+      "candidate_count": 0,
+      "equine_token_candidate_count": 0,
+      "named_version_metadata": [
+        {
+          "versionTitle": "Chomat Anakh, Jerusalem 1965",
+          "url": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20Haggai/Hebrew/Chomat%20Anakh%2C%20Jerusalem%201965.json",
+          "license": "unknown",
+          "versionSource": "https://www.nli.org.il/he/books/NNL_ALEPH001139222",
+          "status": "fetched_metadata"
+        }
+      ],
+      "range": "All supplied text leaves; close reading only selected passages",
+      "status": "lexically_searched"
+    },
+    {
+      "work": "Chomat Anakh on Hosea",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20Hosea/Hebrew/merged.json",
+      "sha256": "ecdabfd732b8c2d5805acd57fdbd3c67156b87ba2e1601d41b59133430a00a8f",
+      "versions": [
+        [
+          "Chomat Anakh, Jerusalem 1965",
+          "https://www.nli.org.il/he/books/NNL_ALEPH001139222"
+        ]
+      ],
+      "leaf_count": 45,
+      "candidate_count": 0,
+      "equine_token_candidate_count": 0,
+      "named_version_metadata": [
+        {
+          "versionTitle": "Chomat Anakh, Jerusalem 1965",
+          "url": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20Hosea/Hebrew/Chomat%20Anakh%2C%20Jerusalem%201965.json",
+          "license": "unknown",
+          "versionSource": "https://www.nli.org.il/he/books/NNL_ALEPH001139222",
+          "status": "fetched_metadata"
+        }
+      ],
+      "range": "All supplied text leaves; close reading only selected passages",
+      "status": "lexically_searched"
+    },
+    {
+      "work": "Chomat Anakh on Habakkuk",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20Habakkuk/Hebrew/merged.json",
+      "sha256": "81fc4e846c0e5937bb5cf1e65c48696b3e494707cfafe43e9fe53d781a3f3896",
+      "versions": [
+        [
+          "Chomat Anakh, Jerusalem 1965",
+          "https://www.nli.org.il/he/books/NNL_ALEPH001139222"
+        ]
+      ],
+      "leaf_count": 10,
+      "candidate_count": 0,
+      "equine_token_candidate_count": 0,
+      "named_version_metadata": [
+        {
+          "versionTitle": "Chomat Anakh, Jerusalem 1965",
+          "url": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20Habakkuk/Hebrew/Chomat%20Anakh%2C%20Jerusalem%201965.json",
+          "license": "unknown",
+          "versionSource": "https://www.nli.org.il/he/books/NNL_ALEPH001139222",
+          "status": "fetched_metadata"
+        }
+      ],
+      "range": "All supplied text leaves; close reading only selected passages",
+      "status": "lexically_searched"
+    },
+    {
+      "work": "Chomat Anakh on Esther",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Writings/Chomat%20Anakh%20on%20Esther/Hebrew/merged.json",
+      "sha256": "d6b9397199d01caa24698c72e85b5c261b45d930d1b44ea685c30c013ecf3674",
+      "versions": [
+        [
+          "Chomat Anakh, Jerusalem 1965",
+          "https://www.nli.org.il/he/books/NNL_ALEPH001139222"
+        ]
+      ],
+      "leaf_count": 44,
+      "candidate_count": 2,
+      "equine_token_candidate_count": 1,
+      "named_version_metadata": [
+        {
+          "versionTitle": "Chomat Anakh, Jerusalem 1965",
+          "url": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Writings/Chomat%20Anakh%20on%20Esther/Hebrew/Chomat%20Anakh%2C%20Jerusalem%201965.json",
+          "license": "unknown",
+          "versionSource": "https://www.nli.org.il/he/books/NNL_ALEPH001139222",
+          "status": "fetched_metadata"
+        }
+      ],
+      "range": "All supplied text leaves; close reading only selected passages",
+      "status": "lexically_searched"
+    },
+    {
+      "work": "Chomat Anakh on Ezekiel",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20Ezekiel/Hebrew/merged.json",
+      "sha256": "2b74a0b8ac2d97075f52fdd695de936e407d7d31661e0c55ccd1c1ba62b6d583",
+      "versions": [
+        [
+          "Chomat Anakh, Jerusalem 1965",
+          "https://www.nli.org.il/he/books/NNL_ALEPH001139222"
+        ]
+      ],
+      "leaf_count": 178,
+      "candidate_count": 1,
+      "equine_token_candidate_count": 0,
+      "named_version_metadata": [
+        {
+          "versionTitle": "Chomat Anakh, Jerusalem 1965",
+          "url": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20Ezekiel/Hebrew/Chomat%20Anakh%2C%20Jerusalem%201965.json",
+          "license": "unknown",
+          "versionSource": "https://www.nli.org.il/he/books/NNL_ALEPH001139222",
+          "status": "fetched_metadata"
+        }
+      ],
+      "range": "All supplied text leaves; close reading only selected passages",
+      "status": "lexically_searched"
+    },
+    {
+      "work": "Chomat Anakh on Ezra",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Writings/Chomat%20Anakh%20on%20Ezra/Hebrew/merged.json",
+      "sha256": "5d62c0912d07bd55b2a38a79b57803a44dcb63e4906ebc03bbbeb95529dba53f",
+      "versions": [
+        [
+          "Chomat Anakh, Jerusalem 1965",
+          "https://www.nli.org.il/he/books/NNL_ALEPH001139222"
+        ]
+      ],
+      "leaf_count": 20,
+      "candidate_count": 0,
+      "equine_token_candidate_count": 0,
+      "named_version_metadata": [
+        {
+          "versionTitle": "Chomat Anakh, Jerusalem 1965",
+          "url": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Writings/Chomat%20Anakh%20on%20Ezra/Hebrew/Chomat%20Anakh%2C%20Jerusalem%201965.json",
+          "license": "unknown",
+          "versionSource": "https://www.nli.org.il/he/books/NNL_ALEPH001139222",
+          "status": "fetched_metadata"
+        }
+      ],
+      "range": "All supplied text leaves; close reading only selected passages",
+      "status": "lexically_searched"
+    },
+    {
+      "work": "Chomat Anakh on II Samuel",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20II%20Samuel/Hebrew/merged.json",
+      "sha256": "6abbdaa4b74a95e13169abd70545b8dd6319dd51b7aecf650b7cc9bc825463fd",
+      "versions": [
+        [
+          "Chomat Anakh, Jerusalem 1965",
+          "https://www.nli.org.il/he/books/NNL_ALEPH001139222"
+        ]
+      ],
+      "leaf_count": 148,
+      "candidate_count": 0,
+      "equine_token_candidate_count": 0,
+      "named_version_metadata": [
+        {
+          "versionTitle": "Chomat Anakh, Jerusalem 1965",
+          "url": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20II%20Samuel/Hebrew/Chomat%20Anakh%2C%20Jerusalem%201965.json",
+          "license": "unknown",
+          "versionSource": "https://www.nli.org.il/he/books/NNL_ALEPH001139222",
+          "status": "fetched_metadata"
+        }
+      ],
+      "range": "All supplied text leaves; close reading only selected passages",
+      "status": "lexically_searched"
+    },
+    {
+      "work": "Chomat Anakh on II Chronicles",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Writings/Chomat%20Anakh%20on%20II%20Chronicles/Hebrew/merged.json",
+      "sha256": "7ce32d53971f03bf6679999e2e7dc34c267ce0704e56d7fc003d6ab48f248c72",
+      "versions": [
+        [
+          "Chomat Anakh, Jerusalem 1965",
+          "https://www.nli.org.il/he/books/NNL_ALEPH001139222"
+        ]
+      ],
+      "leaf_count": 188,
+      "candidate_count": 0,
+      "equine_token_candidate_count": 0,
+      "named_version_metadata": [
+        {
+          "versionTitle": "Chomat Anakh, Jerusalem 1965",
+          "url": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Writings/Chomat%20Anakh%20on%20II%20Chronicles/Hebrew/Chomat%20Anakh%2C%20Jerusalem%201965.json",
+          "license": "unknown",
+          "versionSource": "https://www.nli.org.il/he/books/NNL_ALEPH001139222",
+          "status": "fetched_metadata"
+        }
+      ],
+      "range": "All supplied text leaves; close reading only selected passages",
+      "status": "lexically_searched"
+    },
+    {
+      "work": "Chomat Anakh on Isaiah",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20Isaiah/Hebrew/merged.json",
+      "sha256": "0bbf9cfd31fe5f3c009b5c9b8813f353743847eb470b183c29861c91e5281f30",
+      "versions": [
+        [
+          "Chomat Anakh, Jerusalem 1965",
+          "https://www.nli.org.il/he/books/NNL_ALEPH001139222"
+        ]
+      ],
+      "leaf_count": 347,
+      "candidate_count": 0,
+      "equine_token_candidate_count": 0,
+      "named_version_metadata": [
+        {
+          "versionTitle": "Chomat Anakh, Jerusalem 1965",
+          "url": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20Isaiah/Hebrew/Chomat%20Anakh%2C%20Jerusalem%201965.json",
+          "license": "unknown",
+          "versionSource": "https://www.nli.org.il/he/books/NNL_ALEPH001139222",
+          "status": "fetched_metadata"
+        }
+      ],
+      "range": "All supplied text leaves; close reading only selected passages",
+      "status": "lexically_searched"
+    },
+    {
+      "work": "Chomat Anakh on I Kings",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20I%20Kings/Hebrew/merged.json",
+      "sha256": "eca2b3abe339ba141f8ff21d716d49d7b66e2374e8555ed70a0f61c6b7c0f73a",
+      "versions": [
+        [
+          "Chomat Anakh, Jerusalem 1965",
+          "https://www.nli.org.il/he/books/NNL_ALEPH001139222"
+        ]
+      ],
+      "leaf_count": 189,
+      "candidate_count": 3,
+      "equine_token_candidate_count": 3,
+      "named_version_metadata": [
+        {
+          "versionTitle": "Chomat Anakh, Jerusalem 1965",
+          "url": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20I%20Kings/Hebrew/Chomat%20Anakh%2C%20Jerusalem%201965.json",
+          "license": "unknown",
+          "versionSource": "https://www.nli.org.il/he/books/NNL_ALEPH001139222",
+          "status": "fetched_metadata"
+        }
+      ],
+      "range": "All supplied text leaves; close reading only selected passages",
+      "status": "lexically_searched"
+    },
+    {
+      "work": "Chomat Anakh on I Chronicles",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Writings/Chomat%20Anakh%20on%20I%20Chronicles/Hebrew/merged.json",
+      "sha256": "40db321a8972e9a44b2440c458566bb6322a82c5f17a62746fc5e47cc58aa1d8",
+      "versions": [
+        [
+          "Chomat Anakh, Jerusalem 1965",
+          "https://www.nli.org.il/he/books/NNL_ALEPH001139222"
+        ]
+      ],
+      "leaf_count": 88,
+      "candidate_count": 2,
+      "equine_token_candidate_count": 1,
+      "named_version_metadata": [
+        {
+          "versionTitle": "Chomat Anakh, Jerusalem 1965",
+          "url": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Writings/Chomat%20Anakh%20on%20I%20Chronicles/Hebrew/Chomat%20Anakh%2C%20Jerusalem%201965.json",
+          "license": "unknown",
+          "versionSource": "https://www.nli.org.il/he/books/NNL_ALEPH001139222",
+          "status": "fetched_metadata"
+        }
+      ],
+      "range": "All supplied text leaves; close reading only selected passages",
+      "status": "lexically_searched"
+    },
+    {
+      "work": "Chomat Anakh on I Samuel",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20I%20Samuel/Hebrew/merged.json",
+      "sha256": "906b9ee522a5a34287464d8831ce47f8a2eff84c15b093f0921c4571f0216f78",
+      "versions": [
+        [
+          "Chomat Anakh, Jerusalem 1965",
+          "https://www.nli.org.il/he/books/NNL_ALEPH001139222"
+        ]
+      ],
+      "leaf_count": 235,
+      "candidate_count": 0,
+      "equine_token_candidate_count": 0,
+      "named_version_metadata": [
+        {
+          "versionTitle": "Chomat Anakh, Jerusalem 1965",
+          "url": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20I%20Samuel/Hebrew/Chomat%20Anakh%2C%20Jerusalem%201965.json",
+          "license": "unknown",
+          "versionSource": "https://www.nli.org.il/he/books/NNL_ALEPH001139222",
+          "status": "fetched_metadata"
+        }
+      ],
+      "range": "All supplied text leaves; close reading only selected passages",
+      "status": "lexically_searched"
+    },
+    {
+      "work": "Chomat Anakh on Judges",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20Judges/Hebrew/merged.json",
+      "sha256": "e6d5e03d9c523f07827997814fc31e4769e622f7166b5749bedfb705918119cd",
+      "versions": [
+        [
+          "Chomat Anakh, Jerusalem 1965",
+          "https://www.nli.org.il/he/books/NNL_ALEPH001139222"
+        ]
+      ],
+      "leaf_count": 105,
+      "candidate_count": 0,
+      "equine_token_candidate_count": 0,
+      "named_version_metadata": [
+        {
+          "versionTitle": "Chomat Anakh, Jerusalem 1965",
+          "url": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20Judges/Hebrew/Chomat%20Anakh%2C%20Jerusalem%201965.json",
+          "license": "unknown",
+          "versionSource": "https://www.nli.org.il/he/books/NNL_ALEPH001139222",
+          "status": "fetched_metadata"
+        }
+      ],
+      "range": "All supplied text leaves; close reading only selected passages",
+      "status": "lexically_searched"
+    },
+    {
+      "work": "Chomat Anakh on Jonah",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20Jonah/Hebrew/merged.json",
+      "sha256": "207e030adc1c8a0c1495a35c8cce2a4049e20c7cc2fd77b2b39c7e314a05bc7a",
+      "versions": [
+        [
+          "Chomat Anakh, Jerusalem 1965",
+          "https://www.nli.org.il/he/books/NNL_ALEPH001139222"
+        ]
+      ],
+      "leaf_count": 14,
+      "candidate_count": 0,
+      "equine_token_candidate_count": 0,
+      "named_version_metadata": [
+        {
+          "versionTitle": "Chomat Anakh, Jerusalem 1965",
+          "url": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20Jonah/Hebrew/Chomat%20Anakh%2C%20Jerusalem%201965.json",
+          "license": "unknown",
+          "versionSource": "https://www.nli.org.il/he/books/NNL_ALEPH001139222",
+          "status": "fetched_metadata"
+        }
+      ],
+      "range": "All supplied text leaves; close reading only selected passages",
+      "status": "lexically_searched"
+    },
+    {
+      "work": "Chomat Anakh on Joshua",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20Joshua/Hebrew/merged.json",
+      "sha256": "b80860987afdb023d1bc2c6e6876d02ce995bab3a0a0386ac3edab8a2e2bfca2",
+      "versions": [
+        [
+          "Chomat Anakh, Jerusalem 1965",
+          "https://www.nli.org.il/he/books/NNL_ALEPH001139222"
+        ]
+      ],
+      "leaf_count": 120,
+      "candidate_count": 0,
+      "equine_token_candidate_count": 0,
+      "named_version_metadata": [
+        {
+          "versionTitle": "Chomat Anakh, Jerusalem 1965",
+          "url": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20Joshua/Hebrew/Chomat%20Anakh%2C%20Jerusalem%201965.json",
+          "license": "unknown",
+          "versionSource": "https://www.nli.org.il/he/books/NNL_ALEPH001139222",
+          "status": "fetched_metadata"
+        }
+      ],
+      "range": "All supplied text leaves; close reading only selected passages",
+      "status": "lexically_searched"
+    },
+    {
+      "work": "Chomat Anakh on Job",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Writings/Chomat%20Anakh%20on%20Job/Hebrew/merged.json",
+      "sha256": "c152e61bcb8919588fdbcf8a1c95dac19cfb3dd790a2399bd7a1cc3bea724ff4",
+      "versions": [
+        [
+          "Chomat Anakh, Jerusalem 1965",
+          "https://www.nli.org.il/he/books/NNL_ALEPH001139222"
+        ]
+      ],
+      "leaf_count": 158,
+      "candidate_count": 0,
+      "equine_token_candidate_count": 0,
+      "named_version_metadata": [
+        {
+          "versionTitle": "Chomat Anakh, Jerusalem 1965",
+          "url": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Writings/Chomat%20Anakh%20on%20Job/Hebrew/Chomat%20Anakh%2C%20Jerusalem%201965.json",
+          "license": "unknown",
+          "versionSource": "https://www.nli.org.il/he/books/NNL_ALEPH001139222",
+          "status": "fetched_metadata"
+        }
+      ],
+      "range": "All supplied text leaves; close reading only selected passages",
+      "status": "lexically_searched"
+    },
+    {
+      "work": "Chomat Anakh on Joel",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20Joel/Hebrew/merged.json",
+      "sha256": "b18462614ed059a9e5021e6f67274e431b7dc9f1d791f8982a0d3190f646dc9e",
+      "versions": [
+        [
+          "Chomat Anakh, Jerusalem 1965",
+          "https://www.nli.org.il/he/books/NNL_ALEPH001139222"
+        ]
+      ],
+      "leaf_count": 15,
+      "candidate_count": 0,
+      "equine_token_candidate_count": 0,
+      "named_version_metadata": [
+        {
+          "versionTitle": "Chomat Anakh, Jerusalem 1965",
+          "url": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20Joel/Hebrew/Chomat%20Anakh%2C%20Jerusalem%201965.json",
+          "license": "unknown",
+          "versionSource": "https://www.nli.org.il/he/books/NNL_ALEPH001139222",
+          "status": "fetched_metadata"
+        }
+      ],
+      "range": "All supplied text leaves; close reading only selected passages",
+      "status": "lexically_searched"
+    },
+    {
+      "work": "Chomat Anakh on Jeremiah",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20Jeremiah/Hebrew/merged.json",
+      "sha256": "28286202ca52b7d736402895989ee14a21978b3335ac7e9b1b5a10e5217d93be",
+      "versions": [
+        [
+          "Chomat Anakh, Jerusalem 1965",
+          "https://www.nli.org.il/he/books/NNL_ALEPH001139222"
+        ]
+      ],
+      "leaf_count": 240,
+      "candidate_count": 0,
+      "equine_token_candidate_count": 0,
+      "named_version_metadata": [
+        {
+          "versionTitle": "Chomat Anakh, Jerusalem 1965",
+          "url": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20Jeremiah/Hebrew/Chomat%20Anakh%2C%20Jerusalem%201965.json",
+          "license": "unknown",
+          "versionSource": "https://www.nli.org.il/he/books/NNL_ALEPH001139222",
+          "status": "fetched_metadata"
+        }
+      ],
+      "range": "All supplied text leaves; close reading only selected passages",
+      "status": "lexically_searched"
+    },
+    {
+      "work": "Chomat Anakh on Malachi",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20Malachi/Hebrew/merged.json",
+      "sha256": "a507aa5d766db23452751cdadeffa6abc76870e0ee43bead0c12b7356dc9f752",
+      "versions": [
+        [
+          "Chomat Anakh, Jerusalem 1965",
+          "https://www.nli.org.il/he/books/NNL_ALEPH001139222"
+        ]
+      ],
+      "leaf_count": 8,
+      "candidate_count": 0,
+      "equine_token_candidate_count": 0,
+      "named_version_metadata": [
+        {
+          "versionTitle": "Chomat Anakh, Jerusalem 1965",
+          "url": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20Malachi/Hebrew/Chomat%20Anakh%2C%20Jerusalem%201965.json",
+          "license": "unknown",
+          "versionSource": "https://www.nli.org.il/he/books/NNL_ALEPH001139222",
+          "status": "fetched_metadata"
+        }
+      ],
+      "range": "All supplied text leaves; close reading only selected passages",
+      "status": "lexically_searched"
+    },
+    {
+      "work": "Chomat Anakh on Lamentations",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Writings/Chomat%20Anakh%20on%20Lamentations/Hebrew/merged.json",
+      "sha256": "1951312d3d8508c18661303793f1f35121342b461ad44533e4d8f9c5bf945a25",
+      "versions": [
+        [
+          "Chomat Anakh, Jerusalem 1965",
+          "https://www.nli.org.il/he/books/NNL_ALEPH001139222"
+        ]
+      ],
+      "leaf_count": 15,
+      "candidate_count": 1,
+      "equine_token_candidate_count": 1,
+      "named_version_metadata": [
+        {
+          "versionTitle": "Chomat Anakh, Jerusalem 1965",
+          "url": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Writings/Chomat%20Anakh%20on%20Lamentations/Hebrew/Chomat%20Anakh%2C%20Jerusalem%201965.json",
+          "license": "unknown",
+          "versionSource": "https://www.nli.org.il/he/books/NNL_ALEPH001139222",
+          "status": "fetched_metadata"
+        }
+      ],
+      "range": "All supplied text leaves; close reading only selected passages",
+      "status": "lexically_searched"
+    },
+    {
+      "work": "Chomat Anakh on Nehemiah",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Writings/Chomat%20Anakh%20on%20Nehemiah/Hebrew/merged.json",
+      "sha256": "833fb2099d1c6642febfe4e300c00594488d800586b669695c444fb91399fcca",
+      "versions": [
+        [
+          "Chomat Anakh, Jerusalem 1965",
+          "https://www.nli.org.il/he/books/NNL_ALEPH001139222"
+        ]
+      ],
+      "leaf_count": 20,
+      "candidate_count": 0,
+      "equine_token_candidate_count": 0,
+      "named_version_metadata": [
+        {
+          "versionTitle": "Chomat Anakh, Jerusalem 1965",
+          "url": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Writings/Chomat%20Anakh%20on%20Nehemiah/Hebrew/Chomat%20Anakh%2C%20Jerusalem%201965.json",
+          "license": "unknown",
+          "versionSource": "https://www.nli.org.il/he/books/NNL_ALEPH001139222",
+          "status": "fetched_metadata"
+        }
+      ],
+      "range": "All supplied text leaves; close reading only selected passages",
+      "status": "lexically_searched"
+    },
+    {
+      "work": "Chomat Anakh on Micah",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20Micah/Hebrew/merged.json",
+      "sha256": "5e9057112241e4c42cfe1c2f0ff5281ba20b0f210c2fcba1536c5a337c68f54b",
+      "versions": [
+        [
+          "Chomat Anakh, Jerusalem 1965",
+          "https://www.nli.org.il/he/books/NNL_ALEPH001139222"
+        ]
+      ],
+      "leaf_count": 21,
+      "candidate_count": 0,
+      "equine_token_candidate_count": 0,
+      "named_version_metadata": [
+        {
+          "versionTitle": "Chomat Anakh, Jerusalem 1965",
+          "url": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20Micah/Hebrew/Chomat%20Anakh%2C%20Jerusalem%201965.json",
+          "license": "unknown",
+          "versionSource": "https://www.nli.org.il/he/books/NNL_ALEPH001139222",
+          "status": "fetched_metadata"
+        }
+      ],
+      "range": "All supplied text leaves; close reading only selected passages",
+      "status": "lexically_searched"
+    },
+    {
+      "work": "Chomat Anakh on Obadiah",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20Obadiah/Hebrew/merged.json",
+      "sha256": "f6cccee1c5d6956c74a8c09481e9de714d61eff57a0fff74ffc91a9a5c55e478",
+      "versions": [
+        [
+          "Chomat Anakh, Jerusalem 1965",
+          "https://www.nli.org.il/he/books/NNL_ALEPH001139222"
+        ]
+      ],
+      "leaf_count": 6,
+      "candidate_count": 0,
+      "equine_token_candidate_count": 0,
+      "named_version_metadata": [
+        {
+          "versionTitle": "Chomat Anakh, Jerusalem 1965",
+          "url": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20Obadiah/Hebrew/Chomat%20Anakh%2C%20Jerusalem%201965.json",
+          "license": "unknown",
+          "versionSource": "https://www.nli.org.il/he/books/NNL_ALEPH001139222",
+          "status": "fetched_metadata"
+        }
+      ],
+      "range": "All supplied text leaves; close reading only selected passages",
+      "status": "lexically_searched"
+    },
+    {
+      "work": "Chomat Anakh on Nahum",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20Nahum/Hebrew/merged.json",
+      "sha256": "c5a2f1afee274ae7f78e76b6be03e75cc77a3c04e7015121cc7f1a429e1985b2",
+      "versions": [
+        [
+          "Chomat Anakh, Jerusalem 1965",
+          "https://www.nli.org.il/he/books/NNL_ALEPH001139222"
+        ]
+      ],
+      "leaf_count": 9,
+      "candidate_count": 0,
+      "equine_token_candidate_count": 0,
+      "named_version_metadata": [
+        {
+          "versionTitle": "Chomat Anakh, Jerusalem 1965",
+          "url": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20Nahum/Hebrew/Chomat%20Anakh%2C%20Jerusalem%201965.json",
+          "license": "unknown",
+          "versionSource": "https://www.nli.org.il/he/books/NNL_ALEPH001139222",
+          "status": "fetched_metadata"
+        }
+      ],
+      "range": "All supplied text leaves; close reading only selected passages",
+      "status": "lexically_searched"
+    },
+    {
+      "work": "Chomat Anakh on Song of Songs",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Writings/Chomat%20Anakh%20on%20Song%20of%20Songs/Hebrew/merged.json",
+      "sha256": "5bce12b7b6133b1ddbd84c10579d8ed82578b91411fc75fb2aa02e01176fec2c",
+      "versions": [
+        [
+          "Chomat Anakh, Jerusalem 1965",
+          "https://www.nli.org.il/he/books/NNL_ALEPH001139222"
+        ]
+      ],
+      "leaf_count": 35,
+      "candidate_count": 1,
+      "equine_token_candidate_count": 0,
+      "named_version_metadata": [
+        {
+          "versionTitle": "Chomat Anakh, Jerusalem 1965",
+          "url": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Writings/Chomat%20Anakh%20on%20Song%20of%20Songs/Hebrew/Chomat%20Anakh%2C%20Jerusalem%201965.json",
+          "license": "unknown",
+          "versionSource": "https://www.nli.org.il/he/books/NNL_ALEPH001139222",
+          "status": "fetched_metadata"
+        }
+      ],
+      "range": "All supplied text leaves; close reading only selected passages",
+      "status": "lexically_searched"
+    },
+    {
+      "work": "Chomat Anakh on Zephaniah",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20Zephaniah/Hebrew/merged.json",
+      "sha256": "f5dfb40baaf89337abfdf8321dfdc8a2e71f95b24c9878ffd82397bb035dfb7f",
+      "versions": [
+        [
+          "Chomat Anakh, Jerusalem 1965",
+          "https://www.nli.org.il/he/books/NNL_ALEPH001139222"
+        ]
+      ],
+      "leaf_count": 10,
+      "candidate_count": 0,
+      "equine_token_candidate_count": 0,
+      "named_version_metadata": [
+        {
+          "versionTitle": "Chomat Anakh, Jerusalem 1965",
+          "url": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20Zephaniah/Hebrew/Chomat%20Anakh%2C%20Jerusalem%201965.json",
+          "license": "unknown",
+          "versionSource": "https://www.nli.org.il/he/books/NNL_ALEPH001139222",
+          "status": "fetched_metadata"
+        }
+      ],
+      "range": "All supplied text leaves; close reading only selected passages",
+      "status": "lexically_searched"
+    },
+    {
+      "work": "Chomat Anakh on Ruth",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Writings/Chomat%20Anakh%20on%20Ruth/Hebrew/merged.json",
+      "sha256": "22c0eb70fd231c9108a11d1c87f1f139bbae3664f6b58673eaa9caabeb037b52",
+      "versions": [
+        [
+          "Chomat Anakh, Jerusalem 1965",
+          "https://www.nli.org.il/he/books/NNL_ALEPH001139222"
+        ]
+      ],
+      "leaf_count": 27,
+      "candidate_count": 0,
+      "equine_token_candidate_count": 0,
+      "named_version_metadata": [
+        {
+          "versionTitle": "Chomat Anakh, Jerusalem 1965",
+          "url": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Writings/Chomat%20Anakh%20on%20Ruth/Hebrew/Chomat%20Anakh%2C%20Jerusalem%201965.json",
+          "license": "unknown",
+          "versionSource": "https://www.nli.org.il/he/books/NNL_ALEPH001139222",
+          "status": "fetched_metadata"
+        }
+      ],
+      "range": "All supplied text leaves; close reading only selected passages",
+      "status": "lexically_searched"
+    },
+    {
+      "work": "Chomat Anakh on Psalms",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Writings/Chomat%20Anakh%20on%20Psalms/Hebrew/merged.json",
+      "sha256": "12c8ed5b28ab69a4ce3a06ed0b3d4eeb04656b84624f6167312cbbceb80e8366",
+      "versions": [
+        [
+          "Chomat Anakh, Jerusalem 1965",
+          "https://www.nli.org.il/he/books/NNL_ALEPH001139222"
+        ]
+      ],
+      "leaf_count": 429,
+      "candidate_count": 0,
+      "equine_token_candidate_count": 0,
+      "named_version_metadata": [
+        {
+          "versionTitle": "Chomat Anakh, Jerusalem 1965",
+          "url": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Writings/Chomat%20Anakh%20on%20Psalms/Hebrew/Chomat%20Anakh%2C%20Jerusalem%201965.json",
+          "license": "unknown",
+          "versionSource": "https://www.nli.org.il/he/books/NNL_ALEPH001139222",
+          "status": "fetched_metadata"
+        }
+      ],
+      "range": "All supplied text leaves; close reading only selected passages",
+      "status": "lexically_searched"
+    },
+    {
+      "work": "Chomat Anakh on Proverbs",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Writings/Chomat%20Anakh%20on%20Proverbs/Hebrew/merged.json",
+      "sha256": "1954a948db1498ab7fc07ff243b9b146b07b335bc90731dc5e056d6efc7a9d7a",
+      "versions": [
+        [
+          "Chomat Anakh, Jerusalem 1965",
+          "https://www.nli.org.il/he/books/NNL_ALEPH001139222"
+        ]
+      ],
+      "leaf_count": 153,
+      "candidate_count": 0,
+      "equine_token_candidate_count": 0,
+      "named_version_metadata": [
+        {
+          "versionTitle": "Chomat Anakh, Jerusalem 1965",
+          "url": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Writings/Chomat%20Anakh%20on%20Proverbs/Hebrew/Chomat%20Anakh%2C%20Jerusalem%201965.json",
+          "license": "unknown",
+          "versionSource": "https://www.nli.org.il/he/books/NNL_ALEPH001139222",
+          "status": "fetched_metadata"
+        }
+      ],
+      "range": "All supplied text leaves; close reading only selected passages",
+      "status": "lexically_searched"
+    },
+    {
+      "work": "Chomat Anakh on Torah",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Chomat%20Anakh%20on%20Torah/Hebrew/merged.json",
+      "sha256": "d15f90b9fa2389b72c85497f271bdfa8e14debcfa3498b7313a15bcb6c7ac169",
+      "versions": [
+        [
+          "Chomat Anakh, Jerusalem 1965",
+          "https://www.nli.org.il/he/books/NNL_ALEPH001139222"
+        ]
+      ],
+      "leaf_count": 620,
+      "candidate_count": 5,
+      "equine_token_candidate_count": 4,
+      "named_version_metadata": [
+        {
+          "versionTitle": "Chomat Anakh, Jerusalem 1965",
+          "url": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Chomat%20Anakh%20on%20Torah/Hebrew/Chomat%20Anakh%2C%20Jerusalem%201965.json",
+          "license": "unknown",
+          "versionSource": "https://www.nli.org.il/he/books/NNL_ALEPH001139222",
+          "status": "fetched_metadata"
+        }
+      ],
+      "range": "All supplied text leaves; close reading only selected passages",
+      "status": "lexically_searched"
+    },
+    {
+      "work": "Derekh Hashem",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Jewish%20Thought/Acharonim/Derekh%20Hashem/Hebrew/merged.json",
+      "sha256": "a356b2ae293af57efad188221f20a8f2a30c15a857ef45e5ab7016298f5194cd",
+      "versions": [
+        [
+          "Handwritten Manuscript EH 47 C 32. 1896",
+          "http://etshaimmanuscripts.nl/eh_47_c_32/"
+        ]
+      ],
+      "leaf_count": 209,
+      "candidate_count": 0,
+      "equine_token_candidate_count": 0,
+      "named_version_metadata": [
+        {
+          "versionTitle": "Handwritten Manuscript EH 47 C 32. 1896",
+          "url": "https://storage.googleapis.com/sefaria-export/json/Jewish%20Thought/Acharonim/Derekh%20Hashem/Hebrew/Handwritten%20Manuscript%20EH%2047%20C%2032.%201896.json",
+          "license": "Public Domain",
+          "versionSource": "http://etshaimmanuscripts.nl/eh_47_c_32/",
+          "status": "fetched_metadata"
+        }
+      ],
+      "range": "All supplied text leaves; close reading only selected passages",
+      "status": "lexically_searched"
+    },
+    {
+      "work": "Derech Etz Chayim (Ramchal)",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Kabbalah/Ramchal/Derech%20Etz%20Chayim%20%28Ramchal%29/Hebrew/merged.json",
+      "sha256": "34908205f7f615ad382ed89d93845f41cb626be5cf6b8e8f40efa3355badfa59",
+      "versions": [
+        [
+          "Derech Etz Chayim - Wikisource",
+          "https://he.wikisource.org/wiki/%D7%A7%D7%9C%22%D7%97_%D7%A4%D7%AA%D7%97%D7%99_%D7%97%D7%9B%D7%9E%D7%94/%D7%94%D7%A7%D7%93%D7%9E%D7%94"
+        ]
+      ],
+      "leaf_count": 78,
+      "candidate_count": 0,
+      "equine_token_candidate_count": 0,
+      "named_version_metadata": [
+        {
+          "versionTitle": "Derech Etz Chayim - Wikisource",
+          "url": "https://storage.googleapis.com/sefaria-export/json/Kabbalah/Ramchal/Derech%20Etz%20Chayim%20%28Ramchal%29/Hebrew/Derech%20Etz%20Chayim%20-%20Wikisource.json",
+          "license": "CC-BY-SA",
+          "versionSource": "https://he.wikisource.org/wiki/%D7%A7%D7%9C%22%D7%97_%D7%A4%D7%AA%D7%97%D7%99_%D7%97%D7%9B%D7%9E%D7%94/%D7%94%D7%A7%D7%93%D7%9E%D7%94",
+          "status": "fetched_metadata"
+        }
+      ],
+      "range": "All supplied text leaves; close reading only selected passages",
+      "status": "lexically_searched"
+    },
+    {
+      "work": "Kalach Pitchei Chokhmah",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Kabbalah/Ramchal/Kalach%20Pitchei%20Chokhmah/Hebrew/merged.json",
+      "sha256": "dedbd51a9ec9d2eafcf2eed83512912b7108474be3abd462d12e7d90d81c1059",
+      "versions": [
+        [
+          "Kalach Pitchei Chokhmah -- grimoar",
+          "http://www.hebrew.grimoar.cz/luzzato/kalach_pitchej_chochma.htm"
+        ]
+      ],
+      "leaf_count": 1948,
+      "candidate_count": 0,
+      "equine_token_candidate_count": 0,
+      "named_version_metadata": [
+        {
+          "versionTitle": "Kalach Pitchei Chokhmah -- grimoar",
+          "url": "https://storage.googleapis.com/sefaria-export/json/Kabbalah/Ramchal/Kalach%20Pitchei%20Chokhmah/Hebrew/Kalach%20Pitchei%20Chokhmah%20--%20grimoar.json",
+          "license": "Public Domain",
+          "versionSource": "http://www.hebrew.grimoar.cz/luzzato/kalach_pitchej_chochma.htm",
+          "status": "fetched_metadata"
+        }
+      ],
+      "range": "All supplied text leaves; close reading only selected passages",
+      "status": "lexically_searched"
+    },
+    {
+      "work": "Da'at Tevunot",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Kabbalah/Ramchal/Da%27at%20Tevunot/Hebrew/merged.json",
+      "sha256": "1fc889c2ca040aa229aa7c996075092aaeb598263cbf89a5d6fb64d2e5412263",
+      "versions": [
+        [
+          "ספר דעת תבונות",
+          "http://mobile.tora.ws/"
+        ]
+      ],
+      "leaf_count": 419,
+      "candidate_count": 1,
+      "equine_token_candidate_count": 0,
+      "named_version_metadata": [
+        {
+          "versionTitle": "ספר דעת תבונות",
+          "url": "https://storage.googleapis.com/sefaria-export/json/Kabbalah/Ramchal/Da%27at%20Tevunot/Hebrew/%D7%A1%D7%A4%D7%A8%20%D7%93%D7%A2%D7%AA%20%D7%AA%D7%91%D7%95%D7%A0%D7%95%D7%AA.json",
+          "license": "unknown",
+          "versionSource": "http://mobile.tora.ws/",
+          "status": "fetched_metadata"
+        }
+      ],
+      "range": "All supplied text leaves; close reading only selected passages",
+      "status": "lexically_searched"
+    },
+    {
+      "work": "Kedushat Levi",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Chasidut/Early%20Works/Kedushat%20Levi/Hebrew/merged.json",
+      "sha256": "dc5bb1bc61eefde832c2095f69a51cc43fd020863481c3296b0595e8d1b81886",
+      "versions": [
+        [
+          "Kedushat Levi - Munkatch 1939",
+          "https://www.nli.org.il/he/books/NNL_ALEPH001224946"
+        ]
+      ],
+      "leaf_count": 1482,
+      "candidate_count": 6,
+      "equine_token_candidate_count": 5,
+      "named_version_metadata": [
+        {
+          "versionTitle": "Kedushat Levi - Munkatch 1939",
+          "url": "https://storage.googleapis.com/sefaria-export/json/Chasidut/Early%20Works/Kedushat%20Levi/Hebrew/Kedushat%20Levi%20-%20Munkatch%201939.json",
+          "license": "Public Domain",
+          "versionSource": "https://www.nli.org.il/he/books/NNL_ALEPH001224946",
+          "status": "fetched_metadata"
+        }
+      ],
+      "range": "All supplied text leaves; close reading only selected passages",
+      "status": "lexically_searched"
+    },
+    {
+      "work": "Degel Machaneh Ephraim",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Chasidut/Other%20Chasidut%20Works/Degel%20Machaneh%20Ephraim/Hebrew/merged.json",
+      "sha256": "5b875ff770cf0f1c839be3c718a627c5f61fc0c483980e3cfde5fc7438950363",
+      "versions": [
+        [
+          "Degel Machaneh Ephraim, Korets, 1810",
+          "https://www.nli.org.il/he/books/NNL_ALEPH001129557 "
+        ]
+      ],
+      "leaf_count": 875,
+      "candidate_count": 5,
+      "equine_token_candidate_count": 3,
+      "named_version_metadata": [
+        {
+          "versionTitle": "Degel Machaneh Ephraim, Korets, 1810",
+          "url": "https://storage.googleapis.com/sefaria-export/json/Chasidut/Other%20Chasidut%20Works/Degel%20Machaneh%20Ephraim/Hebrew/Degel%20Machaneh%20Ephraim%2C%20Korets%2C%201810.json",
+          "license": "Public Domain",
+          "versionSource": "https://www.nli.org.il/he/books/NNL_ALEPH001129557 ",
+          "status": "fetched_metadata"
+        }
+      ],
+      "range": "All supplied text leaves; close reading only selected passages",
+      "status": "lexically_searched"
+    },
+    {
+      "work": "Nachal Kedumim on Torah",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Acharonim%20on%20Tanakh/Chida/Nachal%20Kedumim%20on%20Torah/Hebrew/merged.json",
+      "sha256": "4435bdd4f6b5bd5bf0573f0d710873e678396b6d062f9c3cb68e5cfbc8cf5d95",
+      "versions": [
+        [
+          "Nachal Kedumim, Warsaw, 1889",
+          "http://beta.nli.org.il/he/books/NNL_ALEPH001156903/NLI"
+        ]
+      ],
+      "leaf_count": 677,
+      "candidate_count": 4,
+      "equine_token_candidate_count": 3,
+      "named_version_metadata": [
+        {
+          "versionTitle": "Nachal Kedumim, Warsaw, 1889",
+          "url": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Acharonim%20on%20Tanakh/Chida/Nachal%20Kedumim%20on%20Torah/Hebrew/Nachal%20Kedumim%2C%20Warsaw%2C%201889.json",
+          "license": "Public Domain",
+          "versionSource": "http://beta.nli.org.il/he/books/NNL_ALEPH001156903/NLI",
+          "status": "fetched_metadata"
+        }
+      ],
+      "range": "All supplied text leaves; close reading only selected passages",
+      "status": "lexically_searched"
+    },
+    {
+      "work": "Tanya",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Chasidut/Chabad/Tanya/Hebrew/merged.json",
+      "sha256": "0ea1b3aa8e3a6f716ca7e4b8c0c6deccdf363d954bcd8b4035e130fbf15950ce",
+      "versions": [
+        [
+          "Kehot Publication Society",
+          "http://kehot.com"
+        ]
+      ],
+      "leaf_count": 1623,
+      "candidate_count": 0,
+      "equine_token_candidate_count": 0,
+      "named_version_metadata": [
+        {
+          "versionTitle": "Kehot Publication Society",
+          "url": "https://storage.googleapis.com/sefaria-export/json/Chasidut/Chabad/Tanya/Hebrew/Kehot%20Publication%20Society.json",
+          "license": "CC-BY-NC",
+          "versionSource": "http://kehot.com",
+          "status": "fetched_metadata"
+        }
+      ],
+      "range": "All supplied text leaves; close reading only selected passages",
+      "status": "lexically_searched"
+    },
+    {
+      "work": "Penei David",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Acharonim%20on%20Tanakh/Chida/Penei%20David/Hebrew/merged.json",
+      "sha256": "5010081bdc457d4de434f3a1cd6b5be5b891ce846565031b12f8f95f55afa8bb",
+      "versions": [
+        [
+          "Penei David -- Torat Emet",
+          "http://www.toratemetfreeware.com/online/f_01917.html"
+        ]
+      ],
+      "leaf_count": 2290,
+      "candidate_count": 9,
+      "equine_token_candidate_count": 6,
+      "named_version_metadata": [
+        {
+          "versionTitle": "Penei David -- Torat Emet",
+          "url": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Acharonim%20on%20Tanakh/Chida/Penei%20David/Hebrew/Penei%20David%20--%20Torat%20Emet.json",
+          "license": "CC-BY",
+          "versionSource": "http://www.toratemetfreeware.com/online/f_01917.html",
+          "status": "fetched_metadata"
+        }
+      ],
+      "range": "All supplied text leaves; close reading only selected passages",
+      "status": "lexically_searched"
+    },
+    {
+      "work": "Mesillat Yesharim",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Musar/Acharonim/Mesillat%20Yesharim/Hebrew/merged.json",
+      "sha256": "fc4f1d861c16b68b7f1677379b13c4d94c155b237c3e6c1a23fd9b0585b523dd",
+      "versions": [
+        [
+          "Sefaria Vocalized Edition",
+          "http://sefaria.org"
+        ]
+      ],
+      "leaf_count": 926,
+      "candidate_count": 1,
+      "equine_token_candidate_count": 1,
+      "named_version_metadata": [
+        {
+          "versionTitle": "Sefaria Vocalized Edition",
+          "url": "https://storage.googleapis.com/sefaria-export/json/Musar/Acharonim/Mesillat%20Yesharim/Hebrew/Sefaria%20Vocalized%20Edition.json",
+          "license": "Public Domain",
+          "versionSource": "http://sefaria.org",
+          "status": "fetched_metadata"
+        },
+        {
+          "versionTitle": "Shechem Messilat Yesharim",
+          "url": "https://storage.googleapis.com/sefaria-export/json/Musar/Acharonim/Mesillat%20Yesharim/Hebrew/Shechem%20Messilat%20Yesharim.json",
+          "license": "Public Domain",
+          "versionSource": "http://www.shechem.org/torah/mesyesh/hindex.htm",
+          "status": "fetched_metadata"
+        }
+      ],
+      "range": "All supplied text leaves; close reading only selected passages",
+      "status": "lexically_searched"
+    },
+    {
+      "work": "Chomat Anakh on II Kings",
+      "status": "prior_batch_searched_not_repeated",
+      "prior_result": "LAT-001.manifest.json",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20II%20Kings/Hebrew/merged.json"
+    },
+    {
+      "work": "Chomat Anakh on Zechariah",
+      "status": "prior_batch_searched_not_repeated",
+      "prior_result": "LAT-001.manifest.json",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20Zechariah/Hebrew/merged.json"
+    }
+  ],
+  "queries": [
+    "סוס",
+    "סוס ורכבו",
+    "סוס ורוכבו",
+    "לסוסתי",
+    "לא ירבה",
+    "רכב אש",
+    "סוסי אש",
+    "רכב ישראל",
+    "כסוס כפרד"
+  ],
+  "normalization": "HTML stripped, combining marks removed, substring candidates then Hebrew token filter; no completeness inference beyond exact digital ranges"
+}

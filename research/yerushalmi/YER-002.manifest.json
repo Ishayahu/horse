@@ -1,0 +1,6663 @@
+{
+  "schema_version": 1,
+  "task_id": "YER-002",
+  "index_url": "https://raw.githubusercontent.com/Sefaria/Sefaria-Export/master/books.json",
+  "index_sha256": "00a8da34a5c1e8bfc4983897e4e0711eb4c8e3971d4e7b08957fb61a34424917",
+  "index_generated_at": "2026-10-02T06:06:29Z",
+  "started_at": "2026-10-09T10:57:34.118647+00:00",
+  "inventory_count": 39,
+  "inventory": [
+    {
+      "title": "Jerusalem Talmud Avodah Zarah",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Nezikin/Jerusalem%20Talmud%20Avodah%20Zarah/Hebrew/merged.json"
+    },
+    {
+      "title": "Jerusalem Talmud Bava Batra",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Nezikin/Jerusalem%20Talmud%20Bava%20Batra/Hebrew/merged.json"
+    },
+    {
+      "title": "Jerusalem Talmud Bava Kamma",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Nezikin/Jerusalem%20Talmud%20Bava%20Kamma/Hebrew/merged.json"
+    },
+    {
+      "title": "Jerusalem Talmud Bava Metzia",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Nezikin/Jerusalem%20Talmud%20Bava%20Metzia/Hebrew/merged.json"
+    },
+    {
+      "title": "Jerusalem Talmud Beitzah",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Moed/Jerusalem%20Talmud%20Beitzah/Hebrew/merged.json"
+    },
+    {
+      "title": "Jerusalem Talmud Berakhot",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Zeraim/Jerusalem%20Talmud%20Berakhot/Hebrew/merged.json"
+    },
+    {
+      "title": "Jerusalem Talmud Bikkurim",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Zeraim/Jerusalem%20Talmud%20Bikkurim/Hebrew/merged.json"
+    },
+    {
+      "title": "Jerusalem Talmud Chagigah",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Moed/Jerusalem%20Talmud%20Chagigah/Hebrew/merged.json"
+    },
+    {
+      "title": "Jerusalem Talmud Challah",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Zeraim/Jerusalem%20Talmud%20Challah/Hebrew/merged.json"
+    },
+    {
+      "title": "Jerusalem Talmud Demai",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Zeraim/Jerusalem%20Talmud%20Demai/Hebrew/merged.json"
+    },
+    {
+      "title": "Jerusalem Talmud Eruvin",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Moed/Jerusalem%20Talmud%20Eruvin/Hebrew/merged.json"
+    },
+    {
+      "title": "Jerusalem Talmud Gittin",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Nashim/Jerusalem%20Talmud%20Gittin/Hebrew/merged.json"
+    },
+    {
+      "title": "Jerusalem Talmud Horayot",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Nezikin/Jerusalem%20Talmud%20Horayot/Hebrew/merged.json"
+    },
+    {
+      "title": "Jerusalem Talmud Ketubot",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Nashim/Jerusalem%20Talmud%20Ketubot/Hebrew/merged.json"
+    },
+    {
+      "title": "Jerusalem Talmud Kiddushin",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Nashim/Jerusalem%20Talmud%20Kiddushin/Hebrew/merged.json"
+    },
+    {
+      "title": "Jerusalem Talmud Kilayim",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Zeraim/Jerusalem%20Talmud%20Kilayim/Hebrew/merged.json"
+    },
+    {
+      "title": "Jerusalem Talmud Maaser Sheni",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Zeraim/Jerusalem%20Talmud%20Maaser%20Sheni/Hebrew/merged.json"
+    },
+    {
+      "title": "Jerusalem Talmud Maasrot",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Zeraim/Jerusalem%20Talmud%20Maasrot/Hebrew/merged.json"
+    },
+    {
+      "title": "Jerusalem Talmud Makkot",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Nezikin/Jerusalem%20Talmud%20Makkot/Hebrew/merged.json"
+    },
+    {
+      "title": "Jerusalem Talmud Megillah",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Moed/Jerusalem%20Talmud%20Megillah/Hebrew/merged.json"
+    },
+    {
+      "title": "Jerusalem Talmud Moed Katan",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Moed/Jerusalem%20Talmud%20Moed%20Katan/Hebrew/merged.json"
+    },
+    {
+      "title": "Jerusalem Talmud Nazir",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Nashim/Jerusalem%20Talmud%20Nazir/Hebrew/merged.json"
+    },
+    {
+      "title": "Jerusalem Talmud Nedarim",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Nashim/Jerusalem%20Talmud%20Nedarim/Hebrew/merged.json"
+    },
+    {
+      "title": "Jerusalem Talmud Niddah",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Tahorot/Jerusalem%20Talmud%20Niddah/Hebrew/merged.json"
+    },
+    {
+      "title": "Jerusalem Talmud Orlah",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Zeraim/Jerusalem%20Talmud%20Orlah/Hebrew/merged.json"
+    },
+    {
+      "title": "Jerusalem Talmud Peah",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Zeraim/Jerusalem%20Talmud%20Peah/Hebrew/merged.json"
+    },
+    {
+      "title": "Jerusalem Talmud Pesachim",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Moed/Jerusalem%20Talmud%20Pesachim/Hebrew/merged.json"
+    },
+    {
+      "title": "Jerusalem Talmud Rosh Hashanah",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Moed/Jerusalem%20Talmud%20Rosh%20Hashanah/Hebrew/merged.json"
+    },
+    {
+      "title": "Jerusalem Talmud Sanhedrin",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Nezikin/Jerusalem%20Talmud%20Sanhedrin/Hebrew/merged.json"
+    },
+    {
+      "title": "Jerusalem Talmud Shabbat",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Moed/Jerusalem%20Talmud%20Shabbat/Hebrew/merged.json"
+    },
+    {
+      "title": "Jerusalem Talmud Shekalim",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Moed/Jerusalem%20Talmud%20Shekalim/Hebrew/merged.json"
+    },
+    {
+      "title": "Jerusalem Talmud Sheviit",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Zeraim/Jerusalem%20Talmud%20Sheviit/Hebrew/merged.json"
+    },
+    {
+      "title": "Jerusalem Talmud Shevuot",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Nezikin/Jerusalem%20Talmud%20Shevuot/Hebrew/merged.json"
+    },
+    {
+      "title": "Jerusalem Talmud Sotah",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Nashim/Jerusalem%20Talmud%20Sotah/Hebrew/merged.json"
+    },
+    {
+      "title": "Jerusalem Talmud Sukkah",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Moed/Jerusalem%20Talmud%20Sukkah/Hebrew/merged.json"
+    },
+    {
+      "title": "Jerusalem Talmud Taanit",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Moed/Jerusalem%20Talmud%20Taanit/Hebrew/merged.json"
+    },
+    {
+      "title": "Jerusalem Talmud Terumot",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Zeraim/Jerusalem%20Talmud%20Terumot/Hebrew/merged.json"
+    },
+    {
+      "title": "Jerusalem Talmud Yevamot",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Nashim/Jerusalem%20Talmud%20Yevamot/Hebrew/merged.json"
+    },
+    {
+      "title": "Jerusalem Talmud Yoma",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Moed/Jerusalem%20Talmud%20Yoma/Hebrew/merged.json"
+    }
+  ],
+  "queries": [
+    "Normalized Hebrew token containing סוס (covers prefixed/suffixed סוסים סוסין סוסיא סוסייא סוסתא)",
+    "Prefix-bounded פרש/פרשים/פרשין/פרשיא/פרשייא/פרשא ambiguous",
+    "Substring מרכב אורוו אוריו אספסט היפוס ambiguous"
+  ],
+  "license_policy": "No corpus dump committed. Sefaria LICENSE.md: each version licensed independently. Missing export license recorded; API version metadata supplementary.",
+  "works": [
+    {
+      "work": "Jerusalem Talmud Avodah Zarah",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Nezikin/Jerusalem%20Talmud%20Avodah%20Zarah/Hebrew/merged.json",
+      "accessed_at": "2026-10-09T10:57:34.118647+00:00",
+      "status": "searched",
+      "bytes": 341297,
+      "sha256": "4022f9d24cdafc891d1cad736fd29b803279c83f024cbfe6fed9ff6b64168a61",
+      "edition": "merged",
+      "versions": [
+        [
+          "The Jerusalem Talmud, edition by Heinrich W. Guggenheimer. Berlin, De Gruyter, 1999-2015",
+          "https://www.nli.org.il/he/books/NNL_ALEPH001901012/NLI"
+        ]
+      ],
+      "versionSource": "https://www.sefaria.org/Jerusalem_Talmud_Avodah_Zarah",
+      "license": null,
+      "license_metadata": [
+        {
+          "versionTitle": "The Jerusalem Talmud, edition by Heinrich W. Guggenheimer. Berlin, De Gruyter, 1999-2015",
+          "license": "CC-BY",
+          "language": "he"
+        },
+        {
+          "versionTitle": "Mechon-Mamre",
+          "license": "unknown",
+          "language": "he"
+        },
+        {
+          "versionTitle": "Venice Edition",
+          "license": "unknown",
+          "language": "he"
+        }
+      ],
+      "license_error": null,
+      "index_url": "https://www.sefaria.org/api/v2/raw/index/Jerusalem_Talmud_Avodah_Zarah",
+      "schema": {
+        "nodeType": "JaggedArrayNode",
+        "depth": 3,
+        "addressTypes": [
+          "Perek",
+          "Halakhah",
+          "Integer"
+        ],
+        "sectionNames": [
+          "Chapter",
+          "Halakhah",
+          "Segment"
+        ],
+        "match_templates": [
+          {
+            "term_slugs": [
+              "yerushalmi",
+              "avodah-zarah"
+            ]
+          },
+          {
+            "term_slugs": [
+              "yerushalmi",
+              "tractate",
+              "avodah-zarah"
+            ]
+          },
+          {
+            "term_slugs": [
+              "talmud",
+              "yerushalmi",
+              "tractate",
+              "avodah-zarah"
+            ]
+          },
+          {
+            "term_slugs": [
+              "talmud",
+              "yerushalmi",
+              "avodah-zarah"
+            ]
+          }
+        ],
+        "ref_resolver_context_mutations": [
+          {
+            "op": "swap",
+            "input_terms": [
+              "halakha"
+            ],
+            "output_terms": [
+              "yerushalmi",
+              "avodah-zarah"
+            ]
+          }
+        ],
+        "lengths": [
+          5,
+          60,
+          352
+        ],
+        "referenceableSections": [
+          true,
+          true,
+          false
+        ],
+        "titles": [
+          {
+            "text": "Talmud Yerushalmi Avodah Zarah",
+            "lang": "en"
+          },
+          {
+            "text": "JT Avodah Zarah",
+            "lang": "en"
+          },
+          {
+            "text": "Yerushalmi Avodah Zarah",
+            "lang": "en"
+          },
+          {
+            "text": "ירושלמי עבודה זרה",
+            "lang": "he"
+          },
+          {
+            "text": "Y. Ab. Zar.",
+            "lang": "en"
+          },
+          {
+            "text": "תלמוד ירושלמי עבודה זרה",
+            "lang": "he",
+            "primary": true
+          },
+          {
+            "text": "Jerusalem Talmud Avodah Zarah",
+            "lang": "en",
+            "primary": true
+          }
+        ],
+        "key": "Jerusalem Talmud Avodah Zarah"
+      },
+      "sectionNames": [
+        "Chapter",
+        "Halakhah",
+        "Segment"
+      ],
+      "segment_count": 352,
+      "nonempty_segments": 352,
+      "completeness": "All string leaves of this retrieved merged export traversed; historical/textual completeness not asserted",
+      "candidate_count": 5
+    },
+    {
+      "work": "Jerusalem Talmud Bava Batra",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Nezikin/Jerusalem%20Talmud%20Bava%20Batra/Hebrew/merged.json",
+      "accessed_at": "2026-10-09T10:57:34.118647+00:00",
+      "status": "searched",
+      "bytes": 256090,
+      "sha256": "a5b30c5483bb75b2665d54ba7b8bbbb45301908f6225c66e7524a2dd3a89c163",
+      "edition": "merged",
+      "versions": [
+        [
+          "The Jerusalem Talmud, edition by Heinrich W. Guggenheimer. Berlin, De Gruyter, 1999-2015",
+          "https://www.nli.org.il/he/books/NNL_ALEPH001901012/NLI"
+        ]
+      ],
+      "versionSource": "https://www.sefaria.org/Jerusalem_Talmud_Bava_Batra",
+      "license": null,
+      "license_metadata": [
+        {
+          "versionTitle": "The Jerusalem Talmud, edition by Heinrich W. Guggenheimer. Berlin, De Gruyter, 1999-2015",
+          "license": "CC-BY",
+          "language": "he"
+        },
+        {
+          "versionTitle": "Mechon-Mamre",
+          "license": "unknown",
+          "language": "he"
+        },
+        {
+          "versionTitle": "Venice Edition",
+          "license": "unknown",
+          "language": "he"
+        }
+      ],
+      "license_error": null,
+      "index_url": "https://www.sefaria.org/api/v2/raw/index/Jerusalem_Talmud_Bava_Batra",
+      "schema": {
+        "nodeType": "JaggedArrayNode",
+        "depth": 3,
+        "addressTypes": [
+          "Perek",
+          "Halakhah",
+          "Integer"
+        ],
+        "sectionNames": [
+          "Chapter",
+          "Halakhah",
+          "Segment"
+        ],
+        "match_templates": [
+          {
+            "term_slugs": [
+              "yerushalmi",
+              "bava-batra"
+            ]
+          },
+          {
+            "term_slugs": [
+              "yerushalmi",
+              "tractate",
+              "bava-batra"
+            ]
+          },
+          {
+            "term_slugs": [
+              "talmud",
+              "yerushalmi",
+              "tractate",
+              "bava-batra"
+            ]
+          },
+          {
+            "term_slugs": [
+              "talmud",
+              "yerushalmi",
+              "bava-batra"
+            ]
+          }
+        ],
+        "ref_resolver_context_mutations": [
+          {
+            "op": "swap",
+            "input_terms": [
+              "halakha"
+            ],
+            "output_terms": [
+              "yerushalmi",
+              "bava-batra"
+            ]
+          }
+        ],
+        "lengths": [
+          10,
+          76,
+          260
+        ],
+        "referenceableSections": [
+          true,
+          true,
+          false
+        ],
+        "titles": [
+          {
+            "text": "Yerushalmi Bava Batra",
+            "lang": "en"
+          },
+          {
+            "text": "JT Bava Batra",
+            "lang": "en"
+          },
+          {
+            "text": "Talmud Yerushalmi Bava Batra",
+            "lang": "en"
+          },
+          {
+            "text": "Yerushalmi Bava Basra",
+            "lang": "en"
+          },
+          {
+            "text": "Y. B. Bath.",
+            "lang": "en"
+          },
+          {
+            "text": "ירושלמי בבא בתרא",
+            "lang": "he"
+          },
+          {
+            "text": "ירושלמי, בבא בתרא",
+            "lang": "he"
+          },
+          {
+            "text": "תלמוד ירושלמי, בבא בתרא",
+            "lang": "he"
+          },
+          {
+            "text": "ירושלמי, ב\"ב",
+            "lang": "he"
+          },
+          {
+            "text": "תלמוד ירושלמי, ב\"ב",
+            "lang": "he"
+          },
+          {
+            "text": "ירושלמי ב\"ב",
+            "lang": "he"
+          },
+          {
+            "text": "ירו' ב\"ב",
+            "lang": "he"
+          },
+          {
+            "text": "ירוש' ב\"ב",
+            "lang": "he"
+          },
+          {
+            "text": "ירו' בבא בתרא",
+            "lang": "he"
+          },
+          {
+            "text": "ירוש' בבא בתרא",
+            "lang": "he"
+          },
+          {
+            "text": "ירושלמי, ב״ב",
+            "lang": "he"
+          },
+          {
+            "text": "ירושלמי, ב”ב",
+            "lang": "he"
+          },
+          {
+            "text": "תלמוד ירושלמי, ב״ב",
+            "lang": "he"
+          },
+          {
+            "text": "תלמוד ירושלמי, ב”ב",
+            "lang": "he"
+          },
+          {
+            "text": "ירושלמי ב״ב",
+            "lang": "he"
+          },
+          {
+            "text": "ירושלמי ב”ב",
+            "lang": "he"
+          },
+          {
+            "text": "ירו' ב״ב",
+            "lang": "he"
+          },
+          {
+            "text": "ירו' ב”ב",
+            "lang": "he"
+          },
+          {
+            "text": "ירוש' ב״ב",
+            "lang": "he"
+          },
+          {
+            "text": "ירוש' ב”ב",
+            "lang": "he"
+          },
+          {
+            "text": "תלמוד ירושלמי בבא בתרא",
+            "lang": "he",
+            "primary": true
+          },
+          {
+            "text": "Jerusalem Talmud Bava Batra",
+            "lang": "en",
+            "primary": true
+          }
+        ],
+        "key": "Jerusalem Talmud Bava Batra"
+      },
+      "sectionNames": [
+        "Chapter",
+        "Halakhah",
+        "Segment"
+      ],
+      "segment_count": 260,
+      "nonempty_segments": 260,
+      "completeness": "All string leaves of this retrieved merged export traversed; historical/textual completeness not asserted",
+      "candidate_count": 3
+    },
+    {
+      "work": "Jerusalem Talmud Bava Kamma",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Nezikin/Jerusalem%20Talmud%20Bava%20Kamma/Hebrew/merged.json",
+      "accessed_at": "2026-10-09T10:57:34.118647+00:00",
+      "status": "searched",
+      "bytes": 277538,
+      "sha256": "2c0635b8840aff8658207aac70208c83b699a60fc2b955c0cac5a0c7d8191f03",
+      "edition": "merged",
+      "versions": [
+        [
+          "The Jerusalem Talmud, edition by Heinrich W. Guggenheimer. Berlin, De Gruyter, 1999-2015",
+          "https://www.nli.org.il/he/books/NNL_ALEPH001901012/NLI"
+        ]
+      ],
+      "versionSource": "https://www.sefaria.org/Jerusalem_Talmud_Bava_Kamma",
+      "license": null,
+      "license_metadata": [
+        {
+          "versionTitle": "The Jerusalem Talmud, edition by Heinrich W. Guggenheimer. Berlin, De Gruyter, 1999-2015",
+          "license": "CC-BY",
+          "language": "he"
+        },
+        {
+          "versionTitle": "Mechon-Mamre",
+          "license": "unknown",
+          "language": "he"
+        },
+        {
+          "versionTitle": "Venice Edition",
+          "license": "unknown",
+          "language": "he"
+        }
+      ],
+      "license_error": null,
+      "index_url": "https://www.sefaria.org/api/v2/raw/index/Jerusalem_Talmud_Bava_Kamma",
+      "schema": {
+        "nodeType": "JaggedArrayNode",
+        "depth": 3,
+        "addressTypes": [
+          "Perek",
+          "Halakhah",
+          "Integer"
+        ],
+        "sectionNames": [
+          "Chapter",
+          "Halakhah",
+          "Segment"
+        ],
+        "match_templates": [
+          {
+            "term_slugs": [
+              "yerushalmi",
+              "bava-kamma"
+            ]
+          },
+          {
+            "term_slugs": [
+              "yerushalmi",
+              "tractate",
+              "bava-kamma"
+            ]
+          },
+          {
+            "term_slugs": [
+              "talmud",
+              "yerushalmi",
+              "tractate",
+              "bava-kamma"
+            ]
+          },
+          {
+            "term_slugs": [
+              "talmud",
+              "yerushalmi",
+              "bava-kamma"
+            ]
+          }
+        ],
+        "ref_resolver_context_mutations": [
+          {
+            "op": "swap",
+            "input_terms": [
+              "halakha"
+            ],
+            "output_terms": [
+              "yerushalmi",
+              "bava-kamma"
+            ]
+          }
+        ],
+        "lengths": [
+          10,
+          85,
+          275
+        ],
+        "referenceableSections": [
+          true,
+          true,
+          false
+        ],
+        "titles": [
+          {
+            "text": "Talmud Yerushalmi Bava Kamma",
+            "lang": "en"
+          },
+          {
+            "text": "JT Bava Kamma",
+            "lang": "en"
+          },
+          {
+            "text": "Yerushalmi Bava Kamma",
+            "lang": "en"
+          },
+          {
+            "text": "Y. B. Kam.",
+            "lang": "en"
+          },
+          {
+            "text": "ירושלמי בבא קמא",
+            "lang": "he"
+          },
+          {
+            "text": "ירוש' ב\"ק",
+            "lang": "he"
+          },
+          {
+            "text": "ירו' ב\"ק",
+            "lang": "he"
+          },
+          {
+            "text": "ירושלמי ב\"ק",
+            "lang": "he"
+          },
+          {
+            "text": "תלמוד ירושלמי ב\"ק",
+            "lang": "he"
+          },
+          {
+            "text": "ירושלמי, בבא קמא",
+            "lang": "he"
+          },
+          {
+            "text": "ירושלמי, ב\"ק",
+            "lang": "he"
+          },
+          {
+            "text": "ירוש' בבא קמא",
+            "lang": "he"
+          },
+          {
+            "text": "ירו' בבא קמא",
+            "lang": "he"
+          },
+          {
+            "text": "ירוש' ב״ק",
+            "lang": "he"
+          },
+          {
+            "text": "ירוש' ב”ק",
+            "lang": "he"
+          },
+          {
+            "text": "ירו' ב״ק",
+            "lang": "he"
+          },
+          {
+            "text": "ירו' ב”ק",
+            "lang": "he"
+          },
+          {
+            "text": "ירושלמי ב״ק",
+            "lang": "he"
+          },
+          {
+            "text": "ירושלמי ב”ק",
+            "lang": "he"
+          },
+          {
+            "text": "תלמוד ירושלמי ב״ק",
+            "lang": "he"
+          },
+          {
+            "text": "תלמוד ירושלמי ב”ק",
+            "lang": "he"
+          },
+          {
+            "text": "ירושלמי, ב״ק",
+            "lang": "he"
+          },
+          {
+            "text": "ירושלמי, ב”ק",
+            "lang": "he"
+          },
+          {
+            "text": "תלמוד ירושלמי בבא קמא",
+            "lang": "he",
+            "primary": true
+          },
+          {
+            "text": "Jerusalem Talmud Bava Kamma",
+            "lang": "en",
+            "primary": true
+          }
+        ],
+        "key": "Jerusalem Talmud Bava Kamma"
+      },
+      "sectionNames": [
+        "Chapter",
+        "Halakhah",
+        "Segment"
+      ],
+      "segment_count": 275,
+      "nonempty_segments": 275,
+      "completeness": "All string leaves of this retrieved merged export traversed; historical/textual completeness not asserted",
+      "candidate_count": 0
+    },
+    {
+      "work": "Jerusalem Talmud Bava Metzia",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Nezikin/Jerusalem%20Talmud%20Bava%20Metzia/Hebrew/merged.json",
+      "accessed_at": "2026-10-09T10:57:34.118647+00:00",
+      "status": "searched",
+      "bytes": 254658,
+      "sha256": "29fad544fea481e2afa941ff1dcda1de26d77aac63621a0b65a84844829097d3",
+      "edition": "merged",
+      "versions": [
+        [
+          "The Jerusalem Talmud, edition by Heinrich W. Guggenheimer. Berlin, De Gruyter, 1999-2015",
+          "https://www.nli.org.il/he/books/NNL_ALEPH001901012/NLI"
+        ]
+      ],
+      "versionSource": "https://www.sefaria.org/Jerusalem_Talmud_Bava_Metzia",
+      "license": null,
+      "license_metadata": [
+        {
+          "versionTitle": "The Jerusalem Talmud, edition by Heinrich W. Guggenheimer. Berlin, De Gruyter, 1999-2015",
+          "license": "CC-BY",
+          "language": "he"
+        },
+        {
+          "versionTitle": "Mechon-Mamre",
+          "license": "unknown",
+          "language": "he"
+        },
+        {
+          "versionTitle": "Venice Edition",
+          "license": "unknown",
+          "language": "he"
+        }
+      ],
+      "license_error": null,
+      "index_url": "https://www.sefaria.org/api/v2/raw/index/Jerusalem_Talmud_Bava_Metzia",
+      "schema": {
+        "nodeType": "JaggedArrayNode",
+        "depth": 3,
+        "addressTypes": [
+          "Perek",
+          "Halakhah",
+          "Integer"
+        ],
+        "sectionNames": [
+          "Chapter",
+          "Halakhah",
+          "Segment"
+        ],
+        "match_templates": [
+          {
+            "term_slugs": [
+              "yerushalmi",
+              "bava-metzia"
+            ]
+          },
+          {
+            "term_slugs": [
+              "yerushalmi",
+              "tractate",
+              "bava-metzia"
+            ]
+          },
+          {
+            "term_slugs": [
+              "talmud",
+              "yerushalmi",
+              "tractate",
+              "bava-metzia"
+            ]
+          },
+          {
+            "term_slugs": [
+              "talmud",
+              "yerushalmi",
+              "bava-metzia"
+            ]
+          }
+        ],
+        "ref_resolver_context_mutations": [
+          {
+            "op": "swap",
+            "input_terms": [
+              "halakha"
+            ],
+            "output_terms": [
+              "yerushalmi",
+              "bava-metzia"
+            ]
+          }
+        ],
+        "lengths": [
+          10,
+          84,
+          273
+        ],
+        "referenceableSections": [
+          true,
+          true,
+          false
+        ],
+        "titles": [
+          {
+            "text": "Yerushalmi Bava Metsia",
+            "lang": "en"
+          },
+          {
+            "text": "JT Bava Metzia",
+            "lang": "en"
+          },
+          {
+            "text": "Talmud Yerushalmi Bava Metsia",
+            "lang": "en"
+          },
+          {
+            "text": "Yerushalmi Bava Metzia",
+            "lang": "en"
+          },
+          {
+            "text": "JT Bava Metsia",
+            "lang": "en"
+          },
+          {
+            "text": "Jerusalem Talmud Bava Metsia",
+            "lang": "en"
+          },
+          {
+            "text": "ירושלמי בבא מציעא",
+            "lang": "he"
+          },
+          {
+            "text": "ירושלמי, ב\"מ",
+            "lang": "he"
+          },
+          {
+            "text": "ירושלמי, בבא מציעא",
+            "lang": "he"
+          },
+          {
+            "text": "ירושלמי ב\"מ",
+            "lang": "he"
+          },
+          {
+            "text": "ירוש' ב\"מ",
+            "lang": "he"
+          },
+          {
+            "text": "ירו' ב\"מ",
+            "lang": "he"
+          },
+          {
+            "text": "תלמוד ירושלמי, ב\"מ",
+            "lang": "he"
+          },
+          {
+            "text": "תלמוד ירושלמי, בבא מציעא",
+            "lang": "he"
+          },
+          {
+            "text": "ירוש' בבא מציעא",
+            "lang": "he"
+          },
+          {
+            "text": "ירו' בבא מציעא",
+            "lang": "he"
+          },
+          {
+            "text": "ירושלמי, ב״מ",
+            "lang": "he"
+          },
+          {
+            "text": "ירושלמי, ב”מ",
+            "lang": "he"
+          },
+          {
+            "text": "ירושלמי ב״מ",
+            "lang": "he"
+          },
+          {
+            "text": "ירושלמי ב”מ",
+            "lang": "he"
+          },
+          {
+            "text": "ירוש' ב״מ",
+            "lang": "he"
+          },
+          {
+            "text": "ירוש' ב”מ",
+            "lang": "he"
+          },
+          {
+            "text": "ירו' ב״מ",
+            "lang": "he"
+          },
+          {
+            "text": "ירו' ב”מ",
+            "lang": "he"
+          },
+          {
+            "text": "תלמוד ירושלמי, ב״מ",
+            "lang": "he"
+          },
+          {
+            "text": "תלמוד ירושלמי, ב”מ",
+            "lang": "he"
+          },
+          {
+            "text": "תלמוד ירושלמי בבא מציעא",
+            "lang": "he",
+            "primary": true
+          },
+          {
+            "text": "Jerusalem Talmud Bava Metzia",
+            "lang": "en",
+            "primary": true
+          }
+        ],
+        "key": "Jerusalem Talmud Bava Metzia"
+      },
+      "sectionNames": [
+        "Chapter",
+        "Halakhah",
+        "Segment"
+      ],
+      "segment_count": 273,
+      "nonempty_segments": 273,
+      "completeness": "All string leaves of this retrieved merged export traversed; historical/textual completeness not asserted",
+      "candidate_count": 4
+    },
+    {
+      "work": "Jerusalem Talmud Beitzah",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Moed/Jerusalem%20Talmud%20Beitzah/Hebrew/merged.json",
+      "accessed_at": "2026-10-09T10:57:34.118647+00:00",
+      "status": "searched",
+      "bytes": 189676,
+      "sha256": "1420fe6a8731aac0d49ad2162ffef66c88237001fb9de0894da7af556c7b945d",
+      "edition": "merged",
+      "versions": [
+        [
+          "The Jerusalem Talmud, edition by Heinrich W. Guggenheimer. Berlin, De Gruyter, 1999-2015",
+          "https://www.nli.org.il/he/books/NNL_ALEPH001901012/NLI"
+        ]
+      ],
+      "versionSource": "https://www.sefaria.org/Jerusalem_Talmud_Beitzah",
+      "license": null,
+      "license_metadata": [
+        {
+          "versionTitle": "The Jerusalem Talmud, edition by Heinrich W. Guggenheimer. Berlin, De Gruyter, 1999-2015",
+          "license": "CC-BY",
+          "language": "he"
+        },
+        {
+          "versionTitle": "Mechon-Mamre",
+          "license": "unknown",
+          "language": "he"
+        },
+        {
+          "versionTitle": "Venice Edition",
+          "license": "unknown",
+          "language": "he"
+        }
+      ],
+      "license_error": null,
+      "index_url": "https://www.sefaria.org/api/v2/raw/index/Jerusalem_Talmud_Beitzah",
+      "schema": {
+        "nodeType": "JaggedArrayNode",
+        "depth": 3,
+        "addressTypes": [
+          "Perek",
+          "Halakhah",
+          "Integer"
+        ],
+        "sectionNames": [
+          "Chapter",
+          "Halakhah",
+          "Segment"
+        ],
+        "match_templates": [
+          {
+            "term_slugs": [
+              "yerushalmi",
+              "beitzah"
+            ]
+          },
+          {
+            "term_slugs": [
+              "yerushalmi",
+              "tractate",
+              "beitzah"
+            ]
+          },
+          {
+            "term_slugs": [
+              "talmud",
+              "yerushalmi",
+              "tractate",
+              "beitzah"
+            ]
+          },
+          {
+            "term_slugs": [
+              "talmud",
+              "yerushalmi",
+              "beitzah"
+            ]
+          }
+        ],
+        "ref_resolver_context_mutations": [
+          {
+            "op": "swap",
+            "input_terms": [
+              "halakha"
+            ],
+            "output_terms": [
+              "yerushalmi",
+              "beitzah"
+            ]
+          }
+        ],
+        "lengths": [
+          5,
+          46,
+          195
+        ],
+        "referenceableSections": [
+          true,
+          true,
+          false
+        ],
+        "titles": [
+          {
+            "text": "JT Beitzah",
+            "lang": "en"
+          },
+          {
+            "text": "Talmud Yerushalmi Beitsah",
+            "lang": "en"
+          },
+          {
+            "text": "Yerushalmi Beitzah",
+            "lang": "en"
+          },
+          {
+            "text": "ירושלמי ביצה",
+            "lang": "he"
+          },
+          {
+            "text": "Y. Bets.",
+            "lang": "en"
+          },
+          {
+            "text": "תלמוד ירושלמי ביצה",
+            "lang": "he",
+            "primary": true
+          },
+          {
+            "text": "Jerusalem Talmud Beitzah",
+            "lang": "en",
+            "primary": true
+          }
+        ],
+        "key": "Jerusalem Talmud Beitzah"
+      },
+      "sectionNames": [
+        "Chapter",
+        "Halakhah",
+        "Segment"
+      ],
+      "segment_count": 195,
+      "nonempty_segments": 195,
+      "completeness": "All string leaves of this retrieved merged export traversed; historical/textual completeness not asserted",
+      "candidate_count": 2
+    },
+    {
+      "work": "Jerusalem Talmud Berakhot",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Zeraim/Jerusalem%20Talmud%20Berakhot/Hebrew/merged.json",
+      "accessed_at": "2026-10-09T10:57:34.118647+00:00",
+      "status": "searched",
+      "bytes": 647093,
+      "sha256": "a6dae3d519261d8a7a7d6329f8947a912726f55280326a0894a57dcd459bbc6c",
+      "edition": "merged",
+      "versions": [
+        [
+          "The Jerusalem Talmud, edition by Heinrich W. Guggenheimer. Berlin, De Gruyter, 1999-2015",
+          "https://www.nli.org.il/he/books/NNL_ALEPH001901012/NLI"
+        ]
+      ],
+      "versionSource": "https://www.sefaria.org/Jerusalem_Talmud_Berakhot",
+      "license": null,
+      "license_metadata": [
+        {
+          "versionTitle": "The Jerusalem Talmud, edition by Heinrich W. Guggenheimer. Berlin, De Gruyter, 1999-2015",
+          "license": "CC-BY",
+          "language": "he"
+        },
+        {
+          "versionTitle": "Mechon-Mamre",
+          "license": "unknown",
+          "language": "he"
+        },
+        {
+          "versionTitle": "Venice Edition",
+          "license": "unknown",
+          "language": "he"
+        }
+      ],
+      "license_error": null,
+      "index_url": "https://www.sefaria.org/api/v2/raw/index/Jerusalem_Talmud_Berakhot",
+      "schema": {
+        "nodeType": "JaggedArrayNode",
+        "depth": 3,
+        "addressTypes": [
+          "Perek",
+          "Halakhah",
+          "Integer"
+        ],
+        "sectionNames": [
+          "Chapter",
+          "Halakhah",
+          "Segment"
+        ],
+        "match_templates": [
+          {
+            "term_slugs": [
+              "yerushalmi",
+              "berakhot"
+            ]
+          },
+          {
+            "term_slugs": [
+              "yerushalmi",
+              "tractate",
+              "berakhot"
+            ]
+          },
+          {
+            "term_slugs": [
+              "talmud",
+              "yerushalmi",
+              "tractate",
+              "berakhot"
+            ]
+          },
+          {
+            "term_slugs": [
+              "talmud",
+              "yerushalmi",
+              "berakhot"
+            ]
+          }
+        ],
+        "ref_resolver_context_mutations": [
+          {
+            "op": "swap",
+            "input_terms": [
+              "halakha"
+            ],
+            "output_terms": [
+              "yerushalmi",
+              "berakhot"
+            ]
+          }
+        ],
+        "lengths": [
+          9,
+          58,
+          655
+        ],
+        "referenceableSections": [
+          true,
+          true,
+          false
+        ],
+        "titles": [
+          {
+            "text": "Yerushalmi Berachot",
+            "lang": "en"
+          },
+          {
+            "text": "JT Berakhot",
+            "lang": "en"
+          },
+          {
+            "text": "JT Berachot",
+            "lang": "en"
+          },
+          {
+            "text": "Talmud Yerushalmi Berakhot",
+            "lang": "en"
+          },
+          {
+            "text": "Yerushalmi Berakhot",
+            "lang": "en"
+          },
+          {
+            "text": "Y. Ber.",
+            "lang": "en"
+          },
+          {
+            "text": "ירושלמי ברכות",
+            "lang": "he"
+          },
+          {
+            "text": "ירו' ברכות",
+            "lang": "he"
+          },
+          {
+            "text": "ירוש' ברכות",
+            "lang": "he"
+          },
+          {
+            "text": "תלמוד ירושלמי ברכות",
+            "lang": "he",
+            "primary": true
+          },
+          {
+            "text": "Jerusalem Talmud Berakhot",
+            "lang": "en",
+            "primary": true
+          }
+        ],
+        "key": "Jerusalem Talmud Berakhot"
+      },
+      "sectionNames": [
+        "Chapter",
+        "Halakhah",
+        "Segment"
+      ],
+      "segment_count": 655,
+      "nonempty_segments": 655,
+      "completeness": "All string leaves of this retrieved merged export traversed; historical/textual completeness not asserted",
+      "candidate_count": 5
+    },
+    {
+      "work": "Jerusalem Talmud Bikkurim",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Zeraim/Jerusalem%20Talmud%20Bikkurim/Hebrew/merged.json",
+      "accessed_at": "2026-10-09T10:57:34.118647+00:00",
+      "status": "searched",
+      "bytes": 126613,
+      "sha256": "0c914911b72a46d94acf458f8f20cbebe3338eb5b16cd9a5be1026c8965e54dd",
+      "edition": "merged",
+      "versions": [
+        [
+          "The Jerusalem Talmud, edition by Heinrich W. Guggenheimer. Berlin, De Gruyter, 1999-2015",
+          "https://www.nli.org.il/he/books/NNL_ALEPH001901012/NLI"
+        ]
+      ],
+      "versionSource": "https://www.sefaria.org/Jerusalem_Talmud_Bikkurim",
+      "license": null,
+      "license_metadata": [
+        {
+          "versionTitle": "The Jerusalem Talmud, edition by Heinrich W. Guggenheimer. Berlin, De Gruyter, 1999-2015",
+          "license": "CC-BY",
+          "language": "he"
+        },
+        {
+          "versionTitle": "Mechon-Mamre",
+          "license": "unknown",
+          "language": "he"
+        },
+        {
+          "versionTitle": "Venice Edition",
+          "license": "unknown",
+          "language": "he"
+        }
+      ],
+      "license_error": null,
+      "index_url": "https://www.sefaria.org/api/v2/raw/index/Jerusalem_Talmud_Bikkurim",
+      "schema": {
+        "nodeType": "JaggedArrayNode",
+        "depth": 3,
+        "addressTypes": [
+          "Perek",
+          "Halakhah",
+          "Integer"
+        ],
+        "sectionNames": [
+          "Chapter",
+          "Halakhah",
+          "Segment"
+        ],
+        "match_templates": [
+          {
+            "term_slugs": [
+              "yerushalmi",
+              "bikkurim"
+            ]
+          },
+          {
+            "term_slugs": [
+              "yerushalmi",
+              "tractate",
+              "bikkurim"
+            ]
+          },
+          {
+            "term_slugs": [
+              "talmud",
+              "yerushalmi",
+              "tractate",
+              "bikkurim"
+            ]
+          },
+          {
+            "term_slugs": [
+              "talmud",
+              "yerushalmi",
+              "bikkurim"
+            ]
+          }
+        ],
+        "ref_resolver_context_mutations": [
+          {
+            "op": "swap",
+            "input_terms": [
+              "halakha"
+            ],
+            "output_terms": [
+              "yerushalmi",
+              "bikkurim"
+            ]
+          }
+        ],
+        "lengths": [
+          3,
+          21,
+          143
+        ],
+        "referenceableSections": [
+          true,
+          true,
+          false
+        ],
+        "titles": [
+          {
+            "text": "JT Bikurim",
+            "lang": "en"
+          },
+          {
+            "text": "JT Bikkurim",
+            "lang": "en"
+          },
+          {
+            "text": "Yerushalmi Bikurim",
+            "lang": "en"
+          },
+          {
+            "text": "Talmud Yerushalmi Bikkurim",
+            "lang": "en"
+          },
+          {
+            "text": "Yerushalmi Bikkurim",
+            "lang": "en"
+          },
+          {
+            "text": "ירושלמי בכורים",
+            "lang": "he"
+          },
+          {
+            "text": "ירושלמי ביכורים",
+            "lang": "he"
+          },
+          {
+            "text": "תלמוד ירושלמי ביכורים",
+            "lang": "he"
+          },
+          {
+            "text": "תלמוד ירושלמי בכורים",
+            "lang": "he",
+            "primary": true
+          },
+          {
+            "text": "Jerusalem Talmud Bikkurim",
+            "lang": "en",
+            "primary": true
+          }
+        ],
+        "key": "Jerusalem Talmud Bikkurim"
+      },
+      "sectionNames": [
+        "Chapter",
+        "Halakhah",
+        "Segment"
+      ],
+      "segment_count": 143,
+      "nonempty_segments": 143,
+      "completeness": "All string leaves of this retrieved merged export traversed; historical/textual completeness not asserted",
+      "candidate_count": 0
+    },
+    {
+      "work": "Jerusalem Talmud Chagigah",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Moed/Jerusalem%20Talmud%20Chagigah/Hebrew/merged.json",
+      "accessed_at": "2026-10-09T10:57:34.118647+00:00",
+      "status": "searched",
+      "bytes": 218102,
+      "sha256": "71b995921ffe1c6277d049e40884ca868531f6d61132d8f76032c1d4a5770b41",
+      "edition": "merged",
+      "versions": [
+        [
+          "The Jerusalem Talmud, edition by Heinrich W. Guggenheimer. Berlin, De Gruyter, 1999-2015",
+          "https://www.nli.org.il/he/books/NNL_ALEPH001901012/NLI"
+        ]
+      ],
+      "versionSource": "https://www.sefaria.org/Jerusalem_Talmud_Chagigah",
+      "license": null,
+      "license_metadata": [
+        {
+          "versionTitle": "The Jerusalem Talmud, edition by Heinrich W. Guggenheimer. Berlin, De Gruyter, 1999-2015",
+          "license": "CC-BY",
+          "language": "he"
+        },
+        {
+          "versionTitle": "Mechon-Mamre",
+          "license": "unknown",
+          "language": "he"
+        },
+        {
+          "versionTitle": "Venice Edition",
+          "license": "unknown",
+          "language": "he"
+        }
+      ],
+      "license_error": null,
+      "index_url": "https://www.sefaria.org/api/v2/raw/index/Jerusalem_Talmud_Chagigah",
+      "schema": {
+        "nodeType": "JaggedArrayNode",
+        "depth": 3,
+        "addressTypes": [
+          "Perek",
+          "Halakhah",
+          "Integer"
+        ],
+        "sectionNames": [
+          "Chapter",
+          "Halakhah",
+          "Segment"
+        ],
+        "match_templates": [
+          {
+            "term_slugs": [
+              "yerushalmi",
+              "chagigah"
+            ]
+          },
+          {
+            "term_slugs": [
+              "yerushalmi",
+              "tractate",
+              "chagigah"
+            ]
+          },
+          {
+            "term_slugs": [
+              "talmud",
+              "yerushalmi",
+              "tractate",
+              "chagigah"
+            ]
+          },
+          {
+            "term_slugs": [
+              "talmud",
+              "yerushalmi",
+              "chagigah"
+            ]
+          }
+        ],
+        "ref_resolver_context_mutations": [
+          {
+            "op": "swap",
+            "input_terms": [
+              "halakha"
+            ],
+            "output_terms": [
+              "yerushalmi",
+              "chagigah"
+            ]
+          }
+        ],
+        "lengths": [
+          3,
+          23,
+          149
+        ],
+        "referenceableSections": [
+          true,
+          true,
+          false
+        ],
+        "titles": [
+          {
+            "text": "Yerushalmi Hagigah",
+            "lang": "en"
+          },
+          {
+            "text": "JT Chagigah",
+            "lang": "en"
+          },
+          {
+            "text": "Talmud Yerushalmi Chagigah",
+            "lang": "en"
+          },
+          {
+            "text": "Yerushalmi Chagigah",
+            "lang": "en"
+          },
+          {
+            "text": "JT Hagigah",
+            "lang": "en"
+          },
+          {
+            "text": "ירושלמי חגיגה",
+            "lang": "he"
+          },
+          {
+            "text": "Y. Ḥag.",
+            "lang": "en"
+          },
+          {
+            "text": "תלמוד ירושלמי חגיגה",
+            "lang": "he",
+            "primary": true
+          },
+          {
+            "text": "Jerusalem Talmud Chagigah",
+            "lang": "en",
+            "primary": true
+          }
+        ],
+        "key": "Jerusalem Talmud Chagigah"
+      },
+      "sectionNames": [
+        "Chapter",
+        "Halakhah",
+        "Segment"
+      ],
+      "segment_count": 149,
+      "nonempty_segments": 149,
+      "completeness": "All string leaves of this retrieved merged export traversed; historical/textual completeness not asserted",
+      "candidate_count": 6
+    },
+    {
+      "work": "Jerusalem Talmud Challah",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Zeraim/Jerusalem%20Talmud%20Challah/Hebrew/merged.json",
+      "accessed_at": "2026-10-09T10:57:34.118647+00:00",
+      "status": "searched",
+      "bytes": 182287,
+      "sha256": "3ebecc91506b98099ef3fc29bd124597359147ed72ede2dc4dafed68108cb706",
+      "edition": "merged",
+      "versions": [
+        [
+          "The Jerusalem Talmud, edition by Heinrich W. Guggenheimer. Berlin, De Gruyter, 1999-2015",
+          "https://www.nli.org.il/he/books/NNL_ALEPH001901012/NLI"
+        ]
+      ],
+      "versionSource": "https://www.sefaria.org/Jerusalem_Talmud_Challah",
+      "license": null,
+      "license_metadata": [
+        {
+          "versionTitle": "The Jerusalem Talmud, edition by Heinrich W. Guggenheimer. Berlin, De Gruyter, 1999-2015",
+          "license": "CC-BY",
+          "language": "he"
+        },
+        {
+          "versionTitle": "Mechon-Mamre",
+          "license": "unknown",
+          "language": "he"
+        },
+        {
+          "versionTitle": "Venice Edition",
+          "license": "unknown",
+          "language": "he"
+        }
+      ],
+      "license_error": null,
+      "index_url": "https://www.sefaria.org/api/v2/raw/index/Jerusalem_Talmud_Challah",
+      "schema": {
+        "nodeType": "JaggedArrayNode",
+        "depth": 3,
+        "addressTypes": [
+          "Perek",
+          "Halakhah",
+          "Integer"
+        ],
+        "sectionNames": [
+          "Chapter",
+          "Halakhah",
+          "Segment"
+        ],
+        "match_templates": [
+          {
+            "term_slugs": [
+              "yerushalmi",
+              "challah"
+            ]
+          },
+          {
+            "term_slugs": [
+              "yerushalmi",
+              "tractate",
+              "challah"
+            ]
+          },
+          {
+            "term_slugs": [
+              "talmud",
+              "yerushalmi",
+              "tractate",
+              "challah"
+            ]
+          },
+          {
+            "term_slugs": [
+              "talmud",
+              "yerushalmi",
+              "challah"
+            ]
+          }
+        ],
+        "ref_resolver_context_mutations": [
+          {
+            "op": "swap",
+            "input_terms": [
+              "halakha"
+            ],
+            "output_terms": [
+              "yerushalmi",
+              "challah"
+            ]
+          }
+        ],
+        "lengths": [
+          4,
+          19,
+          179
+        ],
+        "referenceableSections": [
+          true,
+          true,
+          false
+        ],
+        "titles": [
+          {
+            "text": "Yerushalmi Hallah",
+            "lang": "en"
+          },
+          {
+            "text": "Talmud Yerushalmi Challah",
+            "lang": "en"
+          },
+          {
+            "text": "JT Hallah",
+            "lang": "en"
+          },
+          {
+            "text": "Yerushalmi Challah",
+            "lang": "en"
+          },
+          {
+            "text": "JT Challah",
+            "lang": "en"
+          },
+          {
+            "text": "ירושלמי חלה",
+            "lang": "he"
+          },
+          {
+            "text": "Jerusalem Talmud Hallah",
+            "lang": "en"
+          },
+          {
+            "text": "תלמוד ירושלמי חלה",
+            "lang": "he",
+            "primary": true
+          },
+          {
+            "text": "Jerusalem Talmud Challah",
+            "lang": "en",
+            "primary": true
+          }
+        ],
+        "key": "Jerusalem Talmud Challah"
+      },
+      "sectionNames": [
+        "Chapter",
+        "Halakhah",
+        "Segment"
+      ],
+      "segment_count": 179,
+      "nonempty_segments": 179,
+      "completeness": "All string leaves of this retrieved merged export traversed; historical/textual completeness not asserted",
+      "candidate_count": 1
+    },
+    {
+      "work": "Jerusalem Talmud Demai",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Zeraim/Jerusalem%20Talmud%20Demai/Hebrew/merged.json",
+      "accessed_at": "2026-10-09T10:57:34.118647+00:00",
+      "status": "searched",
+      "bytes": 271402,
+      "sha256": "d438565d79fc532efa54798e7c4e5db39ca7c380d786d72b7e314e1f9b010767",
+      "edition": "merged",
+      "versions": [
+        [
+          "The Jerusalem Talmud, edition by Heinrich W. Guggenheimer. Berlin, De Gruyter, 1999-2015",
+          "https://www.nli.org.il/he/books/NNL_ALEPH001901012/NLI"
+        ]
+      ],
+      "versionSource": "https://www.sefaria.org/Jerusalem_Talmud_Demai",
+      "license": null,
+      "license_metadata": [
+        {
+          "versionTitle": "The Jerusalem Talmud, edition by Heinrich W. Guggenheimer. Berlin, De Gruyter, 1999-2015",
+          "license": "CC-BY",
+          "language": "he"
+        },
+        {
+          "versionTitle": "Mechon-Mamre",
+          "license": "unknown",
+          "language": "he"
+        },
+        {
+          "versionTitle": "Venice Edition",
+          "license": "unknown",
+          "language": "he"
+        }
+      ],
+      "license_error": null,
+      "index_url": "https://www.sefaria.org/api/v2/raw/index/Jerusalem_Talmud_Demai",
+      "schema": {
+        "nodeType": "JaggedArrayNode",
+        "depth": 3,
+        "addressTypes": [
+          "Perek",
+          "Halakhah",
+          "Integer"
+        ],
+        "sectionNames": [
+          "Chapter",
+          "Halakhah",
+          "Segment"
+        ],
+        "match_templates": [
+          {
+            "term_slugs": [
+              "yerushalmi",
+              "demai"
+            ]
+          },
+          {
+            "term_slugs": [
+              "yerushalmi",
+              "tractate",
+              "demai"
+            ]
+          },
+          {
+            "term_slugs": [
+              "talmud",
+              "yerushalmi",
+              "tractate",
+              "demai"
+            ]
+          },
+          {
+            "term_slugs": [
+              "talmud",
+              "yerushalmi",
+              "demai"
+            ]
+          }
+        ],
+        "ref_resolver_context_mutations": [
+          {
+            "op": "swap",
+            "input_terms": [
+              "halakha"
+            ],
+            "output_terms": [
+              "yerushalmi",
+              "demai"
+            ]
+          }
+        ],
+        "lengths": [
+          7,
+          44,
+          300
+        ],
+        "referenceableSections": [
+          true,
+          true,
+          false
+        ],
+        "titles": [
+          {
+            "text": "JT Dmai",
+            "lang": "en"
+          },
+          {
+            "text": "Talmud Yerushalmi Demai",
+            "lang": "en"
+          },
+          {
+            "text": "JT Demai",
+            "lang": "en"
+          },
+          {
+            "text": "Yerushalmi Dmai",
+            "lang": "en"
+          },
+          {
+            "text": "Yerushalmi Demai",
+            "lang": "en"
+          },
+          {
+            "text": "ירושלמי דמאי",
+            "lang": "he"
+          },
+          {
+            "text": "Y. Dem.",
+            "lang": "en"
+          },
+          {
+            "text": "תלמוד ירושלמי דמאי",
+            "lang": "he",
+            "primary": true
+          },
+          {
+            "text": "Jerusalem Talmud Demai",
+            "lang": "en",
+            "primary": true
+          }
+        ],
+        "key": "Jerusalem Talmud Demai"
+      },
+      "sectionNames": [
+        "Chapter",
+        "Halakhah",
+        "Segment"
+      ],
+      "segment_count": 300,
+      "nonempty_segments": 300,
+      "completeness": "All string leaves of this retrieved merged export traversed; historical/textual completeness not asserted",
+      "candidate_count": 2
+    },
+    {
+      "work": "Jerusalem Talmud Eruvin",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Moed/Jerusalem%20Talmud%20Eruvin/Hebrew/merged.json",
+      "accessed_at": "2026-10-09T10:57:34.118647+00:00",
+      "status": "searched",
+      "bytes": 437148,
+      "sha256": "d6649f00dafe7cd38f1eb407abb9e16ae14c2171a0ea9bcdf42858a1f487fff8",
+      "edition": "merged",
+      "versions": [
+        [
+          "The Jerusalem Talmud, edition by Heinrich W. Guggenheimer. Berlin, De Gruyter, 1999-2015",
+          "https://www.nli.org.il/he/books/NNL_ALEPH001901012/NLI"
+        ]
+      ],
+      "versionSource": "https://www.sefaria.org/Jerusalem_Talmud_Eruvin",
+      "license": null,
+      "license_metadata": [
+        {
+          "versionTitle": "The Jerusalem Talmud, edition by Heinrich W. Guggenheimer. Berlin, De Gruyter, 1999-2015",
+          "license": "CC-BY",
+          "language": "he"
+        },
+        {
+          "versionTitle": "Mechon-Mamre",
+          "license": "unknown",
+          "language": "he"
+        },
+        {
+          "versionTitle": "Venice Edition",
+          "license": "unknown",
+          "language": "he"
+        }
+      ],
+      "license_error": null,
+      "index_url": "https://www.sefaria.org/api/v2/raw/index/Jerusalem_Talmud_Eruvin",
+      "schema": {
+        "nodeType": "JaggedArrayNode",
+        "depth": 3,
+        "addressTypes": [
+          "Perek",
+          "Halakhah",
+          "Integer"
+        ],
+        "sectionNames": [
+          "Chapter",
+          "Halakhah",
+          "Segment"
+        ],
+        "match_templates": [
+          {
+            "term_slugs": [
+              "yerushalmi",
+              "eruvin"
+            ]
+          },
+          {
+            "term_slugs": [
+              "yerushalmi",
+              "tractate",
+              "eruvin"
+            ]
+          },
+          {
+            "term_slugs": [
+              "talmud",
+              "yerushalmi",
+              "tractate",
+              "eruvin"
+            ]
+          },
+          {
+            "term_slugs": [
+              "talmud",
+              "yerushalmi",
+              "eruvin"
+            ]
+          }
+        ],
+        "ref_resolver_context_mutations": [
+          {
+            "op": "swap",
+            "input_terms": [
+              "halakha"
+            ],
+            "output_terms": [
+              "yerushalmi",
+              "eruvin"
+            ]
+          }
+        ],
+        "lengths": [
+          10,
+          94,
+          415
+        ],
+        "referenceableSections": [
+          true,
+          true,
+          false
+        ],
+        "titles": [
+          {
+            "text": "Talmud Yerushalmi Eiruvin",
+            "lang": "en"
+          },
+          {
+            "text": "Yerushalmi Eruvin",
+            "lang": "en"
+          },
+          {
+            "text": "Yerushalmi Eiruvin",
+            "lang": "en"
+          },
+          {
+            "text": "JT Eiruvin",
+            "lang": "en"
+          },
+          {
+            "text": "JT Eruvin",
+            "lang": "en"
+          },
+          {
+            "text": "Jerusalem Talmud Eiruvin",
+            "lang": "en"
+          },
+          {
+            "text": "Y. Erub.",
+            "lang": "en"
+          },
+          {
+            "text": "ירושלמי עירובין",
+            "lang": "he"
+          },
+          {
+            "text": "ירושלמי ערובין",
+            "lang": "he"
+          },
+          {
+            "text": "תלמוד ירושלמי ערובין",
+            "lang": "he"
+          },
+          {
+            "text": "ירוש' ערובין",
+            "lang": "he"
+          },
+          {
+            "text": "ירוש' עירובין",
+            "lang": "he"
+          },
+          {
+            "text": "ירו' עירובין",
+            "lang": "he"
+          },
+          {
+            "text": "ירו' ערובין",
+            "lang": "he"
+          },
+          {
+            "text": "תלמוד ירושלמי עירובין",
+            "lang": "he",
+            "primary": true
+          },
+          {
+            "text": "Jerusalem Talmud Eruvin",
+            "lang": "en",
+            "primary": true
+          }
+        ],
+        "key": "Jerusalem Talmud Eruvin"
+      },
+      "sectionNames": [
+        "Chapter",
+        "Halakhah",
+        "Segment"
+      ],
+      "segment_count": 415,
+      "nonempty_segments": 415,
+      "completeness": "All string leaves of this retrieved merged export traversed; historical/textual completeness not asserted",
+      "candidate_count": 2
+    },
+    {
+      "work": "Jerusalem Talmud Gittin",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Nashim/Jerusalem%20Talmud%20Gittin/Hebrew/merged.json",
+      "accessed_at": "2026-10-09T10:57:34.118647+00:00",
+      "status": "searched",
+      "bytes": 406513,
+      "sha256": "563041de3bdd0ce1ea1f19227862a88c4295dba96859bf320834afac6b53ed88",
+      "edition": "merged",
+      "versions": [
+        [
+          "The Jerusalem Talmud, edition by Heinrich W. Guggenheimer. Berlin, De Gruyter, 1999-2015",
+          "https://www.nli.org.il/he/books/NNL_ALEPH001901012/NLI"
+        ]
+      ],
+      "versionSource": "https://www.sefaria.org/Jerusalem_Talmud_Gittin",
+      "license": null,
+      "license_metadata": [
+        {
+          "versionTitle": "The Jerusalem Talmud, edition by Heinrich W. Guggenheimer. Berlin, De Gruyter, 1999-2015",
+          "license": "CC-BY",
+          "language": "he"
+        },
+        {
+          "versionTitle": "Mechon-Mamre",
+          "license": "unknown",
+          "language": "he"
+        },
+        {
+          "versionTitle": "Venice Edition",
+          "license": "unknown",
+          "language": "he"
+        }
+      ],
+      "license_error": null,
+      "index_url": "https://www.sefaria.org/api/v2/raw/index/Jerusalem_Talmud_Gittin",
+      "schema": {
+        "nodeType": "JaggedArrayNode",
+        "depth": 3,
+        "addressTypes": [
+          "Perek",
+          "Halakhah",
+          "Integer"
+        ],
+        "sectionNames": [
+          "Chapter",
+          "Halakhah",
+          "Segment"
+        ],
+        "match_templates": [
+          {
+            "term_slugs": [
+              "yerushalmi",
+              "gittin"
+            ]
+          },
+          {
+            "term_slugs": [
+              "yerushalmi",
+              "tractate",
+              "gittin"
+            ]
+          },
+          {
+            "term_slugs": [
+              "talmud",
+              "yerushalmi",
+              "tractate",
+              "gittin"
+            ]
+          },
+          {
+            "term_slugs": [
+              "talmud",
+              "yerushalmi",
+              "gittin"
+            ]
+          }
+        ],
+        "ref_resolver_context_mutations": [
+          {
+            "op": "swap",
+            "input_terms": [
+              "halakha"
+            ],
+            "output_terms": [
+              "yerushalmi",
+              "gittin"
+            ]
+          }
+        ],
+        "lengths": [
+          9,
+          75,
+          349
+        ],
+        "referenceableSections": [
+          true,
+          true,
+          false
+        ],
+        "titles": [
+          {
+            "text": "Talmud Yerushalmi Gittin",
+            "lang": "en"
+          },
+          {
+            "text": "Yerushalmi Gittin",
+            "lang": "en"
+          },
+          {
+            "text": "JT Gittin",
+            "lang": "en"
+          },
+          {
+            "text": "ירושלמי גיטין",
+            "lang": "he"
+          },
+          {
+            "text": "Y. Gitt.",
+            "lang": "en"
+          },
+          {
+            "text": "תלמוד ירושלמי גיטין",
+            "lang": "he",
+            "primary": true
+          },
+          {
+            "text": "Jerusalem Talmud Gittin",
+            "lang": "en",
+            "primary": true
+          }
+        ],
+        "key": "Jerusalem Talmud Gittin"
+      },
+      "sectionNames": [
+        "Chapter",
+        "Halakhah",
+        "Segment"
+      ],
+      "segment_count": 349,
+      "nonempty_segments": 349,
+      "completeness": "All string leaves of this retrieved merged export traversed; historical/textual completeness not asserted",
+      "candidate_count": 5
+    },
+    {
+      "work": "Jerusalem Talmud Horayot",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Nezikin/Jerusalem%20Talmud%20Horayot/Hebrew/merged.json",
+      "accessed_at": "2026-10-09T10:57:34.118647+00:00",
+      "status": "searched",
+      "bytes": 163167,
+      "sha256": "a964e7dd3d2994b7680182db70cff946d7a90ec3b3c44272d31b382cd823d959",
+      "edition": "merged",
+      "versions": [
+        [
+          "The Jerusalem Talmud, edition by Heinrich W. Guggenheimer. Berlin, De Gruyter, 1999-2015",
+          "https://www.nli.org.il/he/books/NNL_ALEPH001901012/NLI"
+        ]
+      ],
+      "versionSource": "https://www.sefaria.org/Jerusalem_Talmud_Horayot",
+      "license": null,
+      "license_metadata": [
+        {
+          "versionTitle": "The Jerusalem Talmud, edition by Heinrich W. Guggenheimer. Berlin, De Gruyter, 1999-2015",
+          "license": "CC-BY",
+          "language": "he"
+        },
+        {
+          "versionTitle": "Mechon-Mamre",
+          "license": "unknown",
+          "language": "he"
+        },
+        {
+          "versionTitle": "Venice Edition",
+          "license": "unknown",
+          "language": "he"
+        }
+      ],
+      "license_error": null,
+      "index_url": "https://www.sefaria.org/api/v2/raw/index/Jerusalem_Talmud_Horayot",
+      "schema": {
+        "nodeType": "JaggedArrayNode",
+        "depth": 3,
+        "addressTypes": [
+          "Perek",
+          "Halakhah",
+          "Integer"
+        ],
+        "sectionNames": [
+          "Chapter",
+          "Halakhah",
+          "Segment"
+        ],
+        "match_templates": [
+          {
+            "term_slugs": [
+              "yerushalmi",
+              "horayot"
+            ]
+          },
+          {
+            "term_slugs": [
+              "yerushalmi",
+              "tractate",
+              "horayot"
+            ]
+          },
+          {
+            "term_slugs": [
+              "talmud",
+              "yerushalmi",
+              "tractate",
+              "horayot"
+            ]
+          },
+          {
+            "term_slugs": [
+              "talmud",
+              "yerushalmi",
+              "horayot"
+            ]
+          }
+        ],
+        "ref_resolver_context_mutations": [
+          {
+            "op": "swap",
+            "input_terms": [
+              "halakha"
+            ],
+            "output_terms": [
+              "yerushalmi",
+              "horayot"
+            ]
+          }
+        ],
+        "lengths": [
+          3,
+          20,
+          122
+        ],
+        "referenceableSections": [
+          true,
+          true,
+          false
+        ],
+        "titles": [
+          {
+            "text": "JT Horayot",
+            "lang": "en"
+          },
+          {
+            "text": "Yerushalmi Horayos",
+            "lang": "en"
+          },
+          {
+            "text": "Talmud Yerushalmi Horayot",
+            "lang": "en"
+          },
+          {
+            "text": "Yerushalmi Horayot",
+            "lang": "en"
+          },
+          {
+            "text": "ירושלמי הוריות",
+            "lang": "he"
+          },
+          {
+            "text": "Y. Hor.",
+            "lang": "en"
+          },
+          {
+            "text": "תלמוד ירושלמי הוריות",
+            "lang": "he",
+            "primary": true
+          },
+          {
+            "text": "Jerusalem Talmud Horayot",
+            "lang": "en",
+            "primary": true
+          }
+        ],
+        "key": "Jerusalem Talmud Horayot"
+      },
+      "sectionNames": [
+        "Chapter",
+        "Halakhah",
+        "Segment"
+      ],
+      "segment_count": 122,
+      "nonempty_segments": 122,
+      "completeness": "All string leaves of this retrieved merged export traversed; historical/textual completeness not asserted",
+      "candidate_count": 1
+    },
+    {
+      "work": "Jerusalem Talmud Ketubot",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Nashim/Jerusalem%20Talmud%20Ketubot/Hebrew/merged.json",
+      "accessed_at": "2026-10-09T10:57:34.118647+00:00",
+      "status": "searched",
+      "bytes": 608571,
+      "sha256": "c3bc8a3fde220f361664fdc22bfc1d47800c2a68da3f66e110fb5ac49d4fa038",
+      "edition": "merged",
+      "versions": [
+        [
+          "The Jerusalem Talmud, edition by Heinrich W. Guggenheimer. Berlin, De Gruyter, 1999-2015",
+          "https://www.nli.org.il/he/books/NNL_ALEPH001901012/NLI"
+        ]
+      ],
+      "versionSource": "https://www.sefaria.org/Jerusalem_Talmud_Ketubot",
+      "license": null,
+      "license_metadata": [
+        {
+          "versionTitle": "The Jerusalem Talmud, edition by Heinrich W. Guggenheimer. Berlin, De Gruyter, 1999-2015",
+          "license": "CC-BY",
+          "language": "he"
+        },
+        {
+          "versionTitle": "Mechon-Mamre",
+          "license": "unknown",
+          "language": "he"
+        },
+        {
+          "versionTitle": "Venice Edition",
+          "license": "unknown",
+          "language": "he"
+        }
+      ],
+      "license_error": null,
+      "index_url": "https://www.sefaria.org/api/v2/raw/index/Jerusalem_Talmud_Ketubot",
+      "schema": {
+        "nodeType": "JaggedArrayNode",
+        "depth": 3,
+        "addressTypes": [
+          "Perek",
+          "Halakhah",
+          "Integer"
+        ],
+        "sectionNames": [
+          "Chapter",
+          "Halakhah",
+          "Segment"
+        ],
+        "match_templates": [
+          {
+            "term_slugs": [
+              "yerushalmi",
+              "ketubot"
+            ]
+          },
+          {
+            "term_slugs": [
+              "yerushalmi",
+              "tractate",
+              "ketubot"
+            ]
+          },
+          {
+            "term_slugs": [
+              "talmud",
+              "yerushalmi",
+              "tractate",
+              "ketubot"
+            ]
+          },
+          {
+            "term_slugs": [
+              "talmud",
+              "yerushalmi",
+              "ketubot"
+            ]
+          }
+        ],
+        "ref_resolver_context_mutations": [
+          {
+            "op": "swap",
+            "input_terms": [
+              "halakha"
+            ],
+            "output_terms": [
+              "yerushalmi",
+              "ketubot"
+            ]
+          }
+        ],
+        "lengths": [
+          13,
+          120,
+          517
+        ],
+        "referenceableSections": [
+          true,
+          true,
+          false
+        ],
+        "titles": [
+          {
+            "text": "Yerushalmi Ketubot",
+            "lang": "en"
+          },
+          {
+            "text": "JT Ktubot",
+            "lang": "en"
+          },
+          {
+            "text": "Yerushalmi Kesuvos",
+            "lang": "en"
+          },
+          {
+            "text": "Talmud Yerushalmi Ketubot",
+            "lang": "en"
+          },
+          {
+            "text": "JT Ketubot",
+            "lang": "en"
+          },
+          {
+            "text": "Yerushalmi Ktubot",
+            "lang": "en"
+          },
+          {
+            "text": "ירושלמי כתובות",
+            "lang": "he"
+          },
+          {
+            "text": "Y. Keth.",
+            "lang": "en"
+          },
+          {
+            "text": "תלמוד ירושלמי כתובות",
+            "lang": "he",
+            "primary": true
+          },
+          {
+            "text": "Jerusalem Talmud Ketubot",
+            "lang": "en",
+            "primary": true
+          }
+        ],
+        "key": "Jerusalem Talmud Ketubot"
+      },
+      "sectionNames": [
+        "Chapter",
+        "Halakhah",
+        "Segment"
+      ],
+      "segment_count": 516,
+      "nonempty_segments": 516,
+      "completeness": "All string leaves of this retrieved merged export traversed; historical/textual completeness not asserted",
+      "candidate_count": 5
+    },
+    {
+      "work": "Jerusalem Talmud Kiddushin",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Nashim/Jerusalem%20Talmud%20Kiddushin/Hebrew/merged.json",
+      "accessed_at": "2026-10-09T10:57:34.118647+00:00",
+      "status": "searched",
+      "bytes": 447570,
+      "sha256": "df986d0ffcbb74e2a65134bf09e9c4401ba8b8b199830dcb573a6eb6f51c7705",
+      "edition": "merged",
+      "versions": [
+        [
+          "The Jerusalem Talmud, edition by Heinrich W. Guggenheimer. Berlin, De Gruyter, 1999-2015",
+          "https://www.nli.org.il/he/books/NNL_ALEPH001901012/NLI"
+        ]
+      ],
+      "versionSource": "https://www.sefaria.org/Jerusalem_Talmud_Kiddushin",
+      "license": null,
+      "license_metadata": [
+        {
+          "versionTitle": "The Jerusalem Talmud, edition by Heinrich W. Guggenheimer. Berlin, De Gruyter, 1999-2015",
+          "license": "CC-BY",
+          "language": "he"
+        },
+        {
+          "versionTitle": "Mechon-Mamre",
+          "license": "unknown",
+          "language": "he"
+        },
+        {
+          "versionTitle": "Venice Edition",
+          "license": "unknown",
+          "language": "he"
+        }
+      ],
+      "license_error": null,
+      "index_url": "https://www.sefaria.org/api/v2/raw/index/Jerusalem_Talmud_Kiddushin",
+      "schema": {
+        "nodeType": "JaggedArrayNode",
+        "depth": 3,
+        "addressTypes": [
+          "Perek",
+          "Halakhah",
+          "Integer"
+        ],
+        "sectionNames": [
+          "Chapter",
+          "Halakhah",
+          "Segment"
+        ],
+        "match_templates": [
+          {
+            "term_slugs": [
+              "yerushalmi",
+              "kiddushin"
+            ]
+          },
+          {
+            "term_slugs": [
+              "yerushalmi",
+              "tractate",
+              "kiddushin"
+            ]
+          },
+          {
+            "term_slugs": [
+              "talmud",
+              "yerushalmi",
+              "tractate",
+              "kiddushin"
+            ]
+          },
+          {
+            "term_slugs": [
+              "talmud",
+              "yerushalmi",
+              "kiddushin"
+            ]
+          }
+        ],
+        "ref_resolver_context_mutations": [
+          {
+            "op": "swap",
+            "input_terms": [
+              "halakha"
+            ],
+            "output_terms": [
+              "yerushalmi",
+              "kiddushin"
+            ]
+          }
+        ],
+        "lengths": [
+          4,
+          43,
+          329
+        ],
+        "referenceableSections": [
+          true,
+          true,
+          false
+        ],
+        "titles": [
+          {
+            "text": "Yerushalmi Kiddushin",
+            "lang": "en"
+          },
+          {
+            "text": "Talmud Yerushalmi Kiddushin",
+            "lang": "en"
+          },
+          {
+            "text": "JT Kiddushin",
+            "lang": "en"
+          },
+          {
+            "text": "ירושלמי קידושין",
+            "lang": "he"
+          },
+          {
+            "text": "Y. Kidd.",
+            "lang": "en"
+          },
+          {
+            "text": "תלמוד ירושלמי קידושין",
+            "lang": "he",
+            "primary": true
+          },
+          {
+            "text": "Jerusalem Talmud Kiddushin",
+            "lang": "en",
+            "primary": true
+          }
+        ],
+        "key": "Jerusalem Talmud Kiddushin"
+      },
+      "sectionNames": [
+        "Chapter",
+        "Halakhah",
+        "Segment"
+      ],
+      "segment_count": 329,
+      "nonempty_segments": 329,
+      "completeness": "All string leaves of this retrieved merged export traversed; historical/textual completeness not asserted",
+      "candidate_count": 2
+    },
+    {
+      "work": "Jerusalem Talmud Kilayim",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Zeraim/Jerusalem%20Talmud%20Kilayim/Hebrew/merged.json",
+      "accessed_at": "2026-10-09T10:57:34.118647+00:00",
+      "status": "searched",
+      "bytes": 312222,
+      "sha256": "2a9eef363fc13424164c92fcbcd36bc6edf7b2d69ac2aa2583d8b0b8e646999c",
+      "edition": "merged",
+      "versions": [
+        [
+          "The Jerusalem Talmud, edition by Heinrich W. Guggenheimer. Berlin, De Gruyter, 1999-2015",
+          "https://www.nli.org.il/he/books/NNL_ALEPH001901012/NLI"
+        ]
+      ],
+      "versionSource": "https://www.sefaria.org/Jerusalem_Talmud_Kilayim",
+      "license": null,
+      "license_metadata": [
+        {
+          "versionTitle": "The Jerusalem Talmud, edition by Heinrich W. Guggenheimer. Berlin, De Gruyter, 1999-2015",
+          "license": "CC-BY",
+          "language": "he"
+        },
+        {
+          "versionTitle": "Mechon-Mamre",
+          "license": "unknown",
+          "language": "he"
+        },
+        {
+          "versionTitle": "Venice Edition",
+          "license": "unknown",
+          "language": "he"
+        }
+      ],
+      "license_error": null,
+      "index_url": "https://www.sefaria.org/api/v2/raw/index/Jerusalem_Talmud_Kilayim",
+      "schema": {
+        "nodeType": "JaggedArrayNode",
+        "depth": 3,
+        "addressTypes": [
+          "Perek",
+          "Halakhah",
+          "Integer"
+        ],
+        "sectionNames": [
+          "Chapter",
+          "Halakhah",
+          "Segment"
+        ],
+        "match_templates": [
+          {
+            "term_slugs": [
+              "yerushalmi",
+              "kilayim"
+            ]
+          },
+          {
+            "term_slugs": [
+              "yerushalmi",
+              "tractate",
+              "kilayim"
+            ]
+          },
+          {
+            "term_slugs": [
+              "talmud",
+              "yerushalmi",
+              "tractate",
+              "kilayim"
+            ]
+          },
+          {
+            "term_slugs": [
+              "talmud",
+              "yerushalmi",
+              "kilayim"
+            ]
+          }
+        ],
+        "ref_resolver_context_mutations": [
+          {
+            "op": "swap",
+            "input_terms": [
+              "halakha"
+            ],
+            "output_terms": [
+              "yerushalmi",
+              "kilayim"
+            ]
+          }
+        ],
+        "lengths": [
+          9,
+          56,
+          322
+        ],
+        "referenceableSections": [
+          true,
+          true,
+          false
+        ],
+        "titles": [
+          {
+            "text": "JT Kilayim",
+            "lang": "en"
+          },
+          {
+            "text": "Talmud Yerushalmi Kilayim",
+            "lang": "en"
+          },
+          {
+            "text": "Yerushalmi Kilayim",
+            "lang": "en"
+          },
+          {
+            "text": "Y. Kil.",
+            "lang": "en"
+          },
+          {
+            "text": "ירושלמי כלאים",
+            "lang": "he"
+          },
+          {
+            "text": "ירושלמי כלאיים",
+            "lang": "he"
+          },
+          {
+            "text": "תלמוד ירושלמי כלאיים",
+            "lang": "he"
+          },
+          {
+            "text": "ירושלמי, כלאים",
+            "lang": "he"
+          },
+          {
+            "text": "ירושלמי, כלאיים",
+            "lang": "he"
+          },
+          {
+            "text": "תלמוד ירושלמי, כלאים",
+            "lang": "he"
+          },
+          {
+            "text": "תלמוד ירושלמי, כלאיים",
+            "lang": "he"
+          },
+          {
+            "text": "ירוש' כלאים",
+            "lang": "he"
+          },
+          {
+            "text": "ירו' כלאים",
+            "lang": "he"
+          },
+          {
+            "text": "ירוש' כלאיים",
+            "lang": "he"
+          },
+          {
+            "text": "ירו' כלאיים",
+            "lang": "he"
+          },
+          {
+            "text": "ירוש', כלאיים",
+            "lang": "he"
+          },
+          {
+            "text": "ירוש', כלאים",
+            "lang": "he"
+          },
+          {
+            "text": "ירו', כלאים",
+            "lang": "he"
+          },
+          {
+            "text": "ירו', כלאיים",
+            "lang": "he"
+          },
+          {
+            "text": "תלמוד ירושלמי כלאים",
+            "lang": "he",
+            "primary": true
+          },
+          {
+            "text": "Jerusalem Talmud Kilayim",
+            "lang": "en",
+            "primary": true
+          }
+        ],
+        "key": "Jerusalem Talmud Kilayim"
+      },
+      "sectionNames": [
+        "Chapter",
+        "Halakhah",
+        "Segment"
+      ],
+      "segment_count": 322,
+      "nonempty_segments": 322,
+      "completeness": "All string leaves of this retrieved merged export traversed; historical/textual completeness not asserted",
+      "candidate_count": 10
+    },
+    {
+      "work": "Jerusalem Talmud Maaser Sheni",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Zeraim/Jerusalem%20Talmud%20Maaser%20Sheni/Hebrew/merged.json",
+      "accessed_at": "2026-10-09T10:57:34.118647+00:00",
+      "status": "searched",
+      "bytes": 241066,
+      "sha256": "9cb08b070645528325e387b85c1febf53d7c8b0cf87dd188966d4c6fccfb6e6b",
+      "edition": "merged",
+      "versions": [
+        [
+          "The Jerusalem Talmud, edition by Heinrich W. Guggenheimer. Berlin, De Gruyter, 1999-2015",
+          "https://www.nli.org.il/he/books/NNL_ALEPH001901012/NLI"
+        ]
+      ],
+      "versionSource": "https://www.sefaria.org/Jerusalem_Talmud_Maaser_Sheni",
+      "license": null,
+      "license_metadata": [
+        {
+          "versionTitle": "The Jerusalem Talmud, edition by Heinrich W. Guggenheimer. Berlin, De Gruyter, 1999-2015",
+          "license": "CC-BY",
+          "language": "he"
+        },
+        {
+          "versionTitle": "Mechon-Mamre",
+          "license": "unknown",
+          "language": "he"
+        },
+        {
+          "versionTitle": "Venice Edition",
+          "license": "unknown",
+          "language": "he"
+        }
+      ],
+      "license_error": null,
+      "index_url": "https://www.sefaria.org/api/v2/raw/index/Jerusalem_Talmud_Maaser_Sheni",
+      "schema": {
+        "nodeType": "JaggedArrayNode",
+        "depth": 3,
+        "addressTypes": [
+          "Perek",
+          "Halakhah",
+          "Integer"
+        ],
+        "sectionNames": [
+          "Chapter",
+          "Halakhah",
+          "Segment"
+        ],
+        "match_templates": [
+          {
+            "term_slugs": [
+              "yerushalmi",
+              "maaser-sheni"
+            ]
+          },
+          {
+            "term_slugs": [
+              "yerushalmi",
+              "tractate",
+              "maaser-sheni"
+            ]
+          },
+          {
+            "term_slugs": [
+              "talmud",
+              "yerushalmi",
+              "tractate",
+              "maaser-sheni"
+            ]
+          },
+          {
+            "term_slugs": [
+              "talmud",
+              "yerushalmi",
+              "maaser-sheni"
+            ]
+          }
+        ],
+        "ref_resolver_context_mutations": [
+          {
+            "op": "swap",
+            "input_terms": [
+              "halakha"
+            ],
+            "output_terms": [
+              "yerushalmi",
+              "maaser-sheni"
+            ]
+          }
+        ],
+        "lengths": [
+          5,
+          24,
+          241
+        ],
+        "referenceableSections": [
+          true,
+          true,
+          false
+        ],
+        "titles": [
+          {
+            "text": "Yerushalmi Ma'aser Sheni",
+            "lang": "en"
+          },
+          {
+            "text": "JT Ma'aser Sheni",
+            "lang": "en"
+          },
+          {
+            "text": "Yerushalmi Maaser Sheni",
+            "lang": "en"
+          },
+          {
+            "text": "Talmud Yerushalmi Ma'aser Sheni",
+            "lang": "en"
+          },
+          {
+            "text": "JT Maaser Sheni",
+            "lang": "en"
+          },
+          {
+            "text": "Jerusalem Talmud Ma'aser Sheni",
+            "lang": "en"
+          },
+          {
+            "text": "ירושלמי מעשר שני",
+            "lang": "he"
+          },
+          {
+            "text": "ירושלמי, מעשר שני",
+            "lang": "he"
+          },
+          {
+            "text": "תלמוד ירושלמי, מעשר שני",
+            "lang": "he"
+          },
+          {
+            "text": "ירושלמי מ\"ש",
+            "lang": "he"
+          },
+          {
+            "text": "ירוש' מ\"ש",
+            "lang": "he"
+          },
+          {
+            "text": "ירו' מ\"ש",
+            "lang": "he"
+          },
+          {
+            "text": "ירושלמי, מ\"ש",
+            "lang": "he"
+          },
+          {
+            "text": "ירוש', מ\"ש",
+            "lang": "he"
+          },
+          {
+            "text": "ירו', מ\"ש",
+            "lang": "he"
+          },
+          {
+            "text": "ירוש' מעשר שני",
+            "lang": "he"
+          },
+          {
+            "text": "ירו' מעשר שני",
+            "lang": "he"
+          },
+          {
+            "text": "ירושלמי מ״ש",
+            "lang": "he"
+          },
+          {
+            "text": "ירושלמי מ”ש",
+            "lang": "he"
+          },
+          {
+            "text": "ירוש' מ״ש",
+            "lang": "he"
+          },
+          {
+            "text": "ירוש' מ”ש",
+            "lang": "he"
+          },
+          {
+            "text": "ירו' מ״ש",
+            "lang": "he"
+          },
+          {
+            "text": "ירו' מ”ש",
+            "lang": "he"
+          },
+          {
+            "text": "ירושלמי, מ״ש",
+            "lang": "he"
+          },
+          {
+            "text": "ירושלמי, מ”ש",
+            "lang": "he"
+          },
+          {
+            "text": "ירוש', מ״ש",
+            "lang": "he"
+          },
+          {
+            "text": "ירוש', מ”ש",
+            "lang": "he"
+          },
+          {
+            "text": "ירו', מ״ש",
+            "lang": "he"
+          },
+          {
+            "text": "ירו', מ”ש",
+            "lang": "he"
+          },
+          {
+            "text": "תלמוד ירושלמי מעשר שני",
+            "lang": "he",
+            "primary": true
+          },
+          {
+            "text": "Jerusalem Talmud Maaser Sheni",
+            "lang": "en",
+            "primary": true
+          }
+        ],
+        "key": "Jerusalem Talmud Maaser Sheni"
+      },
+      "sectionNames": [
+        "Chapter",
+        "Halakhah",
+        "Segment"
+      ],
+      "segment_count": 241,
+      "nonempty_segments": 241,
+      "completeness": "All string leaves of this retrieved merged export traversed; historical/textual completeness not asserted",
+      "candidate_count": 4
+    },
+    {
+      "work": "Jerusalem Talmud Maasrot",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Zeraim/Jerusalem%20Talmud%20Maasrot/Hebrew/merged.json",
+      "accessed_at": "2026-10-09T10:57:34.118647+00:00",
+      "status": "searched",
+      "bytes": 186128,
+      "sha256": "cde81d8dd07e587ac399a994e939139cc844489ce16fab7d600b8baa26315e44",
+      "edition": "merged",
+      "versions": [
+        [
+          "The Jerusalem Talmud, edition by Heinrich W. Guggenheimer. Berlin, De Gruyter, 1999-2015",
+          "https://www.nli.org.il/he/books/NNL_ALEPH001901012/NLI"
+        ]
+      ],
+      "versionSource": "https://www.sefaria.org/Jerusalem_Talmud_Maasrot",
+      "license": null,
+      "license_metadata": [
+        {
+          "versionTitle": "The Jerusalem Talmud, edition by Heinrich W. Guggenheimer. Berlin, De Gruyter, 1999-2015",
+          "license": "CC-BY",
+          "language": "he"
+        },
+        {
+          "versionTitle": "Mechon-Mamre",
+          "license": "unknown",
+          "language": "he"
+        },
+        {
+          "versionTitle": "Venice Edition",
+          "license": "unknown",
+          "language": "he"
+        }
+      ],
+      "license_error": null,
+      "index_url": "https://www.sefaria.org/api/v2/raw/index/Jerusalem_Talmud_Maasrot",
+      "schema": {
+        "nodeType": "JaggedArrayNode",
+        "depth": 3,
+        "addressTypes": [
+          "Perek",
+          "Halakhah",
+          "Integer"
+        ],
+        "sectionNames": [
+          "Chapter",
+          "Halakhah",
+          "Segment"
+        ],
+        "match_templates": [
+          {
+            "term_slugs": [
+              "yerushalmi",
+              "maasrot"
+            ]
+          },
+          {
+            "term_slugs": [
+              "yerushalmi",
+              "tractate",
+              "maasrot"
+            ]
+          },
+          {
+            "term_slugs": [
+              "talmud",
+              "yerushalmi",
+              "tractate",
+              "maasrot"
+            ]
+          },
+          {
+            "term_slugs": [
+              "talmud",
+              "yerushalmi",
+              "maasrot"
+            ]
+          }
+        ],
+        "ref_resolver_context_mutations": [
+          {
+            "op": "swap",
+            "input_terms": [
+              "halakha"
+            ],
+            "output_terms": [
+              "yerushalmi",
+              "maasrot"
+            ]
+          }
+        ],
+        "lengths": [
+          5,
+          20,
+          186
+        ],
+        "referenceableSections": [
+          true,
+          true,
+          false
+        ],
+        "titles": [
+          {
+            "text": "Yerushalmi Ma'asrot",
+            "lang": "en"
+          },
+          {
+            "text": "Talmud Yerushalmi Ma'asrot",
+            "lang": "en"
+          },
+          {
+            "text": "Yerushalmi Maasrot",
+            "lang": "en"
+          },
+          {
+            "text": "JT Maasrot",
+            "lang": "en"
+          },
+          {
+            "text": "JT Ma'asrot",
+            "lang": "en"
+          },
+          {
+            "text": "ירושלמי מעשרות",
+            "lang": "he"
+          },
+          {
+            "text": "Jerusalem Talmud Ma'asrot",
+            "lang": "en"
+          },
+          {
+            "text": "תלמוד ירושלמי מעשרות",
+            "lang": "he",
+            "primary": true
+          },
+          {
+            "text": "Jerusalem Talmud Maasrot",
+            "lang": "en",
+            "primary": true
+          }
+        ],
+        "key": "Jerusalem Talmud Maasrot"
+      },
+      "sectionNames": [
+        "Chapter",
+        "Halakhah",
+        "Segment"
+      ],
+      "segment_count": 186,
+      "nonempty_segments": 186,
+      "completeness": "All string leaves of this retrieved merged export traversed; historical/textual completeness not asserted",
+      "candidate_count": 1
+    },
+    {
+      "work": "Jerusalem Talmud Makkot",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Nezikin/Jerusalem%20Talmud%20Makkot/Hebrew/merged.json",
+      "accessed_at": "2026-10-09T10:57:34.118647+00:00",
+      "status": "searched",
+      "bytes": 83100,
+      "sha256": "afc1d0a68b33278d47db16c78a3e20a970a0aee529d082922a718397da506ee5",
+      "edition": "merged",
+      "versions": [
+        [
+          "The Jerusalem Talmud, edition by Heinrich W. Guggenheimer. Berlin, De Gruyter, 1999-2015",
+          "https://www.nli.org.il/he/books/NNL_ALEPH001901012/NLI"
+        ]
+      ],
+      "versionSource": "https://www.sefaria.org/Jerusalem_Talmud_Makkot",
+      "license": null,
+      "license_metadata": [
+        {
+          "versionTitle": "The Jerusalem Talmud, edition by Heinrich W. Guggenheimer. Berlin, De Gruyter, 1999-2015",
+          "license": "CC-BY",
+          "language": "he"
+        },
+        {
+          "versionTitle": "Mechon-Mamre",
+          "license": "unknown",
+          "language": "he"
+        },
+        {
+          "versionTitle": "Venice Edition",
+          "license": "unknown",
+          "language": "he"
+        }
+      ],
+      "license_error": null,
+      "index_url": "https://www.sefaria.org/api/v2/raw/index/Jerusalem_Talmud_Makkot",
+      "schema": {
+        "nodeType": "JaggedArrayNode",
+        "depth": 3,
+        "addressTypes": [
+          "Perek",
+          "Halakhah",
+          "Integer"
+        ],
+        "sectionNames": [
+          "Chapter",
+          "Halakhah",
+          "Segment"
+        ],
+        "match_templates": [
+          {
+            "term_slugs": [
+              "yerushalmi",
+              "makkot"
+            ]
+          },
+          {
+            "term_slugs": [
+              "yerushalmi",
+              "tractate",
+              "makkot"
+            ]
+          },
+          {
+            "term_slugs": [
+              "talmud",
+              "yerushalmi",
+              "tractate",
+              "makkot"
+            ]
+          },
+          {
+            "term_slugs": [
+              "talmud",
+              "yerushalmi",
+              "makkot"
+            ]
+          }
+        ],
+        "ref_resolver_context_mutations": [
+          {
+            "op": "swap",
+            "input_terms": [
+              "halakha"
+            ],
+            "output_terms": [
+              "yerushalmi",
+              "makkot"
+            ]
+          }
+        ],
+        "lengths": [
+          3,
+          28,
+          75
+        ],
+        "referenceableSections": [
+          true,
+          true,
+          false
+        ],
+        "titles": [
+          {
+            "text": "Yerushalmi Makkos",
+            "lang": "en"
+          },
+          {
+            "text": "JT Makkot",
+            "lang": "en"
+          },
+          {
+            "text": "Talmud Yerushalmi Makkot",
+            "lang": "en"
+          },
+          {
+            "text": "Yerushalmi Makkot",
+            "lang": "en"
+          },
+          {
+            "text": "ירושלמי מכות",
+            "lang": "he"
+          },
+          {
+            "text": "Y. Macc.",
+            "lang": "en"
+          },
+          {
+            "text": "תלמוד ירושלמי מכות",
+            "lang": "he",
+            "primary": true
+          },
+          {
+            "text": "Jerusalem Talmud Makkot",
+            "lang": "en",
+            "primary": true
+          }
+        ],
+        "key": "Jerusalem Talmud Makkot"
+      },
+      "sectionNames": [
+        "Chapter",
+        "Halakhah",
+        "Segment"
+      ],
+      "segment_count": 75,
+      "nonempty_segments": 75,
+      "completeness": "All string leaves of this retrieved merged export traversed; historical/textual completeness not asserted",
+      "candidate_count": 2
+    },
+    {
+      "work": "Jerusalem Talmud Megillah",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Moed/Jerusalem%20Talmud%20Megillah/Hebrew/merged.json",
+      "accessed_at": "2026-10-09T10:57:34.118647+00:00",
+      "status": "searched",
+      "bytes": 316860,
+      "sha256": "d6d3eb519e05de0a9e002b77911dc5f5e17a406877bf19cbdbd8252967375604",
+      "edition": "merged",
+      "versions": [
+        [
+          "The Jerusalem Talmud, edition by Heinrich W. Guggenheimer. Berlin, De Gruyter, 1999-2015",
+          "https://www.nli.org.il/he/books/NNL_ALEPH001901012/NLI"
+        ]
+      ],
+      "versionSource": "https://www.sefaria.org/Jerusalem_Talmud_Megillah",
+      "license": null,
+      "license_metadata": [
+        {
+          "versionTitle": "The Jerusalem Talmud, edition by Heinrich W. Guggenheimer. Berlin, De Gruyter, 1999-2015",
+          "license": "CC-BY",
+          "language": "he"
+        },
+        {
+          "versionTitle": "Mechon-Mamre",
+          "license": "unknown",
+          "language": "he"
+        },
+        {
+          "versionTitle": "Venice Edition",
+          "license": "unknown",
+          "language": "he"
+        }
+      ],
+      "license_error": null,
+      "index_url": "https://www.sefaria.org/api/v2/raw/index/Jerusalem_Talmud_Megillah",
+      "schema": {
+        "nodeType": "JaggedArrayNode",
+        "depth": 3,
+        "addressTypes": [
+          "Perek",
+          "Halakhah",
+          "Integer"
+        ],
+        "sectionNames": [
+          "Chapter",
+          "Halakhah",
+          "Segment"
+        ],
+        "match_templates": [
+          {
+            "term_slugs": [
+              "yerushalmi",
+              "megillah"
+            ]
+          },
+          {
+            "term_slugs": [
+              "yerushalmi",
+              "tractate",
+              "megillah"
+            ]
+          },
+          {
+            "term_slugs": [
+              "talmud",
+              "yerushalmi",
+              "tractate",
+              "megillah"
+            ]
+          },
+          {
+            "term_slugs": [
+              "talmud",
+              "yerushalmi",
+              "megillah"
+            ]
+          }
+        ],
+        "ref_resolver_context_mutations": [
+          {
+            "op": "swap",
+            "input_terms": [
+              "halakha"
+            ],
+            "output_terms": [
+              "yerushalmi",
+              "megillah"
+            ]
+          }
+        ],
+        "lengths": [
+          4,
+          38,
+          232
+        ],
+        "referenceableSections": [
+          true,
+          true,
+          false
+        ],
+        "titles": [
+          {
+            "text": "Talmud Yerushalmi Megillah",
+            "lang": "en"
+          },
+          {
+            "text": "JT Megillah",
+            "lang": "en"
+          },
+          {
+            "text": "Yerushalmi Megillah",
+            "lang": "en"
+          },
+          {
+            "text": "ירושלמי מגילה",
+            "lang": "he"
+          },
+          {
+            "text": "Y. Meg.",
+            "lang": "en"
+          },
+          {
+            "text": "תלמוד ירושלמי מגילה",
+            "lang": "he",
+            "primary": true
+          },
+          {
+            "text": "Jerusalem Talmud Megillah",
+            "lang": "en",
+            "primary": true
+          }
+        ],
+        "key": "Jerusalem Talmud Megillah"
+      },
+      "sectionNames": [
+        "Chapter",
+        "Halakhah",
+        "Segment"
+      ],
+      "segment_count": 232,
+      "nonempty_segments": 232,
+      "completeness": "All string leaves of this retrieved merged export traversed; historical/textual completeness not asserted",
+      "candidate_count": 6
+    },
+    {
+      "work": "Jerusalem Talmud Moed Katan",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Moed/Jerusalem%20Talmud%20Moed%20Katan/Hebrew/merged.json",
+      "accessed_at": "2026-10-09T10:57:34.118647+00:00",
+      "status": "searched",
+      "bytes": 200587,
+      "sha256": "15063a320879570083c12c49aeed58ca8776d3856edad51764c2877dae26dfcb",
+      "edition": "merged",
+      "versions": [
+        [
+          "The Jerusalem Talmud, edition by Heinrich W. Guggenheimer. Berlin, De Gruyter, 1999-2015",
+          "https://www.nli.org.il/he/books/NNL_ALEPH001901012/NLI"
+        ]
+      ],
+      "versionSource": "https://www.sefaria.org/Jerusalem_Talmud_Moed_Katan",
+      "license": null,
+      "license_metadata": [
+        {
+          "versionTitle": "The Jerusalem Talmud, edition by Heinrich W. Guggenheimer. Berlin, De Gruyter, 1999-2015",
+          "license": "CC-BY",
+          "language": "he"
+        },
+        {
+          "versionTitle": "Mechon-Mamre",
+          "license": "unknown",
+          "language": "he"
+        },
+        {
+          "versionTitle": "Venice Edition",
+          "license": "unknown",
+          "language": "he"
+        }
+      ],
+      "license_error": null,
+      "index_url": "https://www.sefaria.org/api/v2/raw/index/Jerusalem_Talmud_Moed_Katan",
+      "schema": {
+        "nodeType": "JaggedArrayNode",
+        "depth": 3,
+        "addressTypes": [
+          "Perek",
+          "Halakhah",
+          "Integer"
+        ],
+        "sectionNames": [
+          "Chapter",
+          "Halakhah",
+          "Segment"
+        ],
+        "match_templates": [
+          {
+            "term_slugs": [
+              "yerushalmi",
+              "moed-katan"
+            ]
+          },
+          {
+            "term_slugs": [
+              "yerushalmi",
+              "tractate",
+              "moed-katan"
+            ]
+          },
+          {
+            "term_slugs": [
+              "talmud",
+              "yerushalmi",
+              "tractate",
+              "moed-katan"
+            ]
+          },
+          {
+            "term_slugs": [
+              "talmud",
+              "yerushalmi",
+              "moed-katan"
+            ]
+          }
+        ],
+        "ref_resolver_context_mutations": [
+          {
+            "op": "swap",
+            "input_terms": [
+              "halakha"
+            ],
+            "output_terms": [
+              "yerushalmi",
+              "moed-katan"
+            ]
+          }
+        ],
+        "lengths": [
+          3,
+          24,
+          161
+        ],
+        "referenceableSections": [
+          true,
+          true,
+          false
+        ],
+        "titles": [
+          {
+            "text": "Talmud Yerushalmi Moed Katan",
+            "lang": "en"
+          },
+          {
+            "text": "Yerushalmi Moed Kattan",
+            "lang": "en"
+          },
+          {
+            "text": "JT Mo'ed Kattan",
+            "lang": "en"
+          },
+          {
+            "text": "JT Moed Kattan",
+            "lang": "en"
+          },
+          {
+            "text": "Yerushalmi Mo'ed Kattan",
+            "lang": "en"
+          },
+          {
+            "text": "Jerusalem Talmud Mo'ed Katan",
+            "lang": "en"
+          },
+          {
+            "text": "Talmud Yerushalmi Mo'ed Katan",
+            "lang": "en"
+          },
+          {
+            "text": "ירושלמי מועד קטן",
+            "lang": "he"
+          },
+          {
+            "text": "Jerusalem Talmud Moed Kattan",
+            "lang": "en"
+          },
+          {
+            "text": "תלמוד ירושלמי מועד קטן",
+            "lang": "he",
+            "primary": true
+          },
+          {
+            "text": "Jerusalem Talmud Moed Katan",
+            "lang": "en",
+            "primary": true
+          }
+        ],
+        "key": "Jerusalem Talmud Moed Katan"
+      },
+      "sectionNames": [
+        "Chapter",
+        "Halakhah",
+        "Segment"
+      ],
+      "segment_count": 161,
+      "nonempty_segments": 161,
+      "completeness": "All string leaves of this retrieved merged export traversed; historical/textual completeness not asserted",
+      "candidate_count": 2
+    },
+    {
+      "work": "Jerusalem Talmud Nazir",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Nashim/Jerusalem%20Talmud%20Nazir/Hebrew/merged.json",
+      "accessed_at": "2026-10-09T10:57:34.118647+00:00",
+      "status": "searched",
+      "bytes": 366715,
+      "sha256": "37fbc4ceea1b1b3fd6bef73c33db435038861f5a3b1aa4f8ade363074752c555",
+      "edition": "merged",
+      "versions": [
+        [
+          "The Jerusalem Talmud, edition by Heinrich W. Guggenheimer. Berlin, De Gruyter, 1999-2015",
+          "https://www.nli.org.il/he/books/NNL_ALEPH001901012/NLI"
+        ]
+      ],
+      "versionSource": "https://www.sefaria.org/Jerusalem_Talmud_Nazir",
+      "license": null,
+      "license_metadata": [
+        {
+          "versionTitle": "The Jerusalem Talmud, edition by Heinrich W. Guggenheimer. Berlin, De Gruyter, 1999-2015",
+          "license": "CC-BY",
+          "language": "he"
+        },
+        {
+          "versionTitle": "Mechon-Mamre",
+          "license": "unknown",
+          "language": "he"
+        },
+        {
+          "versionTitle": "Venice Edition",
+          "license": "unknown",
+          "language": "he"
+        }
+      ],
+      "license_error": null,
+      "index_url": "https://www.sefaria.org/api/v2/raw/index/Jerusalem_Talmud_Nazir",
+      "schema": {
+        "nodeType": "JaggedArrayNode",
+        "depth": 3,
+        "addressTypes": [
+          "Perek",
+          "Halakhah",
+          "Integer"
+        ],
+        "sectionNames": [
+          "Chapter",
+          "Halakhah",
+          "Segment"
+        ],
+        "match_templates": [
+          {
+            "term_slugs": [
+              "yerushalmi",
+              "nazir"
+            ]
+          },
+          {
+            "term_slugs": [
+              "yerushalmi",
+              "tractate",
+              "nazir"
+            ]
+          },
+          {
+            "term_slugs": [
+              "talmud",
+              "yerushalmi",
+              "tractate",
+              "nazir"
+            ]
+          },
+          {
+            "term_slugs": [
+              "talmud",
+              "yerushalmi",
+              "nazir"
+            ]
+          }
+        ],
+        "ref_resolver_context_mutations": [
+          {
+            "op": "swap",
+            "input_terms": [
+              "halakha"
+            ],
+            "output_terms": [
+              "yerushalmi",
+              "nazir"
+            ]
+          }
+        ],
+        "lengths": [
+          9,
+          55,
+          305
+        ],
+        "referenceableSections": [
+          true,
+          true,
+          false
+        ],
+        "titles": [
+          {
+            "text": "JT Nazir",
+            "lang": "en"
+          },
+          {
+            "text": "Talmud Yerushalmi Nazir",
+            "lang": "en"
+          },
+          {
+            "text": "Yerushalmi Nazir",
+            "lang": "en"
+          },
+          {
+            "text": "ירושלמי נזיר",
+            "lang": "he"
+          },
+          {
+            "text": "Y. Naz.",
+            "lang": "en"
+          },
+          {
+            "text": "תלמוד ירושלמי נזיר",
+            "lang": "he",
+            "primary": true
+          },
+          {
+            "text": "Jerusalem Talmud Nazir",
+            "lang": "en",
+            "primary": true
+          }
+        ],
+        "key": "Jerusalem Talmud Nazir"
+      },
+      "sectionNames": [
+        "Chapter",
+        "Halakhah",
+        "Segment"
+      ],
+      "segment_count": 305,
+      "nonempty_segments": 305,
+      "completeness": "All string leaves of this retrieved merged export traversed; historical/textual completeness not asserted",
+      "candidate_count": 2
+    },
+    {
+      "work": "Jerusalem Talmud Nedarim",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Nashim/Jerusalem%20Talmud%20Nedarim/Hebrew/merged.json",
+      "accessed_at": "2026-10-09T10:57:34.118647+00:00",
+      "status": "searched",
+      "bytes": 339699,
+      "sha256": "e67ca4cc9796c2373b20d7a9c44502623fe84f04ebf605c828f284fa42d024ff",
+      "edition": "merged",
+      "versions": [
+        [
+          "The Jerusalem Talmud, edition by Heinrich W. Guggenheimer. Berlin, De Gruyter, 1999-2015",
+          "https://www.nli.org.il/he/books/NNL_ALEPH001901012/NLI"
+        ]
+      ],
+      "versionSource": "https://www.sefaria.org/Jerusalem_Talmud_Nedarim",
+      "license": null,
+      "license_metadata": [
+        {
+          "versionTitle": "The Jerusalem Talmud, edition by Heinrich W. Guggenheimer. Berlin, De Gruyter, 1999-2015",
+          "license": "CC-BY",
+          "language": "he"
+        },
+        {
+          "versionTitle": "Mechon-Mamre",
+          "license": "unknown",
+          "language": "he"
+        },
+        {
+          "versionTitle": "Venice Edition",
+          "license": "unknown",
+          "language": "he"
+        }
+      ],
+      "license_error": null,
+      "index_url": "https://www.sefaria.org/api/v2/raw/index/Jerusalem_Talmud_Nedarim",
+      "schema": {
+        "nodeType": "JaggedArrayNode",
+        "depth": 3,
+        "addressTypes": [
+          "Perek",
+          "Halakhah",
+          "Integer"
+        ],
+        "sectionNames": [
+          "Chapter",
+          "Halakhah",
+          "Segment"
+        ],
+        "match_templates": [
+          {
+            "term_slugs": [
+              "yerushalmi",
+              "nedarim"
+            ]
+          },
+          {
+            "term_slugs": [
+              "yerushalmi",
+              "tractate",
+              "nedarim"
+            ]
+          },
+          {
+            "term_slugs": [
+              "talmud",
+              "yerushalmi",
+              "tractate",
+              "nedarim"
+            ]
+          },
+          {
+            "term_slugs": [
+              "talmud",
+              "yerushalmi",
+              "nedarim"
+            ]
+          }
+        ],
+        "ref_resolver_context_mutations": [
+          {
+            "op": "swap",
+            "input_terms": [
+              "halakha"
+            ],
+            "output_terms": [
+              "yerushalmi",
+              "nedarim"
+            ]
+          }
+        ],
+        "lengths": [
+          11,
+          94,
+          346
+        ],
+        "referenceableSections": [
+          true,
+          true,
+          false
+        ],
+        "titles": [
+          {
+            "text": "Yerushalmi Nedarim",
+            "lang": "en"
+          },
+          {
+            "text": "JT Nedarim",
+            "lang": "en"
+          },
+          {
+            "text": "Talmud Yerushalmi Nedarim",
+            "lang": "en"
+          },
+          {
+            "text": "ירושלמי נדרים",
+            "lang": "he"
+          },
+          {
+            "text": "Y. Ned.",
+            "lang": "en"
+          },
+          {
+            "text": "תלמוד ירושלמי נדרים",
+            "lang": "he",
+            "primary": true
+          },
+          {
+            "text": "Jerusalem Talmud Nedarim",
+            "lang": "en",
+            "primary": true
+          }
+        ],
+        "key": "Jerusalem Talmud Nedarim"
+      },
+      "sectionNames": [
+        "Chapter",
+        "Halakhah",
+        "Segment"
+      ],
+      "segment_count": 346,
+      "nonempty_segments": 346,
+      "completeness": "All string leaves of this retrieved merged export traversed; historical/textual completeness not asserted",
+      "candidate_count": 5
+    },
+    {
+      "work": "Jerusalem Talmud Niddah",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Tahorot/Jerusalem%20Talmud%20Niddah/Hebrew/merged.json",
+      "accessed_at": "2026-10-09T10:57:34.118647+00:00",
+      "status": "searched",
+      "bytes": 123590,
+      "sha256": "c5c72cddf8e97c19ea6588343611c77c40ed89d76ce01a3a42570758130ce5d1",
+      "edition": "merged",
+      "versions": [
+        [
+          "The Jerusalem Talmud, edition by Heinrich W. Guggenheimer. Berlin, De Gruyter, 1999-2015",
+          "https://www.nli.org.il/he/books/NNL_ALEPH001901012/NLI"
+        ],
+        [
+          "Mechon-Mamre",
+          "https://www.mechon-mamre.org/b/r/r0.htm"
+        ]
+      ],
+      "versionSource": "https://www.sefaria.org/Jerusalem_Talmud_Niddah",
+      "license": null,
+      "license_metadata": [
+        {
+          "versionTitle": "The Jerusalem Talmud, edition by Heinrich W. Guggenheimer. Berlin, De Gruyter, 1999-2015",
+          "license": "CC-BY",
+          "language": "he"
+        },
+        {
+          "versionTitle": "Mechon-Mamre",
+          "license": "unknown",
+          "language": "he"
+        },
+        {
+          "versionTitle": "Venice Edition",
+          "license": "unknown",
+          "language": "he"
+        }
+      ],
+      "license_error": null,
+      "index_url": "https://www.sefaria.org/api/v2/raw/index/Jerusalem_Talmud_Niddah",
+      "schema": {
+        "nodeType": "JaggedArrayNode",
+        "depth": 3,
+        "addressTypes": [
+          "Perek",
+          "Halakhah",
+          "Integer"
+        ],
+        "sectionNames": [
+          "Chapter",
+          "Halakhah",
+          "Segment"
+        ],
+        "match_templates": [
+          {
+            "term_slugs": [
+              "yerushalmi",
+              "niddah"
+            ]
+          },
+          {
+            "term_slugs": [
+              "yerushalmi",
+              "tractate",
+              "niddah"
+            ]
+          },
+          {
+            "term_slugs": [
+              "talmud",
+              "yerushalmi",
+              "tractate",
+              "niddah"
+            ]
+          },
+          {
+            "term_slugs": [
+              "talmud",
+              "yerushalmi",
+              "niddah"
+            ]
+          }
+        ],
+        "ref_resolver_context_mutations": [
+          {
+            "op": "swap",
+            "input_terms": [
+              "halakha"
+            ],
+            "output_terms": [
+              "yerushalmi",
+              "niddah"
+            ]
+          }
+        ],
+        "lengths": [
+          4,
+          25,
+          104
+        ],
+        "referenceableSections": [
+          true,
+          true,
+          false
+        ],
+        "titles": [
+          {
+            "text": "JT Nidah",
+            "lang": "en"
+          },
+          {
+            "text": "Yerushalmi Nidah",
+            "lang": "en"
+          },
+          {
+            "text": "Talmud Yerushalmi Niddah",
+            "lang": "en"
+          },
+          {
+            "text": "Yerushalmi Niddah",
+            "lang": "en"
+          },
+          {
+            "text": "JT Niddah",
+            "lang": "en"
+          },
+          {
+            "text": "ירושלמי נדה",
+            "lang": "he"
+          },
+          {
+            "text": "Y. Nidd.",
+            "lang": "en"
+          },
+          {
+            "text": "תלמוד ירושלמי נדה",
+            "lang": "he",
+            "primary": true
+          },
+          {
+            "text": "Jerusalem Talmud Niddah",
+            "lang": "en",
+            "primary": true
+          }
+        ],
+        "key": "Jerusalem Talmud Niddah"
+      },
+      "sectionNames": [
+        "Chapter",
+        "Halakhah",
+        "Segment"
+      ],
+      "segment_count": 104,
+      "nonempty_segments": 104,
+      "completeness": "All string leaves of this retrieved merged export traversed; historical/textual completeness not asserted",
+      "candidate_count": 2
+    },
+    {
+      "work": "Jerusalem Talmud Orlah",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Zeraim/Jerusalem%20Talmud%20Orlah/Hebrew/merged.json",
+      "accessed_at": "2026-10-09T10:57:34.118647+00:00",
+      "status": "searched",
+      "bytes": 155912,
+      "sha256": "cce2af81b52fdbba368150d0e8492296b1f2604aed1b6675df107545d0db6d60",
+      "edition": "merged",
+      "versions": [
+        [
+          "The Jerusalem Talmud, edition by Heinrich W. Guggenheimer. Berlin, De Gruyter, 1999-2015",
+          "https://www.nli.org.il/he/books/NNL_ALEPH001901012/NLI"
+        ]
+      ],
+      "versionSource": "https://www.sefaria.org/Jerusalem_Talmud_Orlah",
+      "license": null,
+      "license_metadata": [
+        {
+          "versionTitle": "The Jerusalem Talmud, edition by Heinrich W. Guggenheimer. Berlin, De Gruyter, 1999-2015",
+          "license": "CC-BY",
+          "language": "he"
+        },
+        {
+          "versionTitle": "Mechon-Mamre",
+          "license": "unknown",
+          "language": "he"
+        },
+        {
+          "versionTitle": "Venice Edition",
+          "license": "unknown",
+          "language": "he"
+        }
+      ],
+      "license_error": null,
+      "index_url": "https://www.sefaria.org/api/v2/raw/index/Jerusalem_Talmud_Orlah",
+      "schema": {
+        "nodeType": "JaggedArrayNode",
+        "depth": 3,
+        "addressTypes": [
+          "Perek",
+          "Halakhah",
+          "Integer"
+        ],
+        "sectionNames": [
+          "Chapter",
+          "Halakhah",
+          "Segment"
+        ],
+        "match_templates": [
+          {
+            "term_slugs": [
+              "yerushalmi",
+              "orlah"
+            ]
+          },
+          {
+            "term_slugs": [
+              "yerushalmi",
+              "tractate",
+              "orlah"
+            ]
+          },
+          {
+            "term_slugs": [
+              "talmud",
+              "yerushalmi",
+              "tractate",
+              "orlah"
+            ]
+          },
+          {
+            "term_slugs": [
+              "talmud",
+              "yerushalmi",
+              "orlah"
+            ]
+          }
+        ],
+        "ref_resolver_context_mutations": [
+          {
+            "op": "swap",
+            "input_terms": [
+              "halakha"
+            ],
+            "output_terms": [
+              "yerushalmi",
+              "orlah"
+            ]
+          }
+        ],
+        "lengths": [
+          3,
+          21,
+          176
+        ],
+        "referenceableSections": [
+          true,
+          true,
+          false
+        ],
+        "titles": [
+          {
+            "text": "JT Orlah",
+            "lang": "en"
+          },
+          {
+            "text": "Talmud Yerushalmi Orlah",
+            "lang": "en"
+          },
+          {
+            "text": "Yerushalmi Orlah",
+            "lang": "en"
+          },
+          {
+            "text": "ירושלמי ערלה",
+            "lang": "he"
+          },
+          {
+            "text": "Y. Orl.",
+            "lang": "en"
+          },
+          {
+            "text": "תלמוד ירושלמי ערלה",
+            "lang": "he",
+            "primary": true
+          },
+          {
+            "text": "Jerusalem Talmud Orlah",
+            "lang": "en",
+            "primary": true
+          }
+        ],
+        "key": "Jerusalem Talmud Orlah"
+      },
+      "sectionNames": [
+        "Chapter",
+        "Halakhah",
+        "Segment"
+      ],
+      "segment_count": 176,
+      "nonempty_segments": 176,
+      "completeness": "All string leaves of this retrieved merged export traversed; historical/textual completeness not asserted",
+      "candidate_count": 0
+    },
+    {
+      "work": "Jerusalem Talmud Peah",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Zeraim/Jerusalem%20Talmud%20Peah/Hebrew/merged.json",
+      "accessed_at": "2026-10-09T10:57:34.118647+00:00",
+      "status": "searched",
+      "bytes": 334621,
+      "sha256": "50397a3873cd9653ca58ead50616cf0cceeb65062a43545d7d51601839d0ceaf",
+      "edition": "merged",
+      "versions": [
+        [
+          "The Jerusalem Talmud, edition by Heinrich W. Guggenheimer. Berlin, De Gruyter, 1999-2015",
+          "https://www.nli.org.il/he/books/NNL_ALEPH001901012/NLI"
+        ]
+      ],
+      "versionSource": "https://www.sefaria.org/Jerusalem_Talmud_Peah",
+      "license": null,
+      "license_metadata": [
+        {
+          "versionTitle": "The Jerusalem Talmud, edition by Heinrich W. Guggenheimer. Berlin, De Gruyter, 1999-2015",
+          "license": "CC-BY",
+          "language": "he"
+        },
+        {
+          "versionTitle": "Mechon-Mamre",
+          "license": "unknown",
+          "language": "he"
+        },
+        {
+          "versionTitle": "Venice Edition",
+          "license": "unknown",
+          "language": "he"
+        }
+      ],
+      "license_error": null,
+      "index_url": "https://www.sefaria.org/api/v2/raw/index/Jerusalem_Talmud_Peah",
+      "schema": {
+        "nodeType": "JaggedArrayNode",
+        "depth": 3,
+        "addressTypes": [
+          "Perek",
+          "Halakhah",
+          "Integer"
+        ],
+        "sectionNames": [
+          "Chapter",
+          "Halakhah",
+          "Segment"
+        ],
+        "match_templates": [
+          {
+            "term_slugs": [
+              "yerushalmi",
+              "peah"
+            ]
+          },
+          {
+            "term_slugs": [
+              "yerushalmi",
+              "tractate",
+              "peah"
+            ]
+          },
+          {
+            "term_slugs": [
+              "talmud",
+              "yerushalmi",
+              "tractate",
+              "peah"
+            ]
+          },
+          {
+            "term_slugs": [
+              "talmud",
+              "yerushalmi",
+              "peah"
+            ]
+          }
+        ],
+        "ref_resolver_context_mutations": [
+          {
+            "op": "swap",
+            "input_terms": [
+              "halakha"
+            ],
+            "output_terms": [
+              "yerushalmi",
+              "peah"
+            ]
+          }
+        ],
+        "lengths": [
+          8,
+          55,
+          403
+        ],
+        "referenceableSections": [
+          true,
+          true,
+          false
+        ],
+        "titles": [
+          {
+            "text": "Yerushalmi Pe'ah",
+            "lang": "en"
+          },
+          {
+            "text": "JT Pe'ah",
+            "lang": "en"
+          },
+          {
+            "text": "Talmud Yerushalmi Pe'ah",
+            "lang": "en"
+          },
+          {
+            "text": "Yerushalmi Peah",
+            "lang": "en"
+          },
+          {
+            "text": "JT Peah",
+            "lang": "en"
+          },
+          {
+            "text": "Jerusalem Talmud Péah",
+            "lang": "en"
+          },
+          {
+            "text": "Y. Peah",
+            "lang": "en"
+          },
+          {
+            "text": "ירושלמי פאה",
+            "lang": "he"
+          },
+          {
+            "text": "ירוש' פאה",
+            "lang": "he"
+          },
+          {
+            "text": "ירו' פאה",
+            "lang": "he"
+          },
+          {
+            "text": "ירושלמי פיאה",
+            "lang": "he"
+          },
+          {
+            "text": "תלמוד ירושלמי פיאה",
+            "lang": "he"
+          },
+          {
+            "text": "ירוש' פיאה",
+            "lang": "he"
+          },
+          {
+            "text": "ירו' פיאה",
+            "lang": "he"
+          },
+          {
+            "text": "תלמוד ירושלמי פאה",
+            "lang": "he",
+            "primary": true
+          },
+          {
+            "text": "Jerusalem Talmud Peah",
+            "lang": "en",
+            "primary": true
+          }
+        ],
+        "key": "Jerusalem Talmud Peah"
+      },
+      "sectionNames": [
+        "Chapter",
+        "Halakhah",
+        "Segment"
+      ],
+      "segment_count": 402,
+      "nonempty_segments": 402,
+      "completeness": "All string leaves of this retrieved merged export traversed; historical/textual completeness not asserted",
+      "candidate_count": 3
+    },
+    {
+      "work": "Jerusalem Talmud Pesachim",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Moed/Jerusalem%20Talmud%20Pesachim/Hebrew/merged.json",
+      "accessed_at": "2026-10-09T10:57:34.118647+00:00",
+      "status": "searched",
+      "bytes": 563137,
+      "sha256": "fd5ce67f119f7b8270f4d2c28a3b9151bbbea32cd7a35bdb761efb9c20471a6d",
+      "edition": "merged",
+      "versions": [
+        [
+          "The Jerusalem Talmud, edition by Heinrich W. Guggenheimer. Berlin, De Gruyter, 1999-2015",
+          "https://www.nli.org.il/he/books/NNL_ALEPH001901012/NLI"
+        ]
+      ],
+      "versionSource": "https://www.sefaria.org/Jerusalem_Talmud_Pesachim",
+      "license": null,
+      "license_metadata": [
+        {
+          "versionTitle": "The Jerusalem Talmud, edition by Heinrich W. Guggenheimer. Berlin, De Gruyter, 1999-2015",
+          "license": "CC-BY",
+          "language": "he"
+        },
+        {
+          "versionTitle": "Mechon-Mamre",
+          "license": "unknown",
+          "language": "he"
+        },
+        {
+          "versionTitle": "Venice Edition",
+          "license": "unknown",
+          "language": "he"
+        }
+      ],
+      "license_error": null,
+      "index_url": "https://www.sefaria.org/api/v2/raw/index/Jerusalem_Talmud_Pesachim",
+      "schema": {
+        "nodeType": "JaggedArrayNode",
+        "depth": 3,
+        "addressTypes": [
+          "Perek",
+          "Halakhah",
+          "Integer"
+        ],
+        "sectionNames": [
+          "Chapter",
+          "Halakhah",
+          "Segment"
+        ],
+        "match_templates": [
+          {
+            "term_slugs": [
+              "yerushalmi",
+              "pesachim"
+            ]
+          },
+          {
+            "term_slugs": [
+              "yerushalmi",
+              "tractate",
+              "pesachim"
+            ]
+          },
+          {
+            "term_slugs": [
+              "talmud",
+              "yerushalmi",
+              "tractate",
+              "pesachim"
+            ]
+          },
+          {
+            "term_slugs": [
+              "talmud",
+              "yerushalmi",
+              "pesachim"
+            ]
+          }
+        ],
+        "ref_resolver_context_mutations": [
+          {
+            "op": "swap",
+            "input_terms": [
+              "halakha"
+            ],
+            "output_terms": [
+              "yerushalmi",
+              "pesachim"
+            ]
+          }
+        ],
+        "lengths": [
+          10,
+          86,
+          515
+        ],
+        "referenceableSections": [
+          true,
+          true,
+          false
+        ],
+        "titles": [
+          {
+            "text": "Talmud Yerushalmi Pesachim",
+            "lang": "en"
+          },
+          {
+            "text": "JT Pesachim",
+            "lang": "en"
+          },
+          {
+            "text": "Yerushalmi Psachim",
+            "lang": "en"
+          },
+          {
+            "text": "JT Psachim",
+            "lang": "en"
+          },
+          {
+            "text": "Yerushalmi Pesachim",
+            "lang": "en"
+          },
+          {
+            "text": "Jerusalem Talmud Pesahim",
+            "lang": "en"
+          },
+          {
+            "text": "Yerushalmi Pesahim",
+            "lang": "en"
+          },
+          {
+            "text": "ירושלמי פסחים",
+            "lang": "he"
+          },
+          {
+            "text": "Y. Pes.",
+            "lang": "en"
+          },
+          {
+            "text": "תלמוד ירושלמי פסחים",
+            "lang": "he",
+            "primary": true
+          },
+          {
+            "text": "Jerusalem Talmud Pesachim",
+            "lang": "en",
+            "primary": true
+          }
+        ],
+        "key": "Jerusalem Talmud Pesachim"
+      },
+      "sectionNames": [
+        "Chapter",
+        "Halakhah",
+        "Segment"
+      ],
+      "segment_count": 515,
+      "nonempty_segments": 515,
+      "completeness": "All string leaves of this retrieved merged export traversed; historical/textual completeness not asserted",
+      "candidate_count": 10
+    },
+    {
+      "work": "Jerusalem Talmud Rosh Hashanah",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Moed/Jerusalem%20Talmud%20Rosh%20Hashanah/Hebrew/merged.json",
+      "accessed_at": "2026-10-09T10:57:34.118647+00:00",
+      "status": "searched",
+      "bytes": 198160,
+      "sha256": "19ae96a45591becedf0442d933ed8ddb146b98458a0e7be60fe3100d224ed4ba",
+      "edition": "merged",
+      "versions": [
+        [
+          "The Jerusalem Talmud, edition by Heinrich W. Guggenheimer. Berlin, De Gruyter, 1999-2015",
+          "https://www.nli.org.il/he/books/NNL_ALEPH001901012/NLI"
+        ]
+      ],
+      "versionSource": "https://www.sefaria.org/Jerusalem_Talmud_Rosh_Hashanah",
+      "license": null,
+      "license_metadata": [
+        {
+          "versionTitle": "The Jerusalem Talmud, edition by Heinrich W. Guggenheimer. Berlin, De Gruyter, 1999-2015",
+          "license": "CC-BY",
+          "language": "he"
+        },
+        {
+          "versionTitle": "Mechon-Mamre",
+          "license": "unknown",
+          "language": "he"
+        },
+        {
+          "versionTitle": "Venice Edition",
+          "license": "unknown",
+          "language": "he"
+        }
+      ],
+      "license_error": null,
+      "index_url": "https://www.sefaria.org/api/v2/raw/index/Jerusalem_Talmud_Rosh_Hashanah",
+      "schema": {
+        "nodeType": "JaggedArrayNode",
+        "depth": 3,
+        "addressTypes": [
+          "Perek",
+          "Halakhah",
+          "Integer"
+        ],
+        "sectionNames": [
+          "Chapter",
+          "Halakhah",
+          "Segment"
+        ],
+        "match_templates": [
+          {
+            "term_slugs": [
+              "yerushalmi",
+              "rosh-hashanah"
+            ]
+          },
+          {
+            "term_slugs": [
+              "yerushalmi",
+              "tractate",
+              "rosh-hashanah"
+            ]
+          },
+          {
+            "term_slugs": [
+              "talmud",
+              "yerushalmi",
+              "tractate",
+              "rosh-hashanah"
+            ]
+          },
+          {
+            "term_slugs": [
+              "talmud",
+              "yerushalmi",
+              "rosh-hashanah"
+            ]
+          }
+        ],
+        "ref_resolver_context_mutations": [
+          {
+            "op": "swap",
+            "input_terms": [
+              "halakha"
+            ],
+            "output_terms": [
+              "yerushalmi",
+              "rosh-hashanah"
+            ]
+          }
+        ],
+        "lengths": [
+          4,
+          36,
+          160
+        ],
+        "referenceableSections": [
+          true,
+          true,
+          false
+        ],
+        "titles": [
+          {
+            "text": "Talmud Yerushalmi Rosh Hashanah",
+            "lang": "en"
+          },
+          {
+            "text": "Y. R. Hash.",
+            "lang": "en"
+          },
+          {
+            "text": "JT Rosh Hashanah",
+            "lang": "en"
+          },
+          {
+            "text": "Yerushalmi Rosh Hashanah",
+            "lang": "en"
+          },
+          {
+            "text": "Yerushalmi Rosh HaShanah",
+            "lang": "en"
+          },
+          {
+            "text": "JT Rosh HaShanah",
+            "lang": "en"
+          },
+          {
+            "text": "ירושלמי ראש השנה",
+            "lang": "he"
+          },
+          {
+            "text": "ירושלמי, ראש השנה",
+            "lang": "he"
+          },
+          {
+            "text": "תלמוד ירושלמי, ראש השנה",
+            "lang": "he"
+          },
+          {
+            "text": "ירושלמי ר\"ה",
+            "lang": "he"
+          },
+          {
+            "text": "ירושלמי, ר\"ה",
+            "lang": "he"
+          },
+          {
+            "text": "תלמוד ירושלמי, ר\"ה",
+            "lang": "he"
+          },
+          {
+            "text": "ירו' ר\"ה",
+            "lang": "he"
+          },
+          {
+            "text": "ירו' ראש השנה",
+            "lang": "he"
+          },
+          {
+            "text": "ירו', ראש השנה",
+            "lang": "he"
+          },
+          {
+            "text": "ירו', ר\"ה",
+            "lang": "he"
+          },
+          {
+            "text": "ירוש', ר\"ה",
+            "lang": "he"
+          },
+          {
+            "text": "ירוש', ראש השנה",
+            "lang": "he"
+          },
+          {
+            "text": "ירוש' ראש השנה",
+            "lang": "he"
+          },
+          {
+            "text": "ירושלמי ר״ה",
+            "lang": "he"
+          },
+          {
+            "text": "ירושלמי ר”ה",
+            "lang": "he"
+          },
+          {
+            "text": "ירושלמי, ר״ה",
+            "lang": "he"
+          },
+          {
+            "text": "ירושלמי, ר”ה",
+            "lang": "he"
+          },
+          {
+            "text": "תלמוד ירושלמי, ר״ה",
+            "lang": "he"
+          },
+          {
+            "text": "תלמוד ירושלמי, ר”ה",
+            "lang": "he"
+          },
+          {
+            "text": "ירו' ר״ה",
+            "lang": "he"
+          },
+          {
+            "text": "ירו' ר”ה",
+            "lang": "he"
+          },
+          {
+            "text": "ירו', ר״ה",
+            "lang": "he"
+          },
+          {
+            "text": "ירו', ר”ה",
+            "lang": "he"
+          },
+          {
+            "text": "ירוש', ר״ה",
+            "lang": "he"
+          },
+          {
+            "text": "ירוש', ר”ה",
+            "lang": "he"
+          },
+          {
+            "text": "תלמוד ירושלמי ראש השנה",
+            "lang": "he",
+            "primary": true
+          },
+          {
+            "text": "Jerusalem Talmud Rosh Hashanah",
+            "lang": "en",
+            "primary": true
+          }
+        ],
+        "key": "Jerusalem Talmud Rosh Hashanah"
+      },
+      "sectionNames": [
+        "Chapter",
+        "Halakhah",
+        "Segment"
+      ],
+      "segment_count": 160,
+      "nonempty_segments": 160,
+      "completeness": "All string leaves of this retrieved merged export traversed; historical/textual completeness not asserted",
+      "candidate_count": 3
+    },
+    {
+      "work": "Jerusalem Talmud Sanhedrin",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Nezikin/Jerusalem%20Talmud%20Sanhedrin/Hebrew/merged.json",
+      "accessed_at": "2026-10-09T10:57:34.118647+00:00",
+      "status": "searched",
+      "bytes": 651914,
+      "sha256": "fd50c642a5605c8b47041173c40a0738816de53ef0c7c9be2e25b0dd6f96d7fe",
+      "edition": "merged",
+      "versions": [
+        [
+          "The Jerusalem Talmud, edition by Heinrich W. Guggenheimer. Berlin, De Gruyter, 1999-2015",
+          "https://www.nli.org.il/he/books/NNL_ALEPH001901012/NLI"
+        ]
+      ],
+      "versionSource": "https://www.sefaria.org/Jerusalem_Talmud_Sanhedrin",
+      "license": null,
+      "license_metadata": [
+        {
+          "versionTitle": "The Jerusalem Talmud, edition by Heinrich W. Guggenheimer. Berlin, De Gruyter, 1999-2015",
+          "license": "CC-BY",
+          "language": "he"
+        },
+        {
+          "versionTitle": "Mechon-Mamre",
+          "license": "unknown",
+          "language": "he"
+        },
+        {
+          "versionTitle": "Venice Edition",
+          "license": "unknown",
+          "language": "he"
+        }
+      ],
+      "license_error": null,
+      "index_url": "https://www.sefaria.org/api/v2/raw/index/Jerusalem_Talmud_Sanhedrin",
+      "schema": {
+        "nodeType": "JaggedArrayNode",
+        "depth": 3,
+        "addressTypes": [
+          "Perek",
+          "Halakhah",
+          "Integer"
+        ],
+        "sectionNames": [
+          "Chapter",
+          "Halakhah",
+          "Segment"
+        ],
+        "match_templates": [
+          {
+            "term_slugs": [
+              "yerushalmi",
+              "sanhedrin"
+            ]
+          },
+          {
+            "term_slugs": [
+              "yerushalmi",
+              "tractate",
+              "sanhedrin"
+            ]
+          },
+          {
+            "term_slugs": [
+              "talmud",
+              "yerushalmi",
+              "tractate",
+              "sanhedrin"
+            ]
+          },
+          {
+            "term_slugs": [
+              "talmud",
+              "yerushalmi",
+              "sanhedrin"
+            ]
+          }
+        ],
+        "ref_resolver_context_mutations": [
+          {
+            "op": "swap",
+            "input_terms": [
+              "halakha"
+            ],
+            "output_terms": [
+              "yerushalmi",
+              "sanhedrin"
+            ]
+          }
+        ],
+        "lengths": [
+          11,
+          89,
+          587
+        ],
+        "referenceableSections": [
+          true,
+          true,
+          false
+        ],
+        "titles": [
+          {
+            "text": "JT Sanhedrin",
+            "lang": "en"
+          },
+          {
+            "text": "Yerushalmi Sanhedrin",
+            "lang": "en"
+          },
+          {
+            "text": "Talmud Yerushalmi Sanhedrin",
+            "lang": "en"
+          },
+          {
+            "text": "ירושלמי סנהדרין",
+            "lang": "he"
+          },
+          {
+            "text": "Y. Snh.",
+            "lang": "en"
+          },
+          {
+            "text": "תלמוד ירושלמי סנהדרין",
+            "lang": "he",
+            "primary": true
+          },
+          {
+            "text": "Jerusalem Talmud Sanhedrin",
+            "lang": "en",
+            "primary": true
+          }
+        ],
+        "key": "Jerusalem Talmud Sanhedrin"
+      },
+      "sectionNames": [
+        "Chapter",
+        "Halakhah",
+        "Segment"
+      ],
+      "segment_count": 587,
+      "nonempty_segments": 587,
+      "completeness": "All string leaves of this retrieved merged export traversed; historical/textual completeness not asserted",
+      "candidate_count": 11
+    },
+    {
+      "work": "Jerusalem Talmud Shabbat",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Moed/Jerusalem%20Talmud%20Shabbat/Hebrew/merged.json",
+      "accessed_at": "2026-10-09T10:57:34.118647+00:00",
+      "status": "searched",
+      "bytes": 799706,
+      "sha256": "de6411e2d3cc373dd737190cdec091260700ef2506686c086c09bff885de073d",
+      "edition": "merged",
+      "versions": [
+        [
+          "The Jerusalem Talmud, edition by Heinrich W. Guggenheimer. Berlin, De Gruyter, 1999-2015",
+          "https://www.nli.org.il/he/books/NNL_ALEPH001901012/NLI"
+        ]
+      ],
+      "versionSource": "https://www.sefaria.org/Jerusalem_Talmud_Shabbat",
+      "license": null,
+      "license_metadata": [
+        {
+          "versionTitle": "The Jerusalem Talmud, edition by Heinrich W. Guggenheimer. Berlin, De Gruyter, 1999-2015",
+          "license": "CC-BY",
+          "language": "he"
+        },
+        {
+          "versionTitle": "Mechon-Mamre",
+          "license": "unknown",
+          "language": "he"
+        },
+        {
+          "versionTitle": "Venice Edition",
+          "license": "unknown",
+          "language": "he"
+        }
+      ],
+      "license_error": null,
+      "index_url": "https://www.sefaria.org/api/v2/raw/index/Jerusalem_Talmud_Shabbat",
+      "schema": {
+        "nodeType": "JaggedArrayNode",
+        "depth": 3,
+        "addressTypes": [
+          "Perek",
+          "Halakhah",
+          "Integer"
+        ],
+        "sectionNames": [
+          "Chapter",
+          "Halakhah",
+          "Segment"
+        ],
+        "match_templates": [
+          {
+            "term_slugs": [
+              "yerushalmi",
+              "shabbat"
+            ]
+          },
+          {
+            "term_slugs": [
+              "yerushalmi",
+              "tractate",
+              "shabbat"
+            ]
+          },
+          {
+            "term_slugs": [
+              "talmud",
+              "yerushalmi",
+              "tractate",
+              "shabbat"
+            ]
+          },
+          {
+            "term_slugs": [
+              "talmud",
+              "yerushalmi",
+              "shabbat"
+            ]
+          }
+        ],
+        "ref_resolver_context_mutations": [
+          {
+            "op": "swap",
+            "input_terms": [
+              "halakha"
+            ],
+            "output_terms": [
+              "yerushalmi",
+              "shabbat"
+            ]
+          }
+        ],
+        "lengths": [
+          24,
+          141,
+          772
+        ],
+        "referenceableSections": [
+          true,
+          true,
+          false
+        ],
+        "titles": [
+          {
+            "text": "JT Shabbat",
+            "lang": "en"
+          },
+          {
+            "text": "Yerushalmi Shabbat",
+            "lang": "en"
+          },
+          {
+            "text": "Talmud Yerushalmi Shabbat",
+            "lang": "en"
+          },
+          {
+            "text": "Yerushalmi Shabbos",
+            "lang": "en"
+          },
+          {
+            "text": "ירושלמי שבת",
+            "lang": "he"
+          },
+          {
+            "text": "Y. Sabb.",
+            "lang": "en"
+          },
+          {
+            "text": "תלמוד ירושלמי שבת",
+            "lang": "he",
+            "primary": true
+          },
+          {
+            "text": "Jerusalem Talmud Shabbat",
+            "lang": "en",
+            "primary": true
+          }
+        ],
+        "key": "Jerusalem Talmud Shabbat"
+      },
+      "sectionNames": [
+        "Chapter",
+        "Halakhah",
+        "Segment"
+      ],
+      "segment_count": 772,
+      "nonempty_segments": 772,
+      "completeness": "All string leaves of this retrieved merged export traversed; historical/textual completeness not asserted",
+      "candidate_count": 17
+    },
+    {
+      "work": "Jerusalem Talmud Shekalim",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Moed/Jerusalem%20Talmud%20Shekalim/Hebrew/merged.json",
+      "accessed_at": "2026-10-09T10:57:34.118647+00:00",
+      "status": "searched",
+      "bytes": 286421,
+      "sha256": "50c175c53002c6593520d30608adabe58eb5b49187482497ed19fe738fab3a4a",
+      "edition": "merged",
+      "versions": [
+        [
+          "The Jerusalem Talmud, edition by Heinrich W. Guggenheimer. Berlin, De Gruyter, 1999-2015",
+          "https://www.nli.org.il/he/books/NNL_ALEPH001901012/NLI"
+        ]
+      ],
+      "versionSource": "https://www.sefaria.org/Jerusalem_Talmud_Shekalim",
+      "license": null,
+      "license_metadata": [
+        {
+          "versionTitle": "The Jerusalem Talmud, edition by Heinrich W. Guggenheimer. Berlin, De Gruyter, 1999-2015",
+          "license": "CC-BY",
+          "language": "he"
+        },
+        {
+          "versionTitle": "Mechon-Mamre",
+          "license": "unknown",
+          "language": "he"
+        },
+        {
+          "versionTitle": "Venice Edition",
+          "license": "unknown",
+          "language": "he"
+        },
+        {
+          "versionTitle": "William Davidson Edition - Hebrew",
+          "license": "unknown",
+          "language": "he"
+        }
+      ],
+      "license_error": null,
+      "index_url": "https://www.sefaria.org/api/v2/raw/index/Jerusalem_Talmud_Shekalim",
+      "schema": {
+        "nodeType": "JaggedArrayNode",
+        "depth": 3,
+        "addressTypes": [
+          "Perek",
+          "Halakhah",
+          "Integer"
+        ],
+        "sectionNames": [
+          "Chapter",
+          "Halakhah",
+          "Segment"
+        ],
+        "match_templates": [
+          {
+            "term_slugs": [
+              "yerushalmi",
+              "shekalim"
+            ]
+          },
+          {
+            "term_slugs": [
+              "yerushalmi",
+              "tractate",
+              "shekalim"
+            ]
+          },
+          {
+            "term_slugs": [
+              "talmud",
+              "yerushalmi",
+              "tractate",
+              "shekalim"
+            ]
+          },
+          {
+            "term_slugs": [
+              "talmud",
+              "yerushalmi",
+              "shekalim"
+            ]
+          }
+        ],
+        "ref_resolver_context_mutations": [
+          {
+            "op": "swap",
+            "input_terms": [
+              "halakha"
+            ],
+            "output_terms": [
+              "yerushalmi",
+              "shekalim"
+            ]
+          }
+        ],
+        "lengths": [
+          8,
+          32,
+          226
+        ],
+        "referenceableSections": [
+          true,
+          true,
+          false
+        ],
+        "titles": [
+          {
+            "text": "ירושלמי שקלים",
+            "lang": "he"
+          },
+          {
+            "text": "ירו' שקלים",
+            "lang": "he"
+          },
+          {
+            "text": "ירוש' שקלים",
+            "lang": "he"
+          },
+          {
+            "text": "בבלי שקלים",
+            "lang": "he"
+          },
+          {
+            "text": "ירושלמי, שקלים",
+            "lang": "he"
+          },
+          {
+            "text": "תלמוד ירושלמי, שקלים",
+            "lang": "he"
+          },
+          {
+            "text": "תלמוד ירושלמי שקלים",
+            "lang": "he",
+            "primary": true
+          },
+          {
+            "text": "Jerusalem Talmud Shekalim",
+            "lang": "en",
+            "primary": true
+          }
+        ],
+        "key": "Jerusalem Talmud Shekalim"
+      },
+      "sectionNames": [
+        "Chapter",
+        "Halakhah",
+        "Segment"
+      ],
+      "segment_count": 226,
+      "nonempty_segments": 226,
+      "completeness": "All string leaves of this retrieved merged export traversed; historical/textual completeness not asserted",
+      "candidate_count": 2
+    },
+    {
+      "work": "Jerusalem Talmud Sheviit",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Zeraim/Jerusalem%20Talmud%20Sheviit/Hebrew/merged.json",
+      "accessed_at": "2026-10-09T10:57:34.118647+00:00",
+      "status": "searched",
+      "bytes": 350508,
+      "sha256": "634b89b55452973686a1b2e30fa2c1607e56947c6b8c258ff294bc561bd2d5f4",
+      "edition": "merged",
+      "versions": [
+        [
+          "The Jerusalem Talmud, edition by Heinrich W. Guggenheimer. Berlin, De Gruyter, 1999-2015",
+          "https://www.nli.org.il/he/books/NNL_ALEPH001901012/NLI"
+        ]
+      ],
+      "versionSource": "https://www.sefaria.org/Jerusalem_Talmud_Sheviit",
+      "license": null,
+      "license_metadata": [
+        {
+          "versionTitle": "The Jerusalem Talmud, edition by Heinrich W. Guggenheimer. Berlin, De Gruyter, 1999-2015",
+          "license": "CC-BY",
+          "language": "he"
+        },
+        {
+          "versionTitle": "Mechon-Mamre",
+          "license": "unknown",
+          "language": "he"
+        },
+        {
+          "versionTitle": "Venice Edition",
+          "license": "unknown",
+          "language": "he"
+        }
+      ],
+      "license_error": null,
+      "index_url": "https://www.sefaria.org/api/v2/raw/index/Jerusalem_Talmud_Sheviit",
+      "schema": {
+        "nodeType": "JaggedArrayNode",
+        "depth": 3,
+        "addressTypes": [
+          "Perek",
+          "Halakhah",
+          "Integer"
+        ],
+        "sectionNames": [
+          "Chapter",
+          "Halakhah",
+          "Segment"
+        ],
+        "match_templates": [
+          {
+            "term_slugs": [
+              "yerushalmi",
+              "sheviit"
+            ]
+          },
+          {
+            "term_slugs": [
+              "yerushalmi",
+              "tractate",
+              "sheviit"
+            ]
+          },
+          {
+            "term_slugs": [
+              "talmud",
+              "yerushalmi",
+              "tractate",
+              "sheviit"
+            ]
+          },
+          {
+            "term_slugs": [
+              "talmud",
+              "yerushalmi",
+              "sheviit"
+            ]
+          }
+        ],
+        "ref_resolver_context_mutations": [
+          {
+            "op": "swap",
+            "input_terms": [
+              "halakha"
+            ],
+            "output_terms": [
+              "yerushalmi",
+              "sheviit"
+            ]
+          }
+        ],
+        "lengths": [
+          10,
+          56,
+          390
+        ],
+        "referenceableSections": [
+          true,
+          true,
+          false
+        ],
+        "titles": [
+          {
+            "text": "Yerushalmi Sheviit",
+            "lang": "en"
+          },
+          {
+            "text": "Yerushalmi Shevi'it",
+            "lang": "en"
+          },
+          {
+            "text": "JT Sheviit",
+            "lang": "en"
+          },
+          {
+            "text": "JT Shevi'it",
+            "lang": "en"
+          },
+          {
+            "text": "Talmud Yerushalmi Shevi'it",
+            "lang": "en"
+          },
+          {
+            "text": "ירושלמי שביעית",
+            "lang": "he"
+          },
+          {
+            "text": "Jerusalem Talmud Shevi'it",
+            "lang": "en"
+          },
+          {
+            "text": "תלמוד ירושלמי שביעית",
+            "lang": "he",
+            "primary": true
+          },
+          {
+            "text": "Jerusalem Talmud Sheviit",
+            "lang": "en",
+            "primary": true
+          }
+        ],
+        "key": "Jerusalem Talmud Sheviit"
+      },
+      "sectionNames": [
+        "Chapter",
+        "Halakhah",
+        "Segment"
+      ],
+      "segment_count": 390,
+      "nonempty_segments": 390,
+      "completeness": "All string leaves of this retrieved merged export traversed; historical/textual completeness not asserted",
+      "candidate_count": 3
+    },
+    {
+      "work": "Jerusalem Talmud Shevuot",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Nezikin/Jerusalem%20Talmud%20Shevuot/Hebrew/merged.json",
+      "accessed_at": "2026-10-09T10:57:34.118647+00:00",
+      "status": "searched",
+      "bytes": 331490,
+      "sha256": "54f72acf41605f552ce7eedb22b4a2622cd253e59943dc3d5e89eee10681aeb2",
+      "edition": "merged",
+      "versions": [
+        [
+          "The Jerusalem Talmud, edition by Heinrich W. Guggenheimer. Berlin, De Gruyter, 1999-2015",
+          "https://www.nli.org.il/he/books/NNL_ALEPH001901012/NLI"
+        ]
+      ],
+      "versionSource": "https://www.sefaria.org/Jerusalem_Talmud_Shevuot",
+      "license": null,
+      "license_metadata": [
+        {
+          "versionTitle": "The Jerusalem Talmud, edition by Heinrich W. Guggenheimer. Berlin, De Gruyter, 1999-2015",
+          "license": "CC-BY",
+          "language": "he"
+        },
+        {
+          "versionTitle": "Mechon-Mamre",
+          "license": "unknown",
+          "language": "he"
+        },
+        {
+          "versionTitle": "Venice Edition",
+          "license": "unknown",
+          "language": "he"
+        }
+      ],
+      "license_error": null,
+      "index_url": "https://www.sefaria.org/api/v2/raw/index/Jerusalem_Talmud_Shevuot",
+      "schema": {
+        "nodeType": "JaggedArrayNode",
+        "depth": 3,
+        "addressTypes": [
+          "Perek",
+          "Halakhah",
+          "Integer"
+        ],
+        "sectionNames": [
+          "Chapter",
+          "Halakhah",
+          "Segment"
+        ],
+        "match_templates": [
+          {
+            "term_slugs": [
+              "yerushalmi",
+              "shevuot"
+            ]
+          },
+          {
+            "term_slugs": [
+              "yerushalmi",
+              "tractate",
+              "shevuot"
+            ]
+          },
+          {
+            "term_slugs": [
+              "talmud",
+              "yerushalmi",
+              "tractate",
+              "shevuot"
+            ]
+          },
+          {
+            "term_slugs": [
+              "talmud",
+              "yerushalmi",
+              "shevuot"
+            ]
+          }
+        ],
+        "ref_resolver_context_mutations": [
+          {
+            "op": "swap",
+            "input_terms": [
+              "halakha"
+            ],
+            "output_terms": [
+              "yerushalmi",
+              "shevuot"
+            ]
+          }
+        ],
+        "lengths": [
+          8,
+          58,
+          291
+        ],
+        "referenceableSections": [
+          true,
+          true,
+          false
+        ],
+        "titles": [
+          {
+            "text": "Talmud Yerushalmi Shevuot",
+            "lang": "en"
+          },
+          {
+            "text": "JT Shvuot",
+            "lang": "en"
+          },
+          {
+            "text": "Yerushalmi Shevuos",
+            "lang": "en"
+          },
+          {
+            "text": "Yerushalmi Shvuot",
+            "lang": "en"
+          },
+          {
+            "text": "Yerushalmi Shevuot",
+            "lang": "en"
+          },
+          {
+            "text": "JT Shevuot",
+            "lang": "en"
+          },
+          {
+            "text": "ירושלמי שבועות",
+            "lang": "he"
+          },
+          {
+            "text": "Y. Shebu.",
+            "lang": "en"
+          },
+          {
+            "text": "תלמוד ירושלמי שבועות",
+            "lang": "he",
+            "primary": true
+          },
+          {
+            "text": "Jerusalem Talmud Shevuot",
+            "lang": "en",
+            "primary": true
+          }
+        ],
+        "key": "Jerusalem Talmud Shevuot"
+      },
+      "sectionNames": [
+        "Chapter",
+        "Halakhah",
+        "Segment"
+      ],
+      "segment_count": 291,
+      "nonempty_segments": 291,
+      "completeness": "All string leaves of this retrieved merged export traversed; historical/textual completeness not asserted",
+      "candidate_count": 3
+    },
+    {
+      "work": "Jerusalem Talmud Sotah",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Nashim/Jerusalem%20Talmud%20Sotah/Hebrew/merged.json",
+      "accessed_at": "2026-10-09T10:57:34.118647+00:00",
+      "status": "searched",
+      "bytes": 447565,
+      "sha256": "284c79ba5a71321e24043ecbe0cfc40a5f1af3f1b0afa2bdf216fd68675e4e09",
+      "edition": "merged",
+      "versions": [
+        [
+          "The Jerusalem Talmud, edition by Heinrich W. Guggenheimer. Berlin, De Gruyter, 1999-2015",
+          "https://www.nli.org.il/he/books/NNL_ALEPH001901012/NLI"
+        ]
+      ],
+      "versionSource": "https://www.sefaria.org/Jerusalem_Talmud_Sotah",
+      "license": null,
+      "license_metadata": [
+        {
+          "versionTitle": "The Jerusalem Talmud, edition by Heinrich W. Guggenheimer. Berlin, De Gruyter, 1999-2015",
+          "license": "CC-BY",
+          "language": "he"
+        },
+        {
+          "versionTitle": "Mechon-Mamre",
+          "license": "unknown",
+          "language": "he"
+        },
+        {
+          "versionTitle": "Venice Edition",
+          "license": "unknown",
+          "language": "he"
+        }
+      ],
+      "license_error": null,
+      "index_url": "https://www.sefaria.org/api/v2/raw/index/Jerusalem_Talmud_Sotah",
+      "schema": {
+        "nodeType": "JaggedArrayNode",
+        "depth": 3,
+        "addressTypes": [
+          "Perek",
+          "Halakhah",
+          "Integer"
+        ],
+        "sectionNames": [
+          "Chapter",
+          "Halakhah",
+          "Segment"
+        ],
+        "match_templates": [
+          {
+            "term_slugs": [
+              "yerushalmi",
+              "sotah"
+            ]
+          },
+          {
+            "term_slugs": [
+              "yerushalmi",
+              "tractate",
+              "sotah"
+            ]
+          },
+          {
+            "term_slugs": [
+              "talmud",
+              "yerushalmi",
+              "tractate",
+              "sotah"
+            ]
+          },
+          {
+            "term_slugs": [
+              "talmud",
+              "yerushalmi",
+              "sotah"
+            ]
+          }
+        ],
+        "ref_resolver_context_mutations": [
+          {
+            "op": "swap",
+            "input_terms": [
+              "halakha"
+            ],
+            "output_terms": [
+              "yerushalmi",
+              "sotah"
+            ]
+          }
+        ],
+        "lengths": [
+          9,
+          73,
+          381
+        ],
+        "referenceableSections": [
+          true,
+          true,
+          false
+        ],
+        "titles": [
+          {
+            "text": "Yerushalmi Sotah",
+            "lang": "en"
+          },
+          {
+            "text": "JT Sotah",
+            "lang": "en"
+          },
+          {
+            "text": "Talmud Yerushalmi Sotah",
+            "lang": "en"
+          },
+          {
+            "text": "Y. Sot.",
+            "lang": "en"
+          },
+          {
+            "text": "Yerushalmi, Sota",
+            "lang": "en"
+          },
+          {
+            "text": "Yerushalmi, Sotah",
+            "lang": "en"
+          },
+          {
+            "text": "ירושלמי סוטה",
+            "lang": "he"
+          },
+          {
+            "text": "ירוש' סוטה",
+            "lang": "he"
+          },
+          {
+            "text": "ירו' סוטה",
+            "lang": "he"
+          },
+          {
+            "text": "ירושלמי, סוטה",
+            "lang": "he"
+          },
+          {
+            "text": "תלמוד ירושלמי, סוטה",
+            "lang": "he"
+          },
+          {
+            "text": "ירוש', סוטה",
+            "lang": "he"
+          },
+          {
+            "text": "ירו', סוטה",
+            "lang": "he"
+          },
+          {
+            "text": "תלמוד ירושלמי סוטה",
+            "lang": "he",
+            "primary": true
+          },
+          {
+            "text": "Jerusalem Talmud Sotah",
+            "lang": "en",
+            "primary": true
+          }
+        ],
+        "key": "Jerusalem Talmud Sotah"
+      },
+      "sectionNames": [
+        "Chapter",
+        "Halakhah",
+        "Segment"
+      ],
+      "segment_count": 381,
+      "nonempty_segments": 381,
+      "completeness": "All string leaves of this retrieved merged export traversed; historical/textual completeness not asserted",
+      "candidate_count": 2
+    },
+    {
+      "work": "Jerusalem Talmud Sukkah",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Moed/Jerusalem%20Talmud%20Sukkah/Hebrew/merged.json",
+      "accessed_at": "2026-10-09T10:57:34.118647+00:00",
+      "status": "searched",
+      "bytes": 218149,
+      "sha256": "5262205cb54cbf72a47388834a88d6e0bcdd732957867aed93a3d9561f91f959",
+      "edition": "merged",
+      "versions": [
+        [
+          "The Jerusalem Talmud, edition by Heinrich W. Guggenheimer. Berlin, De Gruyter, 1999-2015",
+          "https://www.nli.org.il/he/books/NNL_ALEPH001901012/NLI"
+        ]
+      ],
+      "versionSource": "https://www.sefaria.org/Jerusalem_Talmud_Sukkah",
+      "license": null,
+      "license_metadata": [
+        {
+          "versionTitle": "The Jerusalem Talmud, edition by Heinrich W. Guggenheimer. Berlin, De Gruyter, 1999-2015",
+          "license": "CC-BY",
+          "language": "he"
+        },
+        {
+          "versionTitle": "Mechon-Mamre",
+          "license": "unknown",
+          "language": "he"
+        },
+        {
+          "versionTitle": "Venice Edition",
+          "license": "unknown",
+          "language": "he"
+        }
+      ],
+      "license_error": null,
+      "index_url": "https://www.sefaria.org/api/v2/raw/index/Jerusalem_Talmud_Sukkah",
+      "schema": {
+        "nodeType": "JaggedArrayNode",
+        "depth": 3,
+        "addressTypes": [
+          "Perek",
+          "Halakhah",
+          "Integer"
+        ],
+        "sectionNames": [
+          "Chapter",
+          "Halakhah",
+          "Segment"
+        ],
+        "match_templates": [
+          {
+            "term_slugs": [
+              "yerushalmi",
+              "sukkah"
+            ]
+          },
+          {
+            "term_slugs": [
+              "yerushalmi",
+              "tractate",
+              "sukkah"
+            ]
+          },
+          {
+            "term_slugs": [
+              "talmud",
+              "yerushalmi",
+              "tractate",
+              "sukkah"
+            ]
+          },
+          {
+            "term_slugs": [
+              "talmud",
+              "yerushalmi",
+              "sukkah"
+            ]
+          }
+        ],
+        "ref_resolver_context_mutations": [
+          {
+            "op": "swap",
+            "input_terms": [
+              "halakha"
+            ],
+            "output_terms": [
+              "yerushalmi",
+              "sukkah"
+            ]
+          }
+        ],
+        "lengths": [
+          5,
+          49,
+          205
+        ],
+        "referenceableSections": [
+          true,
+          true,
+          false
+        ],
+        "titles": [
+          {
+            "text": "JT Sukkah",
+            "lang": "en"
+          },
+          {
+            "text": "Talmud Yerushalmi Sukkah",
+            "lang": "en"
+          },
+          {
+            "text": "Yerushalmi Sukkah",
+            "lang": "en"
+          },
+          {
+            "text": "Y. Succ.",
+            "lang": "en"
+          },
+          {
+            "text": "Jerusalem Talmud Succah",
+            "lang": "en"
+          },
+          {
+            "text": "ירושלמי סוכה",
+            "lang": "he"
+          },
+          {
+            "text": "תלמוד ירושלמי סוכה",
+            "lang": "he",
+            "primary": true
+          },
+          {
+            "text": "Jerusalem Talmud Sukkah",
+            "lang": "en",
+            "primary": true
+          }
+        ],
+        "key": "Jerusalem Talmud Sukkah"
+      },
+      "sectionNames": [
+        "Chapter",
+        "Halakhah",
+        "Segment"
+      ],
+      "segment_count": 205,
+      "nonempty_segments": 205,
+      "completeness": "All string leaves of this retrieved merged export traversed; historical/textual completeness not asserted",
+      "candidate_count": 3
+    },
+    {
+      "work": "Jerusalem Talmud Taanit",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Moed/Jerusalem%20Talmud%20Taanit/Hebrew/merged.json",
+      "accessed_at": "2026-10-09T10:57:34.118647+00:00",
+      "status": "searched",
+      "bytes": 322501,
+      "sha256": "e7403834c079db6760bcf040bf1a98b28bb271336f8ca52977329acca1e7afb4",
+      "edition": "merged",
+      "versions": [
+        [
+          "The Jerusalem Talmud, edition by Heinrich W. Guggenheimer. Berlin, De Gruyter, 1999-2015",
+          "https://www.nli.org.il/he/books/NNL_ALEPH001901012/NLI"
+        ]
+      ],
+      "versionSource": "https://www.sefaria.org/Jerusalem_Talmud_Taanit",
+      "license": null,
+      "license_metadata": [
+        {
+          "versionTitle": "The Jerusalem Talmud, edition by Heinrich W. Guggenheimer. Berlin, De Gruyter, 1999-2015",
+          "license": "CC-BY",
+          "language": "he"
+        },
+        {
+          "versionTitle": "Mechon-Mamre",
+          "license": "unknown",
+          "language": "he"
+        },
+        {
+          "versionTitle": "Venice Edition",
+          "license": "unknown",
+          "language": "he"
+        }
+      ],
+      "license_error": null,
+      "index_url": "https://www.sefaria.org/api/v2/raw/index/Jerusalem_Talmud_Taanit",
+      "schema": {
+        "nodeType": "JaggedArrayNode",
+        "depth": 3,
+        "addressTypes": [
+          "Perek",
+          "Halakhah",
+          "Integer"
+        ],
+        "sectionNames": [
+          "Chapter",
+          "Halakhah",
+          "Segment"
+        ],
+        "match_templates": [
+          {
+            "term_slugs": [
+              "yerushalmi",
+              "taanit1"
+            ]
+          },
+          {
+            "term_slugs": [
+              "yerushalmi",
+              "tractate",
+              "taanit1"
+            ]
+          },
+          {
+            "term_slugs": [
+              "talmud",
+              "yerushalmi",
+              "tractate",
+              "taanit1"
+            ]
+          },
+          {
+            "term_slugs": [
+              "talmud",
+              "yerushalmi",
+              "taanit1"
+            ]
+          }
+        ],
+        "ref_resolver_context_mutations": [
+          {
+            "op": "swap",
+            "input_terms": [
+              "halakha"
+            ],
+            "output_terms": [
+              "yerushalmi",
+              "taanit1"
+            ]
+          }
+        ],
+        "lengths": [
+          4,
+          40,
+          245
+        ],
+        "referenceableSections": [
+          true,
+          true,
+          false
+        ],
+        "titles": [
+          {
+            "text": "Talmud Yerushalmi Ta'anit",
+            "lang": "en"
+          },
+          {
+            "text": "Yerushalmi Taanis",
+            "lang": "en"
+          },
+          {
+            "text": "Yerushalmi Taanit",
+            "lang": "en"
+          },
+          {
+            "text": "JT Taanit",
+            "lang": "en"
+          },
+          {
+            "text": "Yerushalmi Ta'anit",
+            "lang": "en"
+          },
+          {
+            "text": "JT Ta'anit",
+            "lang": "en"
+          },
+          {
+            "text": "Jerusalem Talmud Ta'anit",
+            "lang": "en"
+          },
+          {
+            "text": "Yerushalmi Taaniyot",
+            "lang": "en"
+          },
+          {
+            "text": "ירושלמי תענית",
+            "lang": "he"
+          },
+          {
+            "text": "ירושלמי תעניות",
+            "lang": "he"
+          },
+          {
+            "text": "ירוש' תעניות",
+            "lang": "he"
+          },
+          {
+            "text": "ירו' תעניות",
+            "lang": "he"
+          },
+          {
+            "text": "ירו' תענית",
+            "lang": "he"
+          },
+          {
+            "text": "ירוש' תענית",
+            "lang": "he"
+          },
+          {
+            "text": "ירושלמי, תענית",
+            "lang": "he"
+          },
+          {
+            "text": "תלמוד ירושלמי, תעניות",
+            "lang": "he"
+          },
+          {
+            "text": "תלמוד ירושלמי, תענית",
+            "lang": "he"
+          },
+          {
+            "text": "ירושלמי תענ'",
+            "lang": "he"
+          },
+          {
+            "text": "ירושלמי תעני'",
+            "lang": "he"
+          },
+          {
+            "text": "ירו' תעני'",
+            "lang": "he"
+          },
+          {
+            "text": "ירוש' תעני'",
+            "lang": "he"
+          },
+          {
+            "text": "ירוש' תענ'",
+            "lang": "he"
+          },
+          {
+            "text": "ירושלמי, תעניות",
+            "lang": "he"
+          },
+          {
+            "text": "ירוש', תענית",
+            "lang": "he"
+          },
+          {
+            "text": "ירוש', תעניות",
+            "lang": "he"
+          },
+          {
+            "text": "ירו', תענית",
+            "lang": "he"
+          },
+          {
+            "text": "ירו', תעניות",
+            "lang": "he"
+          },
+          {
+            "text": "תלמוד ירושלמי תענית",
+            "lang": "he",
+            "primary": true
+          },
+          {
+            "text": "Jerusalem Talmud Taanit",
+            "lang": "en",
+            "primary": true
+          }
+        ],
+        "key": "Jerusalem Talmud Taanit"
+      },
+      "sectionNames": [
+        "Chapter",
+        "Halakhah",
+        "Segment"
+      ],
+      "segment_count": 245,
+      "nonempty_segments": 245,
+      "completeness": "All string leaves of this retrieved merged export traversed; historical/textual completeness not asserted",
+      "candidate_count": 2
+    },
+    {
+      "work": "Jerusalem Talmud Terumot",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Zeraim/Jerusalem%20Talmud%20Terumot/Hebrew/merged.json",
+      "accessed_at": "2026-10-09T10:57:34.118647+00:00",
+      "status": "searched",
+      "bytes": 423927,
+      "sha256": "b7f3b714aa71e9ff3e057611c9e68b8e9ae9e3fc3326ca90f295fa66c51039bf",
+      "edition": "merged",
+      "versions": [
+        [
+          "The Jerusalem Talmud, edition by Heinrich W. Guggenheimer. Berlin, De Gruyter, 1999-2015",
+          "https://www.nli.org.il/he/books/NNL_ALEPH001901012/NLI"
+        ]
+      ],
+      "versionSource": "https://www.sefaria.org/Jerusalem_Talmud_Terumot",
+      "license": null,
+      "license_metadata": [
+        {
+          "versionTitle": "The Jerusalem Talmud, edition by Heinrich W. Guggenheimer. Berlin, De Gruyter, 1999-2015",
+          "license": "CC-BY",
+          "language": "he"
+        },
+        {
+          "versionTitle": "Mechon-Mamre",
+          "license": "unknown",
+          "language": "he"
+        },
+        {
+          "versionTitle": "Venice Edition",
+          "license": "unknown",
+          "language": "he"
+        }
+      ],
+      "license_error": null,
+      "index_url": "https://www.sefaria.org/api/v2/raw/index/Jerusalem_Talmud_Terumot",
+      "schema": {
+        "nodeType": "JaggedArrayNode",
+        "depth": 3,
+        "addressTypes": [
+          "Perek",
+          "Halakhah",
+          "Integer"
+        ],
+        "sectionNames": [
+          "Chapter",
+          "Halakhah",
+          "Segment"
+        ],
+        "match_templates": [
+          {
+            "term_slugs": [
+              "yerushalmi",
+              "terumot"
+            ]
+          },
+          {
+            "term_slugs": [
+              "yerushalmi",
+              "tractate",
+              "terumot"
+            ]
+          },
+          {
+            "term_slugs": [
+              "talmud",
+              "yerushalmi",
+              "tractate",
+              "terumot"
+            ]
+          },
+          {
+            "term_slugs": [
+              "talmud",
+              "yerushalmi",
+              "terumot"
+            ]
+          }
+        ],
+        "ref_resolver_context_mutations": [
+          {
+            "op": "swap",
+            "input_terms": [
+              "halakha"
+            ],
+            "output_terms": [
+              "yerushalmi",
+              "terumot"
+            ]
+          }
+        ],
+        "lengths": [
+          11,
+          48,
+          418
+        ],
+        "referenceableSections": [
+          true,
+          true,
+          false
+        ],
+        "titles": [
+          {
+            "text": "Talmud Yerushalmi Terumot",
+            "lang": "en"
+          },
+          {
+            "text": "Yerushalmi Terumos",
+            "lang": "en"
+          },
+          {
+            "text": "Yerushalmi Terumot",
+            "lang": "en"
+          },
+          {
+            "text": "JT Terumot",
+            "lang": "en"
+          },
+          {
+            "text": "Yerushalmi Trumot",
+            "lang": "en"
+          },
+          {
+            "text": "JT Trumot",
+            "lang": "en"
+          },
+          {
+            "text": "ירושלמי תרומות",
+            "lang": "he"
+          },
+          {
+            "text": "Y. Ter.",
+            "lang": "en"
+          },
+          {
+            "text": "תלמוד ירושלמי תרומות",
+            "lang": "he",
+            "primary": true
+          },
+          {
+            "text": "Jerusalem Talmud Terumot",
+            "lang": "en",
+            "primary": true
+          }
+        ],
+        "key": "Jerusalem Talmud Terumot"
+      },
+      "sectionNames": [
+        "Chapter",
+        "Halakhah",
+        "Segment"
+      ],
+      "segment_count": 418,
+      "nonempty_segments": 418,
+      "completeness": "All string leaves of this retrieved merged export traversed; historical/textual completeness not asserted",
+      "candidate_count": 2
+    },
+    {
+      "work": "Jerusalem Talmud Yevamot",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Nashim/Jerusalem%20Talmud%20Yevamot/Hebrew/merged.json",
+      "accessed_at": "2026-10-09T10:57:34.118647+00:00",
+      "status": "searched",
+      "bytes": 731941,
+      "sha256": "00d4f0c9cb49af9f6b0bca31b047dd6959a37254592ea7f929688bcf039fafc8",
+      "edition": "merged",
+      "versions": [
+        [
+          "The Jerusalem Talmud, edition by Heinrich W. Guggenheimer. Berlin, De Gruyter, 1999-2015",
+          "https://www.nli.org.il/he/books/NNL_ALEPH001901012/NLI"
+        ]
+      ],
+      "versionSource": "https://www.sefaria.org/Jerusalem_Talmud_Yevamot",
+      "license": null,
+      "license_metadata": [
+        {
+          "versionTitle": "The Jerusalem Talmud, edition by Heinrich W. Guggenheimer. Berlin, De Gruyter, 1999-2015",
+          "license": "CC-BY",
+          "language": "he"
+        },
+        {
+          "versionTitle": "Mechon-Mamre",
+          "license": "unknown",
+          "language": "he"
+        },
+        {
+          "versionTitle": "Venice Edition",
+          "license": "unknown",
+          "language": "he"
+        }
+      ],
+      "license_error": null,
+      "index_url": "https://www.sefaria.org/api/v2/raw/index/Jerusalem_Talmud_Yevamot",
+      "schema": {
+        "nodeType": "JaggedArrayNode",
+        "depth": 3,
+        "addressTypes": [
+          "Perek",
+          "Halakhah",
+          "Integer"
+        ],
+        "sectionNames": [
+          "Chapter",
+          "Halakhah",
+          "Segment"
+        ],
+        "match_templates": [
+          {
+            "term_slugs": [
+              "yerushalmi",
+              "yevamot"
+            ]
+          },
+          {
+            "term_slugs": [
+              "yerushalmi",
+              "tractate",
+              "yevamot"
+            ]
+          },
+          {
+            "term_slugs": [
+              "talmud",
+              "yerushalmi",
+              "tractate",
+              "yevamot"
+            ]
+          },
+          {
+            "term_slugs": [
+              "talmud",
+              "yerushalmi",
+              "yevamot"
+            ]
+          }
+        ],
+        "ref_resolver_context_mutations": [
+          {
+            "op": "swap",
+            "input_terms": [
+              "halakha"
+            ],
+            "output_terms": [
+              "yerushalmi",
+              "yevamot"
+            ]
+          }
+        ],
+        "lengths": [
+          16,
+          143,
+          638
+        ],
+        "referenceableSections": [
+          true,
+          true,
+          false
+        ],
+        "titles": [
+          {
+            "text": "JT Yevamot,Yerushalmi Yevamot",
+            "lang": "en"
+          },
+          {
+            "text": "Talmud Yerushalmi Yevamot",
+            "lang": "en"
+          },
+          {
+            "text": "Yerushalmi Yevamos",
+            "lang": "en"
+          },
+          {
+            "text": "ירושלמי יבמות",
+            "lang": "he"
+          },
+          {
+            "text": "Y. Yeb.",
+            "lang": "en"
+          },
+          {
+            "text": "JT Yevamot",
+            "lang": "en"
+          },
+          {
+            "text": "תלמוד ירושלמי יבמות",
+            "lang": "he",
+            "primary": true
+          },
+          {
+            "text": "Jerusalem Talmud Yevamot",
+            "lang": "en",
+            "primary": true
+          }
+        ],
+        "key": "Jerusalem Talmud Yevamot"
+      },
+      "sectionNames": [
+        "Chapter",
+        "Halakhah",
+        "Segment"
+      ],
+      "segment_count": 638,
+      "nonempty_segments": 638,
+      "completeness": "All string leaves of this retrieved merged export traversed; historical/textual completeness not asserted",
+      "candidate_count": 6
+    },
+    {
+      "work": "Jerusalem Talmud Yoma",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Moed/Jerusalem%20Talmud%20Yoma/Hebrew/merged.json",
+      "accessed_at": "2026-10-09T10:57:34.118647+00:00",
+      "status": "searched",
+      "bytes": 396075,
+      "sha256": "945915d36e9673d0caddbe847b6daceacbd40ec0c51c048ac99aa302777827bc",
+      "edition": "merged",
+      "versions": [
+        [
+          "The Jerusalem Talmud, edition by Heinrich W. Guggenheimer. Berlin, De Gruyter, 1999-2015",
+          "https://www.nli.org.il/he/books/NNL_ALEPH001901012/NLI"
+        ]
+      ],
+      "versionSource": "https://www.sefaria.org/Jerusalem_Talmud_Yoma",
+      "license": null,
+      "license_metadata": [
+        {
+          "versionTitle": "The Jerusalem Talmud, edition by Heinrich W. Guggenheimer. Berlin, De Gruyter, 1999-2015",
+          "license": "CC-BY",
+          "language": "he"
+        },
+        {
+          "versionTitle": "Mechon-Mamre",
+          "license": "unknown",
+          "language": "he"
+        },
+        {
+          "versionTitle": "Venice Edition",
+          "license": "unknown",
+          "language": "he"
+        }
+      ],
+      "license_error": null,
+      "index_url": "https://www.sefaria.org/api/v2/raw/index/Jerusalem_Talmud_Yoma",
+      "schema": {
+        "nodeType": "JaggedArrayNode",
+        "depth": 3,
+        "addressTypes": [
+          "Perek",
+          "Halakhah",
+          "Integer"
+        ],
+        "sectionNames": [
+          "Chapter",
+          "Halakhah",
+          "Segment"
+        ],
+        "match_templates": [
+          {
+            "term_slugs": [
+              "yerushalmi",
+              "yoma"
+            ]
+          },
+          {
+            "term_slugs": [
+              "yerushalmi",
+              "tractate",
+              "yoma"
+            ]
+          },
+          {
+            "term_slugs": [
+              "talmud",
+              "yerushalmi",
+              "tractate",
+              "yoma"
+            ]
+          },
+          {
+            "term_slugs": [
+              "talmud",
+              "yerushalmi",
+              "yoma"
+            ]
+          }
+        ],
+        "ref_resolver_context_mutations": [
+          {
+            "op": "swap",
+            "input_terms": [
+              "halakha"
+            ],
+            "output_terms": [
+              "yerushalmi",
+              "yoma"
+            ]
+          }
+        ],
+        "lengths": [
+          8,
+          51,
+          362
+        ],
+        "referenceableSections": [
+          true,
+          true,
+          false
+        ],
+        "titles": [
+          {
+            "text": "Tamud Yerushalmi Yoma",
+            "lang": "en"
+          },
+          {
+            "text": "Yerushalmi Yoma",
+            "lang": "en"
+          },
+          {
+            "text": "JT Yoma",
+            "lang": "en"
+          },
+          {
+            "text": "ירושלמי יומא",
+            "lang": "he"
+          },
+          {
+            "text": "Y. Yoma",
+            "lang": "en"
+          },
+          {
+            "text": "תלמוד ירושלמי יומא",
+            "lang": "he",
+            "primary": true
+          },
+          {
+            "text": "Jerusalem Talmud Yoma",
+            "lang": "en",
+            "primary": true
+          }
+        ],
+        "key": "Jerusalem Talmud Yoma"
+      },
+      "sectionNames": [
+        "Chapter",
+        "Halakhah",
+        "Segment"
+      ],
+      "segment_count": 362,
+      "nonempty_segments": 362,
+      "completeness": "All string leaves of this retrieved merged export traversed; historical/textual completeness not asserted",
+      "candidate_count": 5
+    }
+  ],
+  "status": "done",
+  "counts": {
+    "searched_works": 39,
+    "errors": 0,
+    "segments": 12252,
+    "candidate_segments": 149,
+    "horse_substring_segments": 96,
+    "horse_form_segments": 58,
+    "reused_YER001": 5
+  },
+  "finished_at": "2026-10-09T10:57:35.606555+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "task_id": "VER-003l",
+  "primary_access": [
+    {
+      "url": "https://storage.googleapis.com/sefaria-export/json/Jewish%20Thought/Acharonim/Maharal/Gevurot%20Hashem/Hebrew/merged.json",
+      "sha256": "49c7ced9c45434ff9e48ab048cf89b355ebd622984aba34d3d63f0ee60504166",
+      "versionTitle": "merged",
+      "accessed_at": "2026-10-10"
+    },
+    {
+      "url": "https://storage.googleapis.com/sefaria-export/json/Jewish%20Thought/Rishonim/Guide%20for%20the%20Perplexed/Hebrew/Moreh%20Nevuchim%2C%20translated%20by%20Ibn%20Tibon.json",
+      "sha256": "59a6cd54574c1aa9dff2a4d5c5dd7f63242acfe977eb954e3162cb46f1186678",
+      "versionTitle": "Moreh Nevuchim, translated by Ibn Tibon",
+      "accessed_at": "2026-10-10"
+    }
+  ]
+}

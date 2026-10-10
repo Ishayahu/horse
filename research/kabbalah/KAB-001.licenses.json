@@ -1,0 +1,84 @@
+[
+  {
+    "work": "Zohar",
+    "version": "Vocalized Zohar, Israel 2013",
+    "url": "https://storage.googleapis.com/sefaria-export/json/Kabbalah/Zohar/Zohar/Hebrew/Vocalized%20Zohar%2C%20Israel%202013.json",
+    "metadata": {
+      "language": "he",
+      "title": "Zohar",
+      "versionSource": "https://www.nli.org.il/he/books/NNL_ALEPH990035741170205171/NLI",
+      "versionTitle": "Vocalized Zohar, Israel 2013",
+      "actualLanguage": "he",
+      "languageFamilyName": "hebrew",
+      "isSource": true,
+      "isPrimary": true,
+      "direction": "rtl",
+      "status": "locked",
+      "priority": 5.0,
+      "license": "unknown",
+      "versionTitleInHebrew": "ספר הזהר מנקד, ישראל תשע\"ג",
+      "heTitle": "ספר הזהר",
+      "categories": [
+        "Kabbalah",
+        "Zohar"
+      ]
+    }
+  },
+  {
+    "work": "Tikkunei Zohar",
+    "version": "Tikkunei Zohar - Vocalized",
+    "url": "https://storage.googleapis.com/sefaria-export/json/Kabbalah/Zohar/Tikkunei%20Zohar/Hebrew/Tikkunei%20Zohar%20-%20Vocalized.json",
+    "metadata": {
+      "language": "he",
+      "title": "Tikkunei Zohar",
+      "versionSource": "https://www.toratemetfreeware.com/online/f_01153_all.html",
+      "versionTitle": "Tikkunei Zohar - Vocalized",
+      "actualLanguage": "he",
+      "languageFamilyName": "hebrew",
+      "isSource": true,
+      "isPrimary": true,
+      "direction": "rtl",
+      "status": "locked",
+      "license": "Public Domain",
+      "versionTitleInHebrew": "תיקוני הזוהר - מהדורה מנוקדת",
+      "heTitle": "תקוני הזהר",
+      "categories": [
+        "Kabbalah",
+        "Zohar"
+      ],
+      "sectionNames": [
+        "Daf",
+        "Paragraph"
+      ]
+    }
+  },
+  {
+    "work": "Tikkunei Zohar",
+    "version": "Constantinople, 1740",
+    "url": "https://storage.googleapis.com/sefaria-export/json/Kabbalah/Zohar/Tikkunei%20Zohar/Hebrew/Constantinople%2C%201740.json",
+    "metadata": {
+      "language": "he",
+      "title": "Tikkunei Zohar",
+      "versionSource": "https://margalya.com/pages/tz",
+      "versionTitle": "Constantinople, 1740",
+      "actualLanguage": "he",
+      "languageFamilyName": "hebrew",
+      "isSource": true,
+      "isPrimary": true,
+      "direction": "rtl",
+      "status": "locked",
+      "priority": 3.0,
+      "license": "CC-BY-NC",
+      "versionNotes": "",
+      "heTitle": "תקוני הזהר",
+      "categories": [
+        "Kabbalah",
+        "Zohar"
+      ],
+      "sectionNames": [
+        "Daf",
+        "Paragraph"
+      ]
+    }
+  }
+]

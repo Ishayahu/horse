@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "task_id": "YER-003",
+  "ranges": [
+    "Chagigah2:1:7–11",
+    "Chagigah2:2:7",
+    "Avodah Zarah1:6:1,6–7;1:9:4–6",
+    "Bava Metzia4:6:1–2",
+    "Berakhot8:5:5–8",
+    "Makkot3:13:1–5 + Guggenheimer English notes65/70",
+    "Sotah8:3:1–2",
+    "Sukkah5:1:4–6"
+  ],
+  "verified_primary_segment_records": 11,
+  "direct_horse_records": 10,
+  "indirect_context_records": 1,
+  "modern_editor_note_records": 1,
+  "independently_reviewed": 0,
+  "next_checks": [
+    "Independent review Chagigah and Makkot interpretive distinction.",
+    "Resolve Makkot siglum G and witness date.",
+    "Check Makkot parallel in Genesis Rabbah68:10 and Emunah weBittahon ch15 original."
+  ]
+}

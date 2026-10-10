@@ -6,28 +6,27 @@
     "goal": "Образ коня в еврейских источниках и проверка связи со сверхъестественным перемещением",
     "specification_path": "docs/research-assignment.md"
   },
-  "session_id": "research-2026-10-09-01",
+  "session_id": "research-2026-10-10-01",
   "active_task_ids": [
-    "BAV-002",
-    "YER-002",
-    "LAT-001",
-    "KAB-001",
-    "TAN-002a",
-    "MID-003"
+    "COM-002",
+    "TAN-003",
+    "PSH-002",
+    "BAV-003",
+    "YER-004",
+    "VER-005e",
+    "VER-005k"
   ],
   "pending_task_ids": [
     "TAN-002",
-    "MID-002",
-    "COM-002",
-    "EGY-001",
     "SYN-001",
     "CMP-001",
-    "AUD-001"
+    "AUD-001",
+    "KAB-002"
   ],
   "unsaved_results": [],
   "blockers": [],
-  "next_action": "Accept mass-search Bavli/Yerushalmi and bounded context/late/kabbalistic batches; resolve celestial horse apparition parallels; continue coverage queue.",
-  "last_confirmed_commit": "b2abf9d9a760de16e22b814e4a6afe3b7d0c8654",
+  "next_action": "Finish six resumed workers; verify new extraordinary evidence; continue candidate/context and chronology queues.",
+  "last_confirmed_commit": "ec70b8e1dc59c234db65ce40d2b35806f258f77a",
   "capabilities": {
     "github_read": true,
     "github_write": true,

@@ -1,0 +1,1849 @@
+{
+  "schema_version": 1,
+  "inventory_url": "https://raw.githubusercontent.com/Sefaria/Sefaria-Export/master/books.json",
+  "catalogued": [
+    {
+      "title": "Be'er HaGolah",
+      "language": "Hebrew",
+      "versionTitle": "merged",
+      "categories": [
+        "Jewish Thought",
+        "Acharonim",
+        "Maharal"
+      ],
+      "json_url": "https://storage.googleapis.com/sefaria-export/json/Jewish%20Thought/Acharonim/Maharal/Be%27er%20HaGolah/Hebrew/merged.json",
+      "txt_url": "https://storage.googleapis.com/sefaria-export/txt/Jewish%20Thought/Acharonim/Maharal/Be%27er%20HaGolah/Hebrew/merged.txt",
+      "cltk_full_url": "https://storage.googleapis.com/sefaria-export/cltk-full/Jewish%20Thought/Acharonim/Maharal/Be%27er%20HaGolah/Hebrew/merged.json",
+      "cltk_flat_url": "https://storage.googleapis.com/sefaria-export/cltk-flat/Jewish%20Thought/Acharonim/Maharal/Be%27er%20HaGolah/Hebrew/merged.json"
+    },
+    {
+      "title": "Chomat Anakh on Amos",
+      "language": "Hebrew",
+      "versionTitle": "merged",
+      "categories": [
+        "Tanakh",
+        "Acharonim on Tanakh",
+        "Chida",
+        "Chomat Anakh",
+        "Prophets"
+      ],
+      "json_url": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20Amos/Hebrew/merged.json",
+      "txt_url": "https://storage.googleapis.com/sefaria-export/txt/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20Amos/Hebrew/merged.txt",
+      "cltk_full_url": "https://storage.googleapis.com/sefaria-export/cltk-full/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20Amos/Hebrew/merged.json",
+      "cltk_flat_url": "https://storage.googleapis.com/sefaria-export/cltk-flat/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20Amos/Hebrew/merged.json"
+    },
+    {
+      "title": "Chomat Anakh on Daniel",
+      "language": "Hebrew",
+      "versionTitle": "merged",
+      "categories": [
+        "Tanakh",
+        "Acharonim on Tanakh",
+        "Chida",
+        "Chomat Anakh",
+        "Writings"
+      ],
+      "json_url": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Writings/Chomat%20Anakh%20on%20Daniel/Hebrew/merged.json",
+      "txt_url": "https://storage.googleapis.com/sefaria-export/txt/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Writings/Chomat%20Anakh%20on%20Daniel/Hebrew/merged.txt",
+      "cltk_full_url": "https://storage.googleapis.com/sefaria-export/cltk-full/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Writings/Chomat%20Anakh%20on%20Daniel/Hebrew/merged.json",
+      "cltk_flat_url": "https://storage.googleapis.com/sefaria-export/cltk-flat/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Writings/Chomat%20Anakh%20on%20Daniel/Hebrew/merged.json"
+    },
+    {
+      "title": "Chomat Anakh on Ecclesiastes",
+      "language": "Hebrew",
+      "versionTitle": "merged",
+      "categories": [
+        "Tanakh",
+        "Acharonim on Tanakh",
+        "Chida",
+        "Chomat Anakh",
+        "Writings"
+      ],
+      "json_url": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Writings/Chomat%20Anakh%20on%20Ecclesiastes/Hebrew/merged.json",
+      "txt_url": "https://storage.googleapis.com/sefaria-export/txt/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Writings/Chomat%20Anakh%20on%20Ecclesiastes/Hebrew/merged.txt",
+      "cltk_full_url": "https://storage.googleapis.com/sefaria-export/cltk-full/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Writings/Chomat%20Anakh%20on%20Ecclesiastes/Hebrew/merged.json",
+      "cltk_flat_url": "https://storage.googleapis.com/sefaria-export/cltk-flat/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Writings/Chomat%20Anakh%20on%20Ecclesiastes/Hebrew/merged.json"
+    },
+    {
+      "title": "Chomat Anakh on Esther",
+      "language": "Hebrew",
+      "versionTitle": "merged",
+      "categories": [
+        "Tanakh",
+        "Acharonim on Tanakh",
+        "Chida",
+        "Chomat Anakh",
+        "Writings"
+      ],
+      "json_url": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Writings/Chomat%20Anakh%20on%20Esther/Hebrew/merged.json",
+      "txt_url": "https://storage.googleapis.com/sefaria-export/txt/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Writings/Chomat%20Anakh%20on%20Esther/Hebrew/merged.txt",
+      "cltk_full_url": "https://storage.googleapis.com/sefaria-export/cltk-full/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Writings/Chomat%20Anakh%20on%20Esther/Hebrew/merged.json",
+      "cltk_flat_url": "https://storage.googleapis.com/sefaria-export/cltk-flat/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Writings/Chomat%20Anakh%20on%20Esther/Hebrew/merged.json"
+    },
+    {
+      "title": "Chomat Anakh on Ezekiel",
+      "language": "Hebrew",
+      "versionTitle": "merged",
+      "categories": [
+        "Tanakh",
+        "Acharonim on Tanakh",
+        "Chida",
+        "Chomat Anakh",
+        "Prophets"
+      ],
+      "json_url": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20Ezekiel/Hebrew/merged.json",
+      "txt_url": "https://storage.googleapis.com/sefaria-export/txt/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20Ezekiel/Hebrew/merged.txt",
+      "cltk_full_url": "https://storage.googleapis.com/sefaria-export/cltk-full/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20Ezekiel/Hebrew/merged.json",
+      "cltk_flat_url": "https://storage.googleapis.com/sefaria-export/cltk-flat/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20Ezekiel/Hebrew/merged.json"
+    },
+    {
+      "title": "Chomat Anakh on Ezra",
+      "language": "Hebrew",
+      "versionTitle": "merged",
+      "categories": [
+        "Tanakh",
+        "Acharonim on Tanakh",
+        "Chida",
+        "Chomat Anakh",
+        "Writings"
+      ],
+      "json_url": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Writings/Chomat%20Anakh%20on%20Ezra/Hebrew/merged.json",
+      "txt_url": "https://storage.googleapis.com/sefaria-export/txt/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Writings/Chomat%20Anakh%20on%20Ezra/Hebrew/merged.txt",
+      "cltk_full_url": "https://storage.googleapis.com/sefaria-export/cltk-full/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Writings/Chomat%20Anakh%20on%20Ezra/Hebrew/merged.json",
+      "cltk_flat_url": "https://storage.googleapis.com/sefaria-export/cltk-flat/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Writings/Chomat%20Anakh%20on%20Ezra/Hebrew/merged.json"
+    },
+    {
+      "title": "Chomat Anakh on Habakkuk",
+      "language": "Hebrew",
+      "versionTitle": "merged",
+      "categories": [
+        "Tanakh",
+        "Acharonim on Tanakh",
+        "Chida",
+        "Chomat Anakh",
+        "Prophets"
+      ],
+      "json_url": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20Habakkuk/Hebrew/merged.json",
+      "txt_url": "https://storage.googleapis.com/sefaria-export/txt/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20Habakkuk/Hebrew/merged.txt",
+      "cltk_full_url": "https://storage.googleapis.com/sefaria-export/cltk-full/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20Habakkuk/Hebrew/merged.json",
+      "cltk_flat_url": "https://storage.googleapis.com/sefaria-export/cltk-flat/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20Habakkuk/Hebrew/merged.json"
+    },
+    {
+      "title": "Chomat Anakh on Haggai",
+      "language": "Hebrew",
+      "versionTitle": "merged",
+      "categories": [
+        "Tanakh",
+        "Acharonim on Tanakh",
+        "Chida",
+        "Chomat Anakh",
+        "Prophets"
+      ],
+      "json_url": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20Haggai/Hebrew/merged.json",
+      "txt_url": "https://storage.googleapis.com/sefaria-export/txt/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20Haggai/Hebrew/merged.txt",
+      "cltk_full_url": "https://storage.googleapis.com/sefaria-export/cltk-full/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20Haggai/Hebrew/merged.json",
+      "cltk_flat_url": "https://storage.googleapis.com/sefaria-export/cltk-flat/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20Haggai/Hebrew/merged.json"
+    },
+    {
+      "title": "Chomat Anakh on Hosea",
+      "language": "Hebrew",
+      "versionTitle": "merged",
+      "categories": [
+        "Tanakh",
+        "Acharonim on Tanakh",
+        "Chida",
+        "Chomat Anakh",
+        "Prophets"
+      ],
+      "json_url": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20Hosea/Hebrew/merged.json",
+      "txt_url": "https://storage.googleapis.com/sefaria-export/txt/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20Hosea/Hebrew/merged.txt",
+      "cltk_full_url": "https://storage.googleapis.com/sefaria-export/cltk-full/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20Hosea/Hebrew/merged.json",
+      "cltk_flat_url": "https://storage.googleapis.com/sefaria-export/cltk-flat/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20Hosea/Hebrew/merged.json"
+    },
+    {
+      "title": "Chomat Anakh on I Chronicles",
+      "language": "Hebrew",
+      "versionTitle": "merged",
+      "categories": [
+        "Tanakh",
+        "Acharonim on Tanakh",
+        "Chida",
+        "Chomat Anakh",
+        "Writings"
+      ],
+      "json_url": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Writings/Chomat%20Anakh%20on%20I%20Chronicles/Hebrew/merged.json",
+      "txt_url": "https://storage.googleapis.com/sefaria-export/txt/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Writings/Chomat%20Anakh%20on%20I%20Chronicles/Hebrew/merged.txt",
+      "cltk_full_url": "https://storage.googleapis.com/sefaria-export/cltk-full/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Writings/Chomat%20Anakh%20on%20I%20Chronicles/Hebrew/merged.json",
+      "cltk_flat_url": "https://storage.googleapis.com/sefaria-export/cltk-flat/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Writings/Chomat%20Anakh%20on%20I%20Chronicles/Hebrew/merged.json"
+    },
+    {
+      "title": "Chomat Anakh on I Kings",
+      "language": "Hebrew",
+      "versionTitle": "merged",
+      "categories": [
+        "Tanakh",
+        "Acharonim on Tanakh",
+        "Chida",
+        "Chomat Anakh",
+        "Prophets"
+      ],
+      "json_url": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20I%20Kings/Hebrew/merged.json",
+      "txt_url": "https://storage.googleapis.com/sefaria-export/txt/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20I%20Kings/Hebrew/merged.txt",
+      "cltk_full_url": "https://storage.googleapis.com/sefaria-export/cltk-full/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20I%20Kings/Hebrew/merged.json",
+      "cltk_flat_url": "https://storage.googleapis.com/sefaria-export/cltk-flat/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20I%20Kings/Hebrew/merged.json"
+    },
+    {
+      "title": "Chomat Anakh on I Samuel",
+      "language": "Hebrew",
+      "versionTitle": "merged",
+      "categories": [
+        "Tanakh",
+        "Acharonim on Tanakh",
+        "Chida",
+        "Chomat Anakh",
+        "Prophets"
+      ],
+      "json_url": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20I%20Samuel/Hebrew/merged.json",
+      "txt_url": "https://storage.googleapis.com/sefaria-export/txt/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20I%20Samuel/Hebrew/merged.txt",
+      "cltk_full_url": "https://storage.googleapis.com/sefaria-export/cltk-full/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20I%20Samuel/Hebrew/merged.json",
+      "cltk_flat_url": "https://storage.googleapis.com/sefaria-export/cltk-flat/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20I%20Samuel/Hebrew/merged.json"
+    },
+    {
+      "title": "Chomat Anakh on II Chronicles",
+      "language": "Hebrew",
+      "versionTitle": "merged",
+      "categories": [
+        "Tanakh",
+        "Acharonim on Tanakh",
+        "Chida",
+        "Chomat Anakh",
+        "Writings"
+      ],
+      "json_url": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Writings/Chomat%20Anakh%20on%20II%20Chronicles/Hebrew/merged.json",
+      "txt_url": "https://storage.googleapis.com/sefaria-export/txt/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Writings/Chomat%20Anakh%20on%20II%20Chronicles/Hebrew/merged.txt",
+      "cltk_full_url": "https://storage.googleapis.com/sefaria-export/cltk-full/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Writings/Chomat%20Anakh%20on%20II%20Chronicles/Hebrew/merged.json",
+      "cltk_flat_url": "https://storage.googleapis.com/sefaria-export/cltk-flat/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Writings/Chomat%20Anakh%20on%20II%20Chronicles/Hebrew/merged.json"
+    },
+    {
+      "title": "Chomat Anakh on II Kings",
+      "language": "Hebrew",
+      "versionTitle": "merged",
+      "categories": [
+        "Tanakh",
+        "Acharonim on Tanakh",
+        "Chida",
+        "Chomat Anakh",
+        "Prophets"
+      ],
+      "json_url": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20II%20Kings/Hebrew/merged.json",
+      "txt_url": "https://storage.googleapis.com/sefaria-export/txt/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20II%20Kings/Hebrew/merged.txt",
+      "cltk_full_url": "https://storage.googleapis.com/sefaria-export/cltk-full/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20II%20Kings/Hebrew/merged.json",
+      "cltk_flat_url": "https://storage.googleapis.com/sefaria-export/cltk-flat/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20II%20Kings/Hebrew/merged.json"
+    },
+    {
+      "title": "Chomat Anakh on II Samuel",
+      "language": "Hebrew",
+      "versionTitle": "merged",
+      "categories": [
+        "Tanakh",
+        "Acharonim on Tanakh",
+        "Chida",
+        "Chomat Anakh",
+        "Prophets"
+      ],
+      "json_url": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20II%20Samuel/Hebrew/merged.json",
+      "txt_url": "https://storage.googleapis.com/sefaria-export/txt/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20II%20Samuel/Hebrew/merged.txt",
+      "cltk_full_url": "https://storage.googleapis.com/sefaria-export/cltk-full/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20II%20Samuel/Hebrew/merged.json",
+      "cltk_flat_url": "https://storage.googleapis.com/sefaria-export/cltk-flat/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20II%20Samuel/Hebrew/merged.json"
+    },
+    {
+      "title": "Chomat Anakh on Isaiah",
+      "language": "Hebrew",
+      "versionTitle": "merged",
+      "categories": [
+        "Tanakh",
+        "Acharonim on Tanakh",
+        "Chida",
+        "Chomat Anakh",
+        "Prophets"
+      ],
+      "json_url": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20Isaiah/Hebrew/merged.json",
+      "txt_url": "https://storage.googleapis.com/sefaria-export/txt/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20Isaiah/Hebrew/merged.txt",
+      "cltk_full_url": "https://storage.googleapis.com/sefaria-export/cltk-full/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20Isaiah/Hebrew/merged.json",
+      "cltk_flat_url": "https://storage.googleapis.com/sefaria-export/cltk-flat/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20Isaiah/Hebrew/merged.json"
+    },
+    {
+      "title": "Chomat Anakh on Jeremiah",
+      "language": "Hebrew",
+      "versionTitle": "merged",
+      "categories": [
+        "Tanakh",
+        "Acharonim on Tanakh",
+        "Chida",
+        "Chomat Anakh",
+        "Prophets"
+      ],
+      "json_url": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20Jeremiah/Hebrew/merged.json",
+      "txt_url": "https://storage.googleapis.com/sefaria-export/txt/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20Jeremiah/Hebrew/merged.txt",
+      "cltk_full_url": "https://storage.googleapis.com/sefaria-export/cltk-full/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20Jeremiah/Hebrew/merged.json",
+      "cltk_flat_url": "https://storage.googleapis.com/sefaria-export/cltk-flat/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20Jeremiah/Hebrew/merged.json"
+    },
+    {
+      "title": "Chomat Anakh on Job",
+      "language": "Hebrew",
+      "versionTitle": "merged",
+      "categories": [
+        "Tanakh",
+        "Acharonim on Tanakh",
+        "Chida",
+        "Chomat Anakh",
+        "Writings"
+      ],
+      "json_url": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Writings/Chomat%20Anakh%20on%20Job/Hebrew/merged.json",
+      "txt_url": "https://storage.googleapis.com/sefaria-export/txt/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Writings/Chomat%20Anakh%20on%20Job/Hebrew/merged.txt",
+      "cltk_full_url": "https://storage.googleapis.com/sefaria-export/cltk-full/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Writings/Chomat%20Anakh%20on%20Job/Hebrew/merged.json",
+      "cltk_flat_url": "https://storage.googleapis.com/sefaria-export/cltk-flat/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Writings/Chomat%20Anakh%20on%20Job/Hebrew/merged.json"
+    },
+    {
+      "title": "Chomat Anakh on Joel",
+      "language": "Hebrew",
+      "versionTitle": "merged",
+      "categories": [
+        "Tanakh",
+        "Acharonim on Tanakh",
+        "Chida",
+        "Chomat Anakh",
+        "Prophets"
+      ],
+      "json_url": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20Joel/Hebrew/merged.json",
+      "txt_url": "https://storage.googleapis.com/sefaria-export/txt/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20Joel/Hebrew/merged.txt",
+      "cltk_full_url": "https://storage.googleapis.com/sefaria-export/cltk-full/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20Joel/Hebrew/merged.json",
+      "cltk_flat_url": "https://storage.googleapis.com/sefaria-export/cltk-flat/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20Joel/Hebrew/merged.json"
+    },
+    {
+      "title": "Chomat Anakh on Jonah",
+      "language": "Hebrew",
+      "versionTitle": "merged",
+      "categories": [
+        "Tanakh",
+        "Acharonim on Tanakh",
+        "Chida",
+        "Chomat Anakh",
+        "Prophets"
+      ],
+      "json_url": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20Jonah/Hebrew/merged.json",
+      "txt_url": "https://storage.googleapis.com/sefaria-export/txt/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20Jonah/Hebrew/merged.txt",
+      "cltk_full_url": "https://storage.googleapis.com/sefaria-export/cltk-full/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20Jonah/Hebrew/merged.json",
+      "cltk_flat_url": "https://storage.googleapis.com/sefaria-export/cltk-flat/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20Jonah/Hebrew/merged.json"
+    },
+    {
+      "title": "Chomat Anakh on Joshua",
+      "language": "Hebrew",
+      "versionTitle": "merged",
+      "categories": [
+        "Tanakh",
+        "Acharonim on Tanakh",
+        "Chida",
+        "Chomat Anakh",
+        "Prophets"
+      ],
+      "json_url": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20Joshua/Hebrew/merged.json",
+      "txt_url": "https://storage.googleapis.com/sefaria-export/txt/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20Joshua/Hebrew/merged.txt",
+      "cltk_full_url": "https://storage.googleapis.com/sefaria-export/cltk-full/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20Joshua/Hebrew/merged.json",
+      "cltk_flat_url": "https://storage.googleapis.com/sefaria-export/cltk-flat/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20Joshua/Hebrew/merged.json"
+    },
+    {
+      "title": "Chomat Anakh on Judges",
+      "language": "Hebrew",
+      "versionTitle": "merged",
+      "categories": [
+        "Tanakh",
+        "Acharonim on Tanakh",
+        "Chida",
+        "Chomat Anakh",
+        "Prophets"
+      ],
+      "json_url": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20Judges/Hebrew/merged.json",
+      "txt_url": "https://storage.googleapis.com/sefaria-export/txt/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20Judges/Hebrew/merged.txt",
+      "cltk_full_url": "https://storage.googleapis.com/sefaria-export/cltk-full/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20Judges/Hebrew/merged.json",
+      "cltk_flat_url": "https://storage.googleapis.com/sefaria-export/cltk-flat/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20Judges/Hebrew/merged.json"
+    },
+    {
+      "title": "Chomat Anakh on Lamentations",
+      "language": "Hebrew",
+      "versionTitle": "merged",
+      "categories": [
+        "Tanakh",
+        "Acharonim on Tanakh",
+        "Chida",
+        "Chomat Anakh",
+        "Writings"
+      ],
+      "json_url": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Writings/Chomat%20Anakh%20on%20Lamentations/Hebrew/merged.json",
+      "txt_url": "https://storage.googleapis.com/sefaria-export/txt/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Writings/Chomat%20Anakh%20on%20Lamentations/Hebrew/merged.txt",
+      "cltk_full_url": "https://storage.googleapis.com/sefaria-export/cltk-full/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Writings/Chomat%20Anakh%20on%20Lamentations/Hebrew/merged.json",
+      "cltk_flat_url": "https://storage.googleapis.com/sefaria-export/cltk-flat/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Writings/Chomat%20Anakh%20on%20Lamentations/Hebrew/merged.json"
+    },
+    {
+      "title": "Chomat Anakh on Malachi",
+      "language": "Hebrew",
+      "versionTitle": "merged",
+      "categories": [
+        "Tanakh",
+        "Acharonim on Tanakh",
+        "Chida",
+        "Chomat Anakh",
+        "Prophets"
+      ],
+      "json_url": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20Malachi/Hebrew/merged.json",
+      "txt_url": "https://storage.googleapis.com/sefaria-export/txt/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20Malachi/Hebrew/merged.txt",
+      "cltk_full_url": "https://storage.googleapis.com/sefaria-export/cltk-full/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20Malachi/Hebrew/merged.json",
+      "cltk_flat_url": "https://storage.googleapis.com/sefaria-export/cltk-flat/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20Malachi/Hebrew/merged.json"
+    },
+    {
+      "title": "Chomat Anakh on Micah",
+      "language": "Hebrew",
+      "versionTitle": "merged",
+      "categories": [
+        "Tanakh",
+        "Acharonim on Tanakh",
+        "Chida",
+        "Chomat Anakh",
+        "Prophets"
+      ],
+      "json_url": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20Micah/Hebrew/merged.json",
+      "txt_url": "https://storage.googleapis.com/sefaria-export/txt/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20Micah/Hebrew/merged.txt",
+      "cltk_full_url": "https://storage.googleapis.com/sefaria-export/cltk-full/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20Micah/Hebrew/merged.json",
+      "cltk_flat_url": "https://storage.googleapis.com/sefaria-export/cltk-flat/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20Micah/Hebrew/merged.json"
+    },
+    {
+      "title": "Chomat Anakh on Nahum",
+      "language": "Hebrew",
+      "versionTitle": "merged",
+      "categories": [
+        "Tanakh",
+        "Acharonim on Tanakh",
+        "Chida",
+        "Chomat Anakh",
+        "Prophets"
+      ],
+      "json_url": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20Nahum/Hebrew/merged.json",
+      "txt_url": "https://storage.googleapis.com/sefaria-export/txt/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20Nahum/Hebrew/merged.txt",
+      "cltk_full_url": "https://storage.googleapis.com/sefaria-export/cltk-full/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20Nahum/Hebrew/merged.json",
+      "cltk_flat_url": "https://storage.googleapis.com/sefaria-export/cltk-flat/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20Nahum/Hebrew/merged.json"
+    },
+    {
+      "title": "Chomat Anakh on Nehemiah",
+      "language": "Hebrew",
+      "versionTitle": "merged",
+      "categories": [
+        "Tanakh",
+        "Acharonim on Tanakh",
+        "Chida",
+        "Chomat Anakh",
+        "Writings"
+      ],
+      "json_url": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Writings/Chomat%20Anakh%20on%20Nehemiah/Hebrew/merged.json",
+      "txt_url": "https://storage.googleapis.com/sefaria-export/txt/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Writings/Chomat%20Anakh%20on%20Nehemiah/Hebrew/merged.txt",
+      "cltk_full_url": "https://storage.googleapis.com/sefaria-export/cltk-full/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Writings/Chomat%20Anakh%20on%20Nehemiah/Hebrew/merged.json",
+      "cltk_flat_url": "https://storage.googleapis.com/sefaria-export/cltk-flat/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Writings/Chomat%20Anakh%20on%20Nehemiah/Hebrew/merged.json"
+    },
+    {
+      "title": "Chomat Anakh on Obadiah",
+      "language": "Hebrew",
+      "versionTitle": "merged",
+      "categories": [
+        "Tanakh",
+        "Acharonim on Tanakh",
+        "Chida",
+        "Chomat Anakh",
+        "Prophets"
+      ],
+      "json_url": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20Obadiah/Hebrew/merged.json",
+      "txt_url": "https://storage.googleapis.com/sefaria-export/txt/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20Obadiah/Hebrew/merged.txt",
+      "cltk_full_url": "https://storage.googleapis.com/sefaria-export/cltk-full/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20Obadiah/Hebrew/merged.json",
+      "cltk_flat_url": "https://storage.googleapis.com/sefaria-export/cltk-flat/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20Obadiah/Hebrew/merged.json"
+    },
+    {
+      "title": "Chomat Anakh on Proverbs",
+      "language": "Hebrew",
+      "versionTitle": "merged",
+      "categories": [
+        "Tanakh",
+        "Acharonim on Tanakh",
+        "Chida",
+        "Chomat Anakh",
+        "Writings"
+      ],
+      "json_url": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Writings/Chomat%20Anakh%20on%20Proverbs/Hebrew/merged.json",
+      "txt_url": "https://storage.googleapis.com/sefaria-export/txt/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Writings/Chomat%20Anakh%20on%20Proverbs/Hebrew/merged.txt",
+      "cltk_full_url": "https://storage.googleapis.com/sefaria-export/cltk-full/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Writings/Chomat%20Anakh%20on%20Proverbs/Hebrew/merged.json",
+      "cltk_flat_url": "https://storage.googleapis.com/sefaria-export/cltk-flat/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Writings/Chomat%20Anakh%20on%20Proverbs/Hebrew/merged.json"
+    },
+    {
+      "title": "Chomat Anakh on Psalms",
+      "language": "Hebrew",
+      "versionTitle": "merged",
+      "categories": [
+        "Tanakh",
+        "Acharonim on Tanakh",
+        "Chida",
+        "Chomat Anakh",
+        "Writings"
+      ],
+      "json_url": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Writings/Chomat%20Anakh%20on%20Psalms/Hebrew/merged.json",
+      "txt_url": "https://storage.googleapis.com/sefaria-export/txt/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Writings/Chomat%20Anakh%20on%20Psalms/Hebrew/merged.txt",
+      "cltk_full_url": "https://storage.googleapis.com/sefaria-export/cltk-full/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Writings/Chomat%20Anakh%20on%20Psalms/Hebrew/merged.json",
+      "cltk_flat_url": "https://storage.googleapis.com/sefaria-export/cltk-flat/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Writings/Chomat%20Anakh%20on%20Psalms/Hebrew/merged.json"
+    },
+    {
+      "title": "Chomat Anakh on Ruth",
+      "language": "Hebrew",
+      "versionTitle": "merged",
+      "categories": [
+        "Tanakh",
+        "Acharonim on Tanakh",
+        "Chida",
+        "Chomat Anakh",
+        "Writings"
+      ],
+      "json_url": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Writings/Chomat%20Anakh%20on%20Ruth/Hebrew/merged.json",
+      "txt_url": "https://storage.googleapis.com/sefaria-export/txt/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Writings/Chomat%20Anakh%20on%20Ruth/Hebrew/merged.txt",
+      "cltk_full_url": "https://storage.googleapis.com/sefaria-export/cltk-full/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Writings/Chomat%20Anakh%20on%20Ruth/Hebrew/merged.json",
+      "cltk_flat_url": "https://storage.googleapis.com/sefaria-export/cltk-flat/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Writings/Chomat%20Anakh%20on%20Ruth/Hebrew/merged.json"
+    },
+    {
+      "title": "Chomat Anakh on Song of Songs",
+      "language": "Hebrew",
+      "versionTitle": "merged",
+      "categories": [
+        "Tanakh",
+        "Acharonim on Tanakh",
+        "Chida",
+        "Chomat Anakh",
+        "Writings"
+      ],
+      "json_url": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Writings/Chomat%20Anakh%20on%20Song%20of%20Songs/Hebrew/merged.json",
+      "txt_url": "https://storage.googleapis.com/sefaria-export/txt/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Writings/Chomat%20Anakh%20on%20Song%20of%20Songs/Hebrew/merged.txt",
+      "cltk_full_url": "https://storage.googleapis.com/sefaria-export/cltk-full/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Writings/Chomat%20Anakh%20on%20Song%20of%20Songs/Hebrew/merged.json",
+      "cltk_flat_url": "https://storage.googleapis.com/sefaria-export/cltk-flat/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Writings/Chomat%20Anakh%20on%20Song%20of%20Songs/Hebrew/merged.json"
+    },
+    {
+      "title": "Chomat Anakh on Torah",
+      "language": "Hebrew",
+      "versionTitle": "merged",
+      "categories": [
+        "Tanakh",
+        "Acharonim on Tanakh",
+        "Chida",
+        "Chomat Anakh"
+      ],
+      "json_url": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Chomat%20Anakh%20on%20Torah/Hebrew/merged.json",
+      "txt_url": "https://storage.googleapis.com/sefaria-export/txt/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Chomat%20Anakh%20on%20Torah/Hebrew/merged.txt",
+      "cltk_full_url": "https://storage.googleapis.com/sefaria-export/cltk-full/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Chomat%20Anakh%20on%20Torah/Hebrew/merged.json",
+      "cltk_flat_url": "https://storage.googleapis.com/sefaria-export/cltk-flat/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Chomat%20Anakh%20on%20Torah/Hebrew/merged.json"
+    },
+    {
+      "title": "Chomat Anakh on Zechariah",
+      "language": "Hebrew",
+      "versionTitle": "merged",
+      "categories": [
+        "Tanakh",
+        "Acharonim on Tanakh",
+        "Chida",
+        "Chomat Anakh",
+        "Prophets"
+      ],
+      "json_url": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20Zechariah/Hebrew/merged.json",
+      "txt_url": "https://storage.googleapis.com/sefaria-export/txt/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20Zechariah/Hebrew/merged.txt",
+      "cltk_full_url": "https://storage.googleapis.com/sefaria-export/cltk-full/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20Zechariah/Hebrew/merged.json",
+      "cltk_flat_url": "https://storage.googleapis.com/sefaria-export/cltk-flat/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20Zechariah/Hebrew/merged.json"
+    },
+    {
+      "title": "Chomat Anakh on Zephaniah",
+      "language": "Hebrew",
+      "versionTitle": "merged",
+      "categories": [
+        "Tanakh",
+        "Acharonim on Tanakh",
+        "Chida",
+        "Chomat Anakh",
+        "Prophets"
+      ],
+      "json_url": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20Zephaniah/Hebrew/merged.json",
+      "txt_url": "https://storage.googleapis.com/sefaria-export/txt/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20Zephaniah/Hebrew/merged.txt",
+      "cltk_full_url": "https://storage.googleapis.com/sefaria-export/cltk-full/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20Zephaniah/Hebrew/merged.json",
+      "cltk_flat_url": "https://storage.googleapis.com/sefaria-export/cltk-flat/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20Zephaniah/Hebrew/merged.json"
+    },
+    {
+      "title": "Derashat Shabbat HaGadol",
+      "language": "Hebrew",
+      "versionTitle": "merged",
+      "categories": [
+        "Jewish Thought",
+        "Acharonim",
+        "Maharal"
+      ],
+      "json_url": "https://storage.googleapis.com/sefaria-export/json/Jewish%20Thought/Acharonim/Maharal/Derashat%20Shabbat%20HaGadol/Hebrew/merged.json",
+      "txt_url": "https://storage.googleapis.com/sefaria-export/txt/Jewish%20Thought/Acharonim/Maharal/Derashat%20Shabbat%20HaGadol/Hebrew/merged.txt",
+      "cltk_full_url": "https://storage.googleapis.com/sefaria-export/cltk-full/Jewish%20Thought/Acharonim/Maharal/Derashat%20Shabbat%20HaGadol/Hebrew/merged.json",
+      "cltk_flat_url": "https://storage.googleapis.com/sefaria-export/cltk-flat/Jewish%20Thought/Acharonim/Maharal/Derashat%20Shabbat%20HaGadol/Hebrew/merged.json"
+    },
+    {
+      "title": "Derush al HaTorah",
+      "language": "Hebrew",
+      "versionTitle": "merged",
+      "categories": [
+        "Jewish Thought",
+        "Acharonim",
+        "Maharal"
+      ],
+      "json_url": "https://storage.googleapis.com/sefaria-export/json/Jewish%20Thought/Acharonim/Maharal/Derush%20al%20HaTorah/Hebrew/merged.json",
+      "txt_url": "https://storage.googleapis.com/sefaria-export/txt/Jewish%20Thought/Acharonim/Maharal/Derush%20al%20HaTorah/Hebrew/merged.txt",
+      "cltk_full_url": "https://storage.googleapis.com/sefaria-export/cltk-full/Jewish%20Thought/Acharonim/Maharal/Derush%20al%20HaTorah/Hebrew/merged.json",
+      "cltk_flat_url": "https://storage.googleapis.com/sefaria-export/cltk-flat/Jewish%20Thought/Acharonim/Maharal/Derush%20al%20HaTorah/Hebrew/merged.json"
+    },
+    {
+      "title": "Devash LeFi",
+      "language": "Hebrew",
+      "versionTitle": "merged",
+      "categories": [
+        "Reference",
+        "Encyclopedic Works"
+      ],
+      "json_url": "https://storage.googleapis.com/sefaria-export/json/Reference/Encyclopedic%20Works/Devash%20LeFi/Hebrew/merged.json",
+      "txt_url": "https://storage.googleapis.com/sefaria-export/txt/Reference/Encyclopedic%20Works/Devash%20LeFi/Hebrew/merged.txt",
+      "cltk_full_url": "https://storage.googleapis.com/sefaria-export/cltk-full/Reference/Encyclopedic%20Works/Devash%20LeFi/Hebrew/merged.json",
+      "cltk_flat_url": "https://storage.googleapis.com/sefaria-export/cltk-flat/Reference/Encyclopedic%20Works/Devash%20LeFi/Hebrew/merged.json"
+    },
+    {
+      "title": "Drashot Maharal",
+      "language": "Hebrew",
+      "versionTitle": "merged",
+      "categories": [
+        "Jewish Thought",
+        "Acharonim",
+        "Maharal"
+      ],
+      "json_url": "https://storage.googleapis.com/sefaria-export/json/Jewish%20Thought/Acharonim/Maharal/Drashot%20Maharal/Hebrew/merged.json",
+      "txt_url": "https://storage.googleapis.com/sefaria-export/txt/Jewish%20Thought/Acharonim/Maharal/Drashot%20Maharal/Hebrew/merged.txt",
+      "cltk_full_url": "https://storage.googleapis.com/sefaria-export/cltk-full/Jewish%20Thought/Acharonim/Maharal/Drashot%20Maharal/Hebrew/merged.json",
+      "cltk_flat_url": "https://storage.googleapis.com/sefaria-export/cltk-flat/Jewish%20Thought/Acharonim/Maharal/Drashot%20Maharal/Hebrew/merged.json"
+    },
+    {
+      "title": "Gevurot Hashem",
+      "language": "Hebrew",
+      "versionTitle": "merged",
+      "categories": [
+        "Jewish Thought",
+        "Acharonim",
+        "Maharal"
+      ],
+      "json_url": "https://storage.googleapis.com/sefaria-export/json/Jewish%20Thought/Acharonim/Maharal/Gevurot%20Hashem/Hebrew/merged.json",
+      "txt_url": "https://storage.googleapis.com/sefaria-export/txt/Jewish%20Thought/Acharonim/Maharal/Gevurot%20Hashem/Hebrew/merged.txt",
+      "cltk_full_url": "https://storage.googleapis.com/sefaria-export/cltk-full/Jewish%20Thought/Acharonim/Maharal/Gevurot%20Hashem/Hebrew/merged.json",
+      "cltk_flat_url": "https://storage.googleapis.com/sefaria-export/cltk-flat/Jewish%20Thought/Acharonim/Maharal/Gevurot%20Hashem/Hebrew/merged.json"
+    },
+    {
+      "title": "Midbar Kedemot",
+      "language": "Hebrew",
+      "versionTitle": "merged",
+      "categories": [
+        "Reference",
+        "Encyclopedic Works"
+      ],
+      "json_url": "https://storage.googleapis.com/sefaria-export/json/Reference/Encyclopedic%20Works/Midbar%20Kedemot/Hebrew/merged.json",
+      "txt_url": "https://storage.googleapis.com/sefaria-export/txt/Reference/Encyclopedic%20Works/Midbar%20Kedemot/Hebrew/merged.txt",
+      "cltk_full_url": "https://storage.googleapis.com/sefaria-export/cltk-full/Reference/Encyclopedic%20Works/Midbar%20Kedemot/Hebrew/merged.json",
+      "cltk_flat_url": "https://storage.googleapis.com/sefaria-export/cltk-flat/Reference/Encyclopedic%20Works/Midbar%20Kedemot/Hebrew/merged.json"
+    },
+    {
+      "title": "Nachal Eshkol on Ecclesiastes",
+      "language": "Hebrew",
+      "versionTitle": "merged",
+      "categories": [
+        "Tanakh",
+        "Acharonim on Tanakh",
+        "Chida",
+        "Nachal Eshkol"
+      ],
+      "json_url": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Acharonim%20on%20Tanakh/Chida/Nachal%20Eshkol/Nachal%20Eshkol%20on%20Ecclesiastes/Hebrew/merged.json",
+      "txt_url": "https://storage.googleapis.com/sefaria-export/txt/Tanakh/Acharonim%20on%20Tanakh/Chida/Nachal%20Eshkol/Nachal%20Eshkol%20on%20Ecclesiastes/Hebrew/merged.txt",
+      "cltk_full_url": "https://storage.googleapis.com/sefaria-export/cltk-full/Tanakh/Acharonim%20on%20Tanakh/Chida/Nachal%20Eshkol/Nachal%20Eshkol%20on%20Ecclesiastes/Hebrew/merged.json",
+      "cltk_flat_url": "https://storage.googleapis.com/sefaria-export/cltk-flat/Tanakh/Acharonim%20on%20Tanakh/Chida/Nachal%20Eshkol/Nachal%20Eshkol%20on%20Ecclesiastes/Hebrew/merged.json"
+    },
+    {
+      "title": "Nachal Eshkol on Esther",
+      "language": "Hebrew",
+      "versionTitle": "merged",
+      "categories": [
+        "Tanakh",
+        "Acharonim on Tanakh",
+        "Chida",
+        "Nachal Eshkol"
+      ],
+      "json_url": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Acharonim%20on%20Tanakh/Chida/Nachal%20Eshkol/Nachal%20Eshkol%20on%20Esther/Hebrew/merged.json",
+      "txt_url": "https://storage.googleapis.com/sefaria-export/txt/Tanakh/Acharonim%20on%20Tanakh/Chida/Nachal%20Eshkol/Nachal%20Eshkol%20on%20Esther/Hebrew/merged.txt",
+      "cltk_full_url": "https://storage.googleapis.com/sefaria-export/cltk-full/Tanakh/Acharonim%20on%20Tanakh/Chida/Nachal%20Eshkol/Nachal%20Eshkol%20on%20Esther/Hebrew/merged.json",
+      "cltk_flat_url": "https://storage.googleapis.com/sefaria-export/cltk-flat/Tanakh/Acharonim%20on%20Tanakh/Chida/Nachal%20Eshkol/Nachal%20Eshkol%20on%20Esther/Hebrew/merged.json"
+    },
+    {
+      "title": "Nachal Eshkol on Lamentations",
+      "language": "Hebrew",
+      "versionTitle": "merged",
+      "categories": [
+        "Tanakh",
+        "Acharonim on Tanakh",
+        "Chida",
+        "Nachal Eshkol"
+      ],
+      "json_url": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Acharonim%20on%20Tanakh/Chida/Nachal%20Eshkol/Nachal%20Eshkol%20on%20Lamentations/Hebrew/merged.json",
+      "txt_url": "https://storage.googleapis.com/sefaria-export/txt/Tanakh/Acharonim%20on%20Tanakh/Chida/Nachal%20Eshkol/Nachal%20Eshkol%20on%20Lamentations/Hebrew/merged.txt",
+      "cltk_full_url": "https://storage.googleapis.com/sefaria-export/cltk-full/Tanakh/Acharonim%20on%20Tanakh/Chida/Nachal%20Eshkol/Nachal%20Eshkol%20on%20Lamentations/Hebrew/merged.json",
+      "cltk_flat_url": "https://storage.googleapis.com/sefaria-export/cltk-flat/Tanakh/Acharonim%20on%20Tanakh/Chida/Nachal%20Eshkol/Nachal%20Eshkol%20on%20Lamentations/Hebrew/merged.json"
+    },
+    {
+      "title": "Nachal Eshkol on Ruth",
+      "language": "Hebrew",
+      "versionTitle": "merged",
+      "categories": [
+        "Tanakh",
+        "Acharonim on Tanakh",
+        "Chida",
+        "Nachal Eshkol"
+      ],
+      "json_url": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Acharonim%20on%20Tanakh/Chida/Nachal%20Eshkol/Nachal%20Eshkol%20on%20Ruth/Hebrew/merged.json",
+      "txt_url": "https://storage.googleapis.com/sefaria-export/txt/Tanakh/Acharonim%20on%20Tanakh/Chida/Nachal%20Eshkol/Nachal%20Eshkol%20on%20Ruth/Hebrew/merged.txt",
+      "cltk_full_url": "https://storage.googleapis.com/sefaria-export/cltk-full/Tanakh/Acharonim%20on%20Tanakh/Chida/Nachal%20Eshkol/Nachal%20Eshkol%20on%20Ruth/Hebrew/merged.json",
+      "cltk_flat_url": "https://storage.googleapis.com/sefaria-export/cltk-flat/Tanakh/Acharonim%20on%20Tanakh/Chida/Nachal%20Eshkol/Nachal%20Eshkol%20on%20Ruth/Hebrew/merged.json"
+    },
+    {
+      "title": "Nachal Eshkol on Song of Songs",
+      "language": "Hebrew",
+      "versionTitle": "merged",
+      "categories": [
+        "Tanakh",
+        "Acharonim on Tanakh",
+        "Chida",
+        "Nachal Eshkol"
+      ],
+      "json_url": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Acharonim%20on%20Tanakh/Chida/Nachal%20Eshkol/Nachal%20Eshkol%20on%20Song%20of%20Songs/Hebrew/merged.json",
+      "txt_url": "https://storage.googleapis.com/sefaria-export/txt/Tanakh/Acharonim%20on%20Tanakh/Chida/Nachal%20Eshkol/Nachal%20Eshkol%20on%20Song%20of%20Songs/Hebrew/merged.txt",
+      "cltk_full_url": "https://storage.googleapis.com/sefaria-export/cltk-full/Tanakh/Acharonim%20on%20Tanakh/Chida/Nachal%20Eshkol/Nachal%20Eshkol%20on%20Song%20of%20Songs/Hebrew/merged.json",
+      "cltk_flat_url": "https://storage.googleapis.com/sefaria-export/cltk-flat/Tanakh/Acharonim%20on%20Tanakh/Chida/Nachal%20Eshkol/Nachal%20Eshkol%20on%20Song%20of%20Songs/Hebrew/merged.json"
+    },
+    {
+      "title": "Nachal Kedumim on Torah",
+      "language": "Hebrew",
+      "versionTitle": "merged",
+      "categories": [
+        "Tanakh",
+        "Acharonim on Tanakh",
+        "Chida"
+      ],
+      "json_url": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Acharonim%20on%20Tanakh/Chida/Nachal%20Kedumim%20on%20Torah/Hebrew/merged.json",
+      "txt_url": "https://storage.googleapis.com/sefaria-export/txt/Tanakh/Acharonim%20on%20Tanakh/Chida/Nachal%20Kedumim%20on%20Torah/Hebrew/merged.txt",
+      "cltk_full_url": "https://storage.googleapis.com/sefaria-export/cltk-full/Tanakh/Acharonim%20on%20Tanakh/Chida/Nachal%20Kedumim%20on%20Torah/Hebrew/merged.json",
+      "cltk_flat_url": "https://storage.googleapis.com/sefaria-export/cltk-flat/Tanakh/Acharonim%20on%20Tanakh/Chida/Nachal%20Kedumim%20on%20Torah/Hebrew/merged.json"
+    },
+    {
+      "title": "Nachal Sorek",
+      "language": "Hebrew",
+      "versionTitle": "merged",
+      "categories": [
+        "Tanakh",
+        "Acharonim on Tanakh",
+        "Chida"
+      ],
+      "json_url": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Acharonim%20on%20Tanakh/Chida/Nachal%20Sorek/Hebrew/merged.json",
+      "txt_url": "https://storage.googleapis.com/sefaria-export/txt/Tanakh/Acharonim%20on%20Tanakh/Chida/Nachal%20Sorek/Hebrew/merged.txt",
+      "cltk_full_url": "https://storage.googleapis.com/sefaria-export/cltk-full/Tanakh/Acharonim%20on%20Tanakh/Chida/Nachal%20Sorek/Hebrew/merged.json",
+      "cltk_flat_url": "https://storage.googleapis.com/sefaria-export/cltk-flat/Tanakh/Acharonim%20on%20Tanakh/Chida/Nachal%20Sorek/Hebrew/merged.json"
+    },
+    {
+      "title": "Ner Mitzvah",
+      "language": "Hebrew",
+      "versionTitle": "merged",
+      "categories": [
+        "Jewish Thought",
+        "Acharonim",
+        "Maharal"
+      ],
+      "json_url": "https://storage.googleapis.com/sefaria-export/json/Jewish%20Thought/Acharonim/Maharal/Ner%20Mitzvah/Hebrew/merged.json",
+      "txt_url": "https://storage.googleapis.com/sefaria-export/txt/Jewish%20Thought/Acharonim/Maharal/Ner%20Mitzvah/Hebrew/merged.txt",
+      "cltk_full_url": "https://storage.googleapis.com/sefaria-export/cltk-full/Jewish%20Thought/Acharonim/Maharal/Ner%20Mitzvah/Hebrew/merged.json",
+      "cltk_flat_url": "https://storage.googleapis.com/sefaria-export/cltk-flat/Jewish%20Thought/Acharonim/Maharal/Ner%20Mitzvah/Hebrew/merged.json"
+    },
+    {
+      "title": "Netivot Olam",
+      "language": "Hebrew",
+      "versionTitle": "merged",
+      "categories": [
+        "Jewish Thought",
+        "Acharonim",
+        "Maharal"
+      ],
+      "json_url": "https://storage.googleapis.com/sefaria-export/json/Jewish%20Thought/Acharonim/Maharal/Netivot%20Olam/Hebrew/merged.json",
+      "txt_url": "https://storage.googleapis.com/sefaria-export/txt/Jewish%20Thought/Acharonim/Maharal/Netivot%20Olam/Hebrew/merged.txt",
+      "cltk_full_url": "https://storage.googleapis.com/sefaria-export/cltk-full/Jewish%20Thought/Acharonim/Maharal/Netivot%20Olam/Hebrew/merged.json",
+      "cltk_flat_url": "https://storage.googleapis.com/sefaria-export/cltk-flat/Jewish%20Thought/Acharonim/Maharal/Netivot%20Olam/Hebrew/merged.json"
+    },
+    {
+      "title": "Netzach Yisrael",
+      "language": "Hebrew",
+      "versionTitle": "merged",
+      "categories": [
+        "Jewish Thought",
+        "Acharonim",
+        "Maharal"
+      ],
+      "json_url": "https://storage.googleapis.com/sefaria-export/json/Jewish%20Thought/Acharonim/Maharal/Netzach%20Yisrael/Hebrew/merged.json",
+      "txt_url": "https://storage.googleapis.com/sefaria-export/txt/Jewish%20Thought/Acharonim/Maharal/Netzach%20Yisrael/Hebrew/merged.txt",
+      "cltk_full_url": "https://storage.googleapis.com/sefaria-export/cltk-full/Jewish%20Thought/Acharonim/Maharal/Netzach%20Yisrael/Hebrew/merged.json",
+      "cltk_flat_url": "https://storage.googleapis.com/sefaria-export/cltk-flat/Jewish%20Thought/Acharonim/Maharal/Netzach%20Yisrael/Hebrew/merged.json"
+    },
+    {
+      "title": "Penei David",
+      "language": "Hebrew",
+      "versionTitle": "merged",
+      "categories": [
+        "Tanakh",
+        "Acharonim on Tanakh",
+        "Chida"
+      ],
+      "json_url": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Acharonim%20on%20Tanakh/Chida/Penei%20David/Hebrew/merged.json",
+      "txt_url": "https://storage.googleapis.com/sefaria-export/txt/Tanakh/Acharonim%20on%20Tanakh/Chida/Penei%20David/Hebrew/merged.txt",
+      "cltk_full_url": "https://storage.googleapis.com/sefaria-export/cltk-full/Tanakh/Acharonim%20on%20Tanakh/Chida/Penei%20David/Hebrew/merged.json",
+      "cltk_flat_url": "https://storage.googleapis.com/sefaria-export/cltk-flat/Tanakh/Acharonim%20on%20Tanakh/Chida/Penei%20David/Hebrew/merged.json"
+    },
+    {
+      "title": "Petach Einayim on Arakhin",
+      "language": "Hebrew",
+      "versionTitle": "merged",
+      "categories": [
+        "Talmud",
+        "Bavli",
+        "Acharonim on Talmud",
+        "Petach Einayim",
+        "Seder Kodashim"
+      ],
+      "json_url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Acharonim%20on%20Talmud/Petach%20Einayim/Seder%20Kodashim/Petach%20Einayim%20on%20Arakhin/Hebrew/merged.json",
+      "txt_url": "https://storage.googleapis.com/sefaria-export/txt/Talmud/Bavli/Acharonim%20on%20Talmud/Petach%20Einayim/Seder%20Kodashim/Petach%20Einayim%20on%20Arakhin/Hebrew/merged.txt",
+      "cltk_full_url": "https://storage.googleapis.com/sefaria-export/cltk-full/Talmud/Bavli/Acharonim%20on%20Talmud/Petach%20Einayim/Seder%20Kodashim/Petach%20Einayim%20on%20Arakhin/Hebrew/merged.json",
+      "cltk_flat_url": "https://storage.googleapis.com/sefaria-export/cltk-flat/Talmud/Bavli/Acharonim%20on%20Talmud/Petach%20Einayim/Seder%20Kodashim/Petach%20Einayim%20on%20Arakhin/Hebrew/merged.json"
+    },
+    {
+      "title": "Petach Einayim on Avodah Zarah",
+      "language": "Hebrew",
+      "versionTitle": "merged",
+      "categories": [
+        "Talmud",
+        "Bavli",
+        "Acharonim on Talmud",
+        "Petach Einayim",
+        "Seder Nezikin"
+      ],
+      "json_url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Acharonim%20on%20Talmud/Petach%20Einayim/Seder%20Nezikin/Petach%20Einayim%20on%20Avodah%20Zarah/Hebrew/merged.json",
+      "txt_url": "https://storage.googleapis.com/sefaria-export/txt/Talmud/Bavli/Acharonim%20on%20Talmud/Petach%20Einayim/Seder%20Nezikin/Petach%20Einayim%20on%20Avodah%20Zarah/Hebrew/merged.txt",
+      "cltk_full_url": "https://storage.googleapis.com/sefaria-export/cltk-full/Talmud/Bavli/Acharonim%20on%20Talmud/Petach%20Einayim/Seder%20Nezikin/Petach%20Einayim%20on%20Avodah%20Zarah/Hebrew/merged.json",
+      "cltk_flat_url": "https://storage.googleapis.com/sefaria-export/cltk-flat/Talmud/Bavli/Acharonim%20on%20Talmud/Petach%20Einayim/Seder%20Nezikin/Petach%20Einayim%20on%20Avodah%20Zarah/Hebrew/merged.json"
+    },
+    {
+      "title": "Petach Einayim on Bava Batra",
+      "language": "Hebrew",
+      "versionTitle": "merged",
+      "categories": [
+        "Talmud",
+        "Bavli",
+        "Acharonim on Talmud",
+        "Petach Einayim",
+        "Seder Nezikin"
+      ],
+      "json_url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Acharonim%20on%20Talmud/Petach%20Einayim/Seder%20Nezikin/Petach%20Einayim%20on%20Bava%20Batra/Hebrew/merged.json",
+      "txt_url": "https://storage.googleapis.com/sefaria-export/txt/Talmud/Bavli/Acharonim%20on%20Talmud/Petach%20Einayim/Seder%20Nezikin/Petach%20Einayim%20on%20Bava%20Batra/Hebrew/merged.txt",
+      "cltk_full_url": "https://storage.googleapis.com/sefaria-export/cltk-full/Talmud/Bavli/Acharonim%20on%20Talmud/Petach%20Einayim/Seder%20Nezikin/Petach%20Einayim%20on%20Bava%20Batra/Hebrew/merged.json",
+      "cltk_flat_url": "https://storage.googleapis.com/sefaria-export/cltk-flat/Talmud/Bavli/Acharonim%20on%20Talmud/Petach%20Einayim/Seder%20Nezikin/Petach%20Einayim%20on%20Bava%20Batra/Hebrew/merged.json"
+    },
+    {
+      "title": "Petach Einayim on Bava Kamma",
+      "language": "Hebrew",
+      "versionTitle": "merged",
+      "categories": [
+        "Talmud",
+        "Bavli",
+        "Acharonim on Talmud",
+        "Petach Einayim",
+        "Seder Nezikin"
+      ],
+      "json_url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Acharonim%20on%20Talmud/Petach%20Einayim/Seder%20Nezikin/Petach%20Einayim%20on%20Bava%20Kamma/Hebrew/merged.json",
+      "txt_url": "https://storage.googleapis.com/sefaria-export/txt/Talmud/Bavli/Acharonim%20on%20Talmud/Petach%20Einayim/Seder%20Nezikin/Petach%20Einayim%20on%20Bava%20Kamma/Hebrew/merged.txt",
+      "cltk_full_url": "https://storage.googleapis.com/sefaria-export/cltk-full/Talmud/Bavli/Acharonim%20on%20Talmud/Petach%20Einayim/Seder%20Nezikin/Petach%20Einayim%20on%20Bava%20Kamma/Hebrew/merged.json",
+      "cltk_flat_url": "https://storage.googleapis.com/sefaria-export/cltk-flat/Talmud/Bavli/Acharonim%20on%20Talmud/Petach%20Einayim/Seder%20Nezikin/Petach%20Einayim%20on%20Bava%20Kamma/Hebrew/merged.json"
+    },
+    {
+      "title": "Petach Einayim on Bava Metzia",
+      "language": "Hebrew",
+      "versionTitle": "merged",
+      "categories": [
+        "Talmud",
+        "Bavli",
+        "Acharonim on Talmud",
+        "Petach Einayim",
+        "Seder Nezikin"
+      ],
+      "json_url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Acharonim%20on%20Talmud/Petach%20Einayim/Seder%20Nezikin/Petach%20Einayim%20on%20Bava%20Metzia/Hebrew/merged.json",
+      "txt_url": "https://storage.googleapis.com/sefaria-export/txt/Talmud/Bavli/Acharonim%20on%20Talmud/Petach%20Einayim/Seder%20Nezikin/Petach%20Einayim%20on%20Bava%20Metzia/Hebrew/merged.txt",
+      "cltk_full_url": "https://storage.googleapis.com/sefaria-export/cltk-full/Talmud/Bavli/Acharonim%20on%20Talmud/Petach%20Einayim/Seder%20Nezikin/Petach%20Einayim%20on%20Bava%20Metzia/Hebrew/merged.json",
+      "cltk_flat_url": "https://storage.googleapis.com/sefaria-export/cltk-flat/Talmud/Bavli/Acharonim%20on%20Talmud/Petach%20Einayim/Seder%20Nezikin/Petach%20Einayim%20on%20Bava%20Metzia/Hebrew/merged.json"
+    },
+    {
+      "title": "Petach Einayim on Beitzah",
+      "language": "Hebrew",
+      "versionTitle": "merged",
+      "categories": [
+        "Talmud",
+        "Bavli",
+        "Acharonim on Talmud",
+        "Petach Einayim",
+        "Seder Moed"
+      ],
+      "json_url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Acharonim%20on%20Talmud/Petach%20Einayim/Seder%20Moed/Petach%20Einayim%20on%20Beitzah/Hebrew/merged.json",
+      "txt_url": "https://storage.googleapis.com/sefaria-export/txt/Talmud/Bavli/Acharonim%20on%20Talmud/Petach%20Einayim/Seder%20Moed/Petach%20Einayim%20on%20Beitzah/Hebrew/merged.txt",
+      "cltk_full_url": "https://storage.googleapis.com/sefaria-export/cltk-full/Talmud/Bavli/Acharonim%20on%20Talmud/Petach%20Einayim/Seder%20Moed/Petach%20Einayim%20on%20Beitzah/Hebrew/merged.json",
+      "cltk_flat_url": "https://storage.googleapis.com/sefaria-export/cltk-flat/Talmud/Bavli/Acharonim%20on%20Talmud/Petach%20Einayim/Seder%20Moed/Petach%20Einayim%20on%20Beitzah/Hebrew/merged.json"
+    },
+    {
+      "title": "Petach Einayim on Bekhorot",
+      "language": "Hebrew",
+      "versionTitle": "merged",
+      "categories": [
+        "Talmud",
+        "Bavli",
+        "Acharonim on Talmud",
+        "Petach Einayim",
+        "Seder Kodashim"
+      ],
+      "json_url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Acharonim%20on%20Talmud/Petach%20Einayim/Seder%20Kodashim/Petach%20Einayim%20on%20Bekhorot/Hebrew/merged.json",
+      "txt_url": "https://storage.googleapis.com/sefaria-export/txt/Talmud/Bavli/Acharonim%20on%20Talmud/Petach%20Einayim/Seder%20Kodashim/Petach%20Einayim%20on%20Bekhorot/Hebrew/merged.txt",
+      "cltk_full_url": "https://storage.googleapis.com/sefaria-export/cltk-full/Talmud/Bavli/Acharonim%20on%20Talmud/Petach%20Einayim/Seder%20Kodashim/Petach%20Einayim%20on%20Bekhorot/Hebrew/merged.json",
+      "cltk_flat_url": "https://storage.googleapis.com/sefaria-export/cltk-flat/Talmud/Bavli/Acharonim%20on%20Talmud/Petach%20Einayim/Seder%20Kodashim/Petach%20Einayim%20on%20Bekhorot/Hebrew/merged.json"
+    },
+    {
+      "title": "Petach Einayim on Berakhot",
+      "language": "Hebrew",
+      "versionTitle": "merged",
+      "categories": [
+        "Talmud",
+        "Bavli",
+        "Acharonim on Talmud",
+        "Petach Einayim",
+        "Seder Zeraim"
+      ],
+      "json_url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Acharonim%20on%20Talmud/Petach%20Einayim/Seder%20Zeraim/Petach%20Einayim%20on%20Berakhot/Hebrew/merged.json",
+      "txt_url": "https://storage.googleapis.com/sefaria-export/txt/Talmud/Bavli/Acharonim%20on%20Talmud/Petach%20Einayim/Seder%20Zeraim/Petach%20Einayim%20on%20Berakhot/Hebrew/merged.txt",
+      "cltk_full_url": "https://storage.googleapis.com/sefaria-export/cltk-full/Talmud/Bavli/Acharonim%20on%20Talmud/Petach%20Einayim/Seder%20Zeraim/Petach%20Einayim%20on%20Berakhot/Hebrew/merged.json",
+      "cltk_flat_url": "https://storage.googleapis.com/sefaria-export/cltk-flat/Talmud/Bavli/Acharonim%20on%20Talmud/Petach%20Einayim/Seder%20Zeraim/Petach%20Einayim%20on%20Berakhot/Hebrew/merged.json"
+    },
+    {
+      "title": "Petach Einayim on Chagigah",
+      "language": "Hebrew",
+      "versionTitle": "merged",
+      "categories": [
+        "Talmud",
+        "Bavli",
+        "Acharonim on Talmud",
+        "Petach Einayim",
+        "Seder Moed"
+      ],
+      "json_url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Acharonim%20on%20Talmud/Petach%20Einayim/Seder%20Moed/Petach%20Einayim%20on%20Chagigah/Hebrew/merged.json",
+      "txt_url": "https://storage.googleapis.com/sefaria-export/txt/Talmud/Bavli/Acharonim%20on%20Talmud/Petach%20Einayim/Seder%20Moed/Petach%20Einayim%20on%20Chagigah/Hebrew/merged.txt",
+      "cltk_full_url": "https://storage.googleapis.com/sefaria-export/cltk-full/Talmud/Bavli/Acharonim%20on%20Talmud/Petach%20Einayim/Seder%20Moed/Petach%20Einayim%20on%20Chagigah/Hebrew/merged.json",
+      "cltk_flat_url": "https://storage.googleapis.com/sefaria-export/cltk-flat/Talmud/Bavli/Acharonim%20on%20Talmud/Petach%20Einayim/Seder%20Moed/Petach%20Einayim%20on%20Chagigah/Hebrew/merged.json"
+    },
+    {
+      "title": "Petach Einayim on Chullin",
+      "language": "Hebrew",
+      "versionTitle": "merged",
+      "categories": [
+        "Talmud",
+        "Bavli",
+        "Acharonim on Talmud",
+        "Petach Einayim",
+        "Seder Kodashim"
+      ],
+      "json_url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Acharonim%20on%20Talmud/Petach%20Einayim/Seder%20Kodashim/Petach%20Einayim%20on%20Chullin/Hebrew/merged.json",
+      "txt_url": "https://storage.googleapis.com/sefaria-export/txt/Talmud/Bavli/Acharonim%20on%20Talmud/Petach%20Einayim/Seder%20Kodashim/Petach%20Einayim%20on%20Chullin/Hebrew/merged.txt",
+      "cltk_full_url": "https://storage.googleapis.com/sefaria-export/cltk-full/Talmud/Bavli/Acharonim%20on%20Talmud/Petach%20Einayim/Seder%20Kodashim/Petach%20Einayim%20on%20Chullin/Hebrew/merged.json",
+      "cltk_flat_url": "https://storage.googleapis.com/sefaria-export/cltk-flat/Talmud/Bavli/Acharonim%20on%20Talmud/Petach%20Einayim/Seder%20Kodashim/Petach%20Einayim%20on%20Chullin/Hebrew/merged.json"
+    },
+    {
+      "title": "Petach Einayim on Eruvin",
+      "language": "Hebrew",
+      "versionTitle": "merged",
+      "categories": [
+        "Talmud",
+        "Bavli",
+        "Acharonim on Talmud",
+        "Petach Einayim",
+        "Seder Moed"
+      ],
+      "json_url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Acharonim%20on%20Talmud/Petach%20Einayim/Seder%20Moed/Petach%20Einayim%20on%20Eruvin/Hebrew/merged.json",
+      "txt_url": "https://storage.googleapis.com/sefaria-export/txt/Talmud/Bavli/Acharonim%20on%20Talmud/Petach%20Einayim/Seder%20Moed/Petach%20Einayim%20on%20Eruvin/Hebrew/merged.txt",
+      "cltk_full_url": "https://storage.googleapis.com/sefaria-export/cltk-full/Talmud/Bavli/Acharonim%20on%20Talmud/Petach%20Einayim/Seder%20Moed/Petach%20Einayim%20on%20Eruvin/Hebrew/merged.json",
+      "cltk_flat_url": "https://storage.googleapis.com/sefaria-export/cltk-flat/Talmud/Bavli/Acharonim%20on%20Talmud/Petach%20Einayim/Seder%20Moed/Petach%20Einayim%20on%20Eruvin/Hebrew/merged.json"
+    },
+    {
+      "title": "Petach Einayim on Gittin",
+      "language": "Hebrew",
+      "versionTitle": "merged",
+      "categories": [
+        "Talmud",
+        "Bavli",
+        "Acharonim on Talmud",
+        "Petach Einayim",
+        "Seder Nashim"
+      ],
+      "json_url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Acharonim%20on%20Talmud/Petach%20Einayim/Seder%20Nashim/Petach%20Einayim%20on%20Gittin/Hebrew/merged.json",
+      "txt_url": "https://storage.googleapis.com/sefaria-export/txt/Talmud/Bavli/Acharonim%20on%20Talmud/Petach%20Einayim/Seder%20Nashim/Petach%20Einayim%20on%20Gittin/Hebrew/merged.txt",
+      "cltk_full_url": "https://storage.googleapis.com/sefaria-export/cltk-full/Talmud/Bavli/Acharonim%20on%20Talmud/Petach%20Einayim/Seder%20Nashim/Petach%20Einayim%20on%20Gittin/Hebrew/merged.json",
+      "cltk_flat_url": "https://storage.googleapis.com/sefaria-export/cltk-flat/Talmud/Bavli/Acharonim%20on%20Talmud/Petach%20Einayim/Seder%20Nashim/Petach%20Einayim%20on%20Gittin/Hebrew/merged.json"
+    },
+    {
+      "title": "Petach Einayim on Horayot",
+      "language": "Hebrew",
+      "versionTitle": "merged",
+      "categories": [
+        "Talmud",
+        "Bavli",
+        "Acharonim on Talmud",
+        "Petach Einayim",
+        "Seder Nezikin"
+      ],
+      "json_url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Acharonim%20on%20Talmud/Petach%20Einayim/Seder%20Nezikin/Petach%20Einayim%20on%20Horayot/Hebrew/merged.json",
+      "txt_url": "https://storage.googleapis.com/sefaria-export/txt/Talmud/Bavli/Acharonim%20on%20Talmud/Petach%20Einayim/Seder%20Nezikin/Petach%20Einayim%20on%20Horayot/Hebrew/merged.txt",
+      "cltk_full_url": "https://storage.googleapis.com/sefaria-export/cltk-full/Talmud/Bavli/Acharonim%20on%20Talmud/Petach%20Einayim/Seder%20Nezikin/Petach%20Einayim%20on%20Horayot/Hebrew/merged.json",
+      "cltk_flat_url": "https://storage.googleapis.com/sefaria-export/cltk-flat/Talmud/Bavli/Acharonim%20on%20Talmud/Petach%20Einayim/Seder%20Nezikin/Petach%20Einayim%20on%20Horayot/Hebrew/merged.json"
+    },
+    {
+      "title": "Petach Einayim on Keritot",
+      "language": "Hebrew",
+      "versionTitle": "merged",
+      "categories": [
+        "Talmud",
+        "Bavli",
+        "Acharonim on Talmud",
+        "Petach Einayim",
+        "Seder Kodashim"
+      ],
+      "json_url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Acharonim%20on%20Talmud/Petach%20Einayim/Seder%20Kodashim/Petach%20Einayim%20on%20Keritot/Hebrew/merged.json",
+      "txt_url": "https://storage.googleapis.com/sefaria-export/txt/Talmud/Bavli/Acharonim%20on%20Talmud/Petach%20Einayim/Seder%20Kodashim/Petach%20Einayim%20on%20Keritot/Hebrew/merged.txt",
+      "cltk_full_url": "https://storage.googleapis.com/sefaria-export/cltk-full/Talmud/Bavli/Acharonim%20on%20Talmud/Petach%20Einayim/Seder%20Kodashim/Petach%20Einayim%20on%20Keritot/Hebrew/merged.json",
+      "cltk_flat_url": "https://storage.googleapis.com/sefaria-export/cltk-flat/Talmud/Bavli/Acharonim%20on%20Talmud/Petach%20Einayim/Seder%20Kodashim/Petach%20Einayim%20on%20Keritot/Hebrew/merged.json"
+    },
+    {
+      "title": "Petach Einayim on Ketubot",
+      "language": "Hebrew",
+      "versionTitle": "merged",
+      "categories": [
+        "Talmud",
+        "Bavli",
+        "Acharonim on Talmud",
+        "Petach Einayim",
+        "Seder Nashim"
+      ],
+      "json_url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Acharonim%20on%20Talmud/Petach%20Einayim/Seder%20Nashim/Petach%20Einayim%20on%20Ketubot/Hebrew/merged.json",
+      "txt_url": "https://storage.googleapis.com/sefaria-export/txt/Talmud/Bavli/Acharonim%20on%20Talmud/Petach%20Einayim/Seder%20Nashim/Petach%20Einayim%20on%20Ketubot/Hebrew/merged.txt",
+      "cltk_full_url": "https://storage.googleapis.com/sefaria-export/cltk-full/Talmud/Bavli/Acharonim%20on%20Talmud/Petach%20Einayim/Seder%20Nashim/Petach%20Einayim%20on%20Ketubot/Hebrew/merged.json",
+      "cltk_flat_url": "https://storage.googleapis.com/sefaria-export/cltk-flat/Talmud/Bavli/Acharonim%20on%20Talmud/Petach%20Einayim/Seder%20Nashim/Petach%20Einayim%20on%20Ketubot/Hebrew/merged.json"
+    },
+    {
+      "title": "Petach Einayim on Kiddushin",
+      "language": "Hebrew",
+      "versionTitle": "merged",
+      "categories": [
+        "Talmud",
+        "Bavli",
+        "Acharonim on Talmud",
+        "Petach Einayim",
+        "Seder Nashim"
+      ],
+      "json_url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Acharonim%20on%20Talmud/Petach%20Einayim/Seder%20Nashim/Petach%20Einayim%20on%20Kiddushin/Hebrew/merged.json",
+      "txt_url": "https://storage.googleapis.com/sefaria-export/txt/Talmud/Bavli/Acharonim%20on%20Talmud/Petach%20Einayim/Seder%20Nashim/Petach%20Einayim%20on%20Kiddushin/Hebrew/merged.txt",
+      "cltk_full_url": "https://storage.googleapis.com/sefaria-export/cltk-full/Talmud/Bavli/Acharonim%20on%20Talmud/Petach%20Einayim/Seder%20Nashim/Petach%20Einayim%20on%20Kiddushin/Hebrew/merged.json",
+      "cltk_flat_url": "https://storage.googleapis.com/sefaria-export/cltk-flat/Talmud/Bavli/Acharonim%20on%20Talmud/Petach%20Einayim/Seder%20Nashim/Petach%20Einayim%20on%20Kiddushin/Hebrew/merged.json"
+    },
+    {
+      "title": "Petach Einayim on Makkot",
+      "language": "Hebrew",
+      "versionTitle": "merged",
+      "categories": [
+        "Talmud",
+        "Bavli",
+        "Acharonim on Talmud",
+        "Petach Einayim",
+        "Seder Nezikin"
+      ],
+      "json_url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Acharonim%20on%20Talmud/Petach%20Einayim/Seder%20Nezikin/Petach%20Einayim%20on%20Makkot/Hebrew/merged.json",
+      "txt_url": "https://storage.googleapis.com/sefaria-export/txt/Talmud/Bavli/Acharonim%20on%20Talmud/Petach%20Einayim/Seder%20Nezikin/Petach%20Einayim%20on%20Makkot/Hebrew/merged.txt",
+      "cltk_full_url": "https://storage.googleapis.com/sefaria-export/cltk-full/Talmud/Bavli/Acharonim%20on%20Talmud/Petach%20Einayim/Seder%20Nezikin/Petach%20Einayim%20on%20Makkot/Hebrew/merged.json",
+      "cltk_flat_url": "https://storage.googleapis.com/sefaria-export/cltk-flat/Talmud/Bavli/Acharonim%20on%20Talmud/Petach%20Einayim/Seder%20Nezikin/Petach%20Einayim%20on%20Makkot/Hebrew/merged.json"
+    },
+    {
+      "title": "Petach Einayim on Megillah",
+      "language": "Hebrew",
+      "versionTitle": "merged",
+      "categories": [
+        "Talmud",
+        "Bavli",
+        "Acharonim on Talmud",
+        "Petach Einayim",
+        "Seder Moed"
+      ],
+      "json_url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Acharonim%20on%20Talmud/Petach%20Einayim/Seder%20Moed/Petach%20Einayim%20on%20Megillah/Hebrew/merged.json",
+      "txt_url": "https://storage.googleapis.com/sefaria-export/txt/Talmud/Bavli/Acharonim%20on%20Talmud/Petach%20Einayim/Seder%20Moed/Petach%20Einayim%20on%20Megillah/Hebrew/merged.txt",
+      "cltk_full_url": "https://storage.googleapis.com/sefaria-export/cltk-full/Talmud/Bavli/Acharonim%20on%20Talmud/Petach%20Einayim/Seder%20Moed/Petach%20Einayim%20on%20Megillah/Hebrew/merged.json",
+      "cltk_flat_url": "https://storage.googleapis.com/sefaria-export/cltk-flat/Talmud/Bavli/Acharonim%20on%20Talmud/Petach%20Einayim/Seder%20Moed/Petach%20Einayim%20on%20Megillah/Hebrew/merged.json"
+    },
+    {
+      "title": "Petach Einayim on Meilah",
+      "language": "Hebrew",
+      "versionTitle": "merged",
+      "categories": [
+        "Talmud",
+        "Bavli",
+        "Acharonim on Talmud",
+        "Petach Einayim",
+        "Seder Kodashim"
+      ],
+      "json_url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Acharonim%20on%20Talmud/Petach%20Einayim/Seder%20Kodashim/Petach%20Einayim%20on%20Meilah/Hebrew/merged.json",
+      "txt_url": "https://storage.googleapis.com/sefaria-export/txt/Talmud/Bavli/Acharonim%20on%20Talmud/Petach%20Einayim/Seder%20Kodashim/Petach%20Einayim%20on%20Meilah/Hebrew/merged.txt",
+      "cltk_full_url": "https://storage.googleapis.com/sefaria-export/cltk-full/Talmud/Bavli/Acharonim%20on%20Talmud/Petach%20Einayim/Seder%20Kodashim/Petach%20Einayim%20on%20Meilah/Hebrew/merged.json",
+      "cltk_flat_url": "https://storage.googleapis.com/sefaria-export/cltk-flat/Talmud/Bavli/Acharonim%20on%20Talmud/Petach%20Einayim/Seder%20Kodashim/Petach%20Einayim%20on%20Meilah/Hebrew/merged.json"
+    },
+    {
+      "title": "Petach Einayim on Menachot",
+      "language": "Hebrew",
+      "versionTitle": "merged",
+      "categories": [
+        "Talmud",
+        "Bavli",
+        "Acharonim on Talmud",
+        "Petach Einayim",
+        "Seder Kodashim"
+      ],
+      "json_url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Acharonim%20on%20Talmud/Petach%20Einayim/Seder%20Kodashim/Petach%20Einayim%20on%20Menachot/Hebrew/merged.json",
+      "txt_url": "https://storage.googleapis.com/sefaria-export/txt/Talmud/Bavli/Acharonim%20on%20Talmud/Petach%20Einayim/Seder%20Kodashim/Petach%20Einayim%20on%20Menachot/Hebrew/merged.txt",
+      "cltk_full_url": "https://storage.googleapis.com/sefaria-export/cltk-full/Talmud/Bavli/Acharonim%20on%20Talmud/Petach%20Einayim/Seder%20Kodashim/Petach%20Einayim%20on%20Menachot/Hebrew/merged.json",
+      "cltk_flat_url": "https://storage.googleapis.com/sefaria-export/cltk-flat/Talmud/Bavli/Acharonim%20on%20Talmud/Petach%20Einayim/Seder%20Kodashim/Petach%20Einayim%20on%20Menachot/Hebrew/merged.json"
+    },
+    {
+      "title": "Petach Einayim on Mishnah Bikkurim",
+      "language": "Hebrew",
+      "versionTitle": "merged",
+      "categories": [
+        "Mishnah",
+        "Acharonim on Mishnah",
+        "Petach Einayim",
+        "Seder Zeraim"
+      ],
+      "json_url": "https://storage.googleapis.com/sefaria-export/json/Mishnah/Acharonim%20on%20Mishnah/Petach%20Einayim/Seder%20Zeraim/Petach%20Einayim%20on%20Mishnah%20Bikkurim/Hebrew/merged.json",
+      "txt_url": "https://storage.googleapis.com/sefaria-export/txt/Mishnah/Acharonim%20on%20Mishnah/Petach%20Einayim/Seder%20Zeraim/Petach%20Einayim%20on%20Mishnah%20Bikkurim/Hebrew/merged.txt",
+      "cltk_full_url": "https://storage.googleapis.com/sefaria-export/cltk-full/Mishnah/Acharonim%20on%20Mishnah/Petach%20Einayim/Seder%20Zeraim/Petach%20Einayim%20on%20Mishnah%20Bikkurim/Hebrew/merged.json",
+      "cltk_flat_url": "https://storage.googleapis.com/sefaria-export/cltk-flat/Mishnah/Acharonim%20on%20Mishnah/Petach%20Einayim/Seder%20Zeraim/Petach%20Einayim%20on%20Mishnah%20Bikkurim/Hebrew/merged.json"
+    },
+    {
+      "title": "Petach Einayim on Mishnah Challah",
+      "language": "Hebrew",
+      "versionTitle": "merged",
+      "categories": [
+        "Mishnah",
+        "Acharonim on Mishnah",
+        "Petach Einayim",
+        "Seder Zeraim"
+      ],
+      "json_url": "https://storage.googleapis.com/sefaria-export/json/Mishnah/Acharonim%20on%20Mishnah/Petach%20Einayim/Seder%20Zeraim/Petach%20Einayim%20on%20Mishnah%20Challah/Hebrew/merged.json",
+      "txt_url": "https://storage.googleapis.com/sefaria-export/txt/Mishnah/Acharonim%20on%20Mishnah/Petach%20Einayim/Seder%20Zeraim/Petach%20Einayim%20on%20Mishnah%20Challah/Hebrew/merged.txt",
+      "cltk_full_url": "https://storage.googleapis.com/sefaria-export/cltk-full/Mishnah/Acharonim%20on%20Mishnah/Petach%20Einayim/Seder%20Zeraim/Petach%20Einayim%20on%20Mishnah%20Challah/Hebrew/merged.json",
+      "cltk_flat_url": "https://storage.googleapis.com/sefaria-export/cltk-flat/Mishnah/Acharonim%20on%20Mishnah/Petach%20Einayim/Seder%20Zeraim/Petach%20Einayim%20on%20Mishnah%20Challah/Hebrew/merged.json"
+    },
+    {
+      "title": "Petach Einayim on Mishnah Demai",
+      "language": "Hebrew",
+      "versionTitle": "merged",
+      "categories": [
+        "Mishnah",
+        "Acharonim on Mishnah",
+        "Petach Einayim",
+        "Seder Zeraim"
+      ],
+      "json_url": "https://storage.googleapis.com/sefaria-export/json/Mishnah/Acharonim%20on%20Mishnah/Petach%20Einayim/Seder%20Zeraim/Petach%20Einayim%20on%20Mishnah%20Demai/Hebrew/merged.json",
+      "txt_url": "https://storage.googleapis.com/sefaria-export/txt/Mishnah/Acharonim%20on%20Mishnah/Petach%20Einayim/Seder%20Zeraim/Petach%20Einayim%20on%20Mishnah%20Demai/Hebrew/merged.txt",
+      "cltk_full_url": "https://storage.googleapis.com/sefaria-export/cltk-full/Mishnah/Acharonim%20on%20Mishnah/Petach%20Einayim/Seder%20Zeraim/Petach%20Einayim%20on%20Mishnah%20Demai/Hebrew/merged.json",
+      "cltk_flat_url": "https://storage.googleapis.com/sefaria-export/cltk-flat/Mishnah/Acharonim%20on%20Mishnah/Petach%20Einayim/Seder%20Zeraim/Petach%20Einayim%20on%20Mishnah%20Demai/Hebrew/merged.json"
+    },
+    {
+      "title": "Petach Einayim on Mishnah Eduyot",
+      "language": "Hebrew",
+      "versionTitle": "merged",
+      "categories": [
+        "Mishnah",
+        "Acharonim on Mishnah",
+        "Petach Einayim",
+        "Seder Nezikin"
+      ],
+      "json_url": "https://storage.googleapis.com/sefaria-export/json/Mishnah/Acharonim%20on%20Mishnah/Petach%20Einayim/Seder%20Nezikin/Petach%20Einayim%20on%20Mishnah%20Eduyot/Hebrew/merged.json",
+      "txt_url": "https://storage.googleapis.com/sefaria-export/txt/Mishnah/Acharonim%20on%20Mishnah/Petach%20Einayim/Seder%20Nezikin/Petach%20Einayim%20on%20Mishnah%20Eduyot/Hebrew/merged.txt",
+      "cltk_full_url": "https://storage.googleapis.com/sefaria-export/cltk-full/Mishnah/Acharonim%20on%20Mishnah/Petach%20Einayim/Seder%20Nezikin/Petach%20Einayim%20on%20Mishnah%20Eduyot/Hebrew/merged.json",
+      "cltk_flat_url": "https://storage.googleapis.com/sefaria-export/cltk-flat/Mishnah/Acharonim%20on%20Mishnah/Petach%20Einayim/Seder%20Nezikin/Petach%20Einayim%20on%20Mishnah%20Eduyot/Hebrew/merged.json"
+    },
+    {
+      "title": "Petach Einayim on Mishnah Kelim",
+      "language": "Hebrew",
+      "versionTitle": "merged",
+      "categories": [
+        "Mishnah",
+        "Acharonim on Mishnah",
+        "Petach Einayim",
+        "Seder Tahorot"
+      ],
+      "json_url": "https://storage.googleapis.com/sefaria-export/json/Mishnah/Acharonim%20on%20Mishnah/Petach%20Einayim/Seder%20Tahorot/Petach%20Einayim%20on%20Mishnah%20Kelim/Hebrew/merged.json",
+      "txt_url": "https://storage.googleapis.com/sefaria-export/txt/Mishnah/Acharonim%20on%20Mishnah/Petach%20Einayim/Seder%20Tahorot/Petach%20Einayim%20on%20Mishnah%20Kelim/Hebrew/merged.txt",
+      "cltk_full_url": "https://storage.googleapis.com/sefaria-export/cltk-full/Mishnah/Acharonim%20on%20Mishnah/Petach%20Einayim/Seder%20Tahorot/Petach%20Einayim%20on%20Mishnah%20Kelim/Hebrew/merged.json",
+      "cltk_flat_url": "https://storage.googleapis.com/sefaria-export/cltk-flat/Mishnah/Acharonim%20on%20Mishnah/Petach%20Einayim/Seder%20Tahorot/Petach%20Einayim%20on%20Mishnah%20Kelim/Hebrew/merged.json"
+    },
+    {
+      "title": "Petach Einayim on Mishnah Kilayim",
+      "language": "Hebrew",
+      "versionTitle": "merged",
+      "categories": [
+        "Mishnah",
+        "Acharonim on Mishnah",
+        "Petach Einayim",
+        "Seder Zeraim"
+      ],
+      "json_url": "https://storage.googleapis.com/sefaria-export/json/Mishnah/Acharonim%20on%20Mishnah/Petach%20Einayim/Seder%20Zeraim/Petach%20Einayim%20on%20Mishnah%20Kilayim/Hebrew/merged.json",
+      "txt_url": "https://storage.googleapis.com/sefaria-export/txt/Mishnah/Acharonim%20on%20Mishnah/Petach%20Einayim/Seder%20Zeraim/Petach%20Einayim%20on%20Mishnah%20Kilayim/Hebrew/merged.txt",
+      "cltk_full_url": "https://storage.googleapis.com/sefaria-export/cltk-full/Mishnah/Acharonim%20on%20Mishnah/Petach%20Einayim/Seder%20Zeraim/Petach%20Einayim%20on%20Mishnah%20Kilayim/Hebrew/merged.json",
+      "cltk_flat_url": "https://storage.googleapis.com/sefaria-export/cltk-flat/Mishnah/Acharonim%20on%20Mishnah/Petach%20Einayim/Seder%20Zeraim/Petach%20Einayim%20on%20Mishnah%20Kilayim/Hebrew/merged.json"
+    },
+    {
+      "title": "Petach Einayim on Mishnah Kinnim",
+      "language": "Hebrew",
+      "versionTitle": "merged",
+      "categories": [
+        "Mishnah",
+        "Acharonim on Mishnah",
+        "Petach Einayim",
+        "Seder Kodashim"
+      ],
+      "json_url": "https://storage.googleapis.com/sefaria-export/json/Mishnah/Acharonim%20on%20Mishnah/Petach%20Einayim/Seder%20Kodashim/Petach%20Einayim%20on%20Mishnah%20Kinnim/Hebrew/merged.json",
+      "txt_url": "https://storage.googleapis.com/sefaria-export/txt/Mishnah/Acharonim%20on%20Mishnah/Petach%20Einayim/Seder%20Kodashim/Petach%20Einayim%20on%20Mishnah%20Kinnim/Hebrew/merged.txt",
+      "cltk_full_url": "https://storage.googleapis.com/sefaria-export/cltk-full/Mishnah/Acharonim%20on%20Mishnah/Petach%20Einayim/Seder%20Kodashim/Petach%20Einayim%20on%20Mishnah%20Kinnim/Hebrew/merged.json",
+      "cltk_flat_url": "https://storage.googleapis.com/sefaria-export/cltk-flat/Mishnah/Acharonim%20on%20Mishnah/Petach%20Einayim/Seder%20Kodashim/Petach%20Einayim%20on%20Mishnah%20Kinnim/Hebrew/merged.json"
+    },
+    {
+      "title": "Petach Einayim on Mishnah Maaser Sheni",
+      "language": "Hebrew",
+      "versionTitle": "merged",
+      "categories": [
+        "Mishnah",
+        "Acharonim on Mishnah",
+        "Petach Einayim",
+        "Seder Zeraim"
+      ],
+      "json_url": "https://storage.googleapis.com/sefaria-export/json/Mishnah/Acharonim%20on%20Mishnah/Petach%20Einayim/Seder%20Zeraim/Petach%20Einayim%20on%20Mishnah%20Maaser%20Sheni/Hebrew/merged.json",
+      "txt_url": "https://storage.googleapis.com/sefaria-export/txt/Mishnah/Acharonim%20on%20Mishnah/Petach%20Einayim/Seder%20Zeraim/Petach%20Einayim%20on%20Mishnah%20Maaser%20Sheni/Hebrew/merged.txt",
+      "cltk_full_url": "https://storage.googleapis.com/sefaria-export/cltk-full/Mishnah/Acharonim%20on%20Mishnah/Petach%20Einayim/Seder%20Zeraim/Petach%20Einayim%20on%20Mishnah%20Maaser%20Sheni/Hebrew/merged.json",
+      "cltk_flat_url": "https://storage.googleapis.com/sefaria-export/cltk-flat/Mishnah/Acharonim%20on%20Mishnah/Petach%20Einayim/Seder%20Zeraim/Petach%20Einayim%20on%20Mishnah%20Maaser%20Sheni/Hebrew/merged.json"
+    },
+    {
+      "title": "Petach Einayim on Mishnah Maasrot",
+      "language": "Hebrew",
+      "versionTitle": "merged",
+      "categories": [
+        "Mishnah",
+        "Acharonim on Mishnah",
+        "Petach Einayim",
+        "Seder Zeraim"
+      ],
+      "json_url": "https://storage.googleapis.com/sefaria-export/json/Mishnah/Acharonim%20on%20Mishnah/Petach%20Einayim/Seder%20Zeraim/Petach%20Einayim%20on%20Mishnah%20Maasrot/Hebrew/merged.json",
+      "txt_url": "https://storage.googleapis.com/sefaria-export/txt/Mishnah/Acharonim%20on%20Mishnah/Petach%20Einayim/Seder%20Zeraim/Petach%20Einayim%20on%20Mishnah%20Maasrot/Hebrew/merged.txt",
+      "cltk_full_url": "https://storage.googleapis.com/sefaria-export/cltk-full/Mishnah/Acharonim%20on%20Mishnah/Petach%20Einayim/Seder%20Zeraim/Petach%20Einayim%20on%20Mishnah%20Maasrot/Hebrew/merged.json",
+      "cltk_flat_url": "https://storage.googleapis.com/sefaria-export/cltk-flat/Mishnah/Acharonim%20on%20Mishnah/Petach%20Einayim/Seder%20Zeraim/Petach%20Einayim%20on%20Mishnah%20Maasrot/Hebrew/merged.json"
+    },
+    {
+      "title": "Petach Einayim on Mishnah Makhshirin",
+      "language": "Hebrew",
+      "versionTitle": "merged",
+      "categories": [
+        "Mishnah",
+        "Acharonim on Mishnah",
+        "Petach Einayim",
+        "Seder Tahorot"
+      ],
+      "json_url": "https://storage.googleapis.com/sefaria-export/json/Mishnah/Acharonim%20on%20Mishnah/Petach%20Einayim/Seder%20Tahorot/Petach%20Einayim%20on%20Mishnah%20Makhshirin/Hebrew/merged.json",
+      "txt_url": "https://storage.googleapis.com/sefaria-export/txt/Mishnah/Acharonim%20on%20Mishnah/Petach%20Einayim/Seder%20Tahorot/Petach%20Einayim%20on%20Mishnah%20Makhshirin/Hebrew/merged.txt",
+      "cltk_full_url": "https://storage.googleapis.com/sefaria-export/cltk-full/Mishnah/Acharonim%20on%20Mishnah/Petach%20Einayim/Seder%20Tahorot/Petach%20Einayim%20on%20Mishnah%20Makhshirin/Hebrew/merged.json",
+      "cltk_flat_url": "https://storage.googleapis.com/sefaria-export/cltk-flat/Mishnah/Acharonim%20on%20Mishnah/Petach%20Einayim/Seder%20Tahorot/Petach%20Einayim%20on%20Mishnah%20Makhshirin/Hebrew/merged.json"
+    },
+    {
+      "title": "Petach Einayim on Mishnah Middot",
+      "language": "Hebrew",
+      "versionTitle": "merged",
+      "categories": [
+        "Mishnah",
+        "Acharonim on Mishnah",
+        "Petach Einayim",
+        "Seder Kodashim"
+      ],
+      "json_url": "https://storage.googleapis.com/sefaria-export/json/Mishnah/Acharonim%20on%20Mishnah/Petach%20Einayim/Seder%20Kodashim/Petach%20Einayim%20on%20Mishnah%20Middot/Hebrew/merged.json",
+      "txt_url": "https://storage.googleapis.com/sefaria-export/txt/Mishnah/Acharonim%20on%20Mishnah/Petach%20Einayim/Seder%20Kodashim/Petach%20Einayim%20on%20Mishnah%20Middot/Hebrew/merged.txt",
+      "cltk_full_url": "https://storage.googleapis.com/sefaria-export/cltk-full/Mishnah/Acharonim%20on%20Mishnah/Petach%20Einayim/Seder%20Kodashim/Petach%20Einayim%20on%20Mishnah%20Middot/Hebrew/merged.json",
+      "cltk_flat_url": "https://storage.googleapis.com/sefaria-export/cltk-flat/Mishnah/Acharonim%20on%20Mishnah/Petach%20Einayim/Seder%20Kodashim/Petach%20Einayim%20on%20Mishnah%20Middot/Hebrew/merged.json"
+    },
+    {
+      "title": "Petach Einayim on Mishnah Mikvaot",
+      "language": "Hebrew",
+      "versionTitle": "merged",
+      "categories": [
+        "Mishnah",
+        "Acharonim on Mishnah",
+        "Petach Einayim",
+        "Seder Tahorot"
+      ],
+      "json_url": "https://storage.googleapis.com/sefaria-export/json/Mishnah/Acharonim%20on%20Mishnah/Petach%20Einayim/Seder%20Tahorot/Petach%20Einayim%20on%20Mishnah%20Mikvaot/Hebrew/merged.json",
+      "txt_url": "https://storage.googleapis.com/sefaria-export/txt/Mishnah/Acharonim%20on%20Mishnah/Petach%20Einayim/Seder%20Tahorot/Petach%20Einayim%20on%20Mishnah%20Mikvaot/Hebrew/merged.txt",
+      "cltk_full_url": "https://storage.googleapis.com/sefaria-export/cltk-full/Mishnah/Acharonim%20on%20Mishnah/Petach%20Einayim/Seder%20Tahorot/Petach%20Einayim%20on%20Mishnah%20Mikvaot/Hebrew/merged.json",
+      "cltk_flat_url": "https://storage.googleapis.com/sefaria-export/cltk-flat/Mishnah/Acharonim%20on%20Mishnah/Petach%20Einayim/Seder%20Tahorot/Petach%20Einayim%20on%20Mishnah%20Mikvaot/Hebrew/merged.json"
+    },
+    {
+      "title": "Petach Einayim on Mishnah Negaim",
+      "language": "Hebrew",
+      "versionTitle": "merged",
+      "categories": [
+        "Mishnah",
+        "Acharonim on Mishnah",
+        "Petach Einayim",
+        "Seder Tahorot"
+      ],
+      "json_url": "https://storage.googleapis.com/sefaria-export/json/Mishnah/Acharonim%20on%20Mishnah/Petach%20Einayim/Seder%20Tahorot/Petach%20Einayim%20on%20Mishnah%20Negaim/Hebrew/merged.json",
+      "txt_url": "https://storage.googleapis.com/sefaria-export/txt/Mishnah/Acharonim%20on%20Mishnah/Petach%20Einayim/Seder%20Tahorot/Petach%20Einayim%20on%20Mishnah%20Negaim/Hebrew/merged.txt",
+      "cltk_full_url": "https://storage.googleapis.com/sefaria-export/cltk-full/Mishnah/Acharonim%20on%20Mishnah/Petach%20Einayim/Seder%20Tahorot/Petach%20Einayim%20on%20Mishnah%20Negaim/Hebrew/merged.json",
+      "cltk_flat_url": "https://storage.googleapis.com/sefaria-export/cltk-flat/Mishnah/Acharonim%20on%20Mishnah/Petach%20Einayim/Seder%20Tahorot/Petach%20Einayim%20on%20Mishnah%20Negaim/Hebrew/merged.json"
+    },
+    {
+      "title": "Petach Einayim on Mishnah Oholot",
+      "language": "Hebrew",
+      "versionTitle": "merged",
+      "categories": [
+        "Mishnah",
+        "Acharonim on Mishnah",
+        "Petach Einayim",
+        "Seder Tahorot"
+      ],
+      "json_url": "https://storage.googleapis.com/sefaria-export/json/Mishnah/Acharonim%20on%20Mishnah/Petach%20Einayim/Seder%20Tahorot/Petach%20Einayim%20on%20Mishnah%20Oholot/Hebrew/merged.json",
+      "txt_url": "https://storage.googleapis.com/sefaria-export/txt/Mishnah/Acharonim%20on%20Mishnah/Petach%20Einayim/Seder%20Tahorot/Petach%20Einayim%20on%20Mishnah%20Oholot/Hebrew/merged.txt",
+      "cltk_full_url": "https://storage.googleapis.com/sefaria-export/cltk-full/Mishnah/Acharonim%20on%20Mishnah/Petach%20Einayim/Seder%20Tahorot/Petach%20Einayim%20on%20Mishnah%20Oholot/Hebrew/merged.json",
+      "cltk_flat_url": "https://storage.googleapis.com/sefaria-export/cltk-flat/Mishnah/Acharonim%20on%20Mishnah/Petach%20Einayim/Seder%20Tahorot/Petach%20Einayim%20on%20Mishnah%20Oholot/Hebrew/merged.json"
+    },
+    {
+      "title": "Petach Einayim on Mishnah Oktzin",
+      "language": "Hebrew",
+      "versionTitle": "merged",
+      "categories": [
+        "Mishnah",
+        "Acharonim on Mishnah",
+        "Petach Einayim",
+        "Seder Tahorot"
+      ],
+      "json_url": "https://storage.googleapis.com/sefaria-export/json/Mishnah/Acharonim%20on%20Mishnah/Petach%20Einayim/Seder%20Tahorot/Petach%20Einayim%20on%20Mishnah%20Oktzin/Hebrew/merged.json",
+      "txt_url": "https://storage.googleapis.com/sefaria-export/txt/Mishnah/Acharonim%20on%20Mishnah/Petach%20Einayim/Seder%20Tahorot/Petach%20Einayim%20on%20Mishnah%20Oktzin/Hebrew/merged.txt",
+      "cltk_full_url": "https://storage.googleapis.com/sefaria-export/cltk-full/Mishnah/Acharonim%20on%20Mishnah/Petach%20Einayim/Seder%20Tahorot/Petach%20Einayim%20on%20Mishnah%20Oktzin/Hebrew/merged.json",
+      "cltk_flat_url": "https://storage.googleapis.com/sefaria-export/cltk-flat/Mishnah/Acharonim%20on%20Mishnah/Petach%20Einayim/Seder%20Tahorot/Petach%20Einayim%20on%20Mishnah%20Oktzin/Hebrew/merged.json"
+    },
+    {
+      "title": "Petach Einayim on Mishnah Orlah",
+      "language": "Hebrew",
+      "versionTitle": "merged",
+      "categories": [
+        "Mishnah",
+        "Acharonim on Mishnah",
+        "Petach Einayim",
+        "Seder Zeraim"
+      ],
+      "json_url": "https://storage.googleapis.com/sefaria-export/json/Mishnah/Acharonim%20on%20Mishnah/Petach%20Einayim/Seder%20Zeraim/Petach%20Einayim%20on%20Mishnah%20Orlah/Hebrew/merged.json",
+      "txt_url": "https://storage.googleapis.com/sefaria-export/txt/Mishnah/Acharonim%20on%20Mishnah/Petach%20Einayim/Seder%20Zeraim/Petach%20Einayim%20on%20Mishnah%20Orlah/Hebrew/merged.txt",
+      "cltk_full_url": "https://storage.googleapis.com/sefaria-export/cltk-full/Mishnah/Acharonim%20on%20Mishnah/Petach%20Einayim/Seder%20Zeraim/Petach%20Einayim%20on%20Mishnah%20Orlah/Hebrew/merged.json",
+      "cltk_flat_url": "https://storage.googleapis.com/sefaria-export/cltk-flat/Mishnah/Acharonim%20on%20Mishnah/Petach%20Einayim/Seder%20Zeraim/Petach%20Einayim%20on%20Mishnah%20Orlah/Hebrew/merged.json"
+    },
+    {
+      "title": "Petach Einayim on Mishnah Parah",
+      "language": "Hebrew",
+      "versionTitle": "merged",
+      "categories": [
+        "Mishnah",
+        "Acharonim on Mishnah",
+        "Petach Einayim",
+        "Seder Tahorot"
+      ],
+      "json_url": "https://storage.googleapis.com/sefaria-export/json/Mishnah/Acharonim%20on%20Mishnah/Petach%20Einayim/Seder%20Tahorot/Petach%20Einayim%20on%20Mishnah%20Parah/Hebrew/merged.json",
+      "txt_url": "https://storage.googleapis.com/sefaria-export/txt/Mishnah/Acharonim%20on%20Mishnah/Petach%20Einayim/Seder%20Tahorot/Petach%20Einayim%20on%20Mishnah%20Parah/Hebrew/merged.txt",
+      "cltk_full_url": "https://storage.googleapis.com/sefaria-export/cltk-full/Mishnah/Acharonim%20on%20Mishnah/Petach%20Einayim/Seder%20Tahorot/Petach%20Einayim%20on%20Mishnah%20Parah/Hebrew/merged.json",
+      "cltk_flat_url": "https://storage.googleapis.com/sefaria-export/cltk-flat/Mishnah/Acharonim%20on%20Mishnah/Petach%20Einayim/Seder%20Tahorot/Petach%20Einayim%20on%20Mishnah%20Parah/Hebrew/merged.json"
+    },
+    {
+      "title": "Petach Einayim on Mishnah Peah",
+      "language": "Hebrew",
+      "versionTitle": "merged",
+      "categories": [
+        "Mishnah",
+        "Acharonim on Mishnah",
+        "Petach Einayim",
+        "Seder Zeraim"
+      ],
+      "json_url": "https://storage.googleapis.com/sefaria-export/json/Mishnah/Acharonim%20on%20Mishnah/Petach%20Einayim/Seder%20Zeraim/Petach%20Einayim%20on%20Mishnah%20Peah/Hebrew/merged.json",
+      "txt_url": "https://storage.googleapis.com/sefaria-export/txt/Mishnah/Acharonim%20on%20Mishnah/Petach%20Einayim/Seder%20Zeraim/Petach%20Einayim%20on%20Mishnah%20Peah/Hebrew/merged.txt",
+      "cltk_full_url": "https://storage.googleapis.com/sefaria-export/cltk-full/Mishnah/Acharonim%20on%20Mishnah/Petach%20Einayim/Seder%20Zeraim/Petach%20Einayim%20on%20Mishnah%20Peah/Hebrew/merged.json",
+      "cltk_flat_url": "https://storage.googleapis.com/sefaria-export/cltk-flat/Mishnah/Acharonim%20on%20Mishnah/Petach%20Einayim/Seder%20Zeraim/Petach%20Einayim%20on%20Mishnah%20Peah/Hebrew/merged.json"
+    },
+    {
+      "title": "Petach Einayim on Mishnah Shekalim",
+      "language": "Hebrew",
+      "versionTitle": "merged",
+      "categories": [
+        "Mishnah",
+        "Acharonim on Mishnah",
+        "Petach Einayim",
+        "Seder Moed"
+      ],
+      "json_url": "https://storage.googleapis.com/sefaria-export/json/Mishnah/Acharonim%20on%20Mishnah/Petach%20Einayim/Seder%20Moed/Petach%20Einayim%20on%20Mishnah%20Shekalim/Hebrew/merged.json",
+      "txt_url": "https://storage.googleapis.com/sefaria-export/txt/Mishnah/Acharonim%20on%20Mishnah/Petach%20Einayim/Seder%20Moed/Petach%20Einayim%20on%20Mishnah%20Shekalim/Hebrew/merged.txt",
+      "cltk_full_url": "https://storage.googleapis.com/sefaria-export/cltk-full/Mishnah/Acharonim%20on%20Mishnah/Petach%20Einayim/Seder%20Moed/Petach%20Einayim%20on%20Mishnah%20Shekalim/Hebrew/merged.json",
+      "cltk_flat_url": "https://storage.googleapis.com/sefaria-export/cltk-flat/Mishnah/Acharonim%20on%20Mishnah/Petach%20Einayim/Seder%20Moed/Petach%20Einayim%20on%20Mishnah%20Shekalim/Hebrew/merged.json"
+    },
+    {
+      "title": "Petach Einayim on Mishnah Sheviit",
+      "language": "Hebrew",
+      "versionTitle": "merged",
+      "categories": [
+        "Mishnah",
+        "Acharonim on Mishnah",
+        "Petach Einayim",
+        "Seder Zeraim"
+      ],
+      "json_url": "https://storage.googleapis.com/sefaria-export/json/Mishnah/Acharonim%20on%20Mishnah/Petach%20Einayim/Seder%20Zeraim/Petach%20Einayim%20on%20Mishnah%20Sheviit/Hebrew/merged.json",
+      "txt_url": "https://storage.googleapis.com/sefaria-export/txt/Mishnah/Acharonim%20on%20Mishnah/Petach%20Einayim/Seder%20Zeraim/Petach%20Einayim%20on%20Mishnah%20Sheviit/Hebrew/merged.txt",
+      "cltk_full_url": "https://storage.googleapis.com/sefaria-export/cltk-full/Mishnah/Acharonim%20on%20Mishnah/Petach%20Einayim/Seder%20Zeraim/Petach%20Einayim%20on%20Mishnah%20Sheviit/Hebrew/merged.json",
+      "cltk_flat_url": "https://storage.googleapis.com/sefaria-export/cltk-flat/Mishnah/Acharonim%20on%20Mishnah/Petach%20Einayim/Seder%20Zeraim/Petach%20Einayim%20on%20Mishnah%20Sheviit/Hebrew/merged.json"
+    },
+    {
+      "title": "Petach Einayim on Mishnah Tahorot",
+      "language": "Hebrew",
+      "versionTitle": "merged",
+      "categories": [
+        "Mishnah",
+        "Acharonim on Mishnah",
+        "Petach Einayim",
+        "Seder Tahorot"
+      ],
+      "json_url": "https://storage.googleapis.com/sefaria-export/json/Mishnah/Acharonim%20on%20Mishnah/Petach%20Einayim/Seder%20Tahorot/Petach%20Einayim%20on%20Mishnah%20Tahorot/Hebrew/merged.json",
+      "txt_url": "https://storage.googleapis.com/sefaria-export/txt/Mishnah/Acharonim%20on%20Mishnah/Petach%20Einayim/Seder%20Tahorot/Petach%20Einayim%20on%20Mishnah%20Tahorot/Hebrew/merged.txt",
+      "cltk_full_url": "https://storage.googleapis.com/sefaria-export/cltk-full/Mishnah/Acharonim%20on%20Mishnah/Petach%20Einayim/Seder%20Tahorot/Petach%20Einayim%20on%20Mishnah%20Tahorot/Hebrew/merged.json",
+      "cltk_flat_url": "https://storage.googleapis.com/sefaria-export/cltk-flat/Mishnah/Acharonim%20on%20Mishnah/Petach%20Einayim/Seder%20Tahorot/Petach%20Einayim%20on%20Mishnah%20Tahorot/Hebrew/merged.json"
+    },
+    {
+      "title": "Petach Einayim on Mishnah Terumot",
+      "language": "Hebrew",
+      "versionTitle": "merged",
+      "categories": [
+        "Mishnah",
+        "Acharonim on Mishnah",
+        "Petach Einayim",
+        "Seder Zeraim"
+      ],
+      "json_url": "https://storage.googleapis.com/sefaria-export/json/Mishnah/Acharonim%20on%20Mishnah/Petach%20Einayim/Seder%20Zeraim/Petach%20Einayim%20on%20Mishnah%20Terumot/Hebrew/merged.json",
+      "txt_url": "https://storage.googleapis.com/sefaria-export/txt/Mishnah/Acharonim%20on%20Mishnah/Petach%20Einayim/Seder%20Zeraim/Petach%20Einayim%20on%20Mishnah%20Terumot/Hebrew/merged.txt",
+      "cltk_full_url": "https://storage.googleapis.com/sefaria-export/cltk-full/Mishnah/Acharonim%20on%20Mishnah/Petach%20Einayim/Seder%20Zeraim/Petach%20Einayim%20on%20Mishnah%20Terumot/Hebrew/merged.json",
+      "cltk_flat_url": "https://storage.googleapis.com/sefaria-export/cltk-flat/Mishnah/Acharonim%20on%20Mishnah/Petach%20Einayim/Seder%20Zeraim/Petach%20Einayim%20on%20Mishnah%20Terumot/Hebrew/merged.json"
+    },
+    {
+      "title": "Petach Einayim on Mishnah Tevul Yom",
+      "language": "Hebrew",
+      "versionTitle": "merged",
+      "categories": [
+        "Mishnah",
+        "Acharonim on Mishnah",
+        "Petach Einayim",
+        "Seder Tahorot"
+      ],
+      "json_url": "https://storage.googleapis.com/sefaria-export/json/Mishnah/Acharonim%20on%20Mishnah/Petach%20Einayim/Seder%20Tahorot/Petach%20Einayim%20on%20Mishnah%20Tevul%20Yom/Hebrew/merged.json",
+      "txt_url": "https://storage.googleapis.com/sefaria-export/txt/Mishnah/Acharonim%20on%20Mishnah/Petach%20Einayim/Seder%20Tahorot/Petach%20Einayim%20on%20Mishnah%20Tevul%20Yom/Hebrew/merged.txt",
+      "cltk_full_url": "https://storage.googleapis.com/sefaria-export/cltk-full/Mishnah/Acharonim%20on%20Mishnah/Petach%20Einayim/Seder%20Tahorot/Petach%20Einayim%20on%20Mishnah%20Tevul%20Yom/Hebrew/merged.json",
+      "cltk_flat_url": "https://storage.googleapis.com/sefaria-export/cltk-flat/Mishnah/Acharonim%20on%20Mishnah/Petach%20Einayim/Seder%20Tahorot/Petach%20Einayim%20on%20Mishnah%20Tevul%20Yom/Hebrew/merged.json"
+    },
+    {
+      "title": "Petach Einayim on Mishnah Yadayim",
+      "language": "Hebrew",
+      "versionTitle": "merged",
+      "categories": [
+        "Mishnah",
+        "Acharonim on Mishnah",
+        "Petach Einayim",
+        "Seder Tahorot"
+      ],
+      "json_url": "https://storage.googleapis.com/sefaria-export/json/Mishnah/Acharonim%20on%20Mishnah/Petach%20Einayim/Seder%20Tahorot/Petach%20Einayim%20on%20Mishnah%20Yadayim/Hebrew/merged.json",
+      "txt_url": "https://storage.googleapis.com/sefaria-export/txt/Mishnah/Acharonim%20on%20Mishnah/Petach%20Einayim/Seder%20Tahorot/Petach%20Einayim%20on%20Mishnah%20Yadayim/Hebrew/merged.txt",
+      "cltk_full_url": "https://storage.googleapis.com/sefaria-export/cltk-full/Mishnah/Acharonim%20on%20Mishnah/Petach%20Einayim/Seder%20Tahorot/Petach%20Einayim%20on%20Mishnah%20Yadayim/Hebrew/merged.json",
+      "cltk_flat_url": "https://storage.googleapis.com/sefaria-export/cltk-flat/Mishnah/Acharonim%20on%20Mishnah/Petach%20Einayim/Seder%20Tahorot/Petach%20Einayim%20on%20Mishnah%20Yadayim/Hebrew/merged.json"
+    },
+    {
+      "title": "Petach Einayim on Mishnah Zavim",
+      "language": "Hebrew",
+      "versionTitle": "merged",
+      "categories": [
+        "Mishnah",
+        "Acharonim on Mishnah",
+        "Petach Einayim",
+        "Seder Tahorot"
+      ],
+      "json_url": "https://storage.googleapis.com/sefaria-export/json/Mishnah/Acharonim%20on%20Mishnah/Petach%20Einayim/Seder%20Tahorot/Petach%20Einayim%20on%20Mishnah%20Zavim/Hebrew/merged.json",
+      "txt_url": "https://storage.googleapis.com/sefaria-export/txt/Mishnah/Acharonim%20on%20Mishnah/Petach%20Einayim/Seder%20Tahorot/Petach%20Einayim%20on%20Mishnah%20Zavim/Hebrew/merged.txt",
+      "cltk_full_url": "https://storage.googleapis.com/sefaria-export/cltk-full/Mishnah/Acharonim%20on%20Mishnah/Petach%20Einayim/Seder%20Tahorot/Petach%20Einayim%20on%20Mishnah%20Zavim/Hebrew/merged.json",
+      "cltk_flat_url": "https://storage.googleapis.com/sefaria-export/cltk-flat/Mishnah/Acharonim%20on%20Mishnah/Petach%20Einayim/Seder%20Tahorot/Petach%20Einayim%20on%20Mishnah%20Zavim/Hebrew/merged.json"
+    },
+    {
+      "title": "Petach Einayim on Moed Katan",
+      "language": "Hebrew",
+      "versionTitle": "merged",
+      "categories": [
+        "Talmud",
+        "Bavli",
+        "Acharonim on Talmud",
+        "Petach Einayim",
+        "Seder Moed"
+      ],
+      "json_url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Acharonim%20on%20Talmud/Petach%20Einayim/Seder%20Moed/Petach%20Einayim%20on%20Moed%20Katan/Hebrew/merged.json",
+      "txt_url": "https://storage.googleapis.com/sefaria-export/txt/Talmud/Bavli/Acharonim%20on%20Talmud/Petach%20Einayim/Seder%20Moed/Petach%20Einayim%20on%20Moed%20Katan/Hebrew/merged.txt",
+      "cltk_full_url": "https://storage.googleapis.com/sefaria-export/cltk-full/Talmud/Bavli/Acharonim%20on%20Talmud/Petach%20Einayim/Seder%20Moed/Petach%20Einayim%20on%20Moed%20Katan/Hebrew/merged.json",
+      "cltk_flat_url": "https://storage.googleapis.com/sefaria-export/cltk-flat/Talmud/Bavli/Acharonim%20on%20Talmud/Petach%20Einayim/Seder%20Moed/Petach%20Einayim%20on%20Moed%20Katan/Hebrew/merged.json"
+    },
+    {
+      "title": "Petach Einayim on Nazir",
+      "language": "Hebrew",
+      "versionTitle": "merged",
+      "categories": [
+        "Talmud",
+        "Bavli",
+        "Acharonim on Talmud",
+        "Petach Einayim",
+        "Seder Nashim"
+      ],
+      "json_url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Acharonim%20on%20Talmud/Petach%20Einayim/Seder%20Nashim/Petach%20Einayim%20on%20Nazir/Hebrew/merged.json",
+      "txt_url": "https://storage.googleapis.com/sefaria-export/txt/Talmud/Bavli/Acharonim%20on%20Talmud/Petach%20Einayim/Seder%20Nashim/Petach%20Einayim%20on%20Nazir/Hebrew/merged.txt",
+      "cltk_full_url": "https://storage.googleapis.com/sefaria-export/cltk-full/Talmud/Bavli/Acharonim%20on%20Talmud/Petach%20Einayim/Seder%20Nashim/Petach%20Einayim%20on%20Nazir/Hebrew/merged.json",
+      "cltk_flat_url": "https://storage.googleapis.com/sefaria-export/cltk-flat/Talmud/Bavli/Acharonim%20on%20Talmud/Petach%20Einayim/Seder%20Nashim/Petach%20Einayim%20on%20Nazir/Hebrew/merged.json"
+    },
+    {
+      "title": "Petach Einayim on Nedarim",
+      "language": "Hebrew",
+      "versionTitle": "merged",
+      "categories": [
+        "Talmud",
+        "Bavli",
+        "Acharonim on Talmud",
+        "Petach Einayim",
+        "Seder Nashim"
+      ],
+      "json_url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Acharonim%20on%20Talmud/Petach%20Einayim/Seder%20Nashim/Petach%20Einayim%20on%20Nedarim/Hebrew/merged.json",
+      "txt_url": "https://storage.googleapis.com/sefaria-export/txt/Talmud/Bavli/Acharonim%20on%20Talmud/Petach%20Einayim/Seder%20Nashim/Petach%20Einayim%20on%20Nedarim/Hebrew/merged.txt",
+      "cltk_full_url": "https://storage.googleapis.com/sefaria-export/cltk-full/Talmud/Bavli/Acharonim%20on%20Talmud/Petach%20Einayim/Seder%20Nashim/Petach%20Einayim%20on%20Nedarim/Hebrew/merged.json",
+      "cltk_flat_url": "https://storage.googleapis.com/sefaria-export/cltk-flat/Talmud/Bavli/Acharonim%20on%20Talmud/Petach%20Einayim/Seder%20Nashim/Petach%20Einayim%20on%20Nedarim/Hebrew/merged.json"
+    },
+    {
+      "title": "Petach Einayim on Niddah",
+      "language": "Hebrew",
+      "versionTitle": "merged",
+      "categories": [
+        "Talmud",
+        "Bavli",
+        "Acharonim on Talmud",
+        "Petach Einayim",
+        "Seder Tahorot"
+      ],
+      "json_url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Acharonim%20on%20Talmud/Petach%20Einayim/Seder%20Tahorot/Petach%20Einayim%20on%20Niddah/Hebrew/merged.json",
+      "txt_url": "https://storage.googleapis.com/sefaria-export/txt/Talmud/Bavli/Acharonim%20on%20Talmud/Petach%20Einayim/Seder%20Tahorot/Petach%20Einayim%20on%20Niddah/Hebrew/merged.txt",
+      "cltk_full_url": "https://storage.googleapis.com/sefaria-export/cltk-full/Talmud/Bavli/Acharonim%20on%20Talmud/Petach%20Einayim/Seder%20Tahorot/Petach%20Einayim%20on%20Niddah/Hebrew/merged.json",
+      "cltk_flat_url": "https://storage.googleapis.com/sefaria-export/cltk-flat/Talmud/Bavli/Acharonim%20on%20Talmud/Petach%20Einayim/Seder%20Tahorot/Petach%20Einayim%20on%20Niddah/Hebrew/merged.json"
+    },
+    {
+      "title": "Petach Einayim on Pesachim",
+      "language": "Hebrew",
+      "versionTitle": "merged",
+      "categories": [
+        "Talmud",
+        "Bavli",
+        "Acharonim on Talmud",
+        "Petach Einayim",
+        "Seder Moed"
+      ],
+      "json_url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Acharonim%20on%20Talmud/Petach%20Einayim/Seder%20Moed/Petach%20Einayim%20on%20Pesachim/Hebrew/merged.json",
+      "txt_url": "https://storage.googleapis.com/sefaria-export/txt/Talmud/Bavli/Acharonim%20on%20Talmud/Petach%20Einayim/Seder%20Moed/Petach%20Einayim%20on%20Pesachim/Hebrew/merged.txt",
+      "cltk_full_url": "https://storage.googleapis.com/sefaria-export/cltk-full/Talmud/Bavli/Acharonim%20on%20Talmud/Petach%20Einayim/Seder%20Moed/Petach%20Einayim%20on%20Pesachim/Hebrew/merged.json",
+      "cltk_flat_url": "https://storage.googleapis.com/sefaria-export/cltk-flat/Talmud/Bavli/Acharonim%20on%20Talmud/Petach%20Einayim/Seder%20Moed/Petach%20Einayim%20on%20Pesachim/Hebrew/merged.json"
+    },
+    {
+      "title": "Petach Einayim on Rosh Hashanah",
+      "language": "Hebrew",
+      "versionTitle": "merged",
+      "categories": [
+        "Talmud",
+        "Bavli",
+        "Acharonim on Talmud",
+        "Petach Einayim",
+        "Seder Moed"
+      ],
+      "json_url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Acharonim%20on%20Talmud/Petach%20Einayim/Seder%20Moed/Petach%20Einayim%20on%20Rosh%20Hashanah/Hebrew/merged.json",
+      "txt_url": "https://storage.googleapis.com/sefaria-export/txt/Talmud/Bavli/Acharonim%20on%20Talmud/Petach%20Einayim/Seder%20Moed/Petach%20Einayim%20on%20Rosh%20Hashanah/Hebrew/merged.txt",
+      "cltk_full_url": "https://storage.googleapis.com/sefaria-export/cltk-full/Talmud/Bavli/Acharonim%20on%20Talmud/Petach%20Einayim/Seder%20Moed/Petach%20Einayim%20on%20Rosh%20Hashanah/Hebrew/merged.json",
+      "cltk_flat_url": "https://storage.googleapis.com/sefaria-export/cltk-flat/Talmud/Bavli/Acharonim%20on%20Talmud/Petach%20Einayim/Seder%20Moed/Petach%20Einayim%20on%20Rosh%20Hashanah/Hebrew/merged.json"
+    },
+    {
+      "title": "Petach Einayim on Sanhedrin",
+      "language": "Hebrew",
+      "versionTitle": "merged",
+      "categories": [
+        "Talmud",
+        "Bavli",
+        "Acharonim on Talmud",
+        "Petach Einayim",
+        "Seder Nezikin"
+      ],
+      "json_url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Acharonim%20on%20Talmud/Petach%20Einayim/Seder%20Nezikin/Petach%20Einayim%20on%20Sanhedrin/Hebrew/merged.json",
+      "txt_url": "https://storage.googleapis.com/sefaria-export/txt/Talmud/Bavli/Acharonim%20on%20Talmud/Petach%20Einayim/Seder%20Nezikin/Petach%20Einayim%20on%20Sanhedrin/Hebrew/merged.txt",
+      "cltk_full_url": "https://storage.googleapis.com/sefaria-export/cltk-full/Talmud/Bavli/Acharonim%20on%20Talmud/Petach%20Einayim/Seder%20Nezikin/Petach%20Einayim%20on%20Sanhedrin/Hebrew/merged.json",
+      "cltk_flat_url": "https://storage.googleapis.com/sefaria-export/cltk-flat/Talmud/Bavli/Acharonim%20on%20Talmud/Petach%20Einayim/Seder%20Nezikin/Petach%20Einayim%20on%20Sanhedrin/Hebrew/merged.json"
+    },
+    {
+      "title": "Petach Einayim on Shabbat",
+      "language": "Hebrew",
+      "versionTitle": "merged",
+      "categories": [
+        "Talmud",
+        "Bavli",
+        "Acharonim on Talmud",
+        "Petach Einayim",
+        "Seder Moed"
+      ],
+      "json_url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Acharonim%20on%20Talmud/Petach%20Einayim/Seder%20Moed/Petach%20Einayim%20on%20Shabbat/Hebrew/merged.json",
+      "txt_url": "https://storage.googleapis.com/sefaria-export/txt/Talmud/Bavli/Acharonim%20on%20Talmud/Petach%20Einayim/Seder%20Moed/Petach%20Einayim%20on%20Shabbat/Hebrew/merged.txt",
+      "cltk_full_url": "https://storage.googleapis.com/sefaria-export/cltk-full/Talmud/Bavli/Acharonim%20on%20Talmud/Petach%20Einayim/Seder%20Moed/Petach%20Einayim%20on%20Shabbat/Hebrew/merged.json",
+      "cltk_flat_url": "https://storage.googleapis.com/sefaria-export/cltk-flat/Talmud/Bavli/Acharonim%20on%20Talmud/Petach%20Einayim/Seder%20Moed/Petach%20Einayim%20on%20Shabbat/Hebrew/merged.json"
+    },
+    {
+      "title": "Petach Einayim on Shevuot",
+      "language": "Hebrew",
+      "versionTitle": "merged",
+      "categories": [
+        "Talmud",
+        "Bavli",
+        "Acharonim on Talmud",
+        "Petach Einayim",
+        "Seder Nezikin"
+      ],
+      "json_url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Acharonim%20on%20Talmud/Petach%20Einayim/Seder%20Nezikin/Petach%20Einayim%20on%20Shevuot/Hebrew/merged.json",
+      "txt_url": "https://storage.googleapis.com/sefaria-export/txt/Talmud/Bavli/Acharonim%20on%20Talmud/Petach%20Einayim/Seder%20Nezikin/Petach%20Einayim%20on%20Shevuot/Hebrew/merged.txt",
+      "cltk_full_url": "https://storage.googleapis.com/sefaria-export/cltk-full/Talmud/Bavli/Acharonim%20on%20Talmud/Petach%20Einayim/Seder%20Nezikin/Petach%20Einayim%20on%20Shevuot/Hebrew/merged.json",
+      "cltk_flat_url": "https://storage.googleapis.com/sefaria-export/cltk-flat/Talmud/Bavli/Acharonim%20on%20Talmud/Petach%20Einayim/Seder%20Nezikin/Petach%20Einayim%20on%20Shevuot/Hebrew/merged.json"
+    },
+    {
+      "title": "Petach Einayim on Sotah",
+      "language": "Hebrew",
+      "versionTitle": "merged",
+      "categories": [
+        "Talmud",
+        "Bavli",
+        "Acharonim on Talmud",
+        "Petach Einayim",
+        "Seder Nashim"
+      ],
+      "json_url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Acharonim%20on%20Talmud/Petach%20Einayim/Seder%20Nashim/Petach%20Einayim%20on%20Sotah/Hebrew/merged.json",
+      "txt_url": "https://storage.googleapis.com/sefaria-export/txt/Talmud/Bavli/Acharonim%20on%20Talmud/Petach%20Einayim/Seder%20Nashim/Petach%20Einayim%20on%20Sotah/Hebrew/merged.txt",
+      "cltk_full_url": "https://storage.googleapis.com/sefaria-export/cltk-full/Talmud/Bavli/Acharonim%20on%20Talmud/Petach%20Einayim/Seder%20Nashim/Petach%20Einayim%20on%20Sotah/Hebrew/merged.json",
+      "cltk_flat_url": "https://storage.googleapis.com/sefaria-export/cltk-flat/Talmud/Bavli/Acharonim%20on%20Talmud/Petach%20Einayim/Seder%20Nashim/Petach%20Einayim%20on%20Sotah/Hebrew/merged.json"
+    },
+    {
+      "title": "Petach Einayim on Sukkah",
+      "language": "Hebrew",
+      "versionTitle": "merged",
+      "categories": [
+        "Talmud",
+        "Bavli",
+        "Acharonim on Talmud",
+        "Petach Einayim",
+        "Seder Moed"
+      ],
+      "json_url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Acharonim%20on%20Talmud/Petach%20Einayim/Seder%20Moed/Petach%20Einayim%20on%20Sukkah/Hebrew/merged.json",
+      "txt_url": "https://storage.googleapis.com/sefaria-export/txt/Talmud/Bavli/Acharonim%20on%20Talmud/Petach%20Einayim/Seder%20Moed/Petach%20Einayim%20on%20Sukkah/Hebrew/merged.txt",
+      "cltk_full_url": "https://storage.googleapis.com/sefaria-export/cltk-full/Talmud/Bavli/Acharonim%20on%20Talmud/Petach%20Einayim/Seder%20Moed/Petach%20Einayim%20on%20Sukkah/Hebrew/merged.json",
+      "cltk_flat_url": "https://storage.googleapis.com/sefaria-export/cltk-flat/Talmud/Bavli/Acharonim%20on%20Talmud/Petach%20Einayim/Seder%20Moed/Petach%20Einayim%20on%20Sukkah/Hebrew/merged.json"
+    },
+    {
+      "title": "Petach Einayim on Taanit",
+      "language": "Hebrew",
+      "versionTitle": "merged",
+      "categories": [
+        "Talmud",
+        "Bavli",
+        "Acharonim on Talmud",
+        "Petach Einayim",
+        "Seder Moed"
+      ],
+      "json_url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Acharonim%20on%20Talmud/Petach%20Einayim/Seder%20Moed/Petach%20Einayim%20on%20Taanit/Hebrew/merged.json",
+      "txt_url": "https://storage.googleapis.com/sefaria-export/txt/Talmud/Bavli/Acharonim%20on%20Talmud/Petach%20Einayim/Seder%20Moed/Petach%20Einayim%20on%20Taanit/Hebrew/merged.txt",
+      "cltk_full_url": "https://storage.googleapis.com/sefaria-export/cltk-full/Talmud/Bavli/Acharonim%20on%20Talmud/Petach%20Einayim/Seder%20Moed/Petach%20Einayim%20on%20Taanit/Hebrew/merged.json",
+      "cltk_flat_url": "https://storage.googleapis.com/sefaria-export/cltk-flat/Talmud/Bavli/Acharonim%20on%20Talmud/Petach%20Einayim/Seder%20Moed/Petach%20Einayim%20on%20Taanit/Hebrew/merged.json"
+    },
+    {
+      "title": "Petach Einayim on Tamid",
+      "language": "Hebrew",
+      "versionTitle": "merged",
+      "categories": [
+        "Talmud",
+        "Bavli",
+        "Acharonim on Talmud",
+        "Petach Einayim",
+        "Seder Kodashim"
+      ],
+      "json_url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Acharonim%20on%20Talmud/Petach%20Einayim/Seder%20Kodashim/Petach%20Einayim%20on%20Tamid/Hebrew/merged.json",
+      "txt_url": "https://storage.googleapis.com/sefaria-export/txt/Talmud/Bavli/Acharonim%20on%20Talmud/Petach%20Einayim/Seder%20Kodashim/Petach%20Einayim%20on%20Tamid/Hebrew/merged.txt",
+      "cltk_full_url": "https://storage.googleapis.com/sefaria-export/cltk-full/Talmud/Bavli/Acharonim%20on%20Talmud/Petach%20Einayim/Seder%20Kodashim/Petach%20Einayim%20on%20Tamid/Hebrew/merged.json",
+      "cltk_flat_url": "https://storage.googleapis.com/sefaria-export/cltk-flat/Talmud/Bavli/Acharonim%20on%20Talmud/Petach%20Einayim/Seder%20Kodashim/Petach%20Einayim%20on%20Tamid/Hebrew/merged.json"
+    },
+    {
+      "title": "Petach Einayim on Temurah",
+      "language": "Hebrew",
+      "versionTitle": "merged",
+      "categories": [
+        "Talmud",
+        "Bavli",
+        "Acharonim on Talmud",
+        "Petach Einayim",
+        "Seder Kodashim"
+      ],
+      "json_url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Acharonim%20on%20Talmud/Petach%20Einayim/Seder%20Kodashim/Petach%20Einayim%20on%20Temurah/Hebrew/merged.json",
+      "txt_url": "https://storage.googleapis.com/sefaria-export/txt/Talmud/Bavli/Acharonim%20on%20Talmud/Petach%20Einayim/Seder%20Kodashim/Petach%20Einayim%20on%20Temurah/Hebrew/merged.txt",
+      "cltk_full_url": "https://storage.googleapis.com/sefaria-export/cltk-full/Talmud/Bavli/Acharonim%20on%20Talmud/Petach%20Einayim/Seder%20Kodashim/Petach%20Einayim%20on%20Temurah/Hebrew/merged.json",
+      "cltk_flat_url": "https://storage.googleapis.com/sefaria-export/cltk-flat/Talmud/Bavli/Acharonim%20on%20Talmud/Petach%20Einayim/Seder%20Kodashim/Petach%20Einayim%20on%20Temurah/Hebrew/merged.json"
+    },
+    {
+      "title": "Petach Einayim on Yevamot",
+      "language": "Hebrew",
+      "versionTitle": "merged",
+      "categories": [
+        "Talmud",
+        "Bavli",
+        "Acharonim on Talmud",
+        "Petach Einayim",
+        "Seder Nashim"
+      ],
+      "json_url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Acharonim%20on%20Talmud/Petach%20Einayim/Seder%20Nashim/Petach%20Einayim%20on%20Yevamot/Hebrew/merged.json",
+      "txt_url": "https://storage.googleapis.com/sefaria-export/txt/Talmud/Bavli/Acharonim%20on%20Talmud/Petach%20Einayim/Seder%20Nashim/Petach%20Einayim%20on%20Yevamot/Hebrew/merged.txt",
+      "cltk_full_url": "https://storage.googleapis.com/sefaria-export/cltk-full/Talmud/Bavli/Acharonim%20on%20Talmud/Petach%20Einayim/Seder%20Nashim/Petach%20Einayim%20on%20Yevamot/Hebrew/merged.json",
+      "cltk_flat_url": "https://storage.googleapis.com/sefaria-export/cltk-flat/Talmud/Bavli/Acharonim%20on%20Talmud/Petach%20Einayim/Seder%20Nashim/Petach%20Einayim%20on%20Yevamot/Hebrew/merged.json"
+    },
+    {
+      "title": "Petach Einayim on Yoma",
+      "language": "Hebrew",
+      "versionTitle": "merged",
+      "categories": [
+        "Talmud",
+        "Bavli",
+        "Acharonim on Talmud",
+        "Petach Einayim",
+        "Seder Moed"
+      ],
+      "json_url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Acharonim%20on%20Talmud/Petach%20Einayim/Seder%20Moed/Petach%20Einayim%20on%20Yoma/Hebrew/merged.json",
+      "txt_url": "https://storage.googleapis.com/sefaria-export/txt/Talmud/Bavli/Acharonim%20on%20Talmud/Petach%20Einayim/Seder%20Moed/Petach%20Einayim%20on%20Yoma/Hebrew/merged.txt",
+      "cltk_full_url": "https://storage.googleapis.com/sefaria-export/cltk-full/Talmud/Bavli/Acharonim%20on%20Talmud/Petach%20Einayim/Seder%20Moed/Petach%20Einayim%20on%20Yoma/Hebrew/merged.json",
+      "cltk_flat_url": "https://storage.googleapis.com/sefaria-export/cltk-flat/Talmud/Bavli/Acharonim%20on%20Talmud/Petach%20Einayim/Seder%20Moed/Petach%20Einayim%20on%20Yoma/Hebrew/merged.json"
+    },
+    {
+      "title": "Petach Einayim on Zevachim",
+      "language": "Hebrew",
+      "versionTitle": "merged",
+      "categories": [
+        "Talmud",
+        "Bavli",
+        "Acharonim on Talmud",
+        "Petach Einayim",
+        "Seder Kodashim"
+      ],
+      "json_url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Acharonim%20on%20Talmud/Petach%20Einayim/Seder%20Kodashim/Petach%20Einayim%20on%20Zevachim/Hebrew/merged.json",
+      "txt_url": "https://storage.googleapis.com/sefaria-export/txt/Talmud/Bavli/Acharonim%20on%20Talmud/Petach%20Einayim/Seder%20Kodashim/Petach%20Einayim%20on%20Zevachim/Hebrew/merged.txt",
+      "cltk_full_url": "https://storage.googleapis.com/sefaria-export/cltk-full/Talmud/Bavli/Acharonim%20on%20Talmud/Petach%20Einayim/Seder%20Kodashim/Petach%20Einayim%20on%20Zevachim/Hebrew/merged.json",
+      "cltk_flat_url": "https://storage.googleapis.com/sefaria-export/cltk-flat/Talmud/Bavli/Acharonim%20on%20Talmud/Petach%20Einayim/Seder%20Kodashim/Petach%20Einayim%20on%20Zevachim/Hebrew/merged.json"
+    },
+    {
+      "title": "Rosh David",
+      "language": "Hebrew",
+      "versionTitle": "merged",
+      "categories": [
+        "Tanakh",
+        "Acharonim on Tanakh",
+        "Chida"
+      ],
+      "json_url": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Acharonim%20on%20Tanakh/Chida/Rosh%20David/Hebrew/merged.json",
+      "txt_url": "https://storage.googleapis.com/sefaria-export/txt/Tanakh/Acharonim%20on%20Tanakh/Chida/Rosh%20David/Hebrew/merged.txt",
+      "cltk_full_url": "https://storage.googleapis.com/sefaria-export/cltk-full/Tanakh/Acharonim%20on%20Tanakh/Chida/Rosh%20David/Hebrew/merged.json",
+      "cltk_flat_url": "https://storage.googleapis.com/sefaria-export/cltk-flat/Tanakh/Acharonim%20on%20Tanakh/Chida/Rosh%20David/Hebrew/merged.json"
+    },
+    {
+      "title": "Shem HaGedolim, Maarekhet Sefarim",
+      "language": "Hebrew",
+      "versionTitle": "merged",
+      "categories": [
+        "Reference",
+        "Encyclopedic Works",
+        "Shem HaGedolim"
+      ],
+      "json_url": "https://storage.googleapis.com/sefaria-export/json/Reference/Encyclopedic%20Works/Shem%20HaGedolim/Shem%20HaGedolim%2C%20Maarekhet%20Sefarim/Hebrew/merged.json",
+      "txt_url": "https://storage.googleapis.com/sefaria-export/txt/Reference/Encyclopedic%20Works/Shem%20HaGedolim/Shem%20HaGedolim%2C%20Maarekhet%20Sefarim/Hebrew/merged.txt",
+      "cltk_full_url": "https://storage.googleapis.com/sefaria-export/cltk-full/Reference/Encyclopedic%20Works/Shem%20HaGedolim/Shem%20HaGedolim%2C%20Maarekhet%20Sefarim/Hebrew/merged.json",
+      "cltk_flat_url": "https://storage.googleapis.com/sefaria-export/cltk-flat/Reference/Encyclopedic%20Works/Shem%20HaGedolim/Shem%20HaGedolim%2C%20Maarekhet%20Sefarim/Hebrew/merged.json"
+    },
+    {
+      "title": "Tiferet Yisrael",
+      "language": "Hebrew",
+      "versionTitle": "merged",
+      "categories": [
+        "Jewish Thought",
+        "Acharonim",
+        "Maharal"
+      ],
+      "json_url": "https://storage.googleapis.com/sefaria-export/json/Jewish%20Thought/Acharonim/Maharal/Tiferet%20Yisrael/Hebrew/merged.json",
+      "txt_url": "https://storage.googleapis.com/sefaria-export/txt/Jewish%20Thought/Acharonim/Maharal/Tiferet%20Yisrael/Hebrew/merged.txt",
+      "cltk_full_url": "https://storage.googleapis.com/sefaria-export/cltk-full/Jewish%20Thought/Acharonim/Maharal/Tiferet%20Yisrael/Hebrew/merged.json",
+      "cltk_flat_url": "https://storage.googleapis.com/sefaria-export/cltk-flat/Jewish%20Thought/Acharonim/Maharal/Tiferet%20Yisrael/Hebrew/merged.json"
+    },
+    {
+      "title": "Tzaverei Shalal",
+      "language": "Hebrew",
+      "versionTitle": "merged",
+      "categories": [
+        "Tanakh",
+        "Acharonim on Tanakh",
+        "Chida"
+      ],
+      "json_url": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Acharonim%20on%20Tanakh/Chida/Tzaverei%20Shalal/Hebrew/merged.json",
+      "txt_url": "https://storage.googleapis.com/sefaria-export/txt/Tanakh/Acharonim%20on%20Tanakh/Chida/Tzaverei%20Shalal/Hebrew/merged.txt",
+      "cltk_full_url": "https://storage.googleapis.com/sefaria-export/cltk-full/Tanakh/Acharonim%20on%20Tanakh/Chida/Tzaverei%20Shalal/Hebrew/merged.json",
+      "cltk_flat_url": "https://storage.googleapis.com/sefaria-export/cltk-flat/Tanakh/Acharonim%20on%20Tanakh/Chida/Tzaverei%20Shalal/Hebrew/merged.json"
+    }
+  ],
+  "excluded_attribution_trap": "Chidushei Agadot series is Maharsha, not Maharal; Sefaria About description checked.",
+  "unlocated_in_export_index": [
+    "Maharal Hiddushei Aggadot",
+    "Birkei Yosef"
+  ],
+  "note": "Catalog presence is not access/read/search completeness."
+}

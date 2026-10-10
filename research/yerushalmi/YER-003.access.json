@@ -1,0 +1,96 @@
+{
+  "schema_version": 1,
+  "task_id": "YER-003",
+  "scopes": [
+    {
+      "returned_ref": "Jerusalem Talmud Avodah Zarah 1:9",
+      "api_url": "https://www.sefaria.org/api/texts/Jerusalem_Talmud_Avodah_Zarah.1.9?context=0",
+      "sha256": "09be00f977716b9405dfaa7da856e370b7721862c1b94b9aeace62d740e44113",
+      "edition": "The Jerusalem Talmud, edition by Heinrich W. Guggenheimer. Berlin, De Gruyter, 1999-2015",
+      "license": "CC-BY",
+      "retrieved_segments": 7,
+      "manual_scope": "Selected candidate and context segments described individually; retrieval alone does not mark all segments read."
+    },
+    {
+      "returned_ref": "Jerusalem Talmud Chagigah 2:2",
+      "api_url": "https://www.sefaria.org/api/texts/Jerusalem_Talmud_Chagigah.2.2?context=0",
+      "sha256": "2ed274b313bc0745e33d83b1335c56e60f6c1c6bb3d8f8d58770b3fecf5dd61b",
+      "edition": "The Jerusalem Talmud, edition by Heinrich W. Guggenheimer. Berlin, De Gruyter, 1999-2015",
+      "license": "CC-BY",
+      "retrieved_segments": 7,
+      "manual_scope": "Selected candidate and context segments described individually; retrieval alone does not mark all segments read."
+    },
+    {
+      "returned_ref": "Jerusalem Talmud Makkot 3:13",
+      "api_url": "https://www.sefaria.org/api/texts/Jerusalem_Talmud_Makkot.3.13?context=0",
+      "sha256": "ab8e45b1e61835150267ff365dd7eacc87526555d6d4da436fdd9a4036c1859b",
+      "edition": "The Jerusalem Talmud, edition by Heinrich W. Guggenheimer. Berlin, De Gruyter, 1999-2015",
+      "license": "CC-BY",
+      "retrieved_segments": 5,
+      "manual_scope": "Selected candidate and context segments described individually; retrieval alone does not mark all segments read."
+    },
+    {
+      "returned_ref": "Jerusalem Talmud Avodah Zarah 1:6",
+      "api_url": "https://www.sefaria.org/api/texts/Jerusalem_Talmud_Avodah_Zarah.1.6?context=0",
+      "sha256": "42ca29ee03daf47f9367346d03a45e22d024354aff56ec2a4643274b881282e0",
+      "edition": "The Jerusalem Talmud, edition by Heinrich W. Guggenheimer. Berlin, De Gruyter, 1999-2015",
+      "license": "CC-BY",
+      "retrieved_segments": 7,
+      "manual_scope": "Selected candidate and context segments described individually; retrieval alone does not mark all segments read."
+    },
+    {
+      "returned_ref": "Jerusalem Talmud Berakhot 8:5",
+      "api_url": "https://www.sefaria.org/api/texts/Jerusalem_Talmud_Berakhot.8.5?context=0",
+      "sha256": "714c86f18ca4db857b2797e3ea5f4570ba3552ab8c8c3bcfc03341d6d73dceb8",
+      "edition": "The Jerusalem Talmud, edition by Heinrich W. Guggenheimer. Berlin, De Gruyter, 1999-2015",
+      "license": "CC-BY",
+      "retrieved_segments": 9,
+      "manual_scope": "Selected candidate and context segments described individually; retrieval alone does not mark all segments read."
+    },
+    {
+      "returned_ref": "Jerusalem Talmud Sotah 8:3",
+      "api_url": "https://www.sefaria.org/api/texts/Jerusalem_Talmud_Sotah.8.3?context=0",
+      "sha256": "4bfde7defe0acd01f4fea7af220b8348071e32fdce7eab154d338a842ab2225c",
+      "edition": "The Jerusalem Talmud, edition by Heinrich W. Guggenheimer. Berlin, De Gruyter, 1999-2015",
+      "license": "CC-BY",
+      "retrieved_segments": 12,
+      "manual_scope": "Selected candidate and context segments described individually; retrieval alone does not mark all segments read."
+    },
+    {
+      "returned_ref": "Jerusalem Talmud Chagigah 2:1",
+      "api_url": "https://www.sefaria.org/api/texts/Jerusalem_Talmud_Chagigah.2.1?context=0",
+      "sha256": "46268c229fdb691df54f5428565199852b405be92bbefddd0058600cb3a7b8c3",
+      "edition": "The Jerusalem Talmud, edition by Heinrich W. Guggenheimer. Berlin, De Gruyter, 1999-2015",
+      "license": "CC-BY",
+      "retrieved_segments": 17,
+      "manual_scope": "Selected candidate and context segments described individually; retrieval alone does not mark all segments read."
+    },
+    {
+      "returned_ref": "Jerusalem Talmud Sukkah 5:1",
+      "api_url": "https://www.sefaria.org/api/texts/Jerusalem_Talmud_Sukkah.5.1?context=0",
+      "sha256": "9a25e2c4517e5ad6dc7e0065f9ab24c8b5f0aeb74d840c060bdb62b8ec92401b",
+      "edition": "The Jerusalem Talmud, edition by Heinrich W. Guggenheimer. Berlin, De Gruyter, 1999-2015",
+      "license": "CC-BY",
+      "retrieved_segments": 6,
+      "manual_scope": "Selected candidate and context segments described individually; retrieval alone does not mark all segments read."
+    },
+    {
+      "returned_ref": "Jerusalem Talmud Bava Metzia 4:6",
+      "api_url": "https://www.sefaria.org/api/texts/Jerusalem_Talmud_Bava_Metzia.4.6?context=0",
+      "sha256": "bc61cb060b7f1c13cab7d188db168257f61464feefa5f6050f49e207e7790344",
+      "edition": "The Jerusalem Talmud, edition by Heinrich W. Guggenheimer. Berlin, De Gruyter, 1999-2015",
+      "license": "CC-BY",
+      "retrieved_segments": 2,
+      "manual_scope": "Selected candidate and context segments described individually; retrieval alone does not mark all segments read."
+    }
+  ],
+  "source_count": 11,
+  "editorial_note_count": 1,
+  "independent_review_required": [
+    "yerushalmi-chagigah-2-1-10-guggenheimer",
+    "yerushalmi-chagigah-2-1-7-guggenheimer",
+    "yerushalmi-berakhot-8-5-6-guggenheimer",
+    "yerushalmi-berakhot-8-5-7-guggenheimer",
+    "yerushalmi-makkot-3-13-2-guggenheimer"
+  ]
+}

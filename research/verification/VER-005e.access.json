@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "task_id": "VER-005e",
+  "primary_access": [
+    {
+      "url": "https://he.wikisource.org/wiki/רמב%22ם_הלכות_מלכים_ומלחמות_ג",
+      "sha256": "8fca4c2d9f3f3ac0b1fa3e29df2f477a7c6cec8c1e43b354a0bd8afcff7624b4",
+      "error": null,
+      "accessed_at": "2026-10-10"
+    },
+    {
+      "url": "https://he.wikisource.org/wiki/רמב%22ם_הלכות_מלכים_ומלחמות_ה",
+      "sha256": "02e7ac46d3dc6fa0074c803db1ff8978385dafaacf84490b79afc5d4949d62a2",
+      "error": null,
+      "accessed_at": "2026-10-10"
+    },
+    {
+      "url": "https://he.wikisource.org/wiki/כלי_יקר_על_דברים_יז",
+      "sha256": "d4953e5d100d38b1729fd23cadde89c5efcf53657a15f91a9688996bec91b8c3",
+      "error": null,
+      "accessed_at": "2026-10-10"
+    },
+    {
+      "url": "https://he.wikisource.org/wiki/אברבנאל_על_דברים_יז",
+      "sha256": "5d3ff70df6969fa69ba60086e13675ddf4ed2b24a5f198357b698d11044aa409",
+      "error": null,
+      "accessed_at": "2026-10-10"
+    },
+    {
+      "url": "https://he.wikisource.org/wiki/מ%22ג_דברים_יז_טז",
+      "sha256": "3ae4949ab63a7b20ba16c27d08608a3635be970f84fd2d4ce810234636ab3d91",
+      "error": null,
+      "accessed_at": "2026-10-10"
+    }
+  ]
+}

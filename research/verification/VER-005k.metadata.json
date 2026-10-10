@@ -1,0 +1,4413 @@
+[
+  {
+    "url": "https://www.sefaria.org/api/v2/raw/index/Sefer%20Etz%20Chaim",
+    "data": {
+      "title": "Sefer Etz Chaim",
+      "categories": [
+        "Kabbalah",
+        "Arizal and Chaim Vital"
+      ],
+      "schema": {
+        "nodes": [
+          {
+            "nodeType": "JaggedArrayNode",
+            "depth": 2,
+            "addressTypes": [
+              "Integer",
+              "Integer"
+            ],
+            "sectionNames": [
+              "Chapter",
+              "Paragraph"
+            ],
+            "match_templates": [
+              {
+                "term_slugs": [
+                  "shaar-haklalim"
+                ]
+              }
+            ],
+            "titles": [
+              {
+                "text": "Shaar HaKlalim",
+                "lang": "en",
+                "primary": true
+              },
+              {
+                "text": "שער הכללים",
+                "lang": "he",
+                "primary": true
+              }
+            ],
+            "key": "Shaar HaKlalim"
+          },
+          {
+            "nodeType": "JaggedArrayNode",
+            "depth": 3,
+            "addressTypes": [
+              "Integer",
+              "Integer",
+              "Integer"
+            ],
+            "sectionNames": [
+              "Gate",
+              "Chapter",
+              "Paragraph"
+            ],
+            "default": true,
+            "key": "default"
+          }
+        ],
+        "nodeType": "SchemaNode",
+        "match_templates": [
+          {
+            "term_slugs": [
+              "sefer",
+              "etz-chaim"
+            ]
+          }
+        ],
+        "titles": [
+          {
+            "text": "Etz Chaim",
+            "lang": "en"
+          },
+          {
+            "text": "Etz Hayyim, Etz Chayim",
+            "lang": "en"
+          },
+          {
+            "text": "עץ חיים",
+            "lang": "he",
+            "primary": true
+          },
+          {
+            "text": "ספר עץ חיים",
+            "lang": "he"
+          },
+          {
+            "text": "ספר ע\"ח",
+            "lang": "he"
+          },
+          {
+            "text": "Sefer Etz Chaim",
+            "lang": "en",
+            "primary": true
+          }
+        ],
+        "key": "Sefer Etz Chaim"
+      },
+      "authors": [
+        "chaim-vital"
+      ],
+      "enDesc": "Etz Chaim (Tree of Life) is a collection of the teachings of Rabbi Isaac Luria (Arizal) as recorded by his disciple, Rabbi Chaim Vital. It is the primary introduction, interpretation, and synthesis of Lurianic Kabbalah. The Shemonah Shearim (Eight Gates) was arranged by Rabbi Samuel Vital, the son of Chaim Vital. Etz Chaim was the only work published within Chaim Vital's lifetime. The rest of his writings were buried with him in an unedited form until Samuel supposedly had a dream that he was to exhume his father's grave and remove certain writings, leaving the others buried. Samuel Vital went on to edit, annotate, and publish the works as the Eight Gates, which were then, at times, subdivided into other works. Sephardic kabbalists try to study all eight gates. Etz Chaim is typically published in a single-volume, three-part arrangement: the initial two parts are by Chaim Vital, with a third part, Nahar Shalom, by Rabbi Shalom Sharabi.",
+      "heDesc": "",
+      "enShortDesc": "Foundational anthology of Lurianic Kabbalah presenting its theology and its theory of the world’s creation",
+      "heShortDesc": "אנתולוגיה יסודית של הקבלה הלוריאנית, המציגה את היסודות התאולוגיים שלה ואת התאוריה של בריאת העולם.",
+      "pubDate": [
+        1782
+      ],
+      "hasErrorMargin": true,
+      "compDate": [
+        1570,
+        1590
+      ],
+      "era": "AH"
+    }
+  },
+  {
+    "url": "https://www.sefaria.org/api/v2/raw/index/Pri%20Etz%20Chaim",
+    "data": {
+      "title": "Pri Etz Chaim",
+      "categories": [
+        "Kabbalah",
+        "Arizal and Chaim Vital"
+      ],
+      "schema": {
+        "nodes": [
+          {
+            "nodes": [
+              {
+                "nodeType": "JaggedArrayNode",
+                "depth": 1,
+                "addressTypes": [
+                  "Integer"
+                ],
+                "sectionNames": [
+                  "Paragraph"
+                ],
+                "match_templates": [
+                  {
+                    "term_slugs": [
+                      "introduction"
+                    ]
+                  }
+                ],
+                "titles": [
+                  {
+                    "lang": "en",
+                    "text": "Introduction",
+                    "primary": true
+                  },
+                  {
+                    "lang": "he",
+                    "text": "הקדמה",
+                    "primary": true
+                  }
+                ],
+                "key": "Introduction"
+              },
+              {
+                "nodeType": "JaggedArrayNode",
+                "depth": 2,
+                "addressTypes": [
+                  "Integer",
+                  "Integer"
+                ],
+                "sectionNames": [
+                  "Chapter",
+                  "Paragraph"
+                ],
+                "default": true,
+                "key": "default"
+              }
+            ],
+            "nodeType": "SchemaNode",
+            "match_templates": [
+              {
+                "term_slugs": [
+                  "gate-of-prayer"
+                ]
+              }
+            ],
+            "titles": [
+              {
+                "lang": "en",
+                "text": "Gate of Prayer",
+                "primary": true
+              },
+              {
+                "lang": "he",
+                "text": "שער התפלה",
+                "primary": true
+              }
+            ],
+            "key": "Gate of Prayer"
+          },
+          {
+            "nodes": [
+              {
+                "nodeType": "JaggedArrayNode",
+                "depth": 2,
+                "addressTypes": [
+                  "Integer",
+                  "Integer"
+                ],
+                "sectionNames": [
+                  "Chapter",
+                  "Paragraph"
+                ],
+                "default": true,
+                "key": "default"
+              }
+            ],
+            "nodeType": "SchemaNode",
+            "match_templates": [
+              {
+                "term_slugs": [
+                  "gate-of-blessings"
+                ]
+              }
+            ],
+            "titles": [
+              {
+                "lang": "en",
+                "text": "Gate of Blessings",
+                "primary": true
+              },
+              {
+                "lang": "he",
+                "text": "שער הברכות",
+                "primary": true
+              }
+            ],
+            "key": "Gate of Blessings"
+          },
+          {
+            "nodes": [
+              {
+                "nodeType": "JaggedArrayNode",
+                "depth": 2,
+                "addressTypes": [
+                  "Integer",
+                  "Integer"
+                ],
+                "sectionNames": [
+                  "Chapter",
+                  "Paragraph"
+                ],
+                "default": true,
+                "key": "default"
+              }
+            ],
+            "nodeType": "SchemaNode",
+            "match_templates": [
+              {
+                "term_slugs": [
+                  "gate-of-fringes"
+                ]
+              }
+            ],
+            "titles": [
+              {
+                "lang": "en",
+                "text": "Gate of Fringes",
+                "primary": true
+              },
+              {
+                "lang": "he",
+                "text": "שער הציצית",
+                "primary": true
+              }
+            ],
+            "key": "Gate of Fringes"
+          },
+          {
+            "nodes": [
+              {
+                "nodeType": "JaggedArrayNode",
+                "depth": 2,
+                "addressTypes": [
+                  "Integer",
+                  "Integer"
+                ],
+                "sectionNames": [
+                  "Chapter",
+                  "Paragraph"
+                ],
+                "default": true,
+                "key": "default"
+              }
+            ],
+            "nodeType": "SchemaNode",
+            "match_templates": [
+              {
+                "term_slugs": [
+                  "gate-of-teffilin"
+                ]
+              }
+            ],
+            "titles": [
+              {
+                "lang": "en",
+                "text": "Gate of Teffilin",
+                "primary": true
+              },
+              {
+                "lang": "he",
+                "text": "שער התפילין",
+                "primary": true
+              }
+            ],
+            "key": "Gate of Teffilin"
+          },
+          {
+            "nodes": [
+              {
+                "nodeType": "JaggedArrayNode",
+                "depth": 2,
+                "addressTypes": [
+                  "Integer",
+                  "Integer"
+                ],
+                "sectionNames": [
+                  "Chapter",
+                  "Paragraph"
+                ],
+                "default": true,
+                "key": "default"
+              }
+            ],
+            "nodeType": "SchemaNode",
+            "match_templates": [
+              {
+                "term_slugs": [
+                  "gate-of-the-world-of-action"
+                ]
+              }
+            ],
+            "titles": [
+              {
+                "lang": "en",
+                "text": "Gate of the World of Action",
+                "primary": true
+              },
+              {
+                "lang": "he",
+                "text": "שער עולם העשיה",
+                "primary": true
+              }
+            ],
+            "key": "Gate of the World of Action"
+          },
+          {
+            "nodes": [
+              {
+                "nodeType": "JaggedArrayNode",
+                "depth": 1,
+                "addressTypes": [
+                  "Integer"
+                ],
+                "sectionNames": [
+                  "Paragraph"
+                ],
+                "match_templates": [
+                  {
+                    "term_slugs": [
+                      "from-second-edition"
+                    ]
+                  }
+                ],
+                "titles": [
+                  {
+                    "lang": "en",
+                    "text": "From Second Edition",
+                    "primary": true
+                  },
+                  {
+                    "lang": "he",
+                    "text": "מהדורא בתרא",
+                    "primary": true
+                  }
+                ],
+                "key": "From Second Edition"
+              },
+              {
+                "nodeType": "JaggedArrayNode",
+                "depth": 2,
+                "addressTypes": [
+                  "Integer",
+                  "Integer"
+                ],
+                "sectionNames": [
+                  "Chapter",
+                  "Paragraph"
+                ],
+                "default": true,
+                "key": "default"
+              }
+            ],
+            "nodeType": "SchemaNode",
+            "match_templates": [
+              {
+                "term_slugs": [
+                  "gate-of-the-holies"
+                ]
+              }
+            ],
+            "titles": [
+              {
+                "lang": "en",
+                "text": "Gate of the Holies",
+                "primary": true
+              },
+              {
+                "lang": "he",
+                "text": "שער הקדישים",
+                "primary": true
+              }
+            ],
+            "key": "Gate of the Holies"
+          },
+          {
+            "nodes": [
+              {
+                "nodeType": "JaggedArrayNode",
+                "depth": 2,
+                "addressTypes": [
+                  "Integer",
+                  "Integer"
+                ],
+                "sectionNames": [
+                  "Chapter",
+                  "Paragraph"
+                ],
+                "default": true,
+                "key": "default"
+              }
+            ],
+            "nodeType": "SchemaNode",
+            "match_templates": [
+              {
+                "term_slugs": [
+                  "gate-of-songs"
+                ]
+              }
+            ],
+            "titles": [
+              {
+                "lang": "en",
+                "text": "Gate of Songs",
+                "primary": true
+              },
+              {
+                "lang": "he",
+                "text": "שער הזמירות",
+                "primary": true
+              }
+            ],
+            "key": "Gate of Songs"
+          },
+          {
+            "nodes": [
+              {
+                "nodeType": "JaggedArrayNode",
+                "depth": 2,
+                "addressTypes": [
+                  "Integer",
+                  "Integer"
+                ],
+                "sectionNames": [
+                  "Chapter",
+                  "Paragraph"
+                ],
+                "default": true,
+                "key": "default"
+              }
+            ],
+            "nodeType": "SchemaNode",
+            "match_templates": [
+              {
+                "term_slugs": [
+                  "gate-of-the-recitation-of-the-shema"
+                ]
+              }
+            ],
+            "titles": [
+              {
+                "lang": "en",
+                "text": "Gate of the Recitation of the Shema",
+                "primary": true
+              },
+              {
+                "lang": "he",
+                "text": "שער הקריאת שמע",
+                "primary": true
+              }
+            ],
+            "key": "Gate of the Recitation of the Shema"
+          },
+          {
+            "nodes": [
+              {
+                "nodeType": "JaggedArrayNode",
+                "depth": 2,
+                "addressTypes": [
+                  "Integer",
+                  "Integer"
+                ],
+                "sectionNames": [
+                  "Chapter",
+                  "Paragraph"
+                ],
+                "default": true,
+                "key": "default"
+              }
+            ],
+            "nodeType": "SchemaNode",
+            "match_templates": [
+              {
+                "term_slugs": [
+                  "gate-of-the-silent-prayer"
+                ]
+              }
+            ],
+            "titles": [
+              {
+                "lang": "en",
+                "text": "Gate of the Silent Prayer",
+                "primary": true
+              },
+              {
+                "lang": "he",
+                "text": "שער העמידה",
+                "primary": true
+              }
+            ],
+            "key": "Gate of the Silent Prayer"
+          },
+          {
+            "nodes": [
+              {
+                "nodeType": "JaggedArrayNode",
+                "depth": 2,
+                "addressTypes": [
+                  "Integer",
+                  "Integer"
+                ],
+                "sectionNames": [
+                  "Chapter",
+                  "Paragraph"
+                ],
+                "default": true,
+                "key": "default"
+              }
+            ],
+            "nodeType": "SchemaNode",
+            "match_templates": [
+              {
+                "term_slugs": [
+                  "gate-of-the-repetition-of-the-silent-prayer"
+                ]
+              }
+            ],
+            "titles": [
+              {
+                "lang": "en",
+                "text": "Gate of the Repetition of the Silent Prayer",
+                "primary": true
+              },
+              {
+                "lang": "he",
+                "text": "שער חזרת העמידה",
+                "primary": true
+              }
+            ],
+            "key": "Gate of the Repetition of the Silent Prayer"
+          },
+          {
+            "nodes": [
+              {
+                "nodeType": "JaggedArrayNode",
+                "depth": 2,
+                "addressTypes": [
+                  "Integer",
+                  "Integer"
+                ],
+                "sectionNames": [
+                  "Chapter",
+                  "Paragraph"
+                ],
+                "default": true,
+                "key": "default"
+              }
+            ],
+            "nodeType": "SchemaNode",
+            "match_templates": [
+              {
+                "term_slugs": [
+                  "gate-of-amen-intention"
+                ]
+              }
+            ],
+            "titles": [
+              {
+                "lang": "en",
+                "text": "Gate of Amen Intention",
+                "primary": true
+              },
+              {
+                "lang": "he",
+                "text": "שער כוונת אמן",
+                "primary": true
+              }
+            ],
+            "key": "Gate of Amen Intention"
+          },
+          {
+            "nodes": [
+              {
+                "nodeType": "JaggedArrayNode",
+                "depth": 2,
+                "addressTypes": [
+                  "Integer",
+                  "Integer"
+                ],
+                "sectionNames": [
+                  "Chapter",
+                  "Paragraph"
+                ],
+                "default": true,
+                "key": "default"
+              }
+            ],
+            "nodeType": "SchemaNode",
+            "match_templates": [
+              {
+                "term_slugs": [
+                  "gate-of-confession"
+                ]
+              }
+            ],
+            "titles": [
+              {
+                "lang": "en",
+                "text": "Gate of Confession",
+                "primary": true
+              },
+              {
+                "lang": "he",
+                "text": "שער הסליחות",
+                "primary": true
+              }
+            ],
+            "key": "Gate of Confession"
+          },
+          {
+            "nodes": [
+              {
+                "nodeType": "JaggedArrayNode",
+                "depth": 2,
+                "addressTypes": [
+                  "Integer",
+                  "Integer"
+                ],
+                "sectionNames": [
+                  "Chapter",
+                  "Paragraph"
+                ],
+                "default": true,
+                "key": "default"
+              }
+            ],
+            "nodeType": "SchemaNode",
+            "match_templates": [
+              {
+                "term_slugs": [
+                  "gate-of-putting-down-the-head"
+                ]
+              }
+            ],
+            "titles": [
+              {
+                "lang": "en",
+                "text": "Gate of Putting Down the Head",
+                "primary": true
+              },
+              {
+                "lang": "he",
+                "text": "שער נפילת אפים",
+                "primary": true
+              }
+            ],
+            "key": "Gate of Putting Down the Head"
+          },
+          {
+            "nodes": [
+              {
+                "nodeType": "JaggedArrayNode",
+                "depth": 2,
+                "addressTypes": [
+                  "Integer",
+                  "Integer"
+                ],
+                "sectionNames": [
+                  "Chapter",
+                  "Paragraph"
+                ],
+                "default": true,
+                "key": "default"
+              }
+            ],
+            "nodeType": "SchemaNode",
+            "match_templates": [
+              {
+                "term_slugs": [
+                  "gate-of-reading-the-torah"
+                ]
+              }
+            ],
+            "titles": [
+              {
+                "lang": "en",
+                "text": "Gate of Reading the Torah",
+                "primary": true
+              },
+              {
+                "lang": "he",
+                "text": "שער קריאת ספר תורה",
+                "primary": true
+              }
+            ],
+            "key": "Gate of Reading the Torah"
+          },
+          {
+            "nodes": [
+              {
+                "nodeType": "JaggedArrayNode",
+                "depth": 2,
+                "addressTypes": [
+                  "Integer",
+                  "Integer"
+                ],
+                "sectionNames": [
+                  "Chapter",
+                  "Paragraph"
+                ],
+                "default": true,
+                "key": "default"
+              }
+            ],
+            "nodeType": "SchemaNode",
+            "match_templates": [
+              {
+                "term_slugs": [
+                  "gate-of-the-afternoon-and-evening-prayers"
+                ]
+              }
+            ],
+            "titles": [
+              {
+                "lang": "en",
+                "text": "Gate of the Afternoon and Evening Prayers",
+                "primary": true
+              },
+              {
+                "lang": "he",
+                "text": "שער מנחה ומעריב",
+                "primary": true
+              }
+            ],
+            "key": "Gate of the Afternoon and Evening Prayers"
+          },
+          {
+            "nodes": [
+              {
+                "nodeType": "JaggedArrayNode",
+                "depth": 2,
+                "addressTypes": [
+                  "Integer",
+                  "Integer"
+                ],
+                "sectionNames": [
+                  "Chapter",
+                  "Paragraph"
+                ],
+                "default": true,
+                "key": "default"
+              }
+            ],
+            "nodeType": "SchemaNode",
+            "match_templates": [
+              {
+                "term_slugs": [
+                  "gate-of-the-recitation-of-the-shema-before-retiring"
+                ]
+              }
+            ],
+            "titles": [
+              {
+                "lang": "en",
+                "text": "Gate of the Recitation of the Shema Before Retiring",
+                "primary": true
+              },
+              {
+                "lang": "he",
+                "text": "שער קריאת שמע שעל המיטה",
+                "primary": true
+              }
+            ],
+            "key": "Gate of the Recitation of the Shema Before Retiring"
+          },
+          {
+            "nodes": [
+              {
+                "nodeType": "JaggedArrayNode",
+                "depth": 2,
+                "addressTypes": [
+                  "Integer",
+                  "Integer"
+                ],
+                "sectionNames": [
+                  "Chapter",
+                  "Paragraph"
+                ],
+                "default": true,
+                "key": "default"
+              }
+            ],
+            "nodeType": "SchemaNode",
+            "match_templates": [
+              {
+                "term_slugs": [
+                  "gate-of-the-midnight-prayer"
+                ]
+              }
+            ],
+            "titles": [
+              {
+                "lang": "en",
+                "text": "Gate of the Midnight Prayer",
+                "primary": true
+              },
+              {
+                "lang": "he",
+                "text": "שער תיקון חצות",
+                "primary": true
+              }
+            ],
+            "key": "Gate of the Midnight Prayer"
+          },
+          {
+            "nodes": [
+              {
+                "nodeType": "JaggedArrayNode",
+                "depth": 2,
+                "addressTypes": [
+                  "Integer",
+                  "Integer"
+                ],
+                "sectionNames": [
+                  "Chapter",
+                  "Paragraph"
+                ],
+                "default": true,
+                "key": "default"
+              }
+            ],
+            "nodeType": "SchemaNode",
+            "match_templates": [
+              {
+                "term_slugs": [
+                  "gate-of-conduct-while-learning"
+                ]
+              }
+            ],
+            "titles": [
+              {
+                "lang": "en",
+                "text": "Gate of Conduct While Learning",
+                "primary": true
+              },
+              {
+                "lang": "he",
+                "text": "שער הנהגת הלימוד",
+                "primary": true
+              }
+            ],
+            "key": "Gate of Conduct While Learning"
+          },
+          {
+            "nodes": [
+              {
+                "nodeType": "JaggedArrayNode",
+                "depth": 2,
+                "addressTypes": [
+                  "Integer",
+                  "Integer"
+                ],
+                "sectionNames": [
+                  "Chapter",
+                  "Paragraph"
+                ],
+                "match_templates": [
+                  {
+                    "term_slugs": [
+                      "introduction"
+                    ]
+                  }
+                ],
+                "titles": [
+                  {
+                    "lang": "en",
+                    "text": "Introduction",
+                    "primary": true
+                  },
+                  {
+                    "lang": "he",
+                    "text": "הקדמה",
+                    "primary": true
+                  }
+                ],
+                "key": "Introduction"
+              },
+              {
+                "nodeType": "JaggedArrayNode",
+                "depth": 2,
+                "addressTypes": [
+                  "Integer",
+                  "Integer"
+                ],
+                "sectionNames": [
+                  "Chapter",
+                  "Paragraph"
+                ],
+                "default": true,
+                "key": "default"
+              }
+            ],
+            "nodeType": "SchemaNode",
+            "match_templates": [
+              {
+                "term_slugs": [
+                  "gate-of-the-sabbath"
+                ]
+              }
+            ],
+            "titles": [
+              {
+                "lang": "en",
+                "text": "Gate of the Sabbath",
+                "primary": true
+              },
+              {
+                "lang": "he",
+                "text": "שער השבת",
+                "primary": true
+              }
+            ],
+            "key": "Gate of the Sabbath"
+          },
+          {
+            "nodes": [
+              {
+                "nodeType": "JaggedArrayNode",
+                "depth": 2,
+                "addressTypes": [
+                  "Integer",
+                  "Integer"
+                ],
+                "sectionNames": [
+                  "Chapter",
+                  "Paragraph"
+                ],
+                "default": true,
+                "key": "default"
+              }
+            ],
+            "nodeType": "SchemaNode",
+            "match_templates": [
+              {
+                "term_slugs": [
+                  "gate-of-the-new-month-chanukah-and-purim"
+                ]
+              }
+            ],
+            "titles": [
+              {
+                "lang": "en",
+                "text": "Gate of The New Month, Chanukah, and Purim",
+                "primary": true
+              },
+              {
+                "lang": "he",
+                "text": "שער ר\"ח חנוכה ופורים",
+                "primary": true
+              }
+            ],
+            "key": "Gate of The New Month, Chanukah, and Purim"
+          },
+          {
+            "nodes": [
+              {
+                "nodeType": "JaggedArrayNode",
+                "depth": 2,
+                "addressTypes": [
+                  "Integer",
+                  "Integer"
+                ],
+                "sectionNames": [
+                  "Chapter",
+                  "Paragraph"
+                ],
+                "default": true,
+                "key": "default"
+              }
+            ],
+            "nodeType": "SchemaNode",
+            "match_templates": [
+              {
+                "term_slugs": [
+                  "gate-of-festival"
+                ]
+              }
+            ],
+            "titles": [
+              {
+                "lang": "en",
+                "text": "Gate of Festival",
+                "primary": true
+              },
+              {
+                "lang": "he",
+                "text": "שער מקרא קודש",
+                "primary": true
+              }
+            ],
+            "key": "Gate of Festival"
+          },
+          {
+            "nodes": [
+              {
+                "nodeType": "JaggedArrayNode",
+                "depth": 2,
+                "addressTypes": [
+                  "Integer",
+                  "Integer"
+                ],
+                "sectionNames": [
+                  "Chapter",
+                  "Paragraph"
+                ],
+                "default": true,
+                "key": "default"
+              }
+            ],
+            "nodeType": "SchemaNode",
+            "match_templates": [
+              {
+                "term_slugs": [
+                  "gate-of-passover"
+                ]
+              }
+            ],
+            "titles": [
+              {
+                "lang": "en",
+                "text": "Gate of Passover",
+                "primary": true
+              },
+              {
+                "lang": "he",
+                "text": "שער חג המצות",
+                "primary": true
+              }
+            ],
+            "key": "Gate of Passover"
+          },
+          {
+            "nodes": [
+              {
+                "nodeType": "JaggedArrayNode",
+                "depth": 2,
+                "addressTypes": [
+                  "Integer",
+                  "Integer"
+                ],
+                "sectionNames": [
+                  "Chapter",
+                  "Paragraph"
+                ],
+                "default": true,
+                "key": "default"
+              }
+            ],
+            "nodeType": "SchemaNode",
+            "match_templates": [
+              {
+                "term_slugs": [
+                  "gate-of-the-omer-count"
+                ]
+              }
+            ],
+            "titles": [
+              {
+                "lang": "en",
+                "text": "Gate of the Omer Count",
+                "primary": true
+              },
+              {
+                "lang": "he",
+                "text": "שער ספירת העומר",
+                "primary": true
+              }
+            ],
+            "key": "Gate of the Omer Count"
+          },
+          {
+            "nodes": [
+              {
+                "nodeType": "JaggedArrayNode",
+                "depth": 2,
+                "addressTypes": [
+                  "Integer",
+                  "Integer"
+                ],
+                "sectionNames": [
+                  "Chapter",
+                  "Paragraph"
+                ],
+                "default": true,
+                "key": "default"
+              }
+            ],
+            "nodeType": "SchemaNode",
+            "match_templates": [
+              {
+                "term_slugs": [
+                  "gate-of-shavuot"
+                ]
+              }
+            ],
+            "titles": [
+              {
+                "lang": "en",
+                "text": "Gate of Shavuot",
+                "primary": true
+              },
+              {
+                "lang": "he",
+                "text": "שער חג השבועות",
+                "primary": true
+              }
+            ],
+            "key": "Gate of Shavuot"
+          },
+          {
+            "nodes": [
+              {
+                "nodeType": "JaggedArrayNode",
+                "depth": 2,
+                "addressTypes": [
+                  "Integer",
+                  "Integer"
+                ],
+                "sectionNames": [
+                  "Chapter",
+                  "Paragraph"
+                ],
+                "match_templates": [
+                  {
+                    "term_slugs": [
+                      "introduction"
+                    ]
+                  }
+                ],
+                "titles": [
+                  {
+                    "lang": "en",
+                    "text": "Introduction",
+                    "primary": true
+                  },
+                  {
+                    "lang": "he",
+                    "text": "הקדמה",
+                    "primary": true
+                  }
+                ],
+                "key": "Introduction"
+              },
+              {
+                "nodeType": "JaggedArrayNode",
+                "depth": 2,
+                "addressTypes": [
+                  "Integer",
+                  "Integer"
+                ],
+                "sectionNames": [
+                  "Chapter",
+                  "Paragraph"
+                ],
+                "default": true,
+                "key": "default"
+              }
+            ],
+            "nodeType": "SchemaNode",
+            "match_templates": [
+              {
+                "term_slugs": [
+                  "gate-of-rosh-hashana"
+                ]
+              }
+            ],
+            "titles": [
+              {
+                "lang": "en",
+                "text": "Gate of Rosh Hashana",
+                "primary": true
+              },
+              {
+                "lang": "he",
+                "text": "שער ראש השנה",
+                "primary": true
+              }
+            ],
+            "key": "Gate of Rosh Hashana"
+          },
+          {
+            "nodes": [
+              {
+                "nodeType": "JaggedArrayNode",
+                "depth": 2,
+                "addressTypes": [
+                  "Integer",
+                  "Integer"
+                ],
+                "sectionNames": [
+                  "Chapter",
+                  "Paragraph"
+                ],
+                "default": true,
+                "key": "default"
+              }
+            ],
+            "nodeType": "SchemaNode",
+            "match_templates": [
+              {
+                "term_slugs": [
+                  "gate-of-the-prayers-of-rosh-hashana"
+                ]
+              }
+            ],
+            "titles": [
+              {
+                "lang": "en",
+                "text": "Gate of the Prayers of Rosh Hashana",
+                "primary": true
+              },
+              {
+                "lang": "he",
+                "text": "שער תפילות ראש השנה",
+                "primary": true
+              }
+            ],
+            "key": "Gate of the Prayers of Rosh Hashana"
+          },
+          {
+            "nodes": [
+              {
+                "nodeType": "JaggedArrayNode",
+                "depth": 2,
+                "addressTypes": [
+                  "Integer",
+                  "Integer"
+                ],
+                "sectionNames": [
+                  "Chapter",
+                  "Paragraph"
+                ],
+                "default": true,
+                "key": "default"
+              }
+            ],
+            "nodeType": "SchemaNode",
+            "match_templates": [
+              {
+                "term_slugs": [
+                  "gate-of-the-shofer"
+                ]
+              }
+            ],
+            "titles": [
+              {
+                "lang": "en",
+                "text": "Gate of the Shofer",
+                "primary": true
+              },
+              {
+                "lang": "he",
+                "text": "שער השופר",
+                "primary": true
+              }
+            ],
+            "key": "Gate of the Shofer"
+          },
+          {
+            "nodes": [
+              {
+                "nodeType": "JaggedArrayNode",
+                "depth": 2,
+                "addressTypes": [
+                  "Integer",
+                  "Integer"
+                ],
+                "sectionNames": [
+                  "Chapter",
+                  "Paragraph"
+                ],
+                "default": true,
+                "key": "default"
+              }
+            ],
+            "nodeType": "SchemaNode",
+            "match_templates": [
+              {
+                "term_slugs": [
+                  "gate-of-yom-kippur"
+                ]
+              }
+            ],
+            "titles": [
+              {
+                "lang": "en",
+                "text": "Gate of Yom Kippur",
+                "primary": true
+              },
+              {
+                "lang": "he",
+                "text": "שער יום הכפורים",
+                "primary": true
+              }
+            ],
+            "key": "Gate of Yom Kippur"
+          },
+          {
+            "nodes": [
+              {
+                "nodeType": "JaggedArrayNode",
+                "depth": 2,
+                "addressTypes": [
+                  "Integer",
+                  "Integer"
+                ],
+                "sectionNames": [
+                  "Chapter",
+                  "Paragraph"
+                ],
+                "default": true,
+                "key": "default"
+              }
+            ],
+            "nodeType": "SchemaNode",
+            "match_templates": [
+              {
+                "term_slugs": [
+                  "gate-of-sukkot"
+                ]
+              }
+            ],
+            "titles": [
+              {
+                "lang": "en",
+                "text": "Gate of Sukkot",
+                "primary": true
+              },
+              {
+                "lang": "he",
+                "text": "שער חג הסוכות",
+                "primary": true
+              }
+            ],
+            "key": "Gate of Sukkot"
+          },
+          {
+            "nodes": [
+              {
+                "nodeType": "JaggedArrayNode",
+                "depth": 2,
+                "addressTypes": [
+                  "Integer",
+                  "Integer"
+                ],
+                "sectionNames": [
+                  "Chapter",
+                  "Paragraph"
+                ],
+                "default": true,
+                "key": "default"
+              }
+            ],
+            "nodeType": "SchemaNode",
+            "match_templates": [
+              {
+                "term_slugs": [
+                  "gate-of-lulav"
+                ]
+              }
+            ],
+            "titles": [
+              {
+                "lang": "en",
+                "text": "Gate of Lulav",
+                "primary": true
+              },
+              {
+                "lang": "he",
+                "text": "שער הלולב",
+                "primary": true
+              }
+            ],
+            "key": "Gate of Lulav"
+          }
+        ],
+        "nodeType": "SchemaNode",
+        "match_templates": [
+          {
+            "term_slugs": [
+              "pri-etz-chaim"
+            ]
+          }
+        ],
+        "titles": [
+          {
+            "text": "פרי עץ חיים",
+            "lang": "he",
+            "primary": true
+          },
+          {
+            "text": "Pri Etz Chaim",
+            "lang": "en",
+            "primary": true
+          }
+        ],
+        "key": "Pri Etz Chaim"
+      },
+      "authors": [
+        "chaim-vital"
+      ],
+      "enDesc": "Teachings of Isaac Luria (Arizal), recorded by his student Chaim Vital.",
+      "heDesc": "אחד מספרי כתבי האר\"י, נכתב על ידי תלמידו, ר' חיים ויטאל.",
+      "enShortDesc": "Companion work to Sefer Etz Chaim about intention during prayer and performance of commandments",
+      "heShortDesc": "חיבור נלווה לספר עץ חיים, המפרט כוונות לתפילה ולקיום מצוות.",
+      "hasErrorMargin": true,
+      "compDate": [
+        1572,
+        1578
+      ],
+      "compPlace": "Safed",
+      "era": "AH"
+    }
+  },
+  {
+    "url": "https://www.sefaria.org/api/v2/raw/index/Sha%27ar%20Ma%27amarei%20Rashbi",
+    "data": {
+      "title": "Sha'ar Ma'amarei Rashbi",
+      "categories": [
+        "Kabbalah",
+        "Arizal and Chaim Vital"
+      ],
+      "schema": {
+        "nodes": [
+          {
+            "nodeType": "JaggedArrayNode",
+            "depth": 1,
+            "addressTypes": [
+              "Integer"
+            ],
+            "sectionNames": [
+              "Paragraph"
+            ],
+            "sharedTitle": "Introduction",
+            "key": "Introduction"
+          },
+          {
+            "nodeType": "JaggedArrayNode",
+            "depth": 1,
+            "addressTypes": [
+              "Integer"
+            ],
+            "sectionNames": [
+              "Paragraph"
+            ],
+            "titles": [
+              {
+                "text": "Parashat Bereshit",
+                "lang": "en",
+                "primary": true
+              },
+              {
+                "text": "פרשת בראשית",
+                "lang": "he",
+                "primary": true
+              }
+            ],
+            "key": "Parashat Bereshit"
+          },
+          {
+            "nodeType": "JaggedArrayNode",
+            "depth": 1,
+            "addressTypes": [
+              "Integer"
+            ],
+            "sectionNames": [
+              "Paragraph"
+            ],
+            "titles": [
+              {
+                "text": "Parashat Noach",
+                "lang": "en",
+                "primary": true
+              },
+              {
+                "text": "פרשת נח",
+                "lang": "he",
+                "primary": true
+              }
+            ],
+            "key": "Parashat Noach"
+          },
+          {
+            "nodeType": "JaggedArrayNode",
+            "depth": 1,
+            "addressTypes": [
+              "Integer"
+            ],
+            "sectionNames": [
+              "Paragraph"
+            ],
+            "titles": [
+              {
+                "text": "Parashat Lech Lecha",
+                "lang": "en",
+                "primary": true
+              },
+              {
+                "text": "פרשת לך לך",
+                "lang": "he",
+                "primary": true
+              }
+            ],
+            "key": "Parashat Lech Lecha"
+          },
+          {
+            "nodeType": "JaggedArrayNode",
+            "depth": 1,
+            "addressTypes": [
+              "Integer"
+            ],
+            "sectionNames": [
+              "Paragraph"
+            ],
+            "titles": [
+              {
+                "text": "Parashat Vayera",
+                "lang": "en",
+                "primary": true
+              },
+              {
+                "text": "פרשת וירא",
+                "lang": "he",
+                "primary": true
+              }
+            ],
+            "key": "Parashat Vayera"
+          },
+          {
+            "nodeType": "JaggedArrayNode",
+            "depth": 1,
+            "addressTypes": [
+              "Integer"
+            ],
+            "sectionNames": [
+              "Paragraph"
+            ],
+            "titles": [
+              {
+                "text": "Parashat Chayei Sarah",
+                "lang": "en",
+                "primary": true
+              },
+              {
+                "text": "פרשת חיי שרה",
+                "lang": "he",
+                "primary": true
+              }
+            ],
+            "key": "Parashat Chayei Sarah"
+          },
+          {
+            "nodeType": "JaggedArrayNode",
+            "depth": 1,
+            "addressTypes": [
+              "Integer"
+            ],
+            "sectionNames": [
+              "Paragraph"
+            ],
+            "titles": [
+              {
+                "text": "Parashat Vayetze",
+                "lang": "en",
+                "primary": true
+              },
+              {
+                "text": "פרשת ויצא",
+                "lang": "he",
+                "primary": true
+              }
+            ],
+            "key": "Parashat Vayetze"
+          },
+          {
+            "nodeType": "JaggedArrayNode",
+            "depth": 1,
+            "addressTypes": [
+              "Integer"
+            ],
+            "sectionNames": [
+              "Paragraph"
+            ],
+            "titles": [
+              {
+                "text": "Parashat Vayishlach",
+                "lang": "en",
+                "primary": true
+              },
+              {
+                "text": "פרשת וישלח",
+                "lang": "he",
+                "primary": true
+              }
+            ],
+            "key": "Parashat Vayishlach"
+          },
+          {
+            "nodeType": "JaggedArrayNode",
+            "depth": 1,
+            "addressTypes": [
+              "Integer"
+            ],
+            "sectionNames": [
+              "Paragraph"
+            ],
+            "titles": [
+              {
+                "text": "Parashat Miketz",
+                "lang": "en",
+                "primary": true
+              },
+              {
+                "text": "פרשת מקץ",
+                "lang": "he",
+                "primary": true
+              }
+            ],
+            "key": "Parashat Miketz"
+          },
+          {
+            "nodeType": "JaggedArrayNode",
+            "depth": 1,
+            "addressTypes": [
+              "Integer"
+            ],
+            "sectionNames": [
+              "Paragraph"
+            ],
+            "titles": [
+              {
+                "text": "Parashat Vayechi",
+                "lang": "en",
+                "primary": true
+              },
+              {
+                "text": "פרשת ויחי",
+                "lang": "he",
+                "primary": true
+              }
+            ],
+            "key": "Parashat Vayechi"
+          },
+          {
+            "nodeType": "JaggedArrayNode",
+            "depth": 1,
+            "addressTypes": [
+              "Integer"
+            ],
+            "sectionNames": [
+              "Paragraph"
+            ],
+            "titles": [
+              {
+                "text": "Parashat Shemot",
+                "lang": "en",
+                "primary": true
+              },
+              {
+                "text": "פרשת שמות",
+                "lang": "he",
+                "primary": true
+              }
+            ],
+            "key": "Parashat Shemot"
+          },
+          {
+            "nodeType": "JaggedArrayNode",
+            "depth": 1,
+            "addressTypes": [
+              "Integer"
+            ],
+            "sectionNames": [
+              "Paragraph"
+            ],
+            "titles": [
+              {
+                "text": "Parashat Vaera",
+                "lang": "en",
+                "primary": true
+              },
+              {
+                "text": "פרשת וארא",
+                "lang": "he",
+                "primary": true
+              }
+            ],
+            "key": "Parashat Vaera"
+          },
+          {
+            "nodeType": "JaggedArrayNode",
+            "depth": 1,
+            "addressTypes": [
+              "Integer"
+            ],
+            "sectionNames": [
+              "Paragraph"
+            ],
+            "titles": [
+              {
+                "text": "Parashat Bo",
+                "lang": "en",
+                "primary": true
+              },
+              {
+                "text": "פרשת בא",
+                "lang": "he",
+                "primary": true
+              }
+            ],
+            "key": "Parashat Bo"
+          },
+          {
+            "nodeType": "JaggedArrayNode",
+            "depth": 1,
+            "addressTypes": [
+              "Integer"
+            ],
+            "sectionNames": [
+              "Paragraph"
+            ],
+            "titles": [
+              {
+                "text": "Parashat Beshalach",
+                "lang": "en",
+                "primary": true
+              },
+              {
+                "text": "פרשת בשלח",
+                "lang": "he",
+                "primary": true
+              }
+            ],
+            "key": "Parashat Beshalach"
+          },
+          {
+            "nodeType": "JaggedArrayNode",
+            "depth": 1,
+            "addressTypes": [
+              "Integer"
+            ],
+            "sectionNames": [
+              "Paragraph"
+            ],
+            "titles": [
+              {
+                "text": "Parashat Yitro",
+                "lang": "en",
+                "primary": true
+              },
+              {
+                "text": "פרשת יתרו",
+                "lang": "he",
+                "primary": true
+              }
+            ],
+            "key": "Parashat Yitro"
+          },
+          {
+            "nodeType": "JaggedArrayNode",
+            "depth": 1,
+            "addressTypes": [
+              "Integer"
+            ],
+            "sectionNames": [
+              "Paragraph"
+            ],
+            "titles": [
+              {
+                "text": "Parashat Mishpatim",
+                "lang": "en",
+                "primary": true
+              },
+              {
+                "text": "פרשת משפטים",
+                "lang": "he",
+                "primary": true
+              }
+            ],
+            "key": "Parashat Mishpatim"
+          },
+          {
+            "nodeType": "JaggedArrayNode",
+            "depth": 1,
+            "addressTypes": [
+              "Integer"
+            ],
+            "sectionNames": [
+              "Paragraph"
+            ],
+            "titles": [
+              {
+                "text": "Parashat Terumah",
+                "lang": "en",
+                "primary": true
+              },
+              {
+                "text": "פרשת תרומה",
+                "lang": "he",
+                "primary": true
+              }
+            ],
+            "key": "Parashat Terumah"
+          },
+          {
+            "nodeType": "JaggedArrayNode",
+            "depth": 2,
+            "addressTypes": [
+              "Integer",
+              "Integer"
+            ],
+            "sectionNames": [
+              "Chapter",
+              "Paragraph"
+            ],
+            "titles": [
+              {
+                "text": "Commentary on Sifra DeTzeniuta",
+                "lang": "en",
+                "primary": true
+              },
+              {
+                "text": "פירוש ספרא דצניעותא",
+                "lang": "he",
+                "primary": true
+              }
+            ],
+            "key": "Commentary on Sifra DeTzeniuta"
+          },
+          {
+            "nodeType": "JaggedArrayNode",
+            "depth": 1,
+            "addressTypes": [
+              "Integer"
+            ],
+            "sectionNames": [
+              "Paragraph"
+            ],
+            "titles": [
+              {
+                "text": "Parashat Tetzaveh",
+                "lang": "en",
+                "primary": true
+              },
+              {
+                "text": "פרשת תצוה",
+                "lang": "he",
+                "primary": true
+              }
+            ],
+            "key": "Parashat Tetzaveh"
+          },
+          {
+            "nodeType": "JaggedArrayNode",
+            "depth": 1,
+            "addressTypes": [
+              "Integer"
+            ],
+            "sectionNames": [
+              "Paragraph"
+            ],
+            "titles": [
+              {
+                "text": "Parashat Ki Tissa",
+                "lang": "en",
+                "primary": true
+              },
+              {
+                "text": "פרשת כי תשא",
+                "lang": "he",
+                "primary": true
+              }
+            ],
+            "key": "Parashat Ki Tissa"
+          },
+          {
+            "nodeType": "JaggedArrayNode",
+            "depth": 1,
+            "addressTypes": [
+              "Integer"
+            ],
+            "sectionNames": [
+              "Paragraph"
+            ],
+            "titles": [
+              {
+                "text": "Parashat Vayakhel",
+                "lang": "en",
+                "primary": true
+              },
+              {
+                "text": "פרשת ויקהל",
+                "lang": "he",
+                "primary": true
+              }
+            ],
+            "key": "Parashat Vayakhel"
+          },
+          {
+            "nodeType": "JaggedArrayNode",
+            "depth": 1,
+            "addressTypes": [
+              "Integer"
+            ],
+            "sectionNames": [
+              "Paragraph"
+            ],
+            "titles": [
+              {
+                "text": "Parashat Pekudei",
+                "lang": "en",
+                "primary": true
+              },
+              {
+                "text": "פרשת פקודי",
+                "lang": "he",
+                "primary": true
+              }
+            ],
+            "key": "Parashat Pekudei"
+          },
+          {
+            "nodeType": "JaggedArrayNode",
+            "depth": 1,
+            "addressTypes": [
+              "Integer"
+            ],
+            "sectionNames": [
+              "Paragraph"
+            ],
+            "titles": [
+              {
+                "text": "Parashat Vayikra",
+                "lang": "en",
+                "primary": true
+              },
+              {
+                "text": "פרשת ויקרא",
+                "lang": "he",
+                "primary": true
+              }
+            ],
+            "key": "Parashat Vayikra"
+          },
+          {
+            "nodeType": "JaggedArrayNode",
+            "depth": 1,
+            "addressTypes": [
+              "Integer"
+            ],
+            "sectionNames": [
+              "Paragraph"
+            ],
+            "titles": [
+              {
+                "text": "Parashat Tzav",
+                "lang": "en",
+                "primary": true
+              },
+              {
+                "text": "פרשת צו",
+                "lang": "he",
+                "primary": true
+              }
+            ],
+            "key": "Parashat Tzav"
+          },
+          {
+            "nodeType": "JaggedArrayNode",
+            "depth": 1,
+            "addressTypes": [
+              "Integer"
+            ],
+            "sectionNames": [
+              "Paragraph"
+            ],
+            "titles": [
+              {
+                "text": "Parashat Tazria",
+                "lang": "en",
+                "primary": true
+              },
+              {
+                "text": "פרשת תזריע",
+                "lang": "he",
+                "primary": true
+              }
+            ],
+            "key": "Parashat Tazria"
+          },
+          {
+            "nodeType": "JaggedArrayNode",
+            "depth": 1,
+            "addressTypes": [
+              "Integer"
+            ],
+            "sectionNames": [
+              "Paragraph"
+            ],
+            "titles": [
+              {
+                "text": "Parashat Acharei Mot",
+                "lang": "en",
+                "primary": true
+              },
+              {
+                "text": "פרשת אחרי מות",
+                "lang": "he",
+                "primary": true
+              }
+            ],
+            "key": "Parashat Acharei Mot"
+          },
+          {
+            "nodeType": "JaggedArrayNode",
+            "depth": 1,
+            "addressTypes": [
+              "Integer"
+            ],
+            "sectionNames": [
+              "Paragraph"
+            ],
+            "titles": [
+              {
+                "text": "Parashat Kedoshim",
+                "lang": "en",
+                "primary": true
+              },
+              {
+                "text": "פרשת קדושים",
+                "lang": "he",
+                "primary": true
+              }
+            ],
+            "key": "Parashat Kedoshim"
+          },
+          {
+            "nodeType": "JaggedArrayNode",
+            "depth": 1,
+            "addressTypes": [
+              "Integer"
+            ],
+            "sectionNames": [
+              "Paragraph"
+            ],
+            "titles": [
+              {
+                "text": "Parashat Emor",
+                "lang": "en",
+                "primary": true
+              },
+              {
+                "text": "פרשת אמור",
+                "lang": "he",
+                "primary": true
+              }
+            ],
+            "key": "Parashat Emor"
+          },
+          {
+            "nodeType": "JaggedArrayNode",
+            "depth": 1,
+            "addressTypes": [
+              "Integer"
+            ],
+            "sectionNames": [
+              "Paragraph"
+            ],
+            "titles": [
+              {
+                "text": "Parashat Behar",
+                "lang": "en",
+                "primary": true
+              },
+              {
+                "text": "פרשת בהר",
+                "lang": "he",
+                "primary": true
+              }
+            ],
+            "key": "Parashat Behar"
+          },
+          {
+            "nodeType": "JaggedArrayNode",
+            "depth": 1,
+            "addressTypes": [
+              "Integer"
+            ],
+            "sectionNames": [
+              "Paragraph"
+            ],
+            "titles": [
+              {
+                "text": "Parashat Bamidbar",
+                "lang": "en",
+                "primary": true
+              },
+              {
+                "text": "פרשת במדבר",
+                "lang": "he",
+                "primary": true
+              }
+            ],
+            "key": "Parashat Bamidbar"
+          },
+          {
+            "nodeType": "JaggedArrayNode",
+            "depth": 1,
+            "addressTypes": [
+              "Integer"
+            ],
+            "sectionNames": [
+              "Paragraph"
+            ],
+            "titles": [
+              {
+                "text": "Parashat Naso",
+                "lang": "en",
+                "primary": true
+              },
+              {
+                "text": "פרשת נשא",
+                "lang": "he",
+                "primary": true
+              }
+            ],
+            "key": "Parashat Naso"
+          },
+          {
+            "nodeType": "JaggedArrayNode",
+            "depth": 1,
+            "addressTypes": [
+              "Integer"
+            ],
+            "sectionNames": [
+              "Paragraph"
+            ],
+            "titles": [
+              {
+                "text": "Commentary on the Holy Idra Rabba",
+                "lang": "en",
+                "primary": true
+              },
+              {
+                "text": "פירוש האדרא רבא קדישא",
+                "lang": "he",
+                "primary": true
+              }
+            ],
+            "key": "Commentary on the Holy Idra Rabba"
+          },
+          {
+            "nodeType": "JaggedArrayNode",
+            "depth": 1,
+            "addressTypes": [
+              "Integer"
+            ],
+            "sectionNames": [
+              "Paragraph"
+            ],
+            "titles": [
+              {
+                "text": "Parashat Beha'alotecha",
+                "lang": "en",
+                "primary": true
+              },
+              {
+                "text": "פרשת בהעלותך",
+                "lang": "he",
+                "primary": true
+              }
+            ],
+            "key": "Parashat Beha'alotecha"
+          },
+          {
+            "nodeType": "JaggedArrayNode",
+            "depth": 1,
+            "addressTypes": [
+              "Integer"
+            ],
+            "sectionNames": [
+              "Paragraph"
+            ],
+            "titles": [
+              {
+                "text": "Parashat Shelach Lecha",
+                "lang": "en",
+                "primary": true
+              },
+              {
+                "text": "פרשת שלח לך",
+                "lang": "he",
+                "primary": true
+              }
+            ],
+            "key": "Parashat Shelach Lecha"
+          },
+          {
+            "nodeType": "JaggedArrayNode",
+            "depth": 1,
+            "addressTypes": [
+              "Integer"
+            ],
+            "sectionNames": [
+              "Paragraph"
+            ],
+            "titles": [
+              {
+                "text": "Parashat Balak",
+                "lang": "en",
+                "primary": true
+              },
+              {
+                "text": "פרשת בלק",
+                "lang": "he",
+                "primary": true
+              }
+            ],
+            "key": "Parashat Balak"
+          },
+          {
+            "nodeType": "JaggedArrayNode",
+            "depth": 1,
+            "addressTypes": [
+              "Integer"
+            ],
+            "sectionNames": [
+              "Paragraph"
+            ],
+            "titles": [
+              {
+                "text": "Parashat Pinchas",
+                "lang": "en",
+                "primary": true
+              },
+              {
+                "text": "פרשת פינחס",
+                "lang": "he",
+                "primary": true
+              }
+            ],
+            "key": "Parashat Pinchas"
+          },
+          {
+            "nodeType": "JaggedArrayNode",
+            "depth": 1,
+            "addressTypes": [
+              "Integer"
+            ],
+            "sectionNames": [
+              "Paragraph"
+            ],
+            "titles": [
+              {
+                "text": "Parashat Vaetchanan",
+                "lang": "en",
+                "primary": true
+              },
+              {
+                "text": "פרשת ואתחנן",
+                "lang": "he",
+                "primary": true
+              }
+            ],
+            "key": "Parashat Vaetchanan"
+          },
+          {
+            "nodeType": "JaggedArrayNode",
+            "depth": 1,
+            "addressTypes": [
+              "Integer"
+            ],
+            "sectionNames": [
+              "Paragraph"
+            ],
+            "titles": [
+              {
+                "text": "Parashat Eikev",
+                "lang": "en",
+                "primary": true
+              },
+              {
+                "text": "פרשת עקב",
+                "lang": "he",
+                "primary": true
+              }
+            ],
+            "key": "Parashat Eikev"
+          },
+          {
+            "nodeType": "JaggedArrayNode",
+            "depth": 1,
+            "addressTypes": [
+              "Integer"
+            ],
+            "sectionNames": [
+              "Paragraph"
+            ],
+            "titles": [
+              {
+                "text": "Parashat Tetzei",
+                "lang": "en",
+                "primary": true
+              },
+              {
+                "text": "פרשת תצא",
+                "lang": "he",
+                "primary": true
+              }
+            ],
+            "key": "Parashat Tetzei"
+          },
+          {
+            "nodeType": "JaggedArrayNode",
+            "depth": 1,
+            "addressTypes": [
+              "Integer"
+            ],
+            "sectionNames": [
+              "Paragraph"
+            ],
+            "titles": [
+              {
+                "text": "Parashat Vayelech",
+                "lang": "en",
+                "primary": true
+              },
+              {
+                "text": "פרשת וילך",
+                "lang": "he",
+                "primary": true
+              }
+            ],
+            "key": "Parashat Vayelech"
+          },
+          {
+            "nodeType": "JaggedArrayNode",
+            "depth": 1,
+            "addressTypes": [
+              "Integer"
+            ],
+            "sectionNames": [
+              "Paragraph"
+            ],
+            "titles": [
+              {
+                "text": "Parashat Ha'azinu",
+                "lang": "en",
+                "primary": true
+              },
+              {
+                "text": "פרשת האזינו",
+                "lang": "he",
+                "primary": true
+              }
+            ],
+            "key": "Parashat Ha'azinu"
+          },
+          {
+            "nodeType": "JaggedArrayNode",
+            "depth": 1,
+            "addressTypes": [
+              "Integer"
+            ],
+            "sectionNames": [
+              "Paragraph"
+            ],
+            "titles": [
+              {
+                "text": "Commentary on the Idra Zuta Kaddisha",
+                "lang": "en",
+                "primary": true
+              },
+              {
+                "text": "פירוש האדרא זוטא קדישא",
+                "lang": "he",
+                "primary": true
+              }
+            ],
+            "key": "Commentary on the Idra Zuta Kaddisha"
+          },
+          {
+            "nodeType": "JaggedArrayNode",
+            "depth": 1,
+            "addressTypes": [
+              "Integer"
+            ],
+            "sectionNames": [
+              "Paragraph"
+            ],
+            "titles": [
+              {
+                "text": "Commentary on the Book of Yetzirah",
+                "lang": "en",
+                "primary": true
+              },
+              {
+                "text": "פירוש על ספר יצירה",
+                "lang": "he",
+                "primary": true
+              }
+            ],
+            "key": "Commentary on the Book of Yetzirah"
+          },
+          {
+            "nodeType": "JaggedArrayNode",
+            "depth": 1,
+            "addressTypes": [
+              "Integer"
+            ],
+            "sectionNames": [
+              "Paragraph"
+            ],
+            "titles": [
+              {
+                "text": "Commentary on the Chapter of Song",
+                "lang": "en",
+                "primary": true
+              },
+              {
+                "text": "פירוש על פרק שירה",
+                "lang": "he",
+                "primary": true
+              }
+            ],
+            "key": "Commentary on the Chapter of Song"
+          },
+          {
+            "nodeType": "JaggedArrayNode",
+            "depth": 1,
+            "addressTypes": [
+              "Integer"
+            ],
+            "sectionNames": [
+              "Paragraph"
+            ],
+            "titles": [
+              {
+                "text": "Commentary on the Zohar Song of Songs",
+                "lang": "en",
+                "primary": true
+              },
+              {
+                "text": "פירוש על זוהר שיר השירים",
+                "lang": "he",
+                "primary": true
+              }
+            ],
+            "key": "Commentary on the Zohar Song of Songs"
+          },
+          {
+            "nodeType": "JaggedArrayNode",
+            "depth": 1,
+            "addressTypes": [
+              "Integer"
+            ],
+            "sectionNames": [
+              "Paragraph"
+            ],
+            "titles": [
+              {
+                "text": "Omission",
+                "lang": "en",
+                "primary": true
+              },
+              {
+                "text": "השמטה",
+                "lang": "he",
+                "primary": true
+              }
+            ],
+            "key": "Omission"
+          }
+        ],
+        "titles": [
+          {
+            "text": "Shaar Maamarei Rashbi",
+            "lang": "en"
+          },
+          {
+            "text": "Sha'ar Maamarei Rashbi",
+            "lang": "en"
+          },
+          {
+            "text": "שער מאמרי רשב\"י",
+            "lang": "he",
+            "primary": true
+          },
+          {
+            "text": "Sha'ar Ma'amarei Rashbi",
+            "lang": "en",
+            "primary": true
+          }
+        ],
+        "key": "Sha'ar Ma'amarei Rashbi"
+      },
+      "authors": [
+        "chaim-vital"
+      ],
+      "enDesc": "Rabbi Chaim Vital, a prominent Safed kabbalist in the 16th–17th centuries, is best known for recording and editing the teachings of Rabbi Isaac Luria, better known as the Arizal, a founder of modern Kabbalah. Chaim Vital’s youngest son, Rabbi Samuel Vital, organized a collection of his father’s writings into eight “gates,” each of which “opens” up a particular topic. The second of these is Sha’ar Ma’amarei Rashbi (Gate of the Sayings of Rabbi Shimon bar Yochai), a commentary on the various sections of the Zohar, the foundational kabbalistic text traditionally ascribed to the second-century sage Rabbi Shimon bar Yochai, as well as on other ancient texts.",
+      "heDesc": "רבי חיים ויטאל, מקובל צפת בולט במאות ה-16-17, ידוע בעיקר בזכות תיעוד ועריכת תורת האריז\"ל (הרב יצחק לוריא, שנחשב למייסד הקבלה המודרנית). בנו של חיים ויטאל, הרב שמואל ויטאל, ארגן אוסף של כתבי אביו לשמונה \"שערים\", שכל אחד מהם \"פותח\" נושא מסוים. השני שבהם הוא שער מאמרי רשב\"י (שער אמרות רבי שמעון בר יוחאי), פירוש על חלקי הזוהר השונים, כמו גם על טקסטים עתיקים אחרים. כמו רוב כתביו של ויטל, הוא מבוסס על תורתו של האריז\"ל.",
+      "enShortDesc": "Rabbi Chaim Vital’s commentary on the Zohar, based on the teachings of R. Isaac Luria and edited by Vital’s son, Rabbi Samuel Vital",
+      "heShortDesc": "פירוש מהמאה ה-16 לזוהר מאת רבי חיים ויטאל, על פי תורת האריז\"ל ובעריכת בנו של חיים ויטאל, רבי שמואל ויטאל",
+      "pubDate": [
+        1898
+      ],
+      "hasErrorMargin": true,
+      "compDate": [
+        1570,
+        1650
+      ],
+      "pubPlace": "Jerusalem"
+    }
+  },
+  {
+    "url": "https://www.sefaria.org/api/v2/raw/index/Sha%27ar%20HaPesukim",
+    "data": {
+      "title": "Sha'ar HaPesukim",
+      "categories": [
+        "Kabbalah",
+        "Arizal and Chaim Vital"
+      ],
+      "schema": {
+        "nodes": [
+          {
+            "nodeType": "JaggedArrayNode",
+            "depth": 1,
+            "addressTypes": [
+              "Integer"
+            ],
+            "sectionNames": [
+              "paragraph"
+            ],
+            "titles": [
+              {
+                "text": "Parashat Bereshit",
+                "lang": "en",
+                "primary": true
+              },
+              {
+                "text": "פרשת בראשית",
+                "lang": "he",
+                "primary": true
+              }
+            ],
+            "key": "Parashat Bereshit"
+          },
+          {
+            "nodeType": "JaggedArrayNode",
+            "depth": 1,
+            "addressTypes": [
+              "Integer"
+            ],
+            "sectionNames": [
+              "paragraph"
+            ],
+            "titles": [
+              {
+                "text": "Parashat Noach",
+                "lang": "en",
+                "primary": true
+              },
+              {
+                "text": "פרשת נח",
+                "lang": "he",
+                "primary": true
+              }
+            ],
+            "key": "Parashat Noach"
+          },
+          {
+            "nodeType": "JaggedArrayNode",
+            "depth": 1,
+            "addressTypes": [
+              "Integer"
+            ],
+            "sectionNames": [
+              "paragraph"
+            ],
+            "titles": [
+              {
+                "text": "Parashat Lech Lecha",
+                "lang": "en",
+                "primary": true
+              },
+              {
+                "text": "פרשת לך לך",
+                "lang": "he",
+                "primary": true
+              }
+            ],
+            "key": "Parashat Lech Lecha"
+          },
+          {
+            "nodeType": "JaggedArrayNode",
+            "depth": 1,
+            "addressTypes": [
+              "Integer"
+            ],
+            "sectionNames": [
+              "paragraph"
+            ],
+            "titles": [
+              {
+                "text": "Parashat Vayera",
+                "lang": "en",
+                "primary": true
+              },
+              {
+                "text": "פרשת וירא",
+                "lang": "he",
+                "primary": true
+              }
+            ],
+            "key": "Parashat Vayera"
+          },
+          {
+            "nodeType": "JaggedArrayNode",
+            "depth": 1,
+            "addressTypes": [
+              "Integer"
+            ],
+            "sectionNames": [
+              "paragraph"
+            ],
+            "titles": [
+              {
+                "text": "Parashat Chayei Sarah",
+                "lang": "en",
+                "primary": true
+              },
+              {
+                "text": "פרשת חיי שרה",
+                "lang": "he",
+                "primary": true
+              }
+            ],
+            "key": "Parashat Chayei Sarah"
+          },
+          {
+            "nodeType": "JaggedArrayNode",
+            "depth": 1,
+            "addressTypes": [
+              "Integer"
+            ],
+            "sectionNames": [
+              "paragraph"
+            ],
+            "titles": [
+              {
+                "text": "Parashat Toldot",
+                "lang": "en",
+                "primary": true
+              },
+              {
+                "text": "פרשת תולדות",
+                "lang": "he",
+                "primary": true
+              }
+            ],
+            "key": "Parashat Toldot"
+          },
+          {
+            "nodeType": "JaggedArrayNode",
+            "depth": 1,
+            "addressTypes": [
+              "Integer"
+            ],
+            "sectionNames": [
+              "paragraph"
+            ],
+            "titles": [
+              {
+                "text": "Parashat Vayetze",
+                "lang": "en",
+                "primary": true
+              },
+              {
+                "text": "פרשת ויצא",
+                "lang": "he",
+                "primary": true
+              }
+            ],
+            "key": "Parashat Vayetze"
+          },
+          {
+            "nodeType": "JaggedArrayNode",
+            "depth": 1,
+            "addressTypes": [
+              "Integer"
+            ],
+            "sectionNames": [
+              "paragraph"
+            ],
+            "titles": [
+              {
+                "text": "Parashat Vayishlach",
+                "lang": "en",
+                "primary": true
+              },
+              {
+                "text": "פרשת וישלח",
+                "lang": "he",
+                "primary": true
+              }
+            ],
+            "key": "Parashat Vayishlach"
+          },
+          {
+            "nodeType": "JaggedArrayNode",
+            "depth": 1,
+            "addressTypes": [
+              "Integer"
+            ],
+            "sectionNames": [
+              "paragraph"
+            ],
+            "titles": [
+              {
+                "text": "Parashat Vayeshev",
+                "lang": "en",
+                "primary": true
+              },
+              {
+                "text": "פרשת וישב",
+                "lang": "he",
+                "primary": true
+              }
+            ],
+            "key": "Parashat Vayeshev"
+          },
+          {
+            "nodeType": "JaggedArrayNode",
+            "depth": 1,
+            "addressTypes": [
+              "Integer"
+            ],
+            "sectionNames": [
+              "paragraph"
+            ],
+            "titles": [
+              {
+                "text": "Parashat Miketz",
+                "lang": "en",
+                "primary": true
+              },
+              {
+                "text": "פרשת מקץ",
+                "lang": "he",
+                "primary": true
+              }
+            ],
+            "key": "Parashat Miketz"
+          },
+          {
+            "nodeType": "JaggedArrayNode",
+            "depth": 1,
+            "addressTypes": [
+              "Integer"
+            ],
+            "sectionNames": [
+              "paragraph"
+            ],
+            "titles": [
+              {
+                "text": "Parashat Vayigash",
+                "lang": "en",
+                "primary": true
+              },
+              {
+                "text": "פרשת ויגש",
+                "lang": "he",
+                "primary": true
+              }
+            ],
+            "key": "Parashat Vayigash"
+          },
+          {
+            "nodeType": "JaggedArrayNode",
+            "depth": 1,
+            "addressTypes": [
+              "Integer"
+            ],
+            "sectionNames": [
+              "paragraph"
+            ],
+            "titles": [
+              {
+                "text": "Parashat Vayechi",
+                "lang": "en",
+                "primary": true
+              },
+              {
+                "text": "פרשת ויחי",
+                "lang": "he",
+                "primary": true
+              }
+            ],
+            "key": "Parashat Vayechi"
+          },
+          {
+            "nodeType": "JaggedArrayNode",
+            "depth": 1,
+            "addressTypes": [
+              "Integer"
+            ],
+            "sectionNames": [
+              "paragraph"
+            ],
+            "titles": [
+              {
+                "text": "Parashat Shemot",
+                "lang": "en",
+                "primary": true
+              },
+              {
+                "text": "פרשת שמות",
+                "lang": "he",
+                "primary": true
+              }
+            ],
+            "key": "Parashat Shemot"
+          },
+          {
+            "nodeType": "JaggedArrayNode",
+            "depth": 1,
+            "addressTypes": [
+              "Integer"
+            ],
+            "sectionNames": [
+              "paragraph"
+            ],
+            "titles": [
+              {
+                "text": "Parashat Vaera",
+                "lang": "en",
+                "primary": true
+              },
+              {
+                "text": "פרשת וארא",
+                "lang": "he",
+                "primary": true
+              }
+            ],
+            "key": "Parashat Vaera"
+          },
+          {
+            "nodeType": "JaggedArrayNode",
+            "depth": 1,
+            "addressTypes": [
+              "Integer"
+            ],
+            "sectionNames": [
+              "paragraph"
+            ],
+            "titles": [
+              {
+                "text": "Parashat Bo",
+                "lang": "en",
+                "primary": true
+              },
+              {
+                "text": "פרשת בא",
+                "lang": "he",
+                "primary": true
+              }
+            ],
+            "key": "Parashat Bo"
+          },
+          {
+            "nodeType": "JaggedArrayNode",
+            "depth": 1,
+            "addressTypes": [
+              "Integer"
+            ],
+            "sectionNames": [
+              "paragraph"
+            ],
+            "titles": [
+              {
+                "text": "Parashat Beshalach",
+                "lang": "en",
+                "primary": true
+              },
+              {
+                "text": "פרשת בשלח",
+                "lang": "he",
+                "primary": true
+              }
+            ],
+            "key": "Parashat Beshalach"
+          },
+          {
+            "nodeType": "JaggedArrayNode",
+            "depth": 1,
+            "addressTypes": [
+              "Integer"
+            ],
+            "sectionNames": [
+              "paragraph"
+            ],
+            "titles": [
+              {
+                "text": "Parashat Yitro",
+                "lang": "en",
+                "primary": true
+              },
+              {
+                "text": "פרשת יתרו",
+                "lang": "he",
+                "primary": true
+              }
+            ],
+            "key": "Parashat Yitro"
+          },
+          {
+            "nodeType": "JaggedArrayNode",
+            "depth": 1,
+            "addressTypes": [
+              "Integer"
+            ],
+            "sectionNames": [
+              "paragraph"
+            ],
+            "titles": [
+              {
+                "text": "Parashat Mishpatim",
+                "lang": "en",
+                "primary": true
+              },
+              {
+                "text": "פרשת משפטים",
+                "lang": "he",
+                "primary": true
+              }
+            ],
+            "key": "Parashat Mishpatim"
+          },
+          {
+            "nodeType": "JaggedArrayNode",
+            "depth": 1,
+            "addressTypes": [
+              "Integer"
+            ],
+            "sectionNames": [
+              "paragraph"
+            ],
+            "titles": [
+              {
+                "text": "Parashat Terumah",
+                "lang": "en",
+                "primary": true
+              },
+              {
+                "text": "פרשת תרומה",
+                "lang": "he",
+                "primary": true
+              }
+            ],
+            "key": "Parashat Terumah"
+          },
+          {
+            "nodeType": "JaggedArrayNode",
+            "depth": 1,
+            "addressTypes": [
+              "Integer"
+            ],
+            "sectionNames": [
+              "paragraph"
+            ],
+            "titles": [
+              {
+                "text": "Parashat Tetzaveh",
+                "lang": "en",
+                "primary": true
+              },
+              {
+                "text": "פרשת תצוה",
+                "lang": "he",
+                "primary": true
+              }
+            ],
+            "key": "Parashat Tetzaveh"
+          },
+          {
+            "nodeType": "JaggedArrayNode",
+            "depth": 1,
+            "addressTypes": [
+              "Integer"
+            ],
+            "sectionNames": [
+              "paragraph"
+            ],
+            "titles": [
+              {
+                "text": "Parashat Ki Tisa",
+                "lang": "en",
+                "primary": true
+              },
+              {
+                "text": "פרשת תשא",
+                "lang": "he",
+                "primary": true
+              }
+            ],
+            "key": "Parashat Ki Tisa"
+          },
+          {
+            "nodeType": "JaggedArrayNode",
+            "depth": 1,
+            "addressTypes": [
+              "Integer"
+            ],
+            "sectionNames": [
+              "paragraph"
+            ],
+            "titles": [
+              {
+                "text": "Parashat Vayakhel",
+                "lang": "en",
+                "primary": true
+              },
+              {
+                "text": "פרשת ויקהל",
+                "lang": "he",
+                "primary": true
+              }
+            ],
+            "key": "Parashat Vayakhel"
+          },
+          {
+            "nodeType": "JaggedArrayNode",
+            "depth": 1,
+            "addressTypes": [
+              "Integer"
+            ],
+            "sectionNames": [
+              "paragraph"
+            ],
+            "titles": [
+              {
+                "text": "Parashat Pekudei",
+                "lang": "en",
+                "primary": true
+              },
+              {
+                "text": "פרשת פקודי",
+                "lang": "he",
+                "primary": true
+              }
+            ],
+            "key": "Parashat Pekudei"
+          },
+          {
+            "nodeType": "JaggedArrayNode",
+            "depth": 1,
+            "addressTypes": [
+              "Integer"
+            ],
+            "sectionNames": [
+              "paragraph"
+            ],
+            "titles": [
+              {
+                "text": "Parashat Vayikra",
+                "lang": "en",
+                "primary": true
+              },
+              {
+                "text": "פרשת ויקרא",
+                "lang": "he",
+                "primary": true
+              }
+            ],
+            "key": "Parashat Vayikra"
+          },
+          {
+            "nodeType": "JaggedArrayNode",
+            "depth": 1,
+            "addressTypes": [
+              "Integer"
+            ],
+            "sectionNames": [
+              "paragraph"
+            ],
+            "titles": [
+              {
+                "text": "Parashat Shmini",
+                "lang": "en",
+                "primary": true
+              },
+              {
+                "text": "פרשת שמיני",
+                "lang": "he",
+                "primary": true
+              }
+            ],
+            "key": "Parashat Shmini"
+          },
+          {
+            "nodeType": "JaggedArrayNode",
+            "depth": 1,
+            "addressTypes": [
+              "Integer"
+            ],
+            "sectionNames": [
+              "paragraph"
+            ],
+            "titles": [
+              {
+                "text": "Parashat Tazria",
+                "lang": "en",
+                "primary": true
+              },
+              {
+                "text": "פרשת תזריע",
+                "lang": "he",
+                "primary": true
+              }
+            ],
+            "key": "Parashat Tazria"
+          },
+          {
+            "nodeType": "JaggedArrayNode",
+            "depth": 1,
+            "addressTypes": [
+              "Integer"
+            ],
+            "sectionNames": [
+              "paragraph"
+            ],
+            "titles": [
+              {
+                "text": "Parashat Kedoshim",
+                "lang": "en",
+                "primary": true
+              },
+              {
+                "text": "פרשת קדושים",
+                "lang": "he",
+                "primary": true
+              }
+            ],
+            "key": "Parashat Kedoshim"
+          },
+          {
+            "nodeType": "JaggedArrayNode",
+            "depth": 1,
+            "addressTypes": [
+              "Integer"
+            ],
+            "sectionNames": [
+              "paragraph"
+            ],
+            "titles": [
+              {
+                "text": "Parashat Emor",
+                "lang": "en",
+                "primary": true
+              },
+              {
+                "text": "פרשת אמור",
+                "lang": "he",
+                "primary": true
+              }
+            ],
+            "key": "Parashat Emor"
+          },
+          {
+            "nodeType": "JaggedArrayNode",
+            "depth": 1,
+            "addressTypes": [
+              "Integer"
+            ],
+            "sectionNames": [
+              "paragraph"
+            ],
+            "titles": [
+              {
+                "text": "Parashat Behar",
+                "lang": "en",
+                "primary": true
+              },
+              {
+                "text": "פרשת בהר",
+                "lang": "he",
+                "primary": true
+              }
+            ],
+            "key": "Parashat Behar"
+          },
+          {
+            "nodeType": "JaggedArrayNode",
+            "depth": 1,
+            "addressTypes": [
+              "Integer"
+            ],
+            "sectionNames": [
+              "paragraph"
+            ],
+            "titles": [
+              {
+                "text": "Parashat Bechukotai",
+                "lang": "en",
+                "primary": true
+              },
+              {
+                "text": "פרשת בחוקותי",
+                "lang": "he",
+                "primary": true
+              }
+            ],
+            "key": "Parashat Bechukotai"
+          },
+          {
+            "nodeType": "JaggedArrayNode",
+            "depth": 1,
+            "addressTypes": [
+              "Integer"
+            ],
+            "sectionNames": [
+              "paragraph"
+            ],
+            "titles": [
+              {
+                "text": "Parashat Bamidbar",
+                "lang": "en",
+                "primary": true
+              },
+              {
+                "text": "פרשת במדבר",
+                "lang": "he",
+                "primary": true
+              }
+            ],
+            "key": "Parashat Bamidbar"
+          },
+          {
+            "nodeType": "JaggedArrayNode",
+            "depth": 1,
+            "addressTypes": [
+              "Integer"
+            ],
+            "sectionNames": [
+              "paragraph"
+            ],
+            "titles": [
+              {
+                "text": "Parashat Naso",
+                "lang": "en",
+                "primary": true
+              },
+              {
+                "text": "פרשת נשא",
+                "lang": "he",
+                "primary": true
+              }
+            ],
+            "key": "Parashat Naso"
+          },
+          {
+            "nodeType": "JaggedArrayNode",
+            "depth": 1,
+            "addressTypes": [
+              "Integer"
+            ],
+            "sectionNames": [
+              "paragraph"
+            ],
+            "titles": [
+              {
+                "text": "Parashat Beha'alotcha",
+                "lang": "en",
+                "primary": true
+              },
+              {
+                "text": "פרשת בהעלותך",
+                "lang": "he",
+                "primary": true
+              }
+            ],
+            "key": "Parashat Beha'alotcha"
+          },
+          {
+            "nodeType": "JaggedArrayNode",
+            "depth": 1,
+            "addressTypes": [
+              "Integer"
+            ],
+            "sectionNames": [
+              "paragraph"
+            ],
+            "titles": [
+              {
+                "text": "Parashat Shelach Lecha",
+                "lang": "en",
+                "primary": true
+              },
+              {
+                "text": "פרשת שלח לך",
+                "lang": "he",
+                "primary": true
+              }
+            ],
+            "key": "Parashat Shelach Lecha"
+          },
+          {
+            "nodeType": "JaggedArrayNode",
+            "depth": 1,
+            "addressTypes": [
+              "Integer"
+            ],
+            "sectionNames": [
+              "paragraph"
+            ],
+            "titles": [
+              {
+                "text": "Parashat Korach",
+                "lang": "en",
+                "primary": true
+              },
+              {
+                "text": "פרשת קרח",
+                "lang": "he",
+                "primary": true
+              }
+            ],
+            "key": "Parashat Korach"
+          },
+          {
+            "nodeType": "JaggedArrayNode",
+            "depth": 1,
+            "addressTypes": [
+              "Integer"
+            ],
+            "sectionNames": [
+              "paragraph"
+            ],
+            "titles": [
+              {
+                "text": "Parashat Chukat",
+                "lang": "en",
+                "primary": true
+              },
+              {
+                "text": "פרשת חוקת",
+                "lang": "he",
+                "primary": true
+              }
+            ],
+            "key": "Parashat Chukat"
+          },
+          {
+            "nodeType": "JaggedArrayNode",
+            "depth": 1,
+            "addressTypes": [
+              "Integer"
+            ],
+            "sectionNames": [
+              "paragraph"
+            ],
+            "titles": [
+              {
+                "text": "Parashat Balak",
+                "lang": "en",
+                "primary": true
+              },
+              {
+                "text": "פרשת בלק",
+                "lang": "he",
+                "primary": true
+              }
+            ],
+            "key": "Parashat Balak"
+          },
+          {
+            "nodeType": "JaggedArrayNode",
+            "depth": 1,
+            "addressTypes": [
+              "Integer"
+            ],
+            "sectionNames": [
+              "paragraph"
+            ],
+            "titles": [
+              {
+                "text": "Parashat Pinchas",
+                "lang": "en",
+                "primary": true
+              },
+              {
+                "text": "פרשת פנחס",
+                "lang": "he",
+                "primary": true
+              }
+            ],
+            "key": "Parashat Pinchas"
+          },
+          {
+            "nodeType": "JaggedArrayNode",
+            "depth": 1,
+            "addressTypes": [
+              "Integer"
+            ],
+            "sectionNames": [
+              "paragraph"
+            ],
+            "titles": [
+              {
+                "text": "Parashat Matot",
+                "lang": "en",
+                "primary": true
+              },
+              {
+                "text": "פרשת מטות",
+                "lang": "he",
+                "primary": true
+              }
+            ],
+            "key": "Parashat Matot"
+          },
+          {
+            "nodeType": "JaggedArrayNode",
+            "depth": 1,
+            "addressTypes": [
+              "Integer"
+            ],
+            "sectionNames": [
+              "paragraph"
+            ],
+            "titles": [
+              {
+                "text": "Parashat Devarim",
+                "lang": "en",
+                "primary": true
+              },
+              {
+                "text": "פרשת דברים",
+                "lang": "he",
+                "primary": true
+              }
+            ],
+            "key": "Parashat Devarim"
+          },
+          {
+            "nodeType": "JaggedArrayNode",
+            "depth": 1,
+            "addressTypes": [
+              "Integer"
+            ],
+            "sectionNames": [
+              "paragraph"
+            ],
+            "titles": [
+              {
+                "text": "Parashat Vaetchanan",
+                "lang": "en",
+                "primary": true
+              },
+              {
+                "text": "פרשת ואתחנן",
+                "lang": "he",
+                "primary": true
+              }
+            ],
+            "key": "Parashat Vaetchanan"
+          },
+          {
+            "nodeType": "JaggedArrayNode",
+            "depth": 1,
+            "addressTypes": [
+              "Integer"
+            ],
+            "sectionNames": [
+              "paragraph"
+            ],
+            "titles": [
+              {
+                "text": "Parashat Eikev",
+                "lang": "en",
+                "primary": true
+              },
+              {
+                "text": "פרשת עקב",
+                "lang": "he",
+                "primary": true
+              }
+            ],
+            "key": "Parashat Eikev"
+          },
+          {
+            "nodeType": "JaggedArrayNode",
+            "depth": 1,
+            "addressTypes": [
+              "Integer"
+            ],
+            "sectionNames": [
+              "paragraph"
+            ],
+            "titles": [
+              {
+                "text": "Parashat Re'eh",
+                "lang": "en",
+                "primary": true
+              },
+              {
+                "text": "פרשת ראה",
+                "lang": "he",
+                "primary": true
+              }
+            ],
+            "key": "Parashat Re'eh"
+          },
+          {
+            "nodeType": "JaggedArrayNode",
+            "depth": 1,
+            "addressTypes": [
+              "Integer"
+            ],
+            "sectionNames": [
+              "paragraph"
+            ],
+            "titles": [
+              {
+                "text": "Parashat Shoftim",
+                "lang": "en",
+                "primary": true
+              },
+              {
+                "text": "פרשת שופטים",
+                "lang": "he",
+                "primary": true
+              }
+            ],
+            "key": "Parashat Shoftim"
+          },
+          {
+            "nodeType": "JaggedArrayNode",
+            "depth": 1,
+            "addressTypes": [
+              "Integer"
+            ],
+            "sectionNames": [
+              "paragraph"
+            ],
+            "titles": [
+              {
+                "text": "Parashat Ki Tetze",
+                "lang": "en",
+                "primary": true
+              },
+              {
+                "text": "פרשת כי תצא",
+                "lang": "he",
+                "primary": true
+              }
+            ],
+            "key": "Parashat Ki Tetze"
+          },
+          {
+            "nodeType": "JaggedArrayNode",
+            "depth": 1,
+            "addressTypes": [
+              "Integer"
+            ],
+            "sectionNames": [
+              "paragraph"
+            ],
+            "titles": [
+              {
+                "text": "Parashat Ki Tavo",
+                "lang": "en",
+                "primary": true
+              },
+              {
+                "text": "פרשת כי תבוא",
+                "lang": "he",
+                "primary": true
+              }
+            ],
+            "key": "Parashat Ki Tavo"
+          },
+          {
+            "nodeType": "JaggedArrayNode",
+            "depth": 1,
+            "addressTypes": [
+              "Integer"
+            ],
+            "sectionNames": [
+              "paragraph"
+            ],
+            "titles": [
+              {
+                "text": "Parashat Nitzavim",
+                "lang": "en",
+                "primary": true
+              },
+              {
+                "text": "פרשת ניצבים",
+                "lang": "he",
+                "primary": true
+              }
+            ],
+            "key": "Parashat Nitzavim"
+          },
+          {
+            "nodeType": "JaggedArrayNode",
+            "depth": 1,
+            "addressTypes": [
+              "Integer"
+            ],
+            "sectionNames": [
+              "paragraph"
+            ],
+            "titles": [
+              {
+                "text": "Parashat Ha'azinu",
+                "lang": "en",
+                "primary": true
+              },
+              {
+                "text": "פרשת האזינו",
+                "lang": "he",
+                "primary": true
+              }
+            ],
+            "key": "Parashat Ha'azinu"
+          },
+          {
+            "nodeType": "JaggedArrayNode",
+            "depth": 1,
+            "addressTypes": [
+              "Integer"
+            ],
+            "sectionNames": [
+              "paragraph"
+            ],
+            "titles": [
+              {
+                "text": "Parashat Vezot Habracha",
+                "lang": "en",
+                "primary": true
+              },
+              {
+                "text": "פרשת וזאת הברכה",
+                "lang": "he",
+                "primary": true
+              }
+            ],
+            "key": "Parashat Vezot Habracha"
+          },
+          {
+            "nodeType": "JaggedArrayNode",
+            "depth": 1,
+            "addressTypes": [
+              "Integer"
+            ],
+            "sectionNames": [
+              "paragraph"
+            ],
+            "titles": [
+              {
+                "text": "Book of Song of Songs",
+                "lang": "en",
+                "primary": true
+              },
+              {
+                "text": "ספר שיר השירים",
+                "lang": "he",
+                "primary": true
+              }
+            ],
+            "key": "Book of Song of Songs"
+          },
+          {
+            "nodeType": "JaggedArrayNode",
+            "depth": 1,
+            "addressTypes": [
+              "Integer"
+            ],
+            "sectionNames": [
+              "paragraph"
+            ],
+            "sharedTitle": "Book of Lamentations",
+            "key": "Book of Lamentations"
+          },
+          {
+            "nodeType": "JaggedArrayNode",
+            "depth": 1,
+            "addressTypes": [
+              "Integer"
+            ],
+            "sectionNames": [
+              "paragraph"
+            ],
+            "titles": [
+              {
+                "text": "Book of Ecclesiastes",
+                "lang": "en",
+                "primary": true
+              },
+              {
+                "text": "ספר קהלת",
+                "lang": "he",
+                "primary": true
+              }
+            ],
+            "key": "Book of Ecclesiastes"
+          },
+          {
+            "nodeType": "JaggedArrayNode",
+            "depth": 1,
+            "addressTypes": [
+              "Integer"
+            ],
+            "sectionNames": [
+              "paragraph"
+            ],
+            "titles": [
+              {
+                "text": "Book of Esther",
+                "lang": "en",
+                "primary": true
+              },
+              {
+                "text": "מגילת אסתר",
+                "lang": "he",
+                "primary": true
+              }
+            ],
+            "key": "Book of Esther"
+          },
+          {
+            "nodeType": "JaggedArrayNode",
+            "depth": 1,
+            "addressTypes": [
+              "Integer"
+            ],
+            "sectionNames": [
+              "paragraph"
+            ],
+            "titles": [
+              {
+                "text": "Book of Joshua",
+                "lang": "en",
+                "primary": true
+              },
+              {
+                "text": "ספר יהושע",
+                "lang": "he",
+                "primary": true
+              }
+            ],
+            "key": "Book of Joshua"
+          },
+          {
+            "nodeType": "JaggedArrayNode",
+            "depth": 1,
+            "addressTypes": [
+              "Integer"
+            ],
+            "sectionNames": [
+              "paragraph"
+            ],
+            "titles": [
+              {
+                "text": "Book of Judges",
+                "lang": "en",
+                "primary": true
+              },
+              {
+                "text": "ספר שופטים",
+                "lang": "he",
+                "primary": true
+              }
+            ],
+            "key": "Book of Judges"
+          },
+          {
+            "nodeType": "JaggedArrayNode",
+            "depth": 1,
+            "addressTypes": [
+              "Integer"
+            ],
+            "sectionNames": [
+              "Paragraph"
+            ],
+            "titles": [
+              {
+                "text": "Book of Samuel I",
+                "lang": "en",
+                "primary": true
+              },
+              {
+                "text": "ספר שמואל א",
+                "lang": "he",
+                "primary": true
+              }
+            ],
+            "key": "Book of Samuel I"
+          },
+          {
+            "nodeType": "JaggedArrayNode",
+            "depth": 1,
+            "addressTypes": [
+              "Integer"
+            ],
+            "sectionNames": [
+              "Paragraph"
+            ],
+            "titles": [
+              {
+                "text": "Book of Samuel II",
+                "lang": "en",
+                "primary": true
+              },
+              {
+                "text": "ספר שמואל ב",
+                "lang": "he",
+                "primary": true
+              }
+            ],
+            "key": "Book of Samuel II"
+          },
+          {
+            "nodeType": "JaggedArrayNode",
+            "depth": 1,
+            "addressTypes": [
+              "Integer"
+            ],
+            "sectionNames": [
+              "paragraph"
+            ],
+            "titles": [
+              {
+                "text": "Book of Kings I",
+                "lang": "en",
+                "primary": true
+              },
+              {
+                "text": "ספר מלכים א",
+                "lang": "he",
+                "primary": true
+              }
+            ],
+            "key": "Book of Kings I"
+          },
+          {
+            "nodeType": "JaggedArrayNode",
+            "depth": 1,
+            "addressTypes": [
+              "Integer"
+            ],
+            "sectionNames": [
+              "paragraph"
+            ],
+            "titles": [
+              {
+                "text": "Book of Kings II",
+                "lang": "en",
+                "primary": true
+              },
+              {
+                "text": "ספר מלכים ב",
+                "lang": "he",
+                "primary": true
+              }
+            ],
+            "key": "Book of Kings II"
+          },
+          {
+            "nodeType": "JaggedArrayNode",
+            "depth": 1,
+            "addressTypes": [
+              "Integer"
+            ],
+            "sectionNames": [
+              "paragraph"
+            ],
+            "titles": [
+              {
+                "text": "Book of Isaiah",
+                "lang": "en",
+                "primary": true
+              },
+              {
+                "text": "ספר ישעיהו",
+                "lang": "he",
+                "primary": true
+              }
+            ],
+            "key": "Book of Isaiah"
+          },
+          {
+            "nodeType": "JaggedArrayNode",
+            "depth": 1,
+            "addressTypes": [
+              "Integer"
+            ],
+            "sectionNames": [
+              "paragraph"
+            ],
+            "titles": [
+              {
+                "text": "Book of Jeremiah",
+                "lang": "en",
+                "primary": true
+              },
+              {
+                "text": "ספר ירמיהו",
+                "lang": "he",
+                "primary": true
+              }
+            ],
+            "key": "Book of Jeremiah"
+          },
+          {
+            "nodeType": "JaggedArrayNode",
+            "depth": 1,
+            "addressTypes": [
+              "Integer"
+            ],
+            "sectionNames": [
+              "paragraph"
+            ],
+            "titles": [
+              {
+                "text": "Book of Ezekiel",
+                "lang": "en",
+                "primary": true
+              },
+              {
+                "text": "ספר יחזקאל",
+                "lang": "he",
+                "primary": true
+              }
+            ],
+            "key": "Book of Ezekiel"
+          },
+          {
+            "nodeType": "JaggedArrayNode",
+            "depth": 1,
+            "addressTypes": [
+              "Integer"
+            ],
+            "sectionNames": [
+              "paragraph"
+            ],
+            "titles": [
+              {
+                "text": "Book of Hosea",
+                "lang": "en",
+                "primary": true
+              },
+              {
+                "text": "ספר הושע",
+                "lang": "he",
+                "primary": true
+              }
+            ],
+            "key": "Book of Hosea"
+          },
+          {
+            "nodeType": "JaggedArrayNode",
+            "depth": 1,
+            "addressTypes": [
+              "Integer"
+            ],
+            "sectionNames": [
+              "paragraph"
+            ],
+            "titles": [
+              {
+                "text": "Book of Amos",
+                "lang": "en",
+                "primary": true
+              },
+              {
+                "text": "ספר עמוס",
+                "lang": "he",
+                "primary": true
+              }
+            ],
+            "key": "Book of Amos"
+          },
+          {
+            "nodeType": "JaggedArrayNode",
+            "depth": 1,
+            "addressTypes": [
+              "Integer"
+            ],
+            "sectionNames": [
+              "paragraph"
+            ],
+            "titles": [
+              {
+                "text": "Book of Habakkuk",
+                "lang": "en",
+                "primary": true
+              },
+              {
+                "text": "ספר חבקוק",
+                "lang": "he",
+                "primary": true
+              }
+            ],
+            "key": "Book of Habakkuk"
+          },
+          {
+            "nodeType": "JaggedArrayNode",
+            "depth": 1,
+            "addressTypes": [
+              "Integer"
+            ],
+            "sectionNames": [
+              "paragraph"
+            ],
+            "titles": [
+              {
+                "text": "Book of Psalms",
+                "lang": "en",
+                "primary": true
+              },
+              {
+                "text": "ספר תהילים",
+                "lang": "he",
+                "primary": true
+              }
+            ],
+            "key": "Book of Psalms"
+          },
+          {
+            "nodeType": "JaggedArrayNode",
+            "depth": 1,
+            "addressTypes": [
+              "Integer"
+            ],
+            "sectionNames": [
+              "paragraph"
+            ],
+            "titles": [
+              {
+                "text": "Book of Proverbs",
+                "lang": "en",
+                "primary": true
+              },
+              {
+                "text": "ספר משלי",
+                "lang": "he",
+                "primary": true
+              }
+            ],
+            "key": "Book of Proverbs"
+          },
+          {
+            "nodeType": "JaggedArrayNode",
+            "depth": 1,
+            "addressTypes": [
+              "Integer"
+            ],
+            "sectionNames": [
+              "paragraph"
+            ],
+            "sharedTitle": "Book of Job",
+            "key": "Book of Job"
+          },
+          {
+            "nodeType": "JaggedArrayNode",
+            "depth": 1,
+            "addressTypes": [
+              "Integer"
+            ],
+            "sectionNames": [
+              "paragraph"
+            ],
+            "titles": [
+              {
+                "text": "Book of Nehemiah",
+                "lang": "en",
+                "primary": true
+              },
+              {
+                "text": "ספר נחמיה",
+                "lang": "he",
+                "primary": true
+              }
+            ],
+            "key": "Book of Nehemiah"
+          },
+          {
+            "nodeType": "JaggedArrayNode",
+            "depth": 1,
+            "addressTypes": [
+              "Integer"
+            ],
+            "sectionNames": [
+              "paragraph"
+            ],
+            "titles": [
+              {
+                "text": "Book of Chronicles",
+                "lang": "en",
+                "primary": true
+              },
+              {
+                "text": "ספר דברי הימים",
+                "lang": "he",
+                "primary": true
+              }
+            ],
+            "key": "Book of Chronicles"
+          }
+        ],
+        "titles": [
+          {
+            "text": "Shaar HaPesukim",
+            "lang": "en"
+          },
+          {
+            "text": "שער הפסוקים",
+            "lang": "he",
+            "primary": true
+          },
+          {
+            "text": "Sha'ar HaPesukim",
+            "lang": "en",
+            "primary": true
+          }
+        ],
+        "key": "Sha'ar HaPesukim"
+      },
+      "authors": [
+        "chaim-vital"
+      ],
+      "enDesc": "Rabbi Chaim Vital, a prominent Safed kabbalist in the 16th–17th centuries, is best known for recording and editing the teachings of Rabbi Isaac Luria, better known as the Arizal, a founder of modern Kabbalah. Chaim Vital’s youngest son, Rabbi Samuel Vital, organized a collection of his father’s writings into eight “gates,” each of which “opens” up a particular topic. The fourth of these is Sha’ar HaPesukim (Gate of the Verses), a kabbalistic commentary on the Bible. Like most of Vital’s writings, it is based on the teachings of the Arizal.",
+      "heDesc": "רבי חיים ויטאל, מקובל צפת בולט במאות ה-16-17, ידוע בעיקר בזכות תיעוד ועריכת תורת האריז\"ל (הרב יצחק לוריא, שנחשב למייסד הקבלה המודרנית). בנו של חיים ויטאל, הרב שמואל ויטאל, ארגן אוסף של כתבי אביו לשמונה \"שערים\", שכל אחד מהם \"פותח\" נושא מסוים. הרביעי שבהם הוא שער הפסוקים, פרשנות קבלית לתנ\"ך. כמו רוב כתביו של ויטל, הוא מבוסס על תורתו של האריז\"ל.",
+      "enShortDesc": "Rabbi Chaim Vital’s kabbalistic commentary on the Bible, based on the teachings of R. isaac Luria and edited by Vital’s son, Rabbi Samuel Vital",
+      "heShortDesc": "פרשנות קבלית לתנ\"ך מהמאה ה-16, מאת רבי חיים ויטאל המבוססת על תורתו של האריז״ל.",
+      "pubDate": [
+        1863
+      ],
+      "hasErrorMargin": true,
+      "compDate": [
+        1570,
+        1650
+      ],
+      "pubPlace": "Jerusalem"
+    }
+  },
+  {
+    "url": "https://www.sefaria.org/api/v2/raw/index/Sha%27ar%20Ruach%20HaKodesh",
+    "data": {
+      "title": "Sha'ar Ruach HaKodesh",
+      "categories": [
+        "Kabbalah",
+        "Arizal and Chaim Vital"
+      ],
+      "schema": {
+        "nodes": [
+          {
+            "nodeType": "JaggedArrayNode",
+            "depth": 2,
+            "addressTypes": [
+              "Integer",
+              "Integer"
+            ],
+            "sectionNames": [
+              "Section",
+              "Paragraph"
+            ],
+            "match_templates": [
+              {
+                "term_slugs": [
+                  "introduction"
+                ]
+              }
+            ],
+            "sharedTitle": "Introduction",
+            "key": "Introduction"
+          },
+          {
+            "nodeType": "JaggedArrayNode",
+            "depth": 2,
+            "addressTypes": [
+              "Integer",
+              "Integer"
+            ],
+            "sectionNames": [
+              "Section",
+              "Paragraph"
+            ],
+            "default": true,
+            "key": "default"
+          },
+          {
+            "nodeType": "JaggedArrayNode",
+            "depth": 1,
+            "addressTypes": [
+              "Integer"
+            ],
+            "sectionNames": [
+              "Paragraph"
+            ],
+            "match_templates": [
+              {
+                "term_slugs": [
+                  "silent-prayer-before-yichud"
+                ]
+              }
+            ],
+            "titles": [
+              {
+                "text": "Silent Prayer Before Yichud",
+                "lang": "en",
+                "primary": true
+              },
+              {
+                "text": "תפילה קודם היחוד",
+                "lang": "he",
+                "primary": true
+              }
+            ],
+            "key": "Silent Prayer Before Yichud"
+          }
+        ],
+        "nodeType": "SchemaNode",
+        "match_templates": [
+          {
+            "term_slugs": [
+              "shaar-ruach-hakodesh"
+            ]
+          }
+        ],
+        "titles": [
+          {
+            "text": "שער רוח הקודש",
+            "lang": "he",
+            "primary": true
+          },
+          {
+            "text": "Sha'ar Ruach HaKodesh",
+            "lang": "en",
+            "primary": true
+          }
+        ],
+        "key": "Sha'ar Ruach HaKodesh"
+      },
+      "authors": [
+        "chaim-vital"
+      ],
+      "enDesc": "Rabbi Chaim Vital, a prominent Safed kabbalist in the 16th through 17th centuries, is best known for recording and editing the teachings of Rabbi Isaac Luria, better known as the Arizal, a founder of modern Kabbalah. Chaim Vital’s youngest son, Rabbi Samuel Vital, organized a collection of his father’s writings into eight “gates,” each of which “opens” up a particular topic. The seventh of these is Sha’ar Ruach HaKodesh (Gate of Divine Inspiration), which delves into practical application of Lurianic Kabbalah as a meditative discipline. \n",
+      "heDesc": "",
+      "enShortDesc": "Rabbi Chaim Vital’s discourse on kabbalistic meditation and customs, based on the teachings of R. Isaac Luria and edited by Vital’s son, Rabbi Samuel Vital",
+      "heShortDesc": "",
+      "pubDate": [
+        1863
+      ],
+      "compDate": [
+        1610
+      ],
+      "compPlace": ""
+    }
+  },
+  {
+    "url": "https://www.sefaria.org/api/texts/Sha%27ar%20Ruach%20HaKodesh%2C%20Introduction?lang=he&context=0",
+    "data": {
+      "ref": "Sha'ar Ruach HaKodesh, Introduction 1",
+      "heRef": "שער רוח הקודש, הקדמה א׳",
+      "isComplex": true,
+      "text": [],
+      "he": [
+        "<b>הקדמה אחר המיוחד. רב הוד והדר הרב המופלא: וכבוד ה' מלא. המקובל האלק\"י ה\"ק עולם. תנא ירושלמאה שלשלת יוחסין ריכא ובר ריכא. כמהר\"ר חי רפאל ידידיה אבואלעפיא נ\"י והוי זהיר ומרומם ע\"כ ברכה:</b> ",
+        "<b>מה נכבד</b> היום בהגלות נגלות הני ספרי דבי רב רבינו האר\"י זי\"ע אשר בהם נגלה ונודע כמה חיבתן של ישראל לפני המקום מרוב חיבתו גילה להם סודות תורתו. ואת ישרים סודו גלייה לדרעיה זרוע תפארתו. כנודע למי שבא בסוד ה'. כי בזכות לימודי ה' וגילוי רזין טמירין ישפיע עלינו שפע טהרה ויבקע צורים. וישראל עושי חיל לברר בירורים להרים דגל כנ\"י וסוכתו ירים ובהשמע קולן של סופרים. הן צדיק בארץ ישולם. באהבתו ובחמלתו הוא גאלם. לאקמא שכינתא ומהר יחיש לגאלינו גאולת עולם. ככתוב בכ\"מ בזוה\"ק ובתיקינין שבזכות גילוי הנע\"לם ישובו בנים לגבולם. מי יודע אם לעת כזאת ריוח והצלה יעמוד ליהודים. כי הגיע עת רצון והנה עתך עת דודים. להדפיס ולפרסם ספר היחודים. והוא שער השביעי <b>מהשמונה שערים</b> אשר סדר מוהרש\"ו ז\"ל מכתי מר אביו <b>מוהרח\"ו</b> ז\"ל מה שקבל מתורתו של <b>רבינו האר\"י</b> ז\"ל הנקר' <b>שער רוח הקדש</b>. והנה צורף עמו שער השמיני הנקרא <b>שער הגלגולים</b> אשר זה קרוב לשלש מאות שנה המה בכתובים והן עתה הגיע עת רצון להוציא' לאורה ולהפיצם בישראל. ובפניני הקדמותם רבים ישובו מעון ויפקחו עיניהם לדעת חכמה ומוסר. וכבר נודע עומק הדברים הללו. ומי יכול לעמוד לפני האר\"י ז\"ל להבין עמקי סודותיו ובפרט בע\"ח ומבו\"ש וח' שערים. אכן בחסדי ה' שלח לנו משמי מעונה. עיר וקדיש ממנו יתד ממנו פנה. הוא האיר עינינו בסדריו הקדושים וציוניו והגהותיו התרשישים הוא מורינו ורבינו רבן של חסידים המקובל האלק\"י המפורסם כמוהר\"ר שר <b>שלום מזרחי שרעבי</b> זצוק\"ל. גדול העצה אשר מילא את העול' בשמים מי יספר שבחיו. וכבר ידוע לכל גודל חכמתו ופלפולו אשר עשה אזנים לתורה. להאיר עינינו בתורת אמת בספרו הקדוש <b>נהר שלום</b>. על כן יאמרו המושלים לכל מי שלומד דברי הרב בע\"ח וח' שערים ומבו\"ש מבלי שלמד בנה\"ש והקדמותיו ימשש כעור באפילה תפל בלי מלח ולא ידע לכוין אמרא. ועם שכל קורא ולומד תורת אמת זכותיה בקופתיה כמי שלומד וגריס בדברי הזוה\"ק ומגויית האר\"י רדה ואולם שלימודו אינו אלא כדברי חידה. באין מבין שורש ועומק הענין אשר לא צדה ולמעמיקי' ומעיינים דעתם נבוך צוללי במים אדירים. ולא מצאו ידם ניבא ולא ידע מה ניבא עד יעבור הנהר. ע\"כ לזכות את הרבים בדעתינו להדפיסו פה פעם שנית אחרי אלו. מטעם כי אבדורי אבדור ואינו מצוי ובעה\"י מי שיעיין בזה בעיניו יראה כמה טעיות נפלו בראשון ובלבול לשונות ושינוי מלות ויאורו עיני חכמים. על כן בואו ונחזיק טובה להני אשלי רברבי טובים השנים מבני עליה מע' הרבנים כמוה\"ר <b>יוסף המכונה בכור ויטאל</b> נר\"ו וכמהר\"ר <b>יצחק קאלאמארו</b> נר\"ו כמה כרכורים כרכרו כמה טרחות טרחו ויגעו בגופם וממונם כדי להוציא לאורה הני ספרי דבי רב שני שערים הנז' הנחמדים מזהב ורב פנינים. כגון דא הללו ראוים לברכה בברכה המשולשת אשר זכו וזיכו את הרבים. ומחזיקנא טיבותא לאחי וריעי רבים <b>מבני ציון היקרים מהם גאונים ורבנים ספרדים ואשכנזים ה\"י וכמה תופסי התורה תלמידי חכמים רשומים</b> ברוב דוחקם ועוניים וצערם לא חשו על עצמם ובחשק גדול ולב שלם אמת קנו וחתמו לקנות הספר ואיכא בינייהו כמה וכמה <b>יחידי סגולה אנשי צורה ובעלי בתים</b> חתמו בלב שלם <b>זכרם ה'</b> להם <b>לטובה</b> כי פה לא אוכל לפרש את שמותם כי קצר המצע. וה' יזכרם לטובה ולברכה לכל הקונים. וינטלם וינשאם על מרומי ההצנחות ושובע שמחות. ומאת ה' תהיה משכורתם שלימה וזכות הרב הקדוש רבינו האר\"י ז\"ל ורבינו מוהרח\"ו ז\"ל ומורינו הרב שר שלום ז\"ל יכול על מג\"ן אלף המגן כן נזכה ונחיה להוציא שאר כתבי הקדש והמה בכתובים. ובפרט השער הראשון מן השמונה והוא <b>שער ההקדמות</b> גדול הכמות ורב האיכות וכן ס' נהר שלום. <b>ובכן</b> ואקרא בקול גדול לקראת אחב\"י אנשי אמת החפצים בתורת אמת עת לעשות לה' בוזו כסף בוזו זהב לקיים מקרא שכתוב אמת קנה. ואגב זוזי נוכל לאזר חיל להדפיס השער הנז' וס' הנז' ושאר כתבי קדש ודברים שבקדושה. וה' יהיה בעזרינו. ומלאה הארץ דעה. ובכן שמחו צדיקים והרנינו כל ישרי לב כי סתרי תורה אשר היו טמונים ונעלמים מעיני הקדמונים. יצאו ונגלו באלו הזמנים. וזכות תורתינו יראנו מנפלאותיו. ונזכה לראות בנחמת ציון. ויגאלינו גאולת עולם. ע\"כ מחוינא ואמינא <b>דא גזרא דאוריתא</b> בצירוף <b>קבה\"ו</b> גזרנא וחרמנא בכח <b>התורה</b>. ובכח <b>קדושת ציון וירושלם</b>. לא יוכל שום ' אדם להדפיס ספרי' הללו בשום אופן ולא בשום מקום לא בארץ ולא בחו\"ל בלתי רשות מע' שני הרבנים ה\"י הנז'. רק עד אחר עבור ט\"ו שנים מיום כלות הדפוס הזה ושלי\"ב ועליהם תבא ברכת טוב. הכ\"ד בעי ומתחנן לאבונא דשמיא במקום זריזין היא <b>בית אל</b> הללו בני עליה משרת ומכהן לאלק\"א דשמיא ומעתיר בעד אחינו שבגולה. יוציאנו לרויה. ויבנה לנו בית קדשינו בהר המוריה. אלקים יחוננו ויברכנו ברכה מצויה. והוא הצעיר:",
+        "<small>חי רפאל ידידיה אבואלעפיא ס\"ט<small></small></small>"
+      ],
+      "versions": [
+        {
+          "status": "locked",
+          "priority": "",
+          "license": "Public Domain",
+          "versionNotes": "",
+          "formatAsPoetry": "",
+          "digitizedBySefaria": true,
+          "method": "",
+          "heversionSource": "",
+          "versionUrl": "",
+          "versionTitleInHebrew": "",
+          "versionNotesInHebrew": "",
+          "shortVersionTitle": "",
+          "shortVersionTitleInHebrew": "",
+          "extendedNotes": "",
+          "extendedNotesHebrew": "",
+          "purchaseInformationImage": "",
+          "purchaseInformationURL": "",
+          "hasManuallyWrappedRefs": "",
+          "language": "he",
+          "title": "Sha'ar Ruach HaKodesh",
+          "versionSource": "https://www.nli.org.il/he/books/NNL_ALEPH990018959310205171/NLI",
+          "versionTitle": "Jerusalem, 1863",
+          "actualLanguage": "he",
+          "languageFamilyName": "hebrew",
+          "isSource": true,
+          "isPrimary": true,
+          "direction": "rtl"
+        }
+      ],
+      "textDepth": 2,
+      "sectionNames": [
+        "Section",
+        "Paragraph"
+      ],
+      "addressTypes": [
+        "Integer",
+        "Integer"
+      ],
+      "heTitle": "שער רוח הקודש, הקדמה",
+      "titleVariants": [
+        "Introduction"
+      ],
+      "heTitleVariants": [
+        "הקדמה",
+        "מבוא"
+      ],
+      "type": "Kabbalah",
+      "primary_category": "Kabbalah",
+      "book": "Sha'ar Ruach HaKodesh, Introduction",
+      "categories": [
+        "Kabbalah",
+        "Arizal and Chaim Vital"
+      ],
+      "order": "",
+      "sections": [
+        1
+      ],
+      "toSections": [
+        1
+      ],
+      "isDependant": false,
+      "indexTitle": "Sha'ar Ruach HaKodesh",
+      "heIndexTitle": "שער רוח הקודש",
+      "sectionRef": "Sha'ar Ruach HaKodesh, Introduction 1",
+      "firstAvailableSectionRef": "Sha'ar Ruach HaKodesh, Introduction 1",
+      "heSectionRef": "שער רוח הקודש, הקדמה א׳",
+      "isSpanning": false,
+      "heVersionTitle": "Jerusalem, 1863",
+      "heVersionTitleInHebrew": "",
+      "heShortVersionTitle": "",
+      "heShortVersionTitleInHebrew": "",
+      "heVersionSource": "https://www.nli.org.il/he/books/NNL_ALEPH990018959310205171/NLI",
+      "heVersionStatus": "locked",
+      "heVersionNotes": "",
+      "heExtendedNotes": "",
+      "heExtendedNotesHebrew": "",
+      "heVersionNotesInHebrew": "",
+      "heDigitizedBySefaria": true,
+      "heLicense": "Public Domain",
+      "formatHeAsPoetry": false,
+      "alts": [],
+      "index_offsets_by_depth": {},
+      "next": "Sha'ar Ruach HaKodesh, Introduction 2",
+      "prev": null,
+      "commentary": [],
+      "sheets": [],
+      "layer": []
+    }
+  }
+]

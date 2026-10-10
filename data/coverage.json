@@ -362,10 +362,9 @@
     }
   ],
   "registry_statistics": {
-    "records": 264,
-    "quote_verified": 263,
-    "context_checked": 263,
-    "independently_reviewed": 39,
-    "note": "Includes source/commentary/editorial/bibliographic records; not unique horse mentions."
-  }
+    "records": 443,
+    "context_checked": 441,
+    "independently_reviewed": 62
+  },
+  "checkpoint_note": "Tanakh finite direct/indirect queries complete; BAV004 remaining63 and YER005 remaining39; commentary COM003 516 cells315present100empty101unavailable; composition chronology partial."
 }

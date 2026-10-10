@@ -1,0 +1,597 @@
+[
+  {
+    "author": "Abarbanel",
+    "book": "II Kings",
+    "index_url": "https://www.sefaria.org/api/index/Abarbanel_on_II_Kings",
+    "index": {
+      "title": "Abarbanel on II Kings",
+      "categories": [
+        "Tanakh",
+        "Rishonim on Tanakh",
+        "Abarbanel",
+        "Prophets"
+      ],
+      "schema": {
+        "nodeType": "JaggedArrayNode",
+        "depth": 3,
+        "addressTypes": [
+          "Perek",
+          "Pasuk",
+          "Integer"
+        ],
+        "sectionNames": [
+          "Chapter",
+          "Verse",
+          "Comment"
+        ],
+        "match_templates": [
+          {
+            "term_slugs": [
+              "abarbanel",
+              "ii-kings"
+            ]
+          }
+        ],
+        "lengths": [
+          25,
+          265,
+          313
+        ],
+        "toc_zoom": 2,
+        "isSegmentLevelDiburHamatchil": true,
+        "diburHamatchilRegexes": [
+          "^<b>(.+?)</b>",
+          "^(.+?)[\\-–]"
+        ],
+        "titles": [
+          {
+            "text": "אברבנאל על מלכים ב",
+            "primary": true,
+            "lang": "he"
+          },
+          {
+            "text": "Abarbanel on II Kings",
+            "lang": "en",
+            "primary": true
+          }
+        ],
+        "title": "Abarbanel on II Kings",
+        "heTitle": "אברבנאל על מלכים ב",
+        "heSectionNames": [
+          "פרק",
+          "פסוק",
+          "פירוש"
+        ],
+        "key": "Abarbanel on II Kings"
+      },
+      "authors": [
+        {
+          "en": "Isaac Abarbanel",
+          "he": "אברבנאל",
+          "slug": "isaac-abarbanel"
+        }
+      ],
+      "enDesc": "Abarbanel's highly original commentary usually begins with a number of questions about the text at hand, which he answers over the course of his exegesis.",
+      "pubDate": [
+        1511
+      ],
+      "compDate": [
+        1484
+      ],
+      "compPlace": "Toledo, Spain",
+      "pubPlace": "Pesaro",
+      "era": "RI",
+      "dependence": "Commentary",
+      "base_text_titles": [
+        {
+          "en": "II Kings",
+          "he": "מלכים ב"
+        }
+      ],
+      "collective_title": {
+        "en": "Abarbanel",
+        "he": "אברבנאל"
+      },
+      "heTitle": "אברבנאל על מלכים ב",
+      "titleVariants": [
+        "Abarbanel on II Kings"
+      ],
+      "heTitleVariants": [
+        "אברבנאל על מלכים ב"
+      ],
+      "sectionNames": [
+        "Chapter",
+        "Verse",
+        "Comment"
+      ],
+      "depth": 3,
+      "heCategories": [
+        "תנ\"ך",
+        "ראשונים על התנ״ך",
+        "אברבנאל",
+        "נביאים"
+      ],
+      "compDateString": {
+        "en": " (1484 CE)",
+        "he": " (1484 לספירה)"
+      },
+      "pubDateString": {
+        "en": " (1511 CE)",
+        "he": " (1511 לספירה)"
+      },
+      "compPlaceString": {
+        "en": "Toledo, Spain",
+        "he": "טולדו, ספרד"
+      },
+      "pubPlaceString": {
+        "en": "Pesaro",
+        "he": "פזארו"
+      }
+    },
+    "text_url": "https://www.sefaria.org/api/texts/Abarbanel_on_II_Kings?context=0&pad=0",
+    "returned_ref": "Abarbanel on II Kings",
+    "available_hebrew_versions": [
+      {
+        "status": "",
+        "priority": "",
+        "license": "unknown",
+        "versionNotes": "",
+        "formatAsPoetry": "",
+        "digitizedBySefaria": "",
+        "method": "",
+        "heversionSource": "",
+        "versionUrl": "",
+        "versionTitleInHebrew": "",
+        "versionNotesInHebrew": "",
+        "shortVersionTitle": "",
+        "shortVersionTitleInHebrew": "",
+        "extendedNotes": "",
+        "extendedNotesHebrew": "",
+        "purchaseInformationImage": "",
+        "purchaseInformationURL": "",
+        "hasManuallyWrappedRefs": "",
+        "language": "he",
+        "title": "Abarbanel on II Kings",
+        "versionSource": "https://www.nli.org.il/he/books/NNL_ALEPH001080676&context=L&vid=NLI&search_scope=Local&tab=default_tab&lang=iw_IL",
+        "versionTitle": "Abarbanel, Tel Aviv 1960",
+        "actualLanguage": "he",
+        "languageFamilyName": "hebrew",
+        "isSource": true,
+        "isPrimary": true,
+        "direction": "rtl",
+        "firstSectionRef": "Abarbanel on II Kings 1:1"
+      }
+    ]
+  },
+  {
+    "author": "Sforno",
+    "book": "II Kings",
+    "index_url": "https://www.sefaria.org/api/index/Sforno_on_II_Kings",
+    "index": {
+      "error": "No book named 'Sforno on II Kings'."
+    },
+    "text_url": "https://www.sefaria.org/api/texts/Sforno_on_II_Kings?context=0&pad=0",
+    "returned_ref": null,
+    "available_hebrew_versions": []
+  },
+  {
+    "author": "Ibn Ezra",
+    "book": "II Kings",
+    "index_url": "https://www.sefaria.org/api/index/Ibn_Ezra_on_II_Kings",
+    "index": {
+      "error": "No book named 'Ibn Ezra on II Kings'."
+    },
+    "text_url": "https://www.sefaria.org/api/texts/Ibn_Ezra_on_II_Kings?context=0&pad=0",
+    "returned_ref": null,
+    "available_hebrew_versions": []
+  },
+  {
+    "author": "Abarbanel",
+    "book": "Zechariah",
+    "index_url": "https://www.sefaria.org/api/index/Abarbanel_on_Zechariah",
+    "index": {
+      "title": "Abarbanel on Zechariah",
+      "categories": [
+        "Tanakh",
+        "Rishonim on Tanakh",
+        "Abarbanel",
+        "Prophets"
+      ],
+      "schema": {
+        "nodeType": "JaggedArrayNode",
+        "depth": 3,
+        "addressTypes": [
+          "Perek",
+          "Pasuk",
+          "Integer"
+        ],
+        "sectionNames": [
+          "Chapter",
+          "Verse",
+          "Comment"
+        ],
+        "match_templates": [
+          {
+            "term_slugs": [
+              "abarbanel",
+              "zechariah"
+            ]
+          }
+        ],
+        "lengths": [
+          14,
+          136,
+          224
+        ],
+        "toc_zoom": 2,
+        "isSegmentLevelDiburHamatchil": true,
+        "diburHamatchilRegexes": [
+          "^<b>(.+?)</b>",
+          "^(.+?)[\\-–]"
+        ],
+        "titles": [
+          {
+            "primary": true,
+            "lang": "he",
+            "text": "אברבנאל על זכריה"
+          },
+          {
+            "text": "Abarbanel on Zechariah",
+            "lang": "en",
+            "primary": true
+          }
+        ],
+        "title": "Abarbanel on Zechariah",
+        "heTitle": "אברבנאל על זכריה",
+        "heSectionNames": [
+          "פרק",
+          "פסוק",
+          "פירוש"
+        ],
+        "key": "Abarbanel on Zechariah"
+      },
+      "authors": [
+        {
+          "en": "Isaac Abarbanel",
+          "he": "אברבנאל",
+          "slug": "isaac-abarbanel"
+        }
+      ],
+      "enDesc": "Abarbanel's highly original commentary usually begins with a number of questions about the text at hand, which he answers over the course of his exegesis.",
+      "pubDate": [
+        1519,
+        1520
+      ],
+      "hasErrorMargin": true,
+      "compDate": [
+        1502,
+        1508
+      ],
+      "compPlace": "Venice",
+      "pubPlace": "Pesaro",
+      "era": "RI",
+      "dependence": "Commentary",
+      "base_text_titles": [
+        {
+          "en": "Zechariah",
+          "he": "זכריה"
+        }
+      ],
+      "collective_title": {
+        "en": "Abarbanel",
+        "he": "אברבנאל"
+      },
+      "heTitle": "אברבנאל על זכריה",
+      "titleVariants": [
+        "Abarbanel on Zechariah"
+      ],
+      "heTitleVariants": [
+        "אברבנאל על זכריה"
+      ],
+      "sectionNames": [
+        "Chapter",
+        "Verse",
+        "Comment"
+      ],
+      "depth": 3,
+      "heCategories": [
+        "תנ\"ך",
+        "ראשונים על התנ״ך",
+        "אברבנאל",
+        "נביאים"
+      ],
+      "compDateString": {
+        "en": " (c.1502  – c.1508 CE)",
+        "he": " (1502 – 1508 לספירה בקירוב)"
+      },
+      "pubDateString": {
+        "en": " (1519  – 1520 CE)",
+        "he": " (1519 – 1520 לספירה)"
+      },
+      "compPlaceString": {
+        "en": "Venice",
+        "he": "ונציה"
+      },
+      "pubPlaceString": {
+        "en": "Pesaro",
+        "he": "פזארו"
+      }
+    },
+    "text_url": "https://www.sefaria.org/api/texts/Abarbanel_on_Zechariah?context=0&pad=0",
+    "returned_ref": "Abarbanel on Zechariah",
+    "available_hebrew_versions": [
+      {
+        "status": "",
+        "priority": "",
+        "license": "unknown",
+        "versionNotes": "",
+        "formatAsPoetry": "",
+        "digitizedBySefaria": "",
+        "method": "",
+        "heversionSource": "",
+        "versionUrl": "",
+        "versionTitleInHebrew": "",
+        "versionNotesInHebrew": "",
+        "shortVersionTitle": "",
+        "shortVersionTitleInHebrew": "",
+        "extendedNotes": "",
+        "extendedNotesHebrew": "",
+        "purchaseInformationImage": "",
+        "purchaseInformationURL": "",
+        "hasManuallyWrappedRefs": "",
+        "language": "he",
+        "title": "Abarbanel on Zechariah",
+        "versionSource": "https://www.nli.org.il/he/books/NNL_ALEPH001080676&context=L&vid=NLI&search_scope=Local&tab=default_tab&lang=iw_IL",
+        "versionTitle": "Abarbanel, Tel Aviv 1960",
+        "actualLanguage": "he",
+        "languageFamilyName": "hebrew",
+        "isSource": true,
+        "isPrimary": true,
+        "direction": "rtl",
+        "firstSectionRef": "Abarbanel on Zechariah 1:1"
+      }
+    ]
+  },
+  {
+    "author": "Sforno",
+    "book": "Zechariah",
+    "index_url": "https://www.sefaria.org/api/index/Sforno_on_Zechariah",
+    "index": {
+      "error": "No book named 'Sforno on Zechariah'."
+    },
+    "text_url": "https://www.sefaria.org/api/texts/Sforno_on_Zechariah?context=0&pad=0",
+    "returned_ref": null,
+    "available_hebrew_versions": []
+  },
+  {
+    "author": "Ibn Ezra",
+    "book": "Zechariah",
+    "index_url": "https://www.sefaria.org/api/index/Ibn_Ezra_on_Zechariah",
+    "index": {
+      "title": "Ibn Ezra on Zechariah",
+      "categories": [
+        "Tanakh",
+        "Rishonim on Tanakh",
+        "Ibn Ezra",
+        "Prophets"
+      ],
+      "schema": {
+        "nodeType": "JaggedArrayNode",
+        "depth": 3,
+        "addressTypes": [
+          "Perek",
+          "Pasuk",
+          "Integer"
+        ],
+        "sectionNames": [
+          "Chapter",
+          "Verse",
+          "Comment"
+        ],
+        "match_templates": [
+          {
+            "term_slugs": [
+              "ibn-ezra",
+              "zechariah"
+            ]
+          }
+        ],
+        "lengths": [
+          14,
+          194,
+          345
+        ],
+        "isSegmentLevelDiburHamatchil": true,
+        "diburHamatchilRegexes": [
+          "^<b>(.+?)</b>",
+          "^(.+?)[\\-–]"
+        ],
+        "titles": [
+          {
+            "lang": "en",
+            "text": "Ibn Ezra on Zech."
+          },
+          {
+            "lang": "en",
+            "text": "Ibn Ezra on Zech"
+          },
+          {
+            "lang": "en",
+            "text": "Ibn Ezra on Zachariah"
+          },
+          {
+            "lang": "en",
+            "text": "Ibn Ezra on Zekharia"
+          },
+          {
+            "lang": "en",
+            "text": "Ibn Ezra on Zekharya"
+          },
+          {
+            "lang": "en",
+            "text": "Ibn Ezra on Zecharia"
+          },
+          {
+            "lang": "he",
+            "text": "אבן עזרא על זכריה",
+            "primary": true
+          },
+          {
+            "lang": "he",
+            "text": "אבן עזרא על זכרי'"
+          },
+          {
+            "text": "Ibn Ezra on Zechariah",
+            "lang": "en",
+            "primary": true
+          }
+        ],
+        "title": "Ibn Ezra on Zechariah",
+        "heTitle": "אבן עזרא על זכריה",
+        "heSectionNames": [
+          "פרק",
+          "פסוק",
+          "פירוש"
+        ],
+        "key": "Ibn Ezra on Zechariah"
+      },
+      "authors": [
+        {
+          "en": "Abraham ibn Ezra",
+          "he": "אבן עזרא",
+          "slug": "ibn-ezra"
+        }
+      ],
+      "enDesc": "Ibn Ezra’s commentary on the Tanakh reflects his knowledge as a Hebrew grammarian and philologist. His commentary is terse and aims to discover the pshat, the contextual meaning, of the text. Ibn Ezra was known for his independent ideas which aroused much controversy. Many view Ibn Ezra as the forefather of Biblical criticism. As an example, in the last chapter of Sefer Devarim (34:10), Ibn Ezra comments that Joshua, and not Moshe, wrote from this point until the end of the Torah.",
+      "pubDate": [
+        1524
+      ],
+      "hasErrorMargin": true,
+      "compDate": [
+        1155,
+        1165
+      ],
+      "compPlace": "Middle-Age France/Italy/England",
+      "pubPlace": "Venice",
+      "era": "RI",
+      "dependence": "Commentary",
+      "base_text_titles": [
+        {
+          "en": "Zechariah",
+          "he": "זכריה"
+        }
+      ],
+      "base_text_mapping": "many_to_one",
+      "collective_title": {
+        "en": "Ibn Ezra",
+        "he": "אבן עזרא"
+      },
+      "heTitle": "אבן עזרא על זכריה",
+      "titleVariants": [
+        "Ibn Ezra on Zech.",
+        "Ibn Ezra on Zech",
+        "Ibn Ezra on Zachariah",
+        "Ibn Ezra on Zekharia",
+        "Ibn Ezra on Zekharya",
+        "Ibn Ezra on Zecharia",
+        "Ibn Ezra on Zechariah"
+      ],
+      "heTitleVariants": [
+        "אבן עזרא על זכריה",
+        "אבן עזרא על זכרי'"
+      ],
+      "sectionNames": [
+        "Chapter",
+        "Verse",
+        "Comment"
+      ],
+      "depth": 3,
+      "heCategories": [
+        "תנ\"ך",
+        "ראשונים על התנ״ך",
+        "אבן עזרא",
+        "נביאים"
+      ],
+      "compDateString": {
+        "en": " (c.1155  – c.1165 CE)",
+        "he": " (1155 – 1165 לספירה בקירוב)"
+      },
+      "pubDateString": {
+        "en": " (1524 CE)",
+        "he": " (1524 לספירה)"
+      },
+      "compPlaceString": {
+        "en": "Middle-Age France/Italy/England",
+        "he": "צרפת / איטליה / אנגליה של ימי הביניים"
+      },
+      "pubPlaceString": {
+        "en": "Venice",
+        "he": "ונציה"
+      }
+    },
+    "text_url": "https://www.sefaria.org/api/texts/Ibn_Ezra_on_Zechariah?context=0&pad=0",
+    "returned_ref": "Ibn Ezra on Zechariah",
+    "available_hebrew_versions": [
+      {
+        "status": "locked",
+        "priority": "",
+        "license": "Public Domain",
+        "versionNotes": "",
+        "formatAsPoetry": "",
+        "digitizedBySefaria": "",
+        "method": "",
+        "heversionSource": "",
+        "versionUrl": "",
+        "versionTitleInHebrew": "",
+        "versionNotesInHebrew": "",
+        "shortVersionTitle": "",
+        "shortVersionTitleInHebrew": "",
+        "extendedNotes": "",
+        "extendedNotesHebrew": "",
+        "purchaseInformationImage": "",
+        "purchaseInformationURL": "",
+        "hasManuallyWrappedRefs": "",
+        "language": "he",
+        "title": "Ibn Ezra on Zechariah",
+        "versionSource": "http://www.daat.ac.il/daat/olam_hatanah/mefaresh.asp?book=25&perek=5&mefaresh=ezra",
+        "versionTitle": "1",
+        "actualLanguage": "he",
+        "languageFamilyName": "hebrew",
+        "isSource": true,
+        "isPrimary": true,
+        "direction": "rtl",
+        "firstSectionRef": "Ibn Ezra on Zechariah 5:1"
+      },
+      {
+        "status": "locked",
+        "priority": "",
+        "license": "Public Domain",
+        "versionNotes": "",
+        "formatAsPoetry": "",
+        "digitizedBySefaria": "",
+        "method": "",
+        "heversionSource": "",
+        "versionUrl": "",
+        "versionTitleInHebrew": "",
+        "versionNotesInHebrew": "",
+        "shortVersionTitle": "",
+        "shortVersionTitleInHebrew": "",
+        "extendedNotes": "",
+        "extendedNotesHebrew": "",
+        "purchaseInformationImage": "",
+        "purchaseInformationURL": "",
+        "hasManuallyWrappedRefs": "",
+        "language": "he",
+        "title": "Ibn Ezra on Zechariah",
+        "versionSource": "http://www.daat.ac.il/he-il/tanach/parshanut_hamikra/full-text/eben-ezra/zecharya",
+        "versionTitle": "Ibn Ezra on Zecharia -- Daat",
+        "actualLanguage": "he",
+        "languageFamilyName": "hebrew",
+        "isSource": true,
+        "isPrimary": true,
+        "direction": "rtl",
+        "firstSectionRef": "Ibn Ezra on Zechariah 1:1"
+      }
+    ]
+  }
+]

@@ -1,0 +1,4552 @@
+[
+  {
+    "work": "Aderet Eliyahu",
+    "url": "https://www.sefaria.org/api/v2/raw/index/Aderet%20Eliyahu",
+    "title": "Aderet Eliyahu",
+    "authors": [
+      "vilna-gaon"
+    ],
+    "categories": [
+      "Tanakh",
+      "Acharonim on Tanakh",
+      "Aderet Eliyahu"
+    ],
+    "schema": {
+      "nodes": [
+        {
+          "nodeType": "JaggedArrayNode",
+          "depth": 1,
+          "addressTypes": [
+            "Integer"
+          ],
+          "sectionNames": [
+            "Paragraph"
+          ],
+          "match_templates": [
+            {
+              "term_slugs": [
+                "introduction"
+              ]
+            }
+          ],
+          "titles": [
+            {
+              "lang": "en",
+              "text": "Introduction",
+              "primary": true
+            },
+            {
+              "lang": "he",
+              "text": "הקדמת בני הגר\"א",
+              "primary": true
+            }
+          ],
+          "key": "Introduction"
+        },
+        {
+          "nodeType": "JaggedArrayNode",
+          "depth": 3,
+          "addressTypes": [
+            "Perek",
+            "Integer",
+            "Integer"
+          ],
+          "sectionNames": [
+            "Chapter",
+            "Verse",
+            "Paragraph"
+          ],
+          "match_templates": [
+            {
+              "term_slugs": [
+                "genesis"
+              ]
+            }
+          ],
+          "toc_zoom": 2,
+          "titles": [
+            {
+              "lang": "en",
+              "text": "Genesis",
+              "primary": true
+            },
+            {
+              "lang": "he",
+              "text": "בראשית",
+              "primary": true
+            }
+          ],
+          "key": "Genesis"
+        },
+        {
+          "nodeType": "JaggedArrayNode",
+          "depth": 3,
+          "addressTypes": [
+            "Perek",
+            "Integer",
+            "Integer"
+          ],
+          "sectionNames": [
+            "Chapter",
+            "Verse",
+            "Paragraph"
+          ],
+          "match_templates": [
+            {
+              "term_slugs": [
+                "exodus"
+              ]
+            }
+          ],
+          "toc_zoom": 2,
+          "titles": [
+            {
+              "lang": "en",
+              "text": "Exodus",
+              "primary": true
+            },
+            {
+              "lang": "he",
+              "text": "שמות",
+              "primary": true
+            }
+          ],
+          "key": "Exodus"
+        },
+        {
+          "nodeType": "JaggedArrayNode",
+          "depth": 3,
+          "addressTypes": [
+            "Perek",
+            "Integer",
+            "Integer"
+          ],
+          "sectionNames": [
+            "Chapter",
+            "Verse",
+            "Paragraph"
+          ],
+          "match_templates": [
+            {
+              "term_slugs": [
+                "leviticus"
+              ]
+            }
+          ],
+          "toc_zoom": 2,
+          "titles": [
+            {
+              "lang": "en",
+              "text": "Leviticus",
+              "primary": true
+            },
+            {
+              "lang": "he",
+              "text": "ויקרא",
+              "primary": true
+            }
+          ],
+          "key": "Leviticus"
+        },
+        {
+          "nodeType": "JaggedArrayNode",
+          "depth": 3,
+          "addressTypes": [
+            "Perek",
+            "Integer",
+            "Integer"
+          ],
+          "sectionNames": [
+            "Chapter",
+            "Verse",
+            "Paragraph"
+          ],
+          "match_templates": [
+            {
+              "term_slugs": [
+                "numbers"
+              ]
+            }
+          ],
+          "toc_zoom": 2,
+          "titles": [
+            {
+              "lang": "en",
+              "text": "Numbers",
+              "primary": true
+            },
+            {
+              "lang": "he",
+              "text": "במדבר",
+              "primary": true
+            }
+          ],
+          "key": "Numbers"
+        },
+        {
+          "nodeType": "JaggedArrayNode",
+          "depth": 3,
+          "addressTypes": [
+            "Perek",
+            "Integer",
+            "Integer"
+          ],
+          "sectionNames": [
+            "Chapter",
+            "Verse",
+            "Paragraph"
+          ],
+          "match_templates": [
+            {
+              "term_slugs": [
+                "deuteronomy"
+              ]
+            }
+          ],
+          "toc_zoom": 2,
+          "titles": [
+            {
+              "lang": "en",
+              "text": "Deuteronomy",
+              "primary": true
+            },
+            {
+              "lang": "he",
+              "text": "דברים",
+              "primary": true
+            }
+          ],
+          "key": "Deuteronomy"
+        }
+      ],
+      "nodeType": "SchemaNode",
+      "match_templates": [
+        {
+          "term_slugs": [
+            "aderet-eliyahu"
+          ]
+        }
+      ],
+      "titles": [
+        {
+          "lang": "he",
+          "text": "אדרת אליהו",
+          "primary": true
+        },
+        {
+          "text": "Aderet Eliyahu",
+          "lang": "en",
+          "primary": true
+        }
+      ],
+      "key": "Aderet Eliyahu"
+    }
+  },
+  {
+    "work": "Chomat Anakh on Torah",
+    "url": "https://www.sefaria.org/api/v2/raw/index/Chomat%20Anakh%20on%20Torah",
+    "title": "Chomat Anakh on Torah",
+    "authors": [
+      "hayyim-joseph-david-azulai"
+    ],
+    "categories": [
+      "Tanakh",
+      "Acharonim on Tanakh",
+      "Chida",
+      "Chomat Anakh"
+    ],
+    "schema": {
+      "nodes": [
+        {
+          "nodeType": "JaggedArrayNode",
+          "depth": 3,
+          "addressTypes": [
+            "Perek",
+            "Integer",
+            "Integer"
+          ],
+          "sectionNames": [
+            "Chapter",
+            "Verse",
+            "Paragraph"
+          ],
+          "toc_zoom": 2,
+          "titles": [
+            {
+              "primary": true,
+              "text": "Genesis",
+              "lang": "en"
+            },
+            {
+              "primary": true,
+              "text": "בראשית",
+              "lang": "he"
+            }
+          ],
+          "key": "Genesis"
+        },
+        {
+          "nodeType": "JaggedArrayNode",
+          "depth": 3,
+          "addressTypes": [
+            "Perek",
+            "Integer",
+            "Integer"
+          ],
+          "sectionNames": [
+            "Chapter",
+            "Verse",
+            "Paragraph"
+          ],
+          "toc_zoom": 2,
+          "titles": [
+            {
+              "primary": true,
+              "text": "Exodus",
+              "lang": "en"
+            },
+            {
+              "primary": true,
+              "text": "שמות",
+              "lang": "he"
+            }
+          ],
+          "key": "Exodus"
+        },
+        {
+          "nodeType": "JaggedArrayNode",
+          "depth": 3,
+          "addressTypes": [
+            "Perek",
+            "Integer",
+            "Integer"
+          ],
+          "sectionNames": [
+            "Chapter",
+            "Verse",
+            "Paragraph"
+          ],
+          "toc_zoom": 2,
+          "titles": [
+            {
+              "primary": true,
+              "text": "Leviticus",
+              "lang": "en"
+            },
+            {
+              "primary": true,
+              "text": "ויקרא",
+              "lang": "he"
+            }
+          ],
+          "key": "Leviticus"
+        },
+        {
+          "nodeType": "JaggedArrayNode",
+          "depth": 3,
+          "addressTypes": [
+            "Perek",
+            "Integer",
+            "Integer"
+          ],
+          "sectionNames": [
+            "Chapter",
+            "Verse",
+            "Paragraph"
+          ],
+          "toc_zoom": 2,
+          "titles": [
+            {
+              "primary": true,
+              "text": "Numbers",
+              "lang": "en"
+            },
+            {
+              "primary": true,
+              "text": "במדבר",
+              "lang": "he"
+            }
+          ],
+          "key": "Numbers"
+        },
+        {
+          "nodeType": "JaggedArrayNode",
+          "depth": 3,
+          "addressTypes": [
+            "Perek",
+            "Integer",
+            "Integer"
+          ],
+          "sectionNames": [
+            "Chapter",
+            "Verse",
+            "Paragraph"
+          ],
+          "toc_zoom": 2,
+          "titles": [
+            {
+              "primary": true,
+              "text": "Deuteronomy",
+              "lang": "en"
+            },
+            {
+              "primary": true,
+              "text": "דברים",
+              "lang": "he"
+            }
+          ],
+          "key": "Deuteronomy"
+        }
+      ],
+      "nodeType": "SchemaNode",
+      "match_templates": [
+        {
+          "term_slugs": [
+            "chomat-anakh",
+            "numbers"
+          ]
+        }
+      ],
+      "titles": [
+        {
+          "primary": true,
+          "text": "חומת אנך על תורה",
+          "lang": "he"
+        },
+        {
+          "text": "Chomat Anakh on Torah",
+          "lang": "en",
+          "primary": true
+        }
+      ],
+      "key": "Chomat Anakh on Torah"
+    }
+  },
+  {
+    "work": "Kedushat Levi",
+    "url": "https://www.sefaria.org/api/v2/raw/index/Kedushat%20Levi",
+    "title": "Kedushat Levi",
+    "authors": [
+      "levi-yitzchak-of-berditchev"
+    ],
+    "categories": [
+      "Chasidut",
+      "Early Works"
+    ],
+    "schema": {
+      "nodes": [
+        {
+          "nodeType": "JaggedArrayNode",
+          "depth": 1,
+          "addressTypes": [
+            "Integer"
+          ],
+          "sectionNames": [
+            "Paragraph"
+          ],
+          "match_templates": [
+            {
+              "term_slugs": [
+                "letters-of-approbation"
+              ]
+            }
+          ],
+          "titles": [
+            {
+              "lang": "en",
+              "text": "Letters of Approbation",
+              "primary": true
+            },
+            {
+              "lang": "he",
+              "text": "הסכמות",
+              "primary": true
+            }
+          ],
+          "key": "Letters of Approbation"
+        },
+        {
+          "nodes": [
+            {
+              "nodeType": "JaggedArrayNode",
+              "depth": 1,
+              "addressTypes": [
+                "Integer"
+              ],
+              "sectionNames": [
+                "Paragraph"
+              ],
+              "match_templates": [
+                {
+                  "term_slugs": [
+                    "bereshit"
+                  ]
+                }
+              ],
+              "sharedTitle": "Bereshit",
+              "key": "Bereshit"
+            },
+            {
+              "nodeType": "JaggedArrayNode",
+              "depth": 1,
+              "addressTypes": [
+                "Integer"
+              ],
+              "sectionNames": [
+                "Paragraph"
+              ],
+              "match_templates": [
+                {
+                  "term_slugs": [
+                    "noach"
+                  ]
+                }
+              ],
+              "sharedTitle": "Noach",
+              "key": "Noach"
+            },
+            {
+              "nodeType": "JaggedArrayNode",
+              "depth": 1,
+              "addressTypes": [
+                "Integer"
+              ],
+              "sectionNames": [
+                "Paragraph"
+              ],
+              "match_templates": [
+                {
+                  "term_slugs": [
+                    "lech-lecha"
+                  ]
+                }
+              ],
+              "sharedTitle": "Lech Lecha",
+              "key": "Lech Lecha"
+            },
+            {
+              "nodeType": "JaggedArrayNode",
+              "depth": 1,
+              "addressTypes": [
+                "Integer"
+              ],
+              "sectionNames": [
+                "Paragraph"
+              ],
+              "match_templates": [
+                {
+                  "term_slugs": [
+                    "vayera"
+                  ]
+                }
+              ],
+              "sharedTitle": "Vayera",
+              "key": "Vayera"
+            },
+            {
+              "nodeType": "JaggedArrayNode",
+              "depth": 1,
+              "addressTypes": [
+                "Integer"
+              ],
+              "sectionNames": [
+                "Paragraph"
+              ],
+              "match_templates": [
+                {
+                  "term_slugs": [
+                    "chayei-sara"
+                  ]
+                }
+              ],
+              "sharedTitle": "Chayei Sara",
+              "key": "Chayei Sara"
+            },
+            {
+              "nodeType": "JaggedArrayNode",
+              "depth": 1,
+              "addressTypes": [
+                "Integer"
+              ],
+              "sectionNames": [
+                "Paragraph"
+              ],
+              "match_templates": [
+                {
+                  "term_slugs": [
+                    "toldot"
+                  ]
+                }
+              ],
+              "sharedTitle": "Toldot",
+              "key": "Toldot"
+            },
+            {
+              "nodeType": "JaggedArrayNode",
+              "depth": 1,
+              "addressTypes": [
+                "Integer"
+              ],
+              "sectionNames": [
+                "Paragraph"
+              ],
+              "match_templates": [
+                {
+                  "term_slugs": [
+                    "vayetzei"
+                  ]
+                }
+              ],
+              "sharedTitle": "Vayetzei",
+              "key": "Vayetzei"
+            },
+            {
+              "nodeType": "JaggedArrayNode",
+              "depth": 1,
+              "addressTypes": [
+                "Integer"
+              ],
+              "sectionNames": [
+                "Paragraph"
+              ],
+              "match_templates": [
+                {
+                  "term_slugs": [
+                    "vayishlach"
+                  ]
+                }
+              ],
+              "sharedTitle": "Vayishlach",
+              "key": "Vayishlach"
+            },
+            {
+              "nodeType": "JaggedArrayNode",
+              "depth": 1,
+              "addressTypes": [
+                "Integer"
+              ],
+              "sectionNames": [
+                "Paragraph"
+              ],
+              "match_templates": [
+                {
+                  "term_slugs": [
+                    "vayeshev"
+                  ]
+                }
+              ],
+              "sharedTitle": "Vayeshev",
+              "key": "Vayeshev"
+            },
+            {
+              "nodeType": "JaggedArrayNode",
+              "depth": 1,
+              "addressTypes": [
+                "Integer"
+              ],
+              "sectionNames": [
+                "Paragraph"
+              ],
+              "match_templates": [
+                {
+                  "term_slugs": [
+                    "miketz"
+                  ]
+                }
+              ],
+              "sharedTitle": "Miketz",
+              "key": "Miketz"
+            },
+            {
+              "nodeType": "JaggedArrayNode",
+              "depth": 1,
+              "addressTypes": [
+                "Integer"
+              ],
+              "sectionNames": [
+                "Paragraph"
+              ],
+              "match_templates": [
+                {
+                  "term_slugs": [
+                    "homilies-for-chanukah"
+                  ]
+                }
+              ],
+              "titles": [
+                {
+                  "lang": "en",
+                  "text": "Homilies for Chanukah",
+                  "primary": true
+                },
+                {
+                  "lang": "he",
+                  "text": "דרושים לחנוכה",
+                  "primary": true
+                }
+              ],
+              "key": "Homilies for Chanukah"
+            },
+            {
+              "nodeType": "JaggedArrayNode",
+              "depth": 1,
+              "addressTypes": [
+                "Integer"
+              ],
+              "sectionNames": [
+                "Paragraph"
+              ],
+              "match_templates": [
+                {
+                  "term_slugs": [
+                    "vayigash"
+                  ]
+                }
+              ],
+              "sharedTitle": "Vayigash",
+              "key": "Vayigash"
+            },
+            {
+              "nodeType": "JaggedArrayNode",
+              "depth": 1,
+              "addressTypes": [
+                "Integer"
+              ],
+              "sectionNames": [
+                "Paragraph"
+              ],
+              "match_templates": [
+                {
+                  "term_slugs": [
+                    "vayechi"
+                  ]
+                }
+              ],
+              "sharedTitle": "Vayechi",
+              "key": "Vayechi"
+            }
+          ],
+          "nodeType": "SchemaNode",
+          "match_templates": [
+            {
+              "term_slugs": [
+                "genesis"
+              ]
+            }
+          ],
+          "titles": [
+            {
+              "lang": "he",
+              "text": "בראשית",
+              "primary": true
+            },
+            {
+              "lang": "en",
+              "text": "Genesis",
+              "primary": true
+            }
+          ],
+          "key": "Genesis"
+        },
+        {
+          "nodes": [
+            {
+              "nodeType": "JaggedArrayNode",
+              "depth": 1,
+              "addressTypes": [
+                "Integer"
+              ],
+              "sectionNames": [
+                "Paragraph"
+              ],
+              "match_templates": [
+                {
+                  "term_slugs": [
+                    "shemot"
+                  ]
+                }
+              ],
+              "sharedTitle": "Shemot",
+              "key": "Shemot"
+            },
+            {
+              "nodeType": "JaggedArrayNode",
+              "depth": 1,
+              "addressTypes": [
+                "Integer"
+              ],
+              "sectionNames": [
+                "Paragraph"
+              ],
+              "match_templates": [
+                {
+                  "term_slugs": [
+                    "vaera"
+                  ]
+                }
+              ],
+              "sharedTitle": "Vaera",
+              "key": "Vaera"
+            },
+            {
+              "nodeType": "JaggedArrayNode",
+              "depth": 1,
+              "addressTypes": [
+                "Integer"
+              ],
+              "sectionNames": [
+                "Paragraph"
+              ],
+              "match_templates": [
+                {
+                  "term_slugs": [
+                    "bo"
+                  ]
+                }
+              ],
+              "sharedTitle": "Bo",
+              "key": "Bo"
+            },
+            {
+              "nodeType": "JaggedArrayNode",
+              "depth": 1,
+              "addressTypes": [
+                "Integer"
+              ],
+              "sectionNames": [
+                "Paragraph"
+              ],
+              "match_templates": [
+                {
+                  "term_slugs": [
+                    "beshalach"
+                  ]
+                }
+              ],
+              "sharedTitle": "Beshalach",
+              "key": "Beshalach"
+            },
+            {
+              "nodeType": "JaggedArrayNode",
+              "depth": 1,
+              "addressTypes": [
+                "Integer"
+              ],
+              "sectionNames": [
+                "Paragraph"
+              ],
+              "match_templates": [
+                {
+                  "term_slugs": [
+                    "yitro"
+                  ]
+                }
+              ],
+              "sharedTitle": "Yitro",
+              "key": "Yitro"
+            },
+            {
+              "nodeType": "JaggedArrayNode",
+              "depth": 1,
+              "addressTypes": [
+                "Integer"
+              ],
+              "sectionNames": [
+                "Paragraph"
+              ],
+              "match_templates": [
+                {
+                  "term_slugs": [
+                    "mishpatim"
+                  ]
+                }
+              ],
+              "sharedTitle": "Mishpatim",
+              "key": "Mishpatim"
+            },
+            {
+              "nodeType": "JaggedArrayNode",
+              "depth": 1,
+              "addressTypes": [
+                "Integer"
+              ],
+              "sectionNames": [
+                "Paragraph"
+              ],
+              "match_templates": [
+                {
+                  "term_slugs": [
+                    "terumah"
+                  ]
+                }
+              ],
+              "sharedTitle": "Terumah",
+              "key": "Terumah"
+            },
+            {
+              "nodeType": "JaggedArrayNode",
+              "depth": 1,
+              "addressTypes": [
+                "Integer"
+              ],
+              "sectionNames": [
+                "Paragraph"
+              ],
+              "match_templates": [
+                {
+                  "term_slugs": [
+                    "tetzaveh"
+                  ]
+                }
+              ],
+              "sharedTitle": "Tetzaveh",
+              "key": "Tetzaveh"
+            },
+            {
+              "nodeType": "JaggedArrayNode",
+              "depth": 1,
+              "addressTypes": [
+                "Integer"
+              ],
+              "sectionNames": [
+                "Paragraph"
+              ],
+              "match_templates": [
+                {
+                  "term_slugs": [
+                    "homily-for-purim"
+                  ]
+                }
+              ],
+              "titles": [
+                {
+                  "lang": "en",
+                  "text": "Drush LePurim"
+                },
+                {
+                  "lang": "he",
+                  "text": "דרוש לפורים",
+                  "primary": true
+                },
+                {
+                  "lang": "en",
+                  "text": "Homily for Purim",
+                  "primary": true
+                }
+              ],
+              "key": "Homily for Purim"
+            },
+            {
+              "nodeType": "JaggedArrayNode",
+              "depth": 1,
+              "addressTypes": [
+                "Integer"
+              ],
+              "sectionNames": [
+                "Paragraph"
+              ],
+              "match_templates": [
+                {
+                  "term_slugs": [
+                    "ki-tisa"
+                  ]
+                }
+              ],
+              "sharedTitle": "Ki Tisa",
+              "key": "Ki Tisa"
+            },
+            {
+              "nodeType": "JaggedArrayNode",
+              "depth": 1,
+              "addressTypes": [
+                "Integer"
+              ],
+              "sectionNames": [
+                "Paragraph"
+              ],
+              "match_templates": [
+                {
+                  "term_slugs": [
+                    "shekalim"
+                  ]
+                }
+              ],
+              "titles": [
+                {
+                  "lang": "en",
+                  "text": "Shekalim",
+                  "primary": true
+                },
+                {
+                  "lang": "en",
+                  "text": "Shkalim"
+                },
+                {
+                  "lang": "he",
+                  "text": "שקלים",
+                  "primary": true
+                }
+              ],
+              "key": "Shekalim"
+            },
+            {
+              "nodeType": "JaggedArrayNode",
+              "depth": 1,
+              "addressTypes": [
+                "Integer"
+              ],
+              "sectionNames": [
+                "Paragraph"
+              ],
+              "match_templates": [
+                {
+                  "term_slugs": [
+                    "parah"
+                  ]
+                }
+              ],
+              "titles": [
+                {
+                  "lang": "en",
+                  "text": "Parah",
+                  "primary": true
+                },
+                {
+                  "lang": "he",
+                  "text": "פרה",
+                  "primary": true
+                }
+              ],
+              "key": "Parah"
+            },
+            {
+              "nodeType": "JaggedArrayNode",
+              "depth": 1,
+              "addressTypes": [
+                "Integer"
+              ],
+              "sectionNames": [
+                "Paragraph"
+              ],
+              "match_templates": [
+                {
+                  "term_slugs": [
+                    "vayakhel"
+                  ]
+                }
+              ],
+              "sharedTitle": "Vayakhel",
+              "key": "Vayakhel"
+            },
+            {
+              "nodeType": "JaggedArrayNode",
+              "depth": 1,
+              "addressTypes": [
+                "Integer"
+              ],
+              "sectionNames": [
+                "Paragraph"
+              ],
+              "match_templates": [
+                {
+                  "term_slugs": [
+                    "pekudei"
+                  ]
+                }
+              ],
+              "sharedTitle": "Pekudei",
+              "key": "Pekudei"
+            }
+          ],
+          "nodeType": "SchemaNode",
+          "match_templates": [
+            {
+              "term_slugs": [
+                "exodus"
+              ]
+            }
+          ],
+          "titles": [
+            {
+              "lang": "he",
+              "text": "שמות",
+              "primary": true
+            },
+            {
+              "lang": "en",
+              "text": "Exodus",
+              "primary": true
+            }
+          ],
+          "key": "Exodus"
+        },
+        {
+          "nodes": [
+            {
+              "nodeType": "JaggedArrayNode",
+              "depth": 1,
+              "addressTypes": [
+                "Integer"
+              ],
+              "sectionNames": [
+                "Paragraph"
+              ],
+              "match_templates": [
+                {
+                  "term_slugs": [
+                    "vayikra"
+                  ]
+                }
+              ],
+              "sharedTitle": "Vayikra",
+              "key": "Vayikra"
+            },
+            {
+              "nodeType": "JaggedArrayNode",
+              "depth": 1,
+              "addressTypes": [
+                "Integer"
+              ],
+              "sectionNames": [
+                "Paragraph"
+              ],
+              "match_templates": [
+                {
+                  "term_slugs": [
+                    "tzav"
+                  ]
+                }
+              ],
+              "sharedTitle": "Tzav",
+              "key": "Tzav"
+            },
+            {
+              "nodeType": "JaggedArrayNode",
+              "depth": 1,
+              "addressTypes": [
+                "Integer"
+              ],
+              "sectionNames": [
+                "Paragraph"
+              ],
+              "match_templates": [
+                {
+                  "term_slugs": [
+                    "shmini"
+                  ]
+                }
+              ],
+              "sharedTitle": "Shmini",
+              "key": "Shmini"
+            },
+            {
+              "nodeType": "JaggedArrayNode",
+              "depth": 1,
+              "addressTypes": [
+                "Integer"
+              ],
+              "sectionNames": [
+                "Paragraph"
+              ],
+              "match_templates": [
+                {
+                  "term_slugs": [
+                    "homily-for-pesach"
+                  ]
+                }
+              ],
+              "titles": [
+                {
+                  "lang": "en",
+                  "text": "Drush LePesach"
+                },
+                {
+                  "lang": "he",
+                  "text": "דרוש לפסח",
+                  "primary": true
+                },
+                {
+                  "lang": "en",
+                  "text": "Homily for Pesach",
+                  "primary": true
+                }
+              ],
+              "key": "Homily for Pesach"
+            },
+            {
+              "nodeType": "JaggedArrayNode",
+              "depth": 1,
+              "addressTypes": [
+                "Integer"
+              ],
+              "sectionNames": [
+                "Paragraph"
+              ],
+              "match_templates": [
+                {
+                  "term_slugs": [
+                    "song-of-songs"
+                  ]
+                }
+              ],
+              "titles": [
+                {
+                  "lang": "en",
+                  "text": "Song of Songs"
+                },
+                {
+                  "lang": "he",
+                  "text": "שיר השירים",
+                  "primary": true
+                },
+                {
+                  "lang": "en",
+                  "text": "Shir HaShirim",
+                  "primary": true
+                }
+              ],
+              "key": "Shir HaShirim"
+            },
+            {
+              "nodeType": "JaggedArrayNode",
+              "depth": 1,
+              "addressTypes": [
+                "Integer"
+              ],
+              "sectionNames": [
+                "Paragraph"
+              ],
+              "match_templates": [
+                {
+                  "term_slugs": [
+                    "tazria"
+                  ]
+                }
+              ],
+              "sharedTitle": "Tazria",
+              "key": "Tazria"
+            },
+            {
+              "nodeType": "JaggedArrayNode",
+              "depth": 1,
+              "addressTypes": [
+                "Integer"
+              ],
+              "sectionNames": [
+                "Paragraph"
+              ],
+              "match_templates": [
+                {
+                  "term_slugs": [
+                    "metzora"
+                  ]
+                }
+              ],
+              "sharedTitle": "Metzora",
+              "key": "Metzora"
+            },
+            {
+              "nodeType": "JaggedArrayNode",
+              "depth": 1,
+              "addressTypes": [
+                "Integer"
+              ],
+              "sectionNames": [
+                "Paragraph"
+              ],
+              "match_templates": [
+                {
+                  "term_slugs": [
+                    "achrei-mot"
+                  ]
+                }
+              ],
+              "sharedTitle": "Achrei Mot",
+              "key": "Achrei Mot"
+            },
+            {
+              "nodeType": "JaggedArrayNode",
+              "depth": 1,
+              "addressTypes": [
+                "Integer"
+              ],
+              "sectionNames": [
+                "Paragraph"
+              ],
+              "match_templates": [
+                {
+                  "term_slugs": [
+                    "kedoshim"
+                  ]
+                }
+              ],
+              "sharedTitle": "Kedoshim",
+              "key": "Kedoshim"
+            },
+            {
+              "nodeType": "JaggedArrayNode",
+              "depth": 1,
+              "addressTypes": [
+                "Integer"
+              ],
+              "sectionNames": [
+                "Paragraph"
+              ],
+              "match_templates": [
+                {
+                  "term_slugs": [
+                    "emor"
+                  ]
+                }
+              ],
+              "sharedTitle": "Emor",
+              "key": "Emor"
+            },
+            {
+              "nodeType": "JaggedArrayNode",
+              "depth": 1,
+              "addressTypes": [
+                "Integer"
+              ],
+              "sectionNames": [
+                "Paragraph"
+              ],
+              "match_templates": [
+                {
+                  "term_slugs": [
+                    "behar"
+                  ]
+                }
+              ],
+              "sharedTitle": "Behar",
+              "key": "Behar"
+            },
+            {
+              "nodeType": "JaggedArrayNode",
+              "depth": 1,
+              "addressTypes": [
+                "Integer"
+              ],
+              "sectionNames": [
+                "Paragraph"
+              ],
+              "match_templates": [
+                {
+                  "term_slugs": [
+                    "bechukotai"
+                  ]
+                }
+              ],
+              "sharedTitle": "Bechukotai",
+              "key": "Bechukotai"
+            }
+          ],
+          "nodeType": "SchemaNode",
+          "match_templates": [
+            {
+              "term_slugs": [
+                "leviticus"
+              ]
+            }
+          ],
+          "titles": [
+            {
+              "lang": "he",
+              "text": "ויקרא",
+              "primary": true
+            },
+            {
+              "lang": "en",
+              "text": "Leviticus",
+              "primary": true
+            }
+          ],
+          "key": "Leviticus"
+        },
+        {
+          "nodes": [
+            {
+              "nodeType": "JaggedArrayNode",
+              "depth": 1,
+              "addressTypes": [
+                "Integer"
+              ],
+              "sectionNames": [
+                "Paragraph"
+              ],
+              "match_templates": [
+                {
+                  "term_slugs": [
+                    "bamidbar"
+                  ]
+                }
+              ],
+              "sharedTitle": "Bamidbar",
+              "key": "Bamidbar"
+            },
+            {
+              "nodeType": "JaggedArrayNode",
+              "depth": 1,
+              "addressTypes": [
+                "Integer"
+              ],
+              "sectionNames": [
+                "Paragraph"
+              ],
+              "match_templates": [
+                {
+                  "term_slugs": [
+                    "nasso"
+                  ]
+                }
+              ],
+              "sharedTitle": "Nasso",
+              "key": "Nasso"
+            },
+            {
+              "nodeType": "JaggedArrayNode",
+              "depth": 1,
+              "addressTypes": [
+                "Integer"
+              ],
+              "sectionNames": [
+                "Paragraph"
+              ],
+              "match_templates": [
+                {
+                  "term_slugs": [
+                    "for-the-sefira"
+                  ]
+                }
+              ],
+              "titles": [
+                {
+                  "lang": "he",
+                  "text": "לספירה",
+                  "primary": true
+                },
+                {
+                  "lang": "en",
+                  "text": "For the Sefira",
+                  "primary": true
+                }
+              ],
+              "key": "For the Sefira"
+            },
+            {
+              "nodeType": "JaggedArrayNode",
+              "depth": 1,
+              "addressTypes": [
+                "Integer"
+              ],
+              "sectionNames": [
+                "Paragraph"
+              ],
+              "match_templates": [
+                {
+                  "term_slugs": [
+                    "homily-for-shavuot"
+                  ]
+                }
+              ],
+              "titles": [
+                {
+                  "lang": "he",
+                  "text": "דרוש לשבועות",
+                  "primary": true
+                },
+                {
+                  "lang": "en",
+                  "text": "Homily for Shavuot",
+                  "primary": true
+                }
+              ],
+              "key": "Homily for Shavuot"
+            },
+            {
+              "nodeType": "JaggedArrayNode",
+              "depth": 1,
+              "addressTypes": [
+                "Integer"
+              ],
+              "sectionNames": [
+                "Paragraph"
+              ],
+              "match_templates": [
+                {
+                  "term_slugs": [
+                    "behaalotcha"
+                  ]
+                }
+              ],
+              "sharedTitle": "Beha'alotcha",
+              "key": "Beha'alotcha"
+            },
+            {
+              "nodeType": "JaggedArrayNode",
+              "depth": 1,
+              "addressTypes": [
+                "Integer"
+              ],
+              "sectionNames": [
+                "Paragraph"
+              ],
+              "match_templates": [
+                {
+                  "term_slugs": [
+                    "shlach"
+                  ]
+                }
+              ],
+              "sharedTitle": "Sh'lach",
+              "key": "Sh'lach"
+            },
+            {
+              "nodeType": "JaggedArrayNode",
+              "depth": 1,
+              "addressTypes": [
+                "Integer"
+              ],
+              "sectionNames": [
+                "Paragraph"
+              ],
+              "match_templates": [
+                {
+                  "term_slugs": [
+                    "korach"
+                  ]
+                }
+              ],
+              "sharedTitle": "Korach",
+              "key": "Korach"
+            },
+            {
+              "nodeType": "JaggedArrayNode",
+              "depth": 1,
+              "addressTypes": [
+                "Integer"
+              ],
+              "sectionNames": [
+                "Paragraph"
+              ],
+              "match_templates": [
+                {
+                  "term_slugs": [
+                    "chukat"
+                  ]
+                }
+              ],
+              "sharedTitle": "Chukat",
+              "key": "Chukat"
+            },
+            {
+              "nodeType": "JaggedArrayNode",
+              "depth": 1,
+              "addressTypes": [
+                "Integer"
+              ],
+              "sectionNames": [
+                "Paragraph"
+              ],
+              "match_templates": [
+                {
+                  "term_slugs": [
+                    "balak"
+                  ]
+                }
+              ],
+              "sharedTitle": "Balak",
+              "key": "Balak"
+            },
+            {
+              "nodeType": "JaggedArrayNode",
+              "depth": 1,
+              "addressTypes": [
+                "Integer"
+              ],
+              "sectionNames": [
+                "Paragraph"
+              ],
+              "match_templates": [
+                {
+                  "term_slugs": [
+                    "pinchas"
+                  ]
+                }
+              ],
+              "sharedTitle": "Pinchas",
+              "key": "Pinchas"
+            },
+            {
+              "nodeType": "JaggedArrayNode",
+              "depth": 1,
+              "addressTypes": [
+                "Integer"
+              ],
+              "sectionNames": [
+                "Paragraph"
+              ],
+              "match_templates": [
+                {
+                  "term_slugs": [
+                    "matot"
+                  ]
+                }
+              ],
+              "sharedTitle": "Matot",
+              "key": "Matot"
+            },
+            {
+              "nodeType": "JaggedArrayNode",
+              "depth": 1,
+              "addressTypes": [
+                "Integer"
+              ],
+              "sectionNames": [
+                "Paragraph"
+              ],
+              "match_templates": [
+                {
+                  "term_slugs": [
+                    "masei"
+                  ]
+                }
+              ],
+              "sharedTitle": "Masei",
+              "key": "Masei"
+            }
+          ],
+          "nodeType": "SchemaNode",
+          "match_templates": [
+            {
+              "term_slugs": [
+                "numbers"
+              ]
+            }
+          ],
+          "titles": [
+            {
+              "lang": "he",
+              "text": "במדבר",
+              "primary": true
+            },
+            {
+              "lang": "en",
+              "text": "Numbers",
+              "primary": true
+            }
+          ],
+          "key": "Numbers"
+        },
+        {
+          "nodes": [
+            {
+              "nodeType": "JaggedArrayNode",
+              "depth": 1,
+              "addressTypes": [
+                "Integer"
+              ],
+              "sectionNames": [
+                "Paragraph"
+              ],
+              "match_templates": [
+                {
+                  "term_slugs": [
+                    "devarim"
+                  ]
+                }
+              ],
+              "sharedTitle": "Devarim",
+              "key": "Devarim"
+            },
+            {
+              "nodeType": "JaggedArrayNode",
+              "depth": 1,
+              "addressTypes": [
+                "Integer"
+              ],
+              "sectionNames": [
+                "Paragraph"
+              ],
+              "match_templates": [
+                {
+                  "term_slugs": [
+                    "megillat-eicha"
+                  ]
+                }
+              ],
+              "titles": [
+                {
+                  "lang": "en",
+                  "text": "Megillat Eicha",
+                  "primary": true
+                },
+                {
+                  "lang": "en",
+                  "text": "Megillas Eicha"
+                },
+                {
+                  "lang": "he",
+                  "text": "מגילת איכה",
+                  "primary": true
+                }
+              ],
+              "key": "Megillat Eicha"
+            },
+            {
+              "nodeType": "JaggedArrayNode",
+              "depth": 1,
+              "addressTypes": [
+                "Integer"
+              ],
+              "sectionNames": [
+                "Paragraph"
+              ],
+              "match_templates": [
+                {
+                  "term_slugs": [
+                    "vaetchanan"
+                  ]
+                }
+              ],
+              "sharedTitle": "Vaetchanan",
+              "key": "Vaetchanan"
+            },
+            {
+              "nodeType": "JaggedArrayNode",
+              "depth": 1,
+              "addressTypes": [
+                "Integer"
+              ],
+              "sectionNames": [
+                "Paragraph"
+              ],
+              "match_templates": [
+                {
+                  "term_slugs": [
+                    "for-shabbat-nachamu"
+                  ]
+                }
+              ],
+              "titles": [
+                {
+                  "lang": "en",
+                  "text": "For Shabbat Nachamu",
+                  "primary": true
+                },
+                {
+                  "lang": "en",
+                  "text": "For Nachamu"
+                },
+                {
+                  "lang": "he",
+                  "text": "לשבת נחמו",
+                  "primary": true
+                }
+              ],
+              "key": "For Shabbat Nachamu"
+            },
+            {
+              "nodeType": "JaggedArrayNode",
+              "depth": 1,
+              "addressTypes": [
+                "Integer"
+              ],
+              "sectionNames": [
+                "Paragraph"
+              ],
+              "match_templates": [
+                {
+                  "term_slugs": [
+                    "eikev"
+                  ]
+                }
+              ],
+              "sharedTitle": "Eikev",
+              "key": "Eikev"
+            },
+            {
+              "nodeType": "JaggedArrayNode",
+              "depth": 1,
+              "addressTypes": [
+                "Integer"
+              ],
+              "sectionNames": [
+                "Paragraph"
+              ],
+              "match_templates": [
+                {
+                  "term_slugs": [
+                    "reeh"
+                  ]
+                }
+              ],
+              "sharedTitle": "Re'eh",
+              "key": "Re'eh"
+            },
+            {
+              "nodeType": "JaggedArrayNode",
+              "depth": 1,
+              "addressTypes": [
+                "Integer"
+              ],
+              "sectionNames": [
+                "Paragraph"
+              ],
+              "match_templates": [
+                {
+                  "term_slugs": [
+                    "shoftim"
+                  ]
+                }
+              ],
+              "sharedTitle": "Shoftim",
+              "key": "Shoftim"
+            },
+            {
+              "nodeType": "JaggedArrayNode",
+              "depth": 1,
+              "addressTypes": [
+                "Integer"
+              ],
+              "sectionNames": [
+                "Paragraph"
+              ],
+              "match_templates": [
+                {
+                  "term_slugs": [
+                    "ki-teitzei"
+                  ]
+                }
+              ],
+              "sharedTitle": "Ki Teitzei",
+              "key": "Ki Teitzei"
+            },
+            {
+              "nodeType": "JaggedArrayNode",
+              "depth": 1,
+              "addressTypes": [
+                "Integer"
+              ],
+              "sectionNames": [
+                "Paragraph"
+              ],
+              "match_templates": [
+                {
+                  "term_slugs": [
+                    "ki-tavo"
+                  ]
+                }
+              ],
+              "sharedTitle": "Ki Tavo",
+              "key": "Ki Tavo"
+            },
+            {
+              "nodeType": "JaggedArrayNode",
+              "depth": 1,
+              "addressTypes": [
+                "Integer"
+              ],
+              "sectionNames": [
+                "Paragraph"
+              ],
+              "match_templates": [
+                {
+                  "term_slugs": [
+                    "nitzavim"
+                  ]
+                }
+              ],
+              "sharedTitle": "Nitzavim",
+              "key": "Nitzavim"
+            },
+            {
+              "nodeType": "JaggedArrayNode",
+              "depth": 1,
+              "addressTypes": [
+                "Integer"
+              ],
+              "sectionNames": [
+                "Paragraph"
+              ],
+              "match_templates": [
+                {
+                  "term_slugs": [
+                    "haftarah-of-nitzavim"
+                  ]
+                }
+              ],
+              "titles": [
+                {
+                  "lang": "en",
+                  "text": "Haftarah of Nitzavim",
+                  "primary": true
+                },
+                {
+                  "lang": "en",
+                  "text": "Haftara of Nitzavim"
+                },
+                {
+                  "lang": "he",
+                  "text": "הפטרת נצבים",
+                  "primary": true
+                }
+              ],
+              "key": "Haftarah of Nitzavim"
+            },
+            {
+              "nodeType": "JaggedArrayNode",
+              "depth": 1,
+              "addressTypes": [
+                "Integer"
+              ],
+              "sectionNames": [
+                "Paragraph"
+              ],
+              "match_templates": [
+                {
+                  "term_slugs": [
+                    "rosh-hashanah"
+                  ]
+                }
+              ],
+              "titles": [
+                {
+                  "lang": "en",
+                  "text": "For Rosh HaShanah",
+                  "primary": true
+                },
+                {
+                  "lang": "en",
+                  "text": "For Rosh HaShana"
+                },
+                {
+                  "lang": "he",
+                  "text": "לראש השנה",
+                  "primary": true
+                }
+              ],
+              "key": "For Rosh HaShanah"
+            },
+            {
+              "nodeType": "JaggedArrayNode",
+              "depth": 1,
+              "addressTypes": [
+                "Integer"
+              ],
+              "sectionNames": [
+                "Paragraph"
+              ],
+              "match_templates": [
+                {
+                  "term_slugs": [
+                    "vayeilech"
+                  ]
+                }
+              ],
+              "sharedTitle": "Vayeilech",
+              "key": "Vayeilech"
+            },
+            {
+              "nodeType": "JaggedArrayNode",
+              "depth": 1,
+              "addressTypes": [
+                "Integer"
+              ],
+              "sectionNames": [
+                "Paragraph"
+              ],
+              "match_templates": [
+                {
+                  "term_slugs": [
+                    "haazinu"
+                  ]
+                }
+              ],
+              "sharedTitle": "Ha'Azinu",
+              "key": "Ha'Azinu"
+            },
+            {
+              "nodeType": "JaggedArrayNode",
+              "depth": 1,
+              "addressTypes": [
+                "Integer"
+              ],
+              "sectionNames": [
+                "Paragraph"
+              ],
+              "match_templates": [
+                {
+                  "term_slugs": [
+                    "vzot-haberachah"
+                  ]
+                }
+              ],
+              "sharedTitle": "V'Zot HaBerachah",
+              "key": "V'Zot HaBerachah"
+            }
+          ],
+          "nodeType": "SchemaNode",
+          "match_templates": [
+            {
+              "term_slugs": [
+                "deuteronomy"
+              ]
+            }
+          ],
+          "titles": [
+            {
+              "lang": "he",
+              "text": "דברים",
+              "primary": true
+            },
+            {
+              "lang": "en",
+              "text": "Deuteronomy",
+              "primary": true
+            }
+          ],
+          "key": "Deuteronomy"
+        },
+        {
+          "nodeType": "JaggedArrayNode",
+          "depth": 1,
+          "addressTypes": [
+            "Integer"
+          ],
+          "sectionNames": [
+            "Paragraph"
+          ],
+          "match_templates": [
+            {
+              "term_slugs": [
+                "likutim"
+              ]
+            }
+          ],
+          "titles": [
+            {
+              "lang": "en",
+              "text": "Likutim",
+              "primary": true
+            },
+            {
+              "lang": "he",
+              "text": "ליקוטים",
+              "primary": true
+            }
+          ],
+          "key": "Likutim"
+        },
+        {
+          "nodeType": "JaggedArrayNode",
+          "depth": 1,
+          "addressTypes": [
+            "Integer"
+          ],
+          "sectionNames": [
+            "Paragraph"
+          ],
+          "match_templates": [
+            {
+              "term_slugs": [
+                "likutim-on-avot"
+              ]
+            }
+          ],
+          "titles": [
+            {
+              "lang": "en",
+              "text": "Likutim on Avot",
+              "primary": true
+            },
+            {
+              "lang": "he",
+              "text": "ליקוטים לאבות",
+              "primary": true
+            }
+          ],
+          "key": "Likutim on Avot"
+        },
+        {
+          "nodeType": "JaggedArrayNode",
+          "depth": 1,
+          "addressTypes": [
+            "Integer"
+          ],
+          "sectionNames": [
+            "Paragraph"
+          ],
+          "match_templates": [
+            {
+              "term_slugs": [
+                "haggadah-misavi-devey-atuni"
+              ]
+            }
+          ],
+          "titles": [
+            {
+              "lang": "en",
+              "text": "Haggadah MiSavi De'vey Atuni",
+              "primary": true
+            },
+            {
+              "lang": "he",
+              "text": "הגדה מסבי דבי אתוני",
+              "primary": true
+            }
+          ],
+          "key": "Haggadah MiSavi De'vey Atuni"
+        },
+        {
+          "nodes": [
+            {
+              "nodeType": "JaggedArrayNode",
+              "depth": 1,
+              "addressTypes": [
+                "Integer"
+              ],
+              "sectionNames": [
+                "Paragraph"
+              ],
+              "match_templates": [
+                {
+                  "term_slugs": [
+                    "introduction"
+                  ]
+                }
+              ],
+              "titles": [
+                {
+                  "lang": "en",
+                  "text": "Introduction",
+                  "primary": true
+                },
+                {
+                  "lang": "he",
+                  "text": "הקדמה",
+                  "primary": true
+                }
+              ],
+              "key": "Introduction"
+            },
+            {
+              "nodeType": "JaggedArrayNode",
+              "depth": 1,
+              "addressTypes": [
+                "Integer"
+              ],
+              "sectionNames": [
+                "Paragraph"
+              ],
+              "match_templates": [
+                {
+                  "term_slugs": [
+                    "kedusha-rishona"
+                  ]
+                }
+              ],
+              "titles": [
+                {
+                  "lang": "en",
+                  "text": "Kedusha Rishona",
+                  "primary": true
+                },
+                {
+                  "lang": "he",
+                  "text": "קדושה ראשונה",
+                  "primary": true
+                }
+              ],
+              "key": "Kedusha Rishona"
+            },
+            {
+              "nodeType": "JaggedArrayNode",
+              "depth": 1,
+              "addressTypes": [
+                "Integer"
+              ],
+              "sectionNames": [
+                "Paragraph"
+              ],
+              "match_templates": [
+                {
+                  "term_slugs": [
+                    "kedusha-shniya"
+                  ]
+                }
+              ],
+              "titles": [
+                {
+                  "lang": "en",
+                  "text": "Kedusha Shniya",
+                  "primary": true
+                },
+                {
+                  "lang": "he",
+                  "text": "קדושה שניה",
+                  "primary": true
+                }
+              ],
+              "key": "Kedusha Shniya"
+            },
+            {
+              "nodeType": "JaggedArrayNode",
+              "depth": 1,
+              "addressTypes": [
+                "Integer"
+              ],
+              "sectionNames": [
+                "Paragraph"
+              ],
+              "match_templates": [
+                {
+                  "term_slugs": [
+                    "kedusha-shlishit"
+                  ]
+                }
+              ],
+              "titles": [
+                {
+                  "lang": "en",
+                  "text": "Kedusha Shlishit",
+                  "primary": true
+                },
+                {
+                  "lang": "he",
+                  "text": "קדושה שלישית",
+                  "primary": true
+                }
+              ],
+              "key": "Kedusha Shlishit"
+            },
+            {
+              "nodeType": "JaggedArrayNode",
+              "depth": 1,
+              "addressTypes": [
+                "Integer"
+              ],
+              "sectionNames": [
+                "Paragraph"
+              ],
+              "match_templates": [
+                {
+                  "term_slugs": [
+                    "kedusha-reviit"
+                  ]
+                }
+              ],
+              "titles": [
+                {
+                  "lang": "en",
+                  "text": "Kedusha Revi'it",
+                  "primary": true
+                },
+                {
+                  "lang": "he",
+                  "text": "קדושה רביעית",
+                  "primary": true
+                }
+              ],
+              "key": "Kedusha Revi'it"
+            }
+          ],
+          "nodeType": "SchemaNode",
+          "match_templates": [
+            {
+              "term_slugs": [
+                "kedushot-for-purim"
+              ]
+            }
+          ],
+          "titles": [
+            {
+              "lang": "en",
+              "text": "Kedushot for Purim",
+              "primary": true
+            },
+            {
+              "lang": "he",
+              "text": "קדושות לפורים",
+              "primary": true
+            }
+          ],
+          "key": "Kedushot for Purim"
+        },
+        {
+          "nodeType": "JaggedArrayNode",
+          "depth": 1,
+          "addressTypes": [
+            "Integer"
+          ],
+          "sectionNames": [
+            "Paragraph"
+          ],
+          "match_templates": [
+            {
+              "term_slugs": [
+                "the-rules-of-festivals"
+              ]
+            }
+          ],
+          "titles": [
+            {
+              "lang": "en",
+              "text": "The Rules of Festivals",
+              "primary": true
+            },
+            {
+              "lang": "he",
+              "text": "כללות ימים טובים",
+              "primary": true
+            }
+          ],
+          "key": "The Rules of Festivals"
+        },
+        {
+          "nodeType": "JaggedArrayNode",
+          "depth": 1,
+          "addressTypes": [
+            "Integer"
+          ],
+          "sectionNames": [
+            "Paragraph"
+          ],
+          "match_templates": [
+            {
+              "term_slugs": [
+                "chidushei-agadot"
+              ]
+            }
+          ],
+          "titles": [
+            {
+              "lang": "en",
+              "text": "Chidushei Agadot",
+              "primary": true
+            },
+            {
+              "lang": "he",
+              "text": "חידושי אגדות",
+              "primary": true
+            }
+          ],
+          "key": "Chidushei Agadot"
+        },
+        {
+          "nodeType": "JaggedArrayNode",
+          "depth": 1,
+          "addressTypes": [
+            "Integer"
+          ],
+          "sectionNames": [
+            "Paragraph"
+          ],
+          "match_templates": [
+            {
+              "term_slugs": [
+                "chidushei-halachot"
+              ]
+            }
+          ],
+          "titles": [
+            {
+              "lang": "en",
+              "text": "Chidushei Halachot",
+              "primary": true
+            },
+            {
+              "lang": "he",
+              "text": "חידושי הלכות",
+              "primary": true
+            }
+          ],
+          "key": "Chidushei Halachot"
+        },
+        {
+          "nodes": [
+            {
+              "nodeType": "JaggedArrayNode",
+              "depth": 1,
+              "addressTypes": [
+                "Integer"
+              ],
+              "sectionNames": [
+                "Paragraph"
+              ],
+              "match_templates": [
+                {
+                  "term_slugs": [
+                    "kedusha-rishona"
+                  ]
+                }
+              ],
+              "titles": [
+                {
+                  "lang": "en",
+                  "text": "Kedusha Rishona",
+                  "primary": true
+                },
+                {
+                  "lang": "he",
+                  "text": "קדושה ראשונה",
+                  "primary": true
+                }
+              ],
+              "key": "Kedusha Rishona"
+            },
+            {
+              "nodeType": "JaggedArrayNode",
+              "depth": 1,
+              "addressTypes": [
+                "Integer"
+              ],
+              "sectionNames": [
+                "Paragraph"
+              ],
+              "match_templates": [
+                {
+                  "term_slugs": [
+                    "kedusha-shniya"
+                  ]
+                }
+              ],
+              "titles": [
+                {
+                  "lang": "en",
+                  "text": "Kedusha Shniya",
+                  "primary": true
+                },
+                {
+                  "lang": "he",
+                  "text": "קדושה שניה",
+                  "primary": true
+                }
+              ],
+              "key": "Kedusha Shniya"
+            },
+            {
+              "nodeType": "JaggedArrayNode",
+              "depth": 1,
+              "addressTypes": [
+                "Integer"
+              ],
+              "sectionNames": [
+                "Paragraph"
+              ],
+              "match_templates": [
+                {
+                  "term_slugs": [
+                    "kedusha-shlishit"
+                  ]
+                }
+              ],
+              "titles": [
+                {
+                  "lang": "en",
+                  "text": "Kedusha Shlishit",
+                  "primary": true
+                },
+                {
+                  "lang": "he",
+                  "text": "קדושה שלישית",
+                  "primary": true
+                }
+              ],
+              "key": "Kedusha Shlishit"
+            },
+            {
+              "nodeType": "JaggedArrayNode",
+              "depth": 1,
+              "addressTypes": [
+                "Integer"
+              ],
+              "sectionNames": [
+                "Paragraph"
+              ],
+              "match_templates": [
+                {
+                  "term_slugs": [
+                    "kedusha-reviit"
+                  ]
+                }
+              ],
+              "titles": [
+                {
+                  "lang": "en",
+                  "text": "Kedusha Revi'it",
+                  "primary": true
+                },
+                {
+                  "lang": "he",
+                  "text": "קדושה רביעית",
+                  "primary": true
+                }
+              ],
+              "key": "Kedusha Revi'it"
+            },
+            {
+              "nodeType": "JaggedArrayNode",
+              "depth": 1,
+              "addressTypes": [
+                "Integer"
+              ],
+              "sectionNames": [
+                "Paragraph"
+              ],
+              "match_templates": [
+                {
+                  "term_slugs": [
+                    "kedusha-chamishit"
+                  ]
+                }
+              ],
+              "titles": [
+                {
+                  "lang": "en",
+                  "text": "Kedusha Chamishit",
+                  "primary": true
+                },
+                {
+                  "lang": "he",
+                  "text": "קדושה חמישית",
+                  "primary": true
+                }
+              ],
+              "key": "Kedusha Chamishit"
+            }
+          ],
+          "nodeType": "SchemaNode",
+          "match_templates": [
+            {
+              "term_slugs": [
+                "kedushot-for-chanukah"
+              ]
+            }
+          ],
+          "titles": [
+            {
+              "lang": "en",
+              "text": "Kedushot for Chanukah",
+              "primary": true
+            },
+            {
+              "lang": "he",
+              "text": "קדושות לחנוכה",
+              "primary": true
+            }
+          ],
+          "key": "Kedushot for Chanukah"
+        },
+        {
+          "nodeType": "JaggedArrayNode",
+          "depth": 1,
+          "addressTypes": [
+            "Integer"
+          ],
+          "sectionNames": [
+            "Paragraph"
+          ],
+          "match_templates": [
+            {
+              "term_slugs": [
+                "the-rules-of-miracles"
+              ]
+            }
+          ],
+          "titles": [
+            {
+              "lang": "en",
+              "text": "The Rules of Miracles",
+              "primary": true
+            },
+            {
+              "lang": "he",
+              "text": "כללות הנסים",
+              "primary": true
+            }
+          ],
+          "key": "The Rules of Miracles"
+        },
+        {
+          "nodeType": "JaggedArrayNode",
+          "depth": 1,
+          "addressTypes": [
+            "Integer"
+          ],
+          "sectionNames": [
+            "Paragraph"
+          ],
+          "match_templates": [
+            {
+              "term_slugs": [
+                "explanations-of-aggadot"
+              ]
+            }
+          ],
+          "titles": [
+            {
+              "lang": "en",
+              "text": "Explanations of Aggadot",
+              "primary": true
+            },
+            {
+              "lang": "he",
+              "text": "פירושי אגדות",
+              "primary": true
+            }
+          ],
+          "key": "Explanations of Aggadot"
+        }
+      ],
+      "nodeType": "SchemaNode",
+      "match_templates": [
+        {
+          "term_slugs": [
+            "kedushat-levi"
+          ]
+        }
+      ],
+      "titles": [
+        {
+          "text": "קדושת לוי",
+          "lang": "he",
+          "primary": true
+        },
+        {
+          "text": "Kedushat Levi",
+          "lang": "en",
+          "primary": true
+        }
+      ],
+      "key": "Kedushat Levi"
+    }
+  },
+  {
+    "work": "Degel Machaneh Ephraim",
+    "url": "https://www.sefaria.org/api/v2/raw/index/Degel%20Machaneh%20Ephraim",
+    "title": "Degel Machaneh Ephraim",
+    "authors": [
+      "moshe-chaim-ephraim-of-sudilkov"
+    ],
+    "categories": [
+      "Chasidut",
+      "Other Chasidut Works"
+    ],
+    "schema": {
+      "nodes": [
+        {
+          "nodeType": "JaggedArrayNode",
+          "depth": 1,
+          "addressTypes": [
+            "Integer"
+          ],
+          "sectionNames": [
+            "Paragraph"
+          ],
+          "match_templates": [
+            {
+              "term_slugs": [
+                "title"
+              ]
+            }
+          ],
+          "titles": [
+            {
+              "primary": true,
+              "text": "Title",
+              "lang": "en"
+            },
+            {
+              "primary": true,
+              "text": "שער",
+              "lang": "he"
+            }
+          ],
+          "key": "Title"
+        },
+        {
+          "nodeType": "JaggedArrayNode",
+          "depth": 2,
+          "addressTypes": [
+            "Perek",
+            "Integer"
+          ],
+          "sectionNames": [
+            "Chapter",
+            "Paragraph"
+          ],
+          "match_templates": [
+            {
+              "term_slugs": [
+                "approbations"
+              ]
+            }
+          ],
+          "titles": [
+            {
+              "primary": true,
+              "text": "Approbations",
+              "lang": "en"
+            },
+            {
+              "primary": true,
+              "text": "הסכמות",
+              "lang": "he"
+            }
+          ],
+          "key": "Approbations"
+        },
+        {
+          "nodeType": "JaggedArrayNode",
+          "depth": 1,
+          "addressTypes": [
+            "Integer"
+          ],
+          "sectionNames": [
+            "Paragraph"
+          ],
+          "match_templates": [
+            {
+              "term_slugs": [
+                "bereshit"
+              ]
+            }
+          ],
+          "sharedTitle": "Bereshit",
+          "key": "Bereshit"
+        },
+        {
+          "nodeType": "JaggedArrayNode",
+          "depth": 1,
+          "addressTypes": [
+            "Integer"
+          ],
+          "sectionNames": [
+            "Paragraph"
+          ],
+          "match_templates": [
+            {
+              "term_slugs": [
+                "noach"
+              ]
+            }
+          ],
+          "sharedTitle": "Noach",
+          "key": "Noach"
+        },
+        {
+          "nodeType": "JaggedArrayNode",
+          "depth": 1,
+          "addressTypes": [
+            "Integer"
+          ],
+          "sectionNames": [
+            "Paragraph"
+          ],
+          "match_templates": [
+            {
+              "term_slugs": [
+                "lech-lecha"
+              ]
+            }
+          ],
+          "sharedTitle": "Lech Lecha",
+          "key": "Lech Lecha"
+        },
+        {
+          "nodeType": "JaggedArrayNode",
+          "depth": 1,
+          "addressTypes": [
+            "Integer"
+          ],
+          "sectionNames": [
+            "Paragraph"
+          ],
+          "match_templates": [
+            {
+              "term_slugs": [
+                "vayera"
+              ]
+            }
+          ],
+          "sharedTitle": "Vayera",
+          "key": "Vayera"
+        },
+        {
+          "nodeType": "JaggedArrayNode",
+          "depth": 1,
+          "addressTypes": [
+            "Integer"
+          ],
+          "sectionNames": [
+            "Paragraph"
+          ],
+          "match_templates": [
+            {
+              "term_slugs": [
+                "chayei-sara"
+              ]
+            }
+          ],
+          "sharedTitle": "Chayei Sara",
+          "key": "Chayei Sara"
+        },
+        {
+          "nodeType": "JaggedArrayNode",
+          "depth": 1,
+          "addressTypes": [
+            "Integer"
+          ],
+          "sectionNames": [
+            "Paragraph"
+          ],
+          "match_templates": [
+            {
+              "term_slugs": [
+                "toldot"
+              ]
+            }
+          ],
+          "sharedTitle": "Toldot",
+          "key": "Toldot"
+        },
+        {
+          "nodeType": "JaggedArrayNode",
+          "depth": 1,
+          "addressTypes": [
+            "Integer"
+          ],
+          "sectionNames": [
+            "Paragraph"
+          ],
+          "match_templates": [
+            {
+              "term_slugs": [
+                "vayetzei"
+              ]
+            }
+          ],
+          "sharedTitle": "Vayetzei",
+          "key": "Vayetzei"
+        },
+        {
+          "nodeType": "JaggedArrayNode",
+          "depth": 1,
+          "addressTypes": [
+            "Integer"
+          ],
+          "sectionNames": [
+            "Paragraph"
+          ],
+          "match_templates": [
+            {
+              "term_slugs": [
+                "vayishlach"
+              ]
+            }
+          ],
+          "sharedTitle": "Vayishlach",
+          "key": "Vayishlach"
+        },
+        {
+          "nodeType": "JaggedArrayNode",
+          "depth": 1,
+          "addressTypes": [
+            "Integer"
+          ],
+          "sectionNames": [
+            "Paragraph"
+          ],
+          "match_templates": [
+            {
+              "term_slugs": [
+                "vayeshev"
+              ]
+            }
+          ],
+          "sharedTitle": "Vayeshev",
+          "key": "Vayeshev"
+        },
+        {
+          "nodeType": "JaggedArrayNode",
+          "depth": 1,
+          "addressTypes": [
+            "Integer"
+          ],
+          "sectionNames": [
+            "Paragraph"
+          ],
+          "match_templates": [
+            {
+              "term_slugs": [
+                "miketz"
+              ]
+            }
+          ],
+          "sharedTitle": "Miketz",
+          "key": "Miketz"
+        },
+        {
+          "nodeType": "JaggedArrayNode",
+          "depth": 1,
+          "addressTypes": [
+            "Integer"
+          ],
+          "sectionNames": [
+            "Paragraph"
+          ],
+          "match_templates": [
+            {
+              "term_slugs": [
+                "vayigash"
+              ]
+            }
+          ],
+          "sharedTitle": "Vayigash",
+          "key": "Vayigash"
+        },
+        {
+          "nodeType": "JaggedArrayNode",
+          "depth": 1,
+          "addressTypes": [
+            "Integer"
+          ],
+          "sectionNames": [
+            "Paragraph"
+          ],
+          "match_templates": [
+            {
+              "term_slugs": [
+                "vayechi"
+              ]
+            }
+          ],
+          "sharedTitle": "Vayechi",
+          "key": "Vayechi"
+        },
+        {
+          "nodeType": "JaggedArrayNode",
+          "depth": 1,
+          "addressTypes": [
+            "Integer"
+          ],
+          "sectionNames": [
+            "Paragraph"
+          ],
+          "match_templates": [
+            {
+              "term_slugs": [
+                "shemot"
+              ]
+            }
+          ],
+          "sharedTitle": "Shemot",
+          "key": "Shemot"
+        },
+        {
+          "nodeType": "JaggedArrayNode",
+          "depth": 1,
+          "addressTypes": [
+            "Integer"
+          ],
+          "sectionNames": [
+            "Paragraph"
+          ],
+          "match_templates": [
+            {
+              "term_slugs": [
+                "vaera"
+              ]
+            }
+          ],
+          "sharedTitle": "Vaera",
+          "key": "Vaera"
+        },
+        {
+          "nodeType": "JaggedArrayNode",
+          "depth": 1,
+          "addressTypes": [
+            "Integer"
+          ],
+          "sectionNames": [
+            "Paragraph"
+          ],
+          "match_templates": [
+            {
+              "term_slugs": [
+                "bo"
+              ]
+            }
+          ],
+          "sharedTitle": "Bo",
+          "key": "Bo"
+        },
+        {
+          "nodeType": "JaggedArrayNode",
+          "depth": 1,
+          "addressTypes": [
+            "Integer"
+          ],
+          "sectionNames": [
+            "Paragraph"
+          ],
+          "match_templates": [
+            {
+              "term_slugs": [
+                "beshalach"
+              ]
+            }
+          ],
+          "sharedTitle": "Beshalach",
+          "key": "Beshalach"
+        },
+        {
+          "nodeType": "JaggedArrayNode",
+          "depth": 1,
+          "addressTypes": [
+            "Integer"
+          ],
+          "sectionNames": [
+            "Paragraph"
+          ],
+          "match_templates": [
+            {
+              "term_slugs": [
+                "yitro"
+              ]
+            }
+          ],
+          "sharedTitle": "Yitro",
+          "key": "Yitro"
+        },
+        {
+          "nodeType": "JaggedArrayNode",
+          "depth": 1,
+          "addressTypes": [
+            "Integer"
+          ],
+          "sectionNames": [
+            "Paragraph"
+          ],
+          "match_templates": [
+            {
+              "term_slugs": [
+                "mishpatim"
+              ]
+            }
+          ],
+          "sharedTitle": "Mishpatim",
+          "key": "Mishpatim"
+        },
+        {
+          "nodeType": "JaggedArrayNode",
+          "depth": 1,
+          "addressTypes": [
+            "Integer"
+          ],
+          "sectionNames": [
+            "Paragraph"
+          ],
+          "match_templates": [
+            {
+              "term_slugs": [
+                "terumah"
+              ]
+            }
+          ],
+          "sharedTitle": "Terumah",
+          "key": "Terumah"
+        },
+        {
+          "nodeType": "JaggedArrayNode",
+          "depth": 1,
+          "addressTypes": [
+            "Integer"
+          ],
+          "sectionNames": [
+            "Paragraph"
+          ],
+          "match_templates": [
+            {
+              "term_slugs": [
+                "tetzaveh"
+              ]
+            }
+          ],
+          "sharedTitle": "Tetzaveh",
+          "key": "Tetzaveh"
+        },
+        {
+          "nodeType": "JaggedArrayNode",
+          "depth": 1,
+          "addressTypes": [
+            "Integer"
+          ],
+          "sectionNames": [
+            "Paragraph"
+          ],
+          "match_templates": [
+            {
+              "term_slugs": [
+                "ki-tisa"
+              ]
+            }
+          ],
+          "sharedTitle": "Ki Tisa",
+          "key": "Ki Tisa"
+        },
+        {
+          "nodeType": "JaggedArrayNode",
+          "depth": 1,
+          "addressTypes": [
+            "Integer"
+          ],
+          "sectionNames": [
+            "Paragraph"
+          ],
+          "match_templates": [
+            {
+              "term_slugs": [
+                "purim"
+              ]
+            }
+          ],
+          "titles": [
+            {
+              "primary": true,
+              "text": "Purim",
+              "lang": "en"
+            },
+            {
+              "primary": true,
+              "text": "דרוש לפורים",
+              "lang": "he"
+            }
+          ],
+          "key": "Purim"
+        },
+        {
+          "nodeType": "JaggedArrayNode",
+          "depth": 1,
+          "addressTypes": [
+            "Integer"
+          ],
+          "sectionNames": [
+            "Paragraph"
+          ],
+          "match_templates": [
+            {
+              "term_slugs": [
+                "vayakhel"
+              ]
+            }
+          ],
+          "sharedTitle": "Vayakhel",
+          "key": "Vayakhel"
+        },
+        {
+          "nodeType": "JaggedArrayNode",
+          "depth": 1,
+          "addressTypes": [
+            "Integer"
+          ],
+          "sectionNames": [
+            "Paragraph"
+          ],
+          "match_templates": [
+            {
+              "term_slugs": [
+                "pekudei"
+              ]
+            }
+          ],
+          "sharedTitle": "Pekudei",
+          "key": "Pekudei"
+        },
+        {
+          "nodeType": "JaggedArrayNode",
+          "depth": 1,
+          "addressTypes": [
+            "Integer"
+          ],
+          "sectionNames": [
+            "Paragraph"
+          ],
+          "match_templates": [
+            {
+              "term_slugs": [
+                "vayikra"
+              ]
+            }
+          ],
+          "sharedTitle": "Vayikra",
+          "key": "Vayikra"
+        },
+        {
+          "nodeType": "JaggedArrayNode",
+          "depth": 1,
+          "addressTypes": [
+            "Integer"
+          ],
+          "sectionNames": [
+            "Paragraph"
+          ],
+          "match_templates": [
+            {
+              "term_slugs": [
+                "tzav"
+              ]
+            }
+          ],
+          "sharedTitle": "Tzav",
+          "key": "Tzav"
+        },
+        {
+          "nodeType": "JaggedArrayNode",
+          "depth": 1,
+          "addressTypes": [
+            "Integer"
+          ],
+          "sectionNames": [
+            "Paragraph"
+          ],
+          "match_templates": [
+            {
+              "term_slugs": [
+                "shmini"
+              ]
+            }
+          ],
+          "sharedTitle": "Shmini",
+          "key": "Shmini"
+        },
+        {
+          "nodeType": "JaggedArrayNode",
+          "depth": 1,
+          "addressTypes": [
+            "Integer"
+          ],
+          "sectionNames": [
+            "Paragraph"
+          ],
+          "match_templates": [
+            {
+              "term_slugs": [
+                "tazria"
+              ]
+            }
+          ],
+          "sharedTitle": "Tazria",
+          "key": "Tazria"
+        },
+        {
+          "nodeType": "JaggedArrayNode",
+          "depth": 1,
+          "addressTypes": [
+            "Integer"
+          ],
+          "sectionNames": [
+            "Paragraph"
+          ],
+          "match_templates": [
+            {
+              "term_slugs": [
+                "metzora"
+              ]
+            }
+          ],
+          "sharedTitle": "Metzora",
+          "key": "Metzora"
+        },
+        {
+          "nodeType": "JaggedArrayNode",
+          "depth": 1,
+          "addressTypes": [
+            "Integer"
+          ],
+          "sectionNames": [
+            "Paragraph"
+          ],
+          "match_templates": [
+            {
+              "term_slugs": [
+                "achrei-mot"
+              ]
+            }
+          ],
+          "sharedTitle": "Achrei Mot",
+          "key": "Achrei Mot"
+        },
+        {
+          "nodeType": "JaggedArrayNode",
+          "depth": 1,
+          "addressTypes": [
+            "Integer"
+          ],
+          "sectionNames": [
+            "Paragraph"
+          ],
+          "match_templates": [
+            {
+              "term_slugs": [
+                "kedoshim"
+              ]
+            }
+          ],
+          "sharedTitle": "Kedoshim",
+          "key": "Kedoshim"
+        },
+        {
+          "nodeType": "JaggedArrayNode",
+          "depth": 1,
+          "addressTypes": [
+            "Integer"
+          ],
+          "sectionNames": [
+            "Paragraph"
+          ],
+          "match_templates": [
+            {
+              "term_slugs": [
+                "emor"
+              ]
+            }
+          ],
+          "sharedTitle": "Emor",
+          "key": "Emor"
+        },
+        {
+          "nodeType": "JaggedArrayNode",
+          "depth": 1,
+          "addressTypes": [
+            "Integer"
+          ],
+          "sectionNames": [
+            "Paragraph"
+          ],
+          "match_templates": [
+            {
+              "term_slugs": [
+                "behar"
+              ]
+            }
+          ],
+          "sharedTitle": "Behar",
+          "key": "Behar"
+        },
+        {
+          "nodeType": "JaggedArrayNode",
+          "depth": 1,
+          "addressTypes": [
+            "Integer"
+          ],
+          "sectionNames": [
+            "Paragraph"
+          ],
+          "match_templates": [
+            {
+              "term_slugs": [
+                "bechukotai"
+              ]
+            }
+          ],
+          "sharedTitle": "Bechukotai",
+          "key": "Bechukotai"
+        },
+        {
+          "nodeType": "JaggedArrayNode",
+          "depth": 1,
+          "addressTypes": [
+            "Integer"
+          ],
+          "sectionNames": [
+            "Paragraph"
+          ],
+          "match_templates": [
+            {
+              "term_slugs": [
+                "bamidbar"
+              ]
+            }
+          ],
+          "sharedTitle": "Bamidbar",
+          "key": "Bamidbar"
+        },
+        {
+          "nodeType": "JaggedArrayNode",
+          "depth": 1,
+          "addressTypes": [
+            "Integer"
+          ],
+          "sectionNames": [
+            "Paragraph"
+          ],
+          "match_templates": [
+            {
+              "term_slugs": [
+                "nasso"
+              ]
+            }
+          ],
+          "sharedTitle": "Nasso",
+          "key": "Nasso"
+        },
+        {
+          "nodeType": "JaggedArrayNode",
+          "depth": 1,
+          "addressTypes": [
+            "Integer"
+          ],
+          "sectionNames": [
+            "Paragraph"
+          ],
+          "match_templates": [
+            {
+              "term_slugs": [
+                "behaalotcha"
+              ]
+            }
+          ],
+          "sharedTitle": "Beha'alotcha",
+          "key": "Beha'alotcha"
+        },
+        {
+          "nodeType": "JaggedArrayNode",
+          "depth": 1,
+          "addressTypes": [
+            "Integer"
+          ],
+          "sectionNames": [
+            "Paragraph"
+          ],
+          "match_templates": [
+            {
+              "term_slugs": [
+                "shlach"
+              ]
+            }
+          ],
+          "sharedTitle": "Sh'lach",
+          "key": "Sh'lach"
+        },
+        {
+          "nodeType": "JaggedArrayNode",
+          "depth": 1,
+          "addressTypes": [
+            "Integer"
+          ],
+          "sectionNames": [
+            "Paragraph"
+          ],
+          "match_templates": [
+            {
+              "term_slugs": [
+                "korach"
+              ]
+            }
+          ],
+          "sharedTitle": "Korach",
+          "key": "Korach"
+        },
+        {
+          "nodeType": "JaggedArrayNode",
+          "depth": 1,
+          "addressTypes": [
+            "Integer"
+          ],
+          "sectionNames": [
+            "Paragraph"
+          ],
+          "match_templates": [
+            {
+              "term_slugs": [
+                "chukat"
+              ]
+            }
+          ],
+          "sharedTitle": "Chukat",
+          "key": "Chukat"
+        },
+        {
+          "nodeType": "JaggedArrayNode",
+          "depth": 1,
+          "addressTypes": [
+            "Integer"
+          ],
+          "sectionNames": [
+            "Paragraph"
+          ],
+          "match_templates": [
+            {
+              "term_slugs": [
+                "balak"
+              ]
+            }
+          ],
+          "sharedTitle": "Balak",
+          "key": "Balak"
+        },
+        {
+          "nodeType": "JaggedArrayNode",
+          "depth": 1,
+          "addressTypes": [
+            "Integer"
+          ],
+          "sectionNames": [
+            "Paragraph"
+          ],
+          "match_templates": [
+            {
+              "term_slugs": [
+                "pinchas"
+              ]
+            }
+          ],
+          "sharedTitle": "Pinchas",
+          "key": "Pinchas"
+        },
+        {
+          "nodeType": "JaggedArrayNode",
+          "depth": 1,
+          "addressTypes": [
+            "Integer"
+          ],
+          "sectionNames": [
+            "Paragraph"
+          ],
+          "match_templates": [
+            {
+              "term_slugs": [
+                "matot"
+              ]
+            }
+          ],
+          "sharedTitle": "Matot",
+          "key": "Matot"
+        },
+        {
+          "nodeType": "JaggedArrayNode",
+          "depth": 1,
+          "addressTypes": [
+            "Integer"
+          ],
+          "sectionNames": [
+            "Paragraph"
+          ],
+          "match_templates": [
+            {
+              "term_slugs": [
+                "masei"
+              ]
+            }
+          ],
+          "sharedTitle": "Masei",
+          "key": "Masei"
+        },
+        {
+          "nodeType": "JaggedArrayNode",
+          "depth": 1,
+          "addressTypes": [
+            "Integer"
+          ],
+          "sectionNames": [
+            "Paragraph"
+          ],
+          "match_templates": [
+            {
+              "term_slugs": [
+                "devarim"
+              ]
+            }
+          ],
+          "sharedTitle": "Devarim",
+          "key": "Devarim"
+        },
+        {
+          "nodeType": "JaggedArrayNode",
+          "depth": 1,
+          "addressTypes": [
+            "Integer"
+          ],
+          "sectionNames": [
+            "Paragraph"
+          ],
+          "match_templates": [
+            {
+              "term_slugs": [
+                "vaetchanan"
+              ]
+            }
+          ],
+          "sharedTitle": "Vaetchanan",
+          "key": "Vaetchanan"
+        },
+        {
+          "nodeType": "JaggedArrayNode",
+          "depth": 1,
+          "addressTypes": [
+            "Integer"
+          ],
+          "sectionNames": [
+            "Paragraph"
+          ],
+          "match_templates": [
+            {
+              "term_slugs": [
+                "eikev"
+              ]
+            }
+          ],
+          "sharedTitle": "Eikev",
+          "key": "Eikev"
+        },
+        {
+          "nodeType": "JaggedArrayNode",
+          "depth": 1,
+          "addressTypes": [
+            "Integer"
+          ],
+          "sectionNames": [
+            "Paragraph"
+          ],
+          "match_templates": [
+            {
+              "term_slugs": [
+                "reeh"
+              ]
+            }
+          ],
+          "sharedTitle": "Re'eh",
+          "key": "Re'eh"
+        },
+        {
+          "nodeType": "JaggedArrayNode",
+          "depth": 1,
+          "addressTypes": [
+            "Integer"
+          ],
+          "sectionNames": [
+            "Paragraph"
+          ],
+          "match_templates": [
+            {
+              "term_slugs": [
+                "shoftim"
+              ]
+            }
+          ],
+          "sharedTitle": "Shoftim",
+          "key": "Shoftim"
+        },
+        {
+          "nodeType": "JaggedArrayNode",
+          "depth": 1,
+          "addressTypes": [
+            "Integer"
+          ],
+          "sectionNames": [
+            "Paragraph"
+          ],
+          "match_templates": [
+            {
+              "term_slugs": [
+                "ki-teitzei"
+              ]
+            }
+          ],
+          "sharedTitle": "Ki Teitzei",
+          "key": "Ki Teitzei"
+        },
+        {
+          "nodeType": "JaggedArrayNode",
+          "depth": 1,
+          "addressTypes": [
+            "Integer"
+          ],
+          "sectionNames": [
+            "Paragraph"
+          ],
+          "match_templates": [
+            {
+              "term_slugs": [
+                "haftarah-for-ki-teitzei"
+              ]
+            }
+          ],
+          "titles": [
+            {
+              "primary": true,
+              "text": "Haftarah for Ki Teitzei",
+              "lang": "en"
+            },
+            {
+              "primary": true,
+              "text": "הפטרת תצא",
+              "lang": "he"
+            }
+          ],
+          "key": "Haftarah for Ki Teitzei"
+        },
+        {
+          "nodeType": "JaggedArrayNode",
+          "depth": 1,
+          "addressTypes": [
+            "Integer"
+          ],
+          "sectionNames": [
+            "Paragraph"
+          ],
+          "match_templates": [
+            {
+              "term_slugs": [
+                "ki-tavo"
+              ]
+            }
+          ],
+          "sharedTitle": "Ki Tavo",
+          "key": "Ki Tavo"
+        },
+        {
+          "nodeType": "JaggedArrayNode",
+          "depth": 1,
+          "addressTypes": [
+            "Integer"
+          ],
+          "sectionNames": [
+            "Paragraph"
+          ],
+          "match_templates": [
+            {
+              "term_slugs": [
+                "haftarah-for-ki-tavo"
+              ]
+            }
+          ],
+          "titles": [
+            {
+              "primary": true,
+              "text": "Haftarah for Ki Tavo",
+              "lang": "en"
+            },
+            {
+              "primary": true,
+              "text": "הפטרת תבא",
+              "lang": "he"
+            }
+          ],
+          "key": "Haftarah for Ki Tavo"
+        },
+        {
+          "nodeType": "JaggedArrayNode",
+          "depth": 1,
+          "addressTypes": [
+            "Integer"
+          ],
+          "sectionNames": [
+            "Paragraph"
+          ],
+          "match_templates": [
+            {
+              "term_slugs": [
+                "nitzavim"
+              ]
+            }
+          ],
+          "sharedTitle": "Nitzavim",
+          "key": "Nitzavim"
+        },
+        {
+          "nodeType": "JaggedArrayNode",
+          "depth": 1,
+          "addressTypes": [
+            "Integer"
+          ],
+          "sectionNames": [
+            "Paragraph"
+          ],
+          "match_templates": [
+            {
+              "term_slugs": [
+                "vayeilech"
+              ]
+            }
+          ],
+          "sharedTitle": "Vayeilech",
+          "key": "Vayeilech"
+        },
+        {
+          "nodeType": "JaggedArrayNode",
+          "depth": 1,
+          "addressTypes": [
+            "Integer"
+          ],
+          "sectionNames": [
+            "Paragraph"
+          ],
+          "match_templates": [
+            {
+              "term_slugs": [
+                "haazinu"
+              ]
+            }
+          ],
+          "sharedTitle": "Ha'Azinu",
+          "key": "Ha'Azinu"
+        },
+        {
+          "nodeType": "JaggedArrayNode",
+          "depth": 1,
+          "addressTypes": [
+            "Integer"
+          ],
+          "sectionNames": [
+            "Paragraph"
+          ],
+          "match_templates": [
+            {
+              "term_slugs": [
+                "shabbat-shuvah"
+              ]
+            }
+          ],
+          "titles": [
+            {
+              "primary": true,
+              "text": "Shabbat Shuvah",
+              "lang": "en"
+            },
+            {
+              "primary": true,
+              "text": "דרוש לשבת שובה",
+              "lang": "he"
+            }
+          ],
+          "key": "Shabbat Shuvah"
+        },
+        {
+          "nodeType": "JaggedArrayNode",
+          "depth": 1,
+          "addressTypes": [
+            "Integer"
+          ],
+          "sectionNames": [
+            "Paragraph"
+          ],
+          "match_templates": [
+            {
+              "term_slugs": [
+                "vzot-haberachah"
+              ]
+            }
+          ],
+          "sharedTitle": "V'Zot HaBerachah",
+          "key": "V'Zot HaBerachah"
+        },
+        {
+          "nodes": [
+            {
+              "nodeType": "JaggedArrayNode",
+              "depth": 1,
+              "addressTypes": [
+                "Integer"
+              ],
+              "sectionNames": [
+                "Paragraph"
+              ],
+              "match_templates": [
+                {
+                  "term_slugs": [
+                    "lech-lecha"
+                  ]
+                }
+              ],
+              "sharedTitle": "Lech Lecha",
+              "key": "Lech Lecha"
+            },
+            {
+              "nodeType": "JaggedArrayNode",
+              "depth": 1,
+              "addressTypes": [
+                "Integer"
+              ],
+              "sectionNames": [
+                "Paragraph"
+              ],
+              "match_templates": [
+                {
+                  "term_slugs": [
+                    "vayera"
+                  ]
+                }
+              ],
+              "sharedTitle": "Vayera",
+              "key": "Vayera"
+            },
+            {
+              "nodeType": "JaggedArrayNode",
+              "depth": 1,
+              "addressTypes": [
+                "Integer"
+              ],
+              "sectionNames": [
+                "Paragraph"
+              ],
+              "match_templates": [
+                {
+                  "term_slugs": [
+                    "chayei-sara"
+                  ]
+                }
+              ],
+              "sharedTitle": "Chayei Sara",
+              "key": "Chayei Sara"
+            },
+            {
+              "nodeType": "JaggedArrayNode",
+              "depth": 1,
+              "addressTypes": [
+                "Integer"
+              ],
+              "sectionNames": [
+                "Paragraph"
+              ],
+              "match_templates": [
+                {
+                  "term_slugs": [
+                    "toldot"
+                  ]
+                }
+              ],
+              "sharedTitle": "Toldot",
+              "key": "Toldot"
+            },
+            {
+              "nodeType": "JaggedArrayNode",
+              "depth": 1,
+              "addressTypes": [
+                "Integer"
+              ],
+              "sectionNames": [
+                "Paragraph"
+              ],
+              "match_templates": [
+                {
+                  "term_slugs": [
+                    "vayetzei"
+                  ]
+                }
+              ],
+              "sharedTitle": "Vayetzei",
+              "key": "Vayetzei"
+            },
+            {
+              "nodeType": "JaggedArrayNode",
+              "depth": 1,
+              "addressTypes": [
+                "Integer"
+              ],
+              "sectionNames": [
+                "Paragraph"
+              ],
+              "match_templates": [
+                {
+                  "term_slugs": [
+                    "vayishlach"
+                  ]
+                }
+              ],
+              "sharedTitle": "Vayishlach",
+              "key": "Vayishlach"
+            },
+            {
+              "nodeType": "JaggedArrayNode",
+              "depth": 1,
+              "addressTypes": [
+                "Integer"
+              ],
+              "sectionNames": [
+                "Paragraph"
+              ],
+              "match_templates": [
+                {
+                  "term_slugs": [
+                    "miketz"
+                  ]
+                }
+              ],
+              "sharedTitle": "Miketz",
+              "key": "Miketz"
+            },
+            {
+              "nodeType": "JaggedArrayNode",
+              "depth": 1,
+              "addressTypes": [
+                "Integer"
+              ],
+              "sectionNames": [
+                "Paragraph"
+              ],
+              "match_templates": [
+                {
+                  "term_slugs": [
+                    "vayigash"
+                  ]
+                }
+              ],
+              "sharedTitle": "Vayigash",
+              "key": "Vayigash"
+            },
+            {
+              "nodeType": "JaggedArrayNode",
+              "depth": 1,
+              "addressTypes": [
+                "Integer"
+              ],
+              "sectionNames": [
+                "Paragraph"
+              ],
+              "match_templates": [
+                {
+                  "term_slugs": [
+                    "vayechi"
+                  ]
+                }
+              ],
+              "sharedTitle": "Vayechi",
+              "key": "Vayechi"
+            },
+            {
+              "nodeType": "JaggedArrayNode",
+              "depth": 1,
+              "addressTypes": [
+                "Integer"
+              ],
+              "sectionNames": [
+                "Paragraph"
+              ],
+              "match_templates": [
+                {
+                  "term_slugs": [
+                    "shemot"
+                  ]
+                }
+              ],
+              "sharedTitle": "Shemot",
+              "key": "Shemot"
+            },
+            {
+              "nodeType": "JaggedArrayNode",
+              "depth": 1,
+              "addressTypes": [
+                "Integer"
+              ],
+              "sectionNames": [
+                "Paragraph"
+              ],
+              "match_templates": [
+                {
+                  "term_slugs": [
+                    "bo"
+                  ]
+                }
+              ],
+              "sharedTitle": "Bo",
+              "key": "Bo"
+            },
+            {
+              "nodeType": "JaggedArrayNode",
+              "depth": 1,
+              "addressTypes": [
+                "Integer"
+              ],
+              "sectionNames": [
+                "Paragraph"
+              ],
+              "match_templates": [
+                {
+                  "term_slugs": [
+                    "mishpatim"
+                  ]
+                }
+              ],
+              "sharedTitle": "Mishpatim",
+              "key": "Mishpatim"
+            },
+            {
+              "nodeType": "JaggedArrayNode",
+              "depth": 1,
+              "addressTypes": [
+                "Integer"
+              ],
+              "sectionNames": [
+                "Paragraph"
+              ],
+              "match_templates": [
+                {
+                  "term_slugs": [
+                    "terumah"
+                  ]
+                }
+              ],
+              "sharedTitle": "Terumah",
+              "key": "Terumah"
+            },
+            {
+              "nodeType": "JaggedArrayNode",
+              "depth": 1,
+              "addressTypes": [
+                "Integer"
+              ],
+              "sectionNames": [
+                "Paragraph"
+              ],
+              "match_templates": [
+                {
+                  "term_slugs": [
+                    "tetzaveh"
+                  ]
+                }
+              ],
+              "sharedTitle": "Tetzaveh",
+              "key": "Tetzaveh"
+            },
+            {
+              "nodeType": "JaggedArrayNode",
+              "depth": 1,
+              "addressTypes": [
+                "Integer"
+              ],
+              "sectionNames": [
+                "Paragraph"
+              ],
+              "match_templates": [
+                {
+                  "term_slugs": [
+                    "tzav"
+                  ]
+                }
+              ],
+              "sharedTitle": "Tzav",
+              "key": "Tzav"
+            },
+            {
+              "nodeType": "JaggedArrayNode",
+              "depth": 1,
+              "addressTypes": [
+                "Integer"
+              ],
+              "sectionNames": [
+                "Paragraph"
+              ],
+              "match_templates": [
+                {
+                  "term_slugs": [
+                    "emor"
+                  ]
+                }
+              ],
+              "sharedTitle": "Emor",
+              "key": "Emor"
+            },
+            {
+              "nodeType": "JaggedArrayNode",
+              "depth": 1,
+              "addressTypes": [
+                "Integer"
+              ],
+              "sectionNames": [
+                "Paragraph"
+              ],
+              "match_templates": [
+                {
+                  "term_slugs": [
+                    "devarim"
+                  ]
+                }
+              ],
+              "sharedTitle": "Devarim",
+              "key": "Devarim"
+            },
+            {
+              "nodeType": "JaggedArrayNode",
+              "depth": 1,
+              "addressTypes": [
+                "Integer"
+              ],
+              "sectionNames": [
+                "Paragraph"
+              ],
+              "match_templates": [
+                {
+                  "term_slugs": [
+                    "eikev"
+                  ]
+                }
+              ],
+              "sharedTitle": "Eikev",
+              "key": "Eikev"
+            },
+            {
+              "nodeType": "JaggedArrayNode",
+              "depth": 1,
+              "addressTypes": [
+                "Integer"
+              ],
+              "sectionNames": [
+                "Paragraph"
+              ],
+              "match_templates": [
+                {
+                  "term_slugs": [
+                    "reeh"
+                  ]
+                }
+              ],
+              "sharedTitle": "Re'eh",
+              "key": "Re'eh"
+            },
+            {
+              "nodeType": "JaggedArrayNode",
+              "depth": 1,
+              "addressTypes": [
+                "Integer"
+              ],
+              "sectionNames": [
+                "Paragraph"
+              ],
+              "match_templates": [
+                {
+                  "term_slugs": [
+                    "ki-tavo"
+                  ]
+                }
+              ],
+              "sharedTitle": "Ki Tavo",
+              "key": "Ki Tavo"
+            },
+            {
+              "nodeType": "JaggedArrayNode",
+              "depth": 1,
+              "addressTypes": [
+                "Integer"
+              ],
+              "sectionNames": [
+                "Paragraph"
+              ],
+              "match_templates": [
+                {
+                  "term_slugs": [
+                    "nitzavim"
+                  ]
+                }
+              ],
+              "sharedTitle": "Nitzavim",
+              "key": "Nitzavim"
+            },
+            {
+              "nodeType": "JaggedArrayNode",
+              "depth": 1,
+              "addressTypes": [
+                "Integer"
+              ],
+              "sectionNames": [
+                "Paragraph"
+              ],
+              "match_templates": [
+                {
+                  "term_slugs": [
+                    "haftarah-for-nitzavim"
+                  ]
+                }
+              ],
+              "titles": [
+                {
+                  "primary": true,
+                  "text": "Haftarah for Nitzavim",
+                  "lang": "en"
+                },
+                {
+                  "primary": true,
+                  "text": "הפטרת נצבים",
+                  "lang": "he"
+                }
+              ],
+              "key": "Haftarah for Nitzavim"
+            },
+            {
+              "nodeType": "JaggedArrayNode",
+              "depth": 1,
+              "addressTypes": [
+                "Integer"
+              ],
+              "sectionNames": [
+                "Paragraph"
+              ],
+              "match_templates": [
+                {
+                  "term_slugs": [
+                    "vzot-haberachah"
+                  ]
+                }
+              ],
+              "sharedTitle": "V'Zot HaBerachah",
+              "key": "V'Zot HaBerachah"
+            }
+          ],
+          "nodeType": "SchemaNode",
+          "match_templates": [
+            {
+              "term_slugs": [
+                "addenda-on-torah"
+              ]
+            }
+          ],
+          "titles": [
+            {
+              "primary": true,
+              "text": "Addenda on Torah",
+              "lang": "en"
+            },
+            {
+              "primary": true,
+              "text": "לקוטים על התורה",
+              "lang": "he"
+            }
+          ],
+          "key": "Addenda on Torah"
+        },
+        {
+          "nodeType": "JaggedArrayNode",
+          "depth": 1,
+          "addressTypes": [
+            "Integer"
+          ],
+          "sectionNames": [
+            "Paragraph"
+          ],
+          "match_templates": [
+            {
+              "term_slugs": [
+                "addenda"
+              ]
+            }
+          ],
+          "titles": [
+            {
+              "primary": true,
+              "text": "Addenda",
+              "lang": "en"
+            },
+            {
+              "primary": true,
+              "text": "לקוטים",
+              "lang": "he"
+            }
+          ],
+          "key": "Addenda"
+        }
+      ],
+      "nodeType": "SchemaNode",
+      "match_templates": [
+        {
+          "term_slugs": [
+            "degel-machaneh-ephraim"
+          ]
+        }
+      ],
+      "titles": [
+        {
+          "primary": true,
+          "text": "דגל מחנה אפרים",
+          "lang": "he"
+        },
+        {
+          "text": "Degel Machaneh Ephraim",
+          "lang": "en",
+          "primary": true
+        }
+      ],
+      "key": "Degel Machaneh Ephraim"
+    }
+  },
+  {
+    "work": "Nachal Kedumim on Torah",
+    "url": "https://www.sefaria.org/api/v2/raw/index/Nachal%20Kedumim%20on%20Torah",
+    "title": "Nachal Kedumim on Torah",
+    "authors": [
+      "hayyim-joseph-david-azulai"
+    ],
+    "categories": [
+      "Tanakh",
+      "Acharonim on Tanakh",
+      "Chida"
+    ],
+    "schema": {
+      "nodes": [
+        {
+          "nodeType": "JaggedArrayNode",
+          "depth": 3,
+          "addressTypes": [
+            "Integer",
+            "Integer",
+            "Integer"
+          ],
+          "sectionNames": [
+            "Chapter",
+            "Verse",
+            "Comment"
+          ],
+          "toc_zoom": 2,
+          "titles": [
+            {
+              "text": "Genesis",
+              "lang": "en",
+              "primary": true
+            },
+            {
+              "text": "בראשית",
+              "lang": "he",
+              "primary": true
+            }
+          ],
+          "key": "Genesis"
+        },
+        {
+          "nodeType": "JaggedArrayNode",
+          "depth": 3,
+          "addressTypes": [
+            "Integer",
+            "Integer",
+            "Integer"
+          ],
+          "sectionNames": [
+            "Chapter",
+            "Verse",
+            "Comment"
+          ],
+          "toc_zoom": 2,
+          "titles": [
+            {
+              "text": "Exodus",
+              "lang": "en",
+              "primary": true
+            },
+            {
+              "text": "שמות",
+              "lang": "he",
+              "primary": true
+            }
+          ],
+          "key": "Exodus"
+        },
+        {
+          "nodeType": "JaggedArrayNode",
+          "depth": 3,
+          "addressTypes": [
+            "Integer",
+            "Integer",
+            "Integer"
+          ],
+          "sectionNames": [
+            "Chapter",
+            "Verse",
+            "Comment"
+          ],
+          "toc_zoom": 2,
+          "titles": [
+            {
+              "text": "Leviticus",
+              "lang": "en",
+              "primary": true
+            },
+            {
+              "text": "ויקרא",
+              "lang": "he",
+              "primary": true
+            }
+          ],
+          "key": "Leviticus"
+        },
+        {
+          "nodeType": "JaggedArrayNode",
+          "depth": 3,
+          "addressTypes": [
+            "Integer",
+            "Integer",
+            "Integer"
+          ],
+          "sectionNames": [
+            "Chapter",
+            "Verse",
+            "Comment"
+          ],
+          "toc_zoom": 2,
+          "titles": [
+            {
+              "text": "Numbers",
+              "lang": "en",
+              "primary": true
+            },
+            {
+              "text": "במדבר",
+              "lang": "he",
+              "primary": true
+            }
+          ],
+          "key": "Numbers"
+        },
+        {
+          "nodeType": "JaggedArrayNode",
+          "depth": 3,
+          "addressTypes": [
+            "Integer",
+            "Integer",
+            "Integer"
+          ],
+          "sectionNames": [
+            "Chapter",
+            "Verse",
+            "Comment"
+          ],
+          "toc_zoom": 2,
+          "titles": [
+            {
+              "text": "Deuteronomy",
+              "lang": "en",
+              "primary": true
+            },
+            {
+              "text": "דברים",
+              "lang": "he",
+              "primary": true
+            }
+          ],
+          "key": "Deuteronomy"
+        }
+      ],
+      "nodeType": "SchemaNode",
+      "match_templates": [
+        {
+          "term_slugs": [
+            "nachal-kedumim",
+            "numbers"
+          ]
+        }
+      ],
+      "titles": [
+        {
+          "text": "נחל קדומים על תורה",
+          "lang": "he",
+          "primary": true
+        },
+        {
+          "text": "Nachal Kedumim on Torah",
+          "lang": "en",
+          "primary": true
+        }
+      ],
+      "key": "Nachal Kedumim on Torah"
+    }
+  }
+]

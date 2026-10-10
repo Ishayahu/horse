@@ -1,0 +1,9 @@
+# VER-006c — независимая проверка
+
+2026-10-10. Независимый проверяющий /root/core_verify_finish. Свежий оригинальный еврейский контекст заново открыт по фактическим URL; цитаты совпали после удаления HTML. Обязательная ограниченная партия: три COM + шесть LAT = девять; этот файл содержит 3.
+
+- `commentary:Rashi:song:1:9`: confirmed_with_precision. Rashi explicitly reports an aggadic reading (זאת ראיתי בספרי אגדה): assembled horse-camps save Israel at the sea. References to Habakkuk and Exodus are internal reported links, not separately verified here. This divine military image neither specifies equine morphology nor establishes a journey between worlds.
+- `commentary:Malbim:song:1:9`: confirmed_with_precision. Read both labelled משל and מליצה. In מליצה divine soul=mare; Solomon’s body=small chariot; bodily governing powers=Pharaoh’s chariots; whole cosmos=great chariot. The mare should obey upper divine governance, while the inclination harnesses her to material powers. This explicit psychological/cosmological allegory must not be literalized as interworld equine transport.
+- `commentary:Or-HaChaim:deut:20:1`: confirmed_with_precision. Read all three segments, including אולי שרמז הכתוב at opening and final kelippah/purification exposition. Horse=evil inclination trained for war; chariot=human composition; large host=evil forces accumulated through deeds. This tentative moral/mystical interpretation is not a literal spiritual horse vehicle.
+
+Контекст и SHA ответа: `VER-006c.contexts.json`; машинные вердикты: `VER-006c.reviews.jsonl`. Ограничения: цифровая редакция, без рукописной/печатной колляции; исходные цепочки цитирования не превращены в независимо прочитанные источники. Ни одна запись не доказывает крылья коня либо буквальное перемещение на коне между мирами. Общие реестры/GitHub не изменены.

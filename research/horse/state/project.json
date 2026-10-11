@@ -4,7 +4,7 @@
   "current_assignment": {
     "id": "HORSE-RESEARCH-001",
     "goal": "Образ коня в еврейских источниках и проверка связи со сверхъестественным перемещением",
-    "specification_path": "docs/research-assignment.md"
+    "specification_path": "research/horse/docs/research-assignment.md"
   },
   "session_id": "research-2026-10-11-01",
   "active_task_ids": [],

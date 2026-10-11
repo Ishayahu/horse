@@ -719,6 +719,267 @@ _Записей из проверенных партий: 4. Данные исх
 
 
 
+## Мидраши
+
+_Проверенных записей в исходных партиях: 16. Непросмотренные кандидаты MID-002 сюда не попали и остаются предметом HORSE-SUPPLEMENT-001._
+
+### Bereshit Rabbah — Bereshit Rabbah 52:7
+
+**ID:** `midrash:Bereshit-Rabbah.52.7:horse` · **Тип:** `direct` · **Задание:** `MID-004`
+
+> מָשָׁל לְגִבּוֹר רוֹכֵב עַל הַסּוּס
+
+**Контекст:** Abimelech/Sarah exposition: rider restrains racing horse to spare child, praise belongs to rider; God says restraining sinful inclination merits divine praise.
+
+**Интерпретация:** [ordinary_simile] Ordinary horse in restraint simile for divine prevention of sin.
+
+**Проверки:** оригинал да; цитата да; контекст да; независимая нет.
+
+**Оговорки:** Online edition only; no manuscript/print collation. Historical composition/redaction dating not established by narrated event. Central supernatural conclusions require independent review.
+
+[Первоисточник](https://www.sefaria.org/api/texts/Bereshit%20Rabbah.52.7?lang=he&context=1) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/midrash/MID-004.sources.jsonl)
+
+### Bereshit Rabbah — Bereshit Rabbah 68:9
+
+**ID:** `midrash:Bereshit-Rabbah.68.9:horse` · **Тип:** `direct` · **Задание:** `MID-004`
+
+> הַסּוּס טְפֵלָה לָרוֹכֵב וְאֵין הָרוֹכֵב טְפֵלָה לַסּוּס
+
+**Контекст:** Place as divine designation: God is world’s place/dwelling, not vice versa; horse subordinate to rider. Habakkuk3:8 invoked.
+
+**Интерпретация:** [figurative_cosmology] Horse/rider analogy explains world’s dependence on God; text here says subordination, not explicitly God carrying horse. Checked68:10 has sunset/Jacob discussion.
+
+**Проверки:** оригинал да; цитата да; контекст да; независимая нет.
+
+**Оговорки:** Online edition only; no manuscript/print collation. Historical composition/redaction dating not established by narrated event. Central supernatural conclusions require independent review.
+
+[Первоисточник](https://www.sefaria.org/api/texts/Bereshit%20Rabbah.68.9?lang=he&context=1) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/midrash/MID-004.sources.jsonl)
+
+### Bereshit Rabbah — Bereshit Rabbah 75:10
+
+**ID:** `midrash:Bereshit-Rabbah.75.10:horse` · **Тип:** `direct` · **Задание:** `MID-004`
+
+> וּמֵהֶן רוֹכְבֵי סוּסִים וּמֵהֶן יוֹשְׁבֵי קָרוֹנוֹת
+
+**Контекст:** Jacob/Esau encounter: angelic camps appear as king’s troops, including horsemen, armored men and carriages.
+
+**Интерпретация:** [angelic_martial_appearance] Explicit angels in horsemen appearance; no separate zoology of celestial horses or travel between worlds.
+
+**Проверки:** оригинал да; цитата да; контекст да; независимая нет.
+
+**Оговорки:** Online edition only; no manuscript/print collation. Historical composition/redaction dating not established by narrated event. Central supernatural conclusions require independent review.
+
+[Первоисточник](https://www.sefaria.org/api/texts/Bereshit%20Rabbah.75.10?lang=he&context=1) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/midrash/MID-004.sources.jsonl)
+
+### Mekhilta de-Rabbi Ishmael — Exodus14:29; Wikisource289
+
+**ID:** `mekhilta-ex14-29-divine-horse-pappus` · **Тип:** `direct` · **Задание:** `MID-003`
+
+> דרש פפוס לססתי ברכבי פרעה (שה״ש א) רכב פרעה על סוס זכר כביכול נגלה עליו הב״ה על סוס זכר שנא׳ דרכת בים סוסיך וגו׳
+
+**Контекст:** Mekhilta attributes horse reading to Pappus, Akiva responds דייך פפוס and supplies joy-based reading; opposite distribution from Shir HaShirim Rabbah.
+
+**Интерпретация:** Explicit theophanic horse image inside disagreement. Do not homogenize attributed speakers across parallel traditions or claim demonstrated borrowing direction.
+
+**Проверки:** оригинал да; цитата да; контекст да; независимая нет.
+
+**Оговорки:** No printed-page/manuscript collation. Interpretive grammar conclusions require independent review.
+
+[Первоисточник](https://he.wikisource.org/wiki/מכילתא_על_שמות_יד) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/midrash/MID-003.sources.jsonl)
+
+### Mekhilta de-Rabbi Ishmael — Shirata; Exodus 15:1, horse/rider unit; Wikisource lines 164–166
+
+**ID:** `mekhilta-derabbi-ishmael-ex15-1-horse-bound` · **Тип:** `direct` · **Задание:** `MID-001`
+
+> סוס ורוכבו, מגיד שהסוס קשור ברכבו ורכבו קשור בסוס
+
+**Контекст:** Sea-song exposition. Horse and rider remain bound during punishment.
+
+**Интерпретация:** Horse is the defeated military mount; miraculous inseparability serves joint punishment.
+
+**Проверки:** оригинал да; цитата да; контекст да; независимая нет.
+
+**Оговорки:** Website marks transcription unreviewed; no manuscript/printed edition collation. Historical dating and textual stratification unverified. Independent review required before central supernatural conclusions.
+
+[Первоисточник](https://he.wikisource.org/wiki/מכילתא_על_שמות_טו) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/midrash/MID-001.sources.jsonl)
+
+### Mekhilta de-Rabbi Ishmael — Shirata; Exodus 15:1, joint judgment unit; Wikisource lines 165–166
+
+**ID:** `mekhilta-derabbi-ishmael-ex15-1-joint-judgment` · **Тип:** `direct` · **Задание:** `MID-001`
+
+> מה עשה המקום מרכיב את האדם על הסוס ודן אותם יחד
+
+**Контекст:** Horse and Egyptian blame each other; Antoninus asks about judgment after bodily death.
+
+**Интерпретация:** Personified horse/rider illustrate joint responsibility and introduce body/soul judgment; no claim of celestial horse species.
+
+**Проверки:** оригинал да; цитата да; контекст да; независимая нет.
+
+**Оговорки:** Website marks transcription unreviewed; no manuscript/printed edition collation. Historical dating and textual stratification unverified. Independent review required before central supernatural conclusions.
+
+[Первоисточник](https://he.wikisource.org/wiki/מכילתא_על_שמות_טו) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/midrash/MID-001.sources.jsonl)
+
+### Midrash Tanchuma, Bereshit — Midrash Tanchuma, Bereshit 7:11
+
+**ID:** `midrash:Midrash-Tanchuma-Bereshit.7.11:horse` · **Тип:** `direct` · **Задание:** `MID-004`
+
+> וּכְתִיב בְּאֵלִיָּהוּ, הִנֵּה רֶכֶב אֵשׁ וְסוּסֵי אֵשׁ
+
+**Контекст:** Divine rebuke to claimant of divinity; Elijah performs mighty acts without saying he is God, fire throne compared with fiery horses/chariot and storm ascent.
+
+**Интерпретация:** [fire_horse_biblical_comparison] Quoted fiery horses participate in comparison between divine works and Elijah’s privileges; not fresh claim of literal divine body or immortal horse anatomy.
+
+**Проверки:** оригинал да; цитата да; контекст да; независимая нет.
+
+**Оговорки:** Online edition only; no manuscript/print collation. Historical composition/redaction dating not established by narrated event. Central supernatural conclusions require independent review.
+
+[Первоисточник](https://www.sefaria.org/api/texts/Midrash%20Tanchuma%2C%20Bereshit.7.11?lang=he&context=1) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/midrash/MID-004.sources.jsonl)
+
+### Midrash Tehillim — Midrash Tehillim 18:12
+
+**ID:** `midrash:Midrash-Tehillim.18.12:horse` · **Тип:** `direct` · **Задание:** `MID-004`
+
+> כשם שהביא פרעה זכר כך הביא הקב"ה סוס זכר ורכב עליו
+
+**Контекст:** Psalm18 cherub exposition: Pharaoh chooses male then female horse; God responds correspondingly; weapon contest culminates in divine flight and wind wings.
+
+**Интерпретация:** [divine_martial_imagery] Explicit divine horse riding imagery in this witness; later flight is attributed to God and cherub/wind wording, not explicitly horse wings.
+
+**Проверки:** оригинал да; цитата да; контекст да; независимая нет.
+
+**Оговорки:** Online edition only; no manuscript/print collation. Historical composition/redaction dating not established by narrated event. Central supernatural conclusions require independent review.
+
+[Первоисточник](https://www.sefaria.org/api/texts/Midrash%20Tehillim.18.12?lang=he&context=1) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/midrash/MID-004.sources.jsonl)
+
+### Midrash Tehillim — Midrash Tehillim 21:2
+
+**ID:** `midrash:Midrash-Tehillim.21.2:horse` · **Тип:** `direct` · **Задание:** `MID-004`
+
+> ואליהו רכב על סוסו. ומה סוסו של הקב"ה סופה וסערה.
+
+**Контекст:** God shares royal honors with righteous unlike earthly king: Moses staff, Elijah horse, Messiah crown, Solomon throne.
+
+**Интерпретация:** [figurative_ascent_mount] Direct Elijah ascent/mount motif; identifies God’s horse as storm and whirlwind. Preserve explicit figurative identification rather than invent equine species.
+
+**Проверки:** оригинал да; цитата да; контекст да; независимая нет.
+
+**Оговорки:** Online edition only; no manuscript/print collation. Historical composition/redaction dating not established by narrated event. Central supernatural conclusions require independent review.
+
+[Первоисточник](https://www.sefaria.org/api/texts/Midrash%20Tehillim.21.2?lang=he&context=1) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/midrash/MID-004.sources.jsonl)
+
+### Pesikta Rabbati — Pesikta Rabbati 12:1; chapter12 single section in export; exact-section API separately checked
+
+**ID:** `midrash:Pesikta-Rabbati.12:horse` · **Тип:** `direct` · **Задание:** `MID-004`
+
+> אל תהיו כסוס שאין בינה בו
+
+**Контекст:** Remember Amalek exposition: do not be uncomprehending horse/mule resisting ornament or food; Israel must remember benefits and wrongs.
+
+**Интерпретация:** [ordinary_moral_simile] Ordinary horse behavior supplies negative moral analogy, not supernatural mount.
+
+**Проверки:** оригинал да; цитата да; контекст да; независимая нет.
+
+**Оговорки:** Online edition only; no manuscript/print collation. Historical composition/redaction dating not established by narrated event. Central supernatural conclusions require independent review.
+
+[Первоисточник](https://www.sefaria.org/api/texts/Pesikta%20Rabbati.12?lang=he&context=1) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/midrash/MID-004.sources.jsonl)
+
+### Pirkei DeRabbi Eliezer — Pirkei DeRabbi Eliezer 42:6
+
+**ID:** `midrash:Pirkei-DeRabbi-Eliezer.42.6:horse` · **Тип:** `direct` · **Задание:** `MID-004`
+
+> נִרְאָה לִפְנֵיהֶם כְּאִישׁ רוֹכֵב סוּסְיָא נְקֵבָה
+
+**Контекст:** Israel enters sea; Egyptians hesitate; God appears like man on female horse, Pharaoh’s mount pursues her into sea. Attributed to Akiva in this unit.
+
+**Интерпретация:** [divine_appearance] Explicit theophanic likeness כאיש rider/mare. Preserve appearance language, not literal divine embodiment; distinct parallel to MID003.
+
+**Проверки:** оригинал да; цитата да; контекст да; независимая нет.
+
+**Оговорки:** Online edition only; no manuscript/print collation. Historical composition/redaction dating not established by narrated event. Central supernatural conclusions require independent review.
+
+[Первоисточник](https://www.sefaria.org/api/texts/Pirkei%20DeRabbi%20Eliezer.42.6?lang=he&context=1) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/midrash/MID-004.sources.jsonl)
+
+### Shemot Rabbah — 23:14
+
+**ID:** `shemot-rabbah-23-14-horse-speech` · **Тип:** `direct` · **Задание:** `MID-001`
+
+> והיה הסוס אומר לו רמה בים ראה מה בים רומו של עולם אני רואה בים
+
+**Контекст:** Waves resemble mares; pursuing males and rider are drawn into sea.
+
+**Интерпретация:** Talking horse perceives divine height/presence. Extraordinary perception, not evidence of a distinct heavenly horse.
+
+**Проверки:** оригинал да; цитата да; контекст да; независимая нет.
+
+**Оговорки:** Website marks transcription unreviewed; no manuscript/printed edition collation. Historical dating and textual stratification unverified. Independent review required before central supernatural conclusions.
+
+[Первоисточник](https://he.wikisource.org/wiki/שמות_רבה_כג_יד) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/midrash/MID-001.sources.jsonl)
+
+### Shemot Rabbah — 23:15; Wikisource chapter lines 161–163
+
+**ID:** `shemot-rabbah-23-15-egypt-prince` · **Тип:** `direct` · **Задание:** `MID-001`
+
+> מלמד שנטל הקדוש ברוך הוא שר שלהם תחלה והשליכו לתוך הים
+
+**Контекст:** Singular horse/rider wording is contrasted with a plural formulation.
+
+**Интерпретация:** Interpretation introduces Egypt’s prince into the sea defeat; it does not explicitly call that prince a horse.
+
+**Проверки:** оригинал да; цитата да; контекст да; независимая нет.
+
+**Оговорки:** Website marks transcription unreviewed; no manuscript/printed edition collation. Historical dating and textual stratification unverified. Independent review required before central supernatural conclusions.
+
+[Первоисточник](https://he.wikisource.org/wiki/שמות_רבה_כג) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/midrash/MID-001.sources.jsonl)
+
+### Shir HaShirim Rabbah — 1:9:4; Wikisource117–121
+
+**ID:** `shir-hashirim-rabbah-1-9-4-divine-horse` · **Тип:** `direct` · **Задание:** `MID-003`
+
+> אלא רכב פרעה על סוס זכר, וכביכול נגלה הקדוש ברוך הוא על סוס זכר. הדא הוא דכתיב (תהלים יח, יא) וירכב על כרוב ויעוף.
+
+**Контекст:** Akiva objects to Pappis joy-based reading and gives horse apparition reading. Pharaoh switches male/female and colors; divine manifestation matches. Martial imagery continues.
+
+**Интерпретация:** Explicit divine manifestation upon male horse, with כביכול qualifier; later red/white/black horse images. This is theophanic horse imagery, but not an independently described animal species or a human ascent mount.
+
+**Проверки:** оригинал да; цитата да; контекст да; независимая нет.
+
+**Оговорки:** No printed-page/manuscript collation. Interpretive grammar conclusions require independent review.
+
+[Первоисточник](https://he.wikisource.org/wiki/שיר_השירים_רבה_א_ט) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/midrash/MID-003.sources.jsonl)
+
+### Shir HaShirim Rabbah — 1:9:4; Wikisource120–121
+
+**ID:** `shir-hashirim-rabbah-1-9-4-wings-context` · **Тип:** `direct` · **Задание:** `MID-003`
+
+> רבי ברכיה בשם רבי שמואל בר נחמן כיון שכלה פרעה כל כלי זיין שלו, התחיל הקדוש ברוך הוא מתגאה עליו. אמר לו רשע יש לך רוח יש לך כרוב יש לך כנפים מהיכן הטיסן הקדוש ברוך הוא אמר רבי יודן מבין גלגלי המרכבה שמטן הקדוש ברוך הוא והטיסן על הים. אמר רבי חנינא בר פפא בשר ודם שהוא רוכב על טוענו, על דבר שיש בו ממש, אבל הקדוש ברוך הוא אינו כן, טוען את רכובו ורוכב על דבר שאין בו ממש. הדא הוא דכתיב (תהלים יח, יא) וירכב על כרוב ויעוף וידא על כנפי רוח.
+
+**Контекст:** After Pharaoh exhausts arms, God challenges him: have you wind, cherub, wings? Chariot-wheel flight follows; next saying contrasts ordinary riding with divine bearing of what he rides.
+
+**Интерпретация:** Second-person לך addresses Pharaoh; list רוח/כרוב/כנפים belongs to divine superiority challenge. Plural suffix הטיסן/שמטן cannot confidently be narrowed to horses. Adjacent explicit Psalm18:11 names cherub and wings of wind. Therefore winged horses is unsupported by this clause alone.
+
+**Проверки:** оригинал да; цитата да; контекст да; независимая нет.
+
+**Оговорки:** No printed-page/manuscript collation. Interpretive grammar conclusions require independent review.
+
+[Первоисточник](https://he.wikisource.org/wiki/שיר_השירים_רבה_א_ט) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/midrash/MID-003.sources.jsonl)
+
+### Sifrei Devarim — Deuteronomy 17:16; Wikisource section לב (piska 158 in discovered Sefaria indexing, unverified mapping)
+
+**ID:** `sifrei-devarim-deut17-16-idle-horses` · **Тип:** `direct` · **Задание:** `MID-001`
+
+> לו אין מרבה, אבל מרבה הוא למרכבתו ולפרשיו
+
+**Контекст:** Interpretation distinguishes royal accumulation from chariot/cavalry need; extends prohibition to one idle horse and links return to Egypt.
+
+**Интерпретация:** Ordinary horses as military resource and prohibited royal surplus.
+
+**Проверки:** оригинал да; цитата да; контекст да; независимая нет.
+
+**Оговорки:** Website marks transcription unreviewed; no manuscript/printed edition collation. Historical dating and textual stratification unverified. Independent review required before central supernatural conclusions.
+
+[Первоисточник](https://he.wikisource.org/wiki/ספרי_על_דברים_יז_טז) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/midrash/MID-001.sources.jsonl)
+
+
 ---
 
 _Продолжение каталога — разделы мидрашей, классических комментариев и обоих Талмудов — добавляется отдельными проверяемыми коммитами. Пока документ неполон._

@@ -9,13 +9,12 @@
   "session_id": "research-2026-10-11-01",
   "active_task_ids": [],
   "pending_task_ids": [
-    "CMP-001",
     "AUD-001"
   ],
   "unsaved_results": [],
   "blockers": [],
-  "next_action": "Execute CMP-001 feature-level comparison using primary sources and explicit chronology, then AUD-001 final audit.",
-  "last_confirmed_commit": "57966f2bdd7304e538d0927bef26a5a7a84a8edb",
+  "next_action": "Execute AUD-001: validate task closure, export registry CSV, finalize analytical report, and decide HORSE completion.",
+  "last_confirmed_commit": "fbb188a81f7e4b1a056830adc8988ccb42327a80",
   "capabilities": {
     "github_read": true,
     "github_write": true,

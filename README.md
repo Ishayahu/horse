@@ -1,5 +1,7 @@
 # HORSE
 
+**Начать или продолжить исследования:** [RESEARCH-RUNNER.md](RESEARCH-RUNNER.md) — единый запуск, методология, текущая тема и очередь последующих исследований (после коней — יראת שמים).
+
 Исследование образа коня в еврейских источниках; гипотеза сверхъестественного перемещения проверяется, не предполагается.
 
 Задание: [research-assignment](docs/research-assignment.md). Начало сеанса: [AGENTS](AGENTS.md), [project](state/project.json), [handoff](state/handoff.md), [tasks](state/tasks.jsonl). Повторный запрос означает продолжение.

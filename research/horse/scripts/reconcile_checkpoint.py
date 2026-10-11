@@ -3,7 +3,7 @@
 import json
 from pathlib import Path
 
-ROOT = Path(__file__).resolve().parents[1]
+ROOT = Path(__file__).resolve().parents[3]
 
 
 def load_jsonl(path):
@@ -15,30 +15,30 @@ def save_jsonl(path, rows):
 
 
 def main():
-    tasks = load_jsonl("state/tasks.jsonl")
+    tasks = load_jsonl("research/horse/state/tasks.jsonl")
     updates = {
         "BAV-005": ("done", [
-            "research/bavli/BAV-005.read-excerpts.json", "research/bavli/BAV-005.verdicts.jsonl",
-            "research/bavli/BAV-005.remaining.jsonl", "research/bavli/BAV-005.sources.jsonl",
-            "research/bavli/BAV-005.report.md"]),
+            "research/horse/bavli/BAV-005.read-excerpts.json", "research/horse/bavli/BAV-005.verdicts.jsonl",
+            "research/horse/bavli/BAV-005.remaining.jsonl", "research/horse/bavli/BAV-005.sources.jsonl",
+            "research/horse/bavli/BAV-005.report.md"]),
         "YER-006": ("done", [
-            "research/yerushalmi/YER-006.read-excerpts.json", "research/yerushalmi/YER-006.verdicts.jsonl",
-            "research/yerushalmi/YER-006.remaining.jsonl", "research/yerushalmi/YER-006.sources.jsonl",
-            "research/yerushalmi/YER-006.report.md"]),
+            "research/horse/yerushalmi/YER-006.read-excerpts.json", "research/horse/yerushalmi/YER-006.verdicts.jsonl",
+            "research/horse/yerushalmi/YER-006.remaining.jsonl", "research/horse/yerushalmi/YER-006.sources.jsonl",
+            "research/horse/yerushalmi/YER-006.report.md"]),
         "COM-004": ("partial", [
-            "research/commentaries/COM-004.coverage.json", "research/commentaries/COM-004.discoveries.jsonl",
-            "research/commentaries/COM-004.manifest.json", "research/commentaries/COM-004.fetch.py"]),
+            "research/horse/commentaries/COM-004.coverage.json", "research/horse/commentaries/COM-004.discoveries.jsonl",
+            "research/horse/commentaries/COM-004.manifest.json", "research/horse/commentaries/COM-004.fetch.py"]),
         "VER-007": ("done", [
-            "research/verification/VER-007.contexts.json", "research/verification/VER-007.biblical-contexts.json",
-            "research/verification/VER-007.reviews.jsonl", "research/verification/VER-007.report.md"]),
+            "research/horse/verification/VER-007.contexts.json", "research/horse/verification/VER-007.biblical-contexts.json",
+            "research/horse/verification/VER-007.reviews.jsonl", "research/horse/verification/VER-007.report.md"]),
         "TAN-AUDIT": ("done", [
-            "research/tanakh/TAN-AUDIT.build.py", "research/tanakh/TAN-AUDIT.report.md",
+            "research/horse/tanakh/TAN-AUDIT.build.py", "research/horse/tanakh/TAN-AUDIT.report.md",
             "reports/horse/tanakh-catalogue.md"]),
         "CHR-002": ("partial", [
-            "research/provenance/CHR001.evidence.jsonl", "research/provenance/CHR001.chronology.jsonl",
-            "research/provenance/CHR001.report.md"]),
+            "research/horse/provenance/CHR001.evidence.jsonl", "research/horse/provenance/CHR001.chronology.jsonl",
+            "research/horse/provenance/CHR001.report.md"]),
         "VER-007p": ("done", [
-            "research/verification/VER-007p.review.jsonl", "research/verification/VER-007p.report.md"]),
+            "research/horse/verification/VER-007p.review.jsonl", "research/horse/verification/VER-007p.report.md"]),
     }
     for task in tasks:
         if task["id"] in updates:
@@ -61,15 +61,15 @@ def main():
                 "limitations": ["Completion applies only to the named batch; corpus completeness remains qualified."],
                 "open_questions": [], "assignment": None, "updated_at": "2026-10-11"
             })
-    save_jsonl("state/tasks.jsonl", tasks)
+    save_jsonl("research/horse/state/tasks.jsonl", tasks)
 
-    sources = load_jsonl("data/sources.jsonl")
+    sources = load_jsonl("research/horse/data/sources.jsonl")
     stats = {
         "records": len(sources),
         "context_checked": sum(bool(s["checks"]["context_checked"]) for s in sources),
         "independently_reviewed": sum(bool(s["checks"]["independent_reviewed"]) for s in sources),
     }
-    project_path = ROOT / "state/project.json"
+    project_path = ROOT / "research/horse/state/project.json"
     project = json.loads(project_path.read_text())
     project["session_id"] = "research-2026-10-11-01"
     project["active_task_ids"] = []
@@ -79,7 +79,7 @@ def main():
     project["registry_statistics"] = stats
     project_path.write_text(json.dumps(project, ensure_ascii=False, indent=2) + "\n")
 
-    coverage_path = ROOT / "data/coverage.json"
+    coverage_path = ROOT / "research/horse/data/coverage.json"
     coverage = json.loads(coverage_path.read_text())
     coverage["registry_statistics"] = stats
     coverage["checkpoint_note"] = "Recovered artifact truth on 2026-10-11: TAN-AUDIT, BAV-005, YER-006, VER-007 and VER-007p completed as bounded tasks; BAV 43 and YER 24 candidates remain; COM-004 and chronology remain partial."

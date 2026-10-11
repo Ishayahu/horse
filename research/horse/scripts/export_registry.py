@@ -1,12 +1,12 @@
 #!/usr/bin/env python3
-"""Export a stable, human-readable subset of data/sources.jsonl to CSV."""
+"""Export a stable, human-readable subset of research/horse/data/sources.jsonl to CSV."""
 import csv
 import json
 from pathlib import Path
 
-ROOT = Path(__file__).resolve().parents[1]
-INPUT = ROOT / "data" / "sources.jsonl"
-OUTPUT = ROOT / "data" / "sources.csv"
+ROOT = Path(__file__).resolve().parents[3]
+INPUT = ROOT / 'research/horse/data' / "sources.jsonl"
+OUTPUT = ROOT / 'research/horse/data' / "sources.csv"
 FIELDS = [
     "id", "corpus_id", "work", "locator", "author", "language",
     "mention_type", "epistemic_type", "role", "categories", "quote",

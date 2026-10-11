@@ -362,9 +362,9 @@
     }
   ],
   "registry_statistics": {
-    "records": 443,
-    "context_checked": 441,
+    "records": 465,
+    "context_checked": 463,
     "independently_reviewed": 62
   },
-  "checkpoint_note": "Tanakh finite direct/indirect queries complete; BAV004 remaining63 and YER005 remaining39; commentary COM003 516 cells315present100empty101unavailable; composition chronology partial."
+  "checkpoint_note": "Recovered artifact truth on 2026-10-11: TAN-AUDIT, BAV-005, YER-006, VER-007 and VER-007p completed as bounded tasks; BAV 43 and YER 24 candidates remain; COM-004 and chronology remain partial."
 }

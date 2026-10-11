@@ -9,7 +9,7 @@ def save(path,value):
  (ROOT/path).write_text(''.join(json.dumps(r,ensure_ascii=False)+'\n' for r in value))
 def main():
  by={s['id']:s for s in rows('data/sources.jsonl')}
- batches=['research/tanakh/TAN-002b.sources.jsonl','research/midrash/MID-004.sources.jsonl','research/egypt/EGY-001.sources.jsonl','research/kabbalah/KAB-002.sources.jsonl','research/later-literature/LAT-002.sources.jsonl','research/tanakh/TAN-003.sources.jsonl','research/commentaries/COM-002.sources.jsonl','research/perek-shira/PSH-002.sources.jsonl','research/tanakh/TAN-004.sources.jsonl','research/commentaries/COM-003.sources.jsonl','research/bavli/BAV-003.sources.jsonl','research/bavli/BAV-004.sources.jsonl','research/yerushalmi/YER-004.sources.jsonl','research/yerushalmi/YER-005.sources.jsonl','research/egypt/EGY-002.sources.jsonl']
+ batches=['research/tanakh/TAN-002b.sources.jsonl','research/midrash/MID-004.sources.jsonl','research/egypt/EGY-001.sources.jsonl','research/kabbalah/KAB-002.sources.jsonl','research/later-literature/LAT-002.sources.jsonl','research/tanakh/TAN-003.sources.jsonl','research/commentaries/COM-002.sources.jsonl','research/perek-shira/PSH-002.sources.jsonl','research/tanakh/TAN-004.sources.jsonl','research/commentaries/COM-003.sources.jsonl','research/bavli/BAV-003.sources.jsonl','research/bavli/BAV-004.sources.jsonl','research/bavli/BAV-005.sources.jsonl','research/yerushalmi/YER-004.sources.jsonl','research/yerushalmi/YER-005.sources.jsonl','research/yerushalmi/YER-006.sources.jsonl','research/egypt/EGY-002.sources.jsonl']
  for path in batches:
   if not (ROOT/path).exists():continue
   for s in rows(path):by[s['id']]=s
@@ -28,6 +28,9 @@ def main():
    s=by[sid];s['reviewers']=list(dict.fromkeys(s['reviewers']+[reviewer]));s['checks']['independent_reviewed']=True
    note=v.get('correction') or v.get('finding');notes=s.setdefault('verification_notes',[])
    if note and note not in notes:notes.append(note)
+   patch=v.get('suggested_source_patch')
+   if isinstance(patch,dict):
+    for key,value in patch.items():s[key]=value
    if isinstance(note,dict):
     if note.get('locator'):s['locator']=note['locator']
     if note.get('url'):s.setdefault('initial_url',s['url']);s['url']=note['url']

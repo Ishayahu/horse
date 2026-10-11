@@ -6,26 +6,22 @@
     "goal": "Образ коня в еврейских источниках и проверка связи со сверхъестественным перемещением",
     "specification_path": "docs/research-assignment.md"
   },
-  "session_id": "research-2026-10-10-03",
-  "active_task_ids": [
-    "BAV-005",
-    "YER-006",
-    "COM-004",
-    "VER-007",
-    "TAN-AUDIT",
-    "CHR-002",
-    "VER-007p"
-  ],
+  "session_id": "research-2026-10-11-01",
+  "active_task_ids": [],
   "pending_task_ids": [
+    "BAV-006",
+    "YER-007",
+    "COM-004",
+    "CHR-001",
+    "CHR-002",
+    "KAB-002",
     "SYN-001",
     "CMP-001",
-    "AUD-001",
-    "KAB-002",
-    "CHR-001"
+    "AUD-001"
   ],
   "unsaved_results": [],
   "blockers": [],
-  "next_action": "Finish bounded active tasks; remaining Talmud candidates and midrash contexts; printed Hida access and chronology; synthesis remains partial.",
+  "next_action": "Run BAV-006 and YER-007 from the saved finite ledgers; finish COM-004 normalization and CHR-002 bibliography; then synthesis/comparison/audit.",
   "last_confirmed_commit": "284fafe7b2606c9b0501d15020f337f96d332284",
   "capabilities": {
     "github_read": true,
@@ -35,17 +31,10 @@
     "concurrent_capacity_basis": "Runtime advertises seven total slots including coordinator; six spawn probes succeeded. Sustained simultaneous workload not benchmarked.",
     "automatic_resume_verified": false
   },
-  "active_workers": [
-    "tanakh_finish",
-    "comments_finish",
-    "core_verify_finish",
-    "provenance_finish",
-    "egypt_history",
-    "talmud_finish"
-  ],
+  "active_workers": [],
   "registry_statistics": {
-    "records": 443,
-    "context_checked": 441,
+    "records": 465,
+    "context_checked": 463,
     "independently_reviewed": 62
   }
 }

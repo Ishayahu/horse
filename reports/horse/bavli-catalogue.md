@@ -2,7 +2,7 @@
 
 Дата: 2026-10-11. **97 отдельных записей, взятых из проверенных партий BAV-001 — BAV-007.** Это навигационный каталог по уже сохранённым оригиналам, аналогичный [каталогу Танаха](tanakh-catalogue.md); новая независимая проверка при создании файла не проводилась.
 
-Текст и подробности: [общий каталог после Танаха](post-tanakh-catalogue.md), [реестр](../../data/sources.jsonl), [покрытие](../../data/coverage.json) и файлы BAV. Полностью распределён сохранённый конечный список кандидатов, **но не доказано исчерпывающее покрытие всех возможных морфологических вариантов, аллюзий и рукописей**. «Проверка контекста» не равна независимой проверке толкования. Большие цитаты ниже иногда сокращены, оригинал дан по ссылке.
+Текст и подробности: [общий каталог после Танаха](post-tanakh-catalogue.md), [реестр](../../research/horse/data/sources.jsonl), [покрытие](../../research/horse/data/coverage.json) и файлы BAV. Полностью распределён сохранённый конечный список кандидатов, **но не доказано исчерпывающее покрытие всех возможных морфологических вариантов, аллюзий и рукописей**. «Проверка контекста» не равна независимой проверке толкования. Большие цитаты ниже иногда сокращены, оригинал дан по ссылке.
 
 ## Avodah Zarah
 
@@ -20,7 +20,7 @@
 
 **Оговорки:** Digital API edition; no manuscripts/traditional commentaries or independent review. Narrative/legal testimony is not independent historical or zoological verification.
 
-[Первоисточник](https://www.sefaria.org/api/texts/Avodah_Zarah.11a?context=0&commentary=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/bavli/BAV-004.sources.jsonl)
+[Первоисточник](https://www.sefaria.org/api/texts/Avodah_Zarah.11a?context=0&commentary=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/bavli/BAV-004.sources.jsonl)
 
 ### 13a:15
 
@@ -36,7 +36,7 @@
 
 **Оговорки:** Digital API edition; no manuscripts/traditional commentaries or independent review. Narrative/legal testimony is not independent historical or zoological verification.
 
-[Первоисточник](https://www.sefaria.org/api/texts/Avodah_Zarah.13a?context=0&commentary=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/bavli/BAV-004.sources.jsonl)
+[Первоисточник](https://www.sefaria.org/api/texts/Avodah_Zarah.13a?context=0&commentary=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/bavli/BAV-004.sources.jsonl)
 
 ### 14b:9
 
@@ -52,7 +52,7 @@
 
 **Оговорки:** Digital API edition; no manuscripts/traditional commentaries or independent review. Narrative/legal testimony is not independent historical or zoological verification.
 
-[Первоисточник](https://www.sefaria.org/api/texts/Avodah_Zarah.14b?context=0&commentary=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/bavli/BAV-005.sources.jsonl)
+[Первоисточник](https://www.sefaria.org/api/texts/Avodah_Zarah.14b?context=0&commentary=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/bavli/BAV-005.sources.jsonl)
 
 ### 16a:5
 
@@ -68,7 +68,7 @@
 
 **Оговорки:** Quote/context read directly from JSON export, not webpage or manuscript. No top-level license field; complete corpus not persisted.
 
-[Первоисточник](https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Nezikin/Avodah%20Zarah/Hebrew/merged.json) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/bavli/BAV-002.sources.jsonl)
+[Первоисточник](https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Nezikin/Avodah%20Zarah/Hebrew/merged.json) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/bavli/BAV-002.sources.jsonl)
 
 ### 4b:2
 
@@ -84,7 +84,7 @@
 
 **Оговорки:** Digital API edition; no manuscripts/traditional commentaries or independent review. Narrative/legal testimony is not independent historical or zoological verification.
 
-[Первоисточник](https://www.sefaria.org/api/texts/Avodah_Zarah.4b?context=0&commentary=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/bavli/BAV-005.sources.jsonl)
+[Первоисточник](https://www.sefaria.org/api/texts/Avodah_Zarah.4b?context=0&commentary=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/bavli/BAV-005.sources.jsonl)
 
 ### 7b:10
 
@@ -100,7 +100,7 @@
 
 **Оговорки:** Digital API edition; no manuscripts/traditional commentaries or independent review. Narrative/legal testimony is not independent historical or zoological verification.
 
-[Первоисточник](https://www.sefaria.org/api/texts/Avodah_Zarah.7b?context=0&commentary=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/bavli/BAV-005.sources.jsonl)
+[Первоисточник](https://www.sefaria.org/api/texts/Avodah_Zarah.7b?context=0&commentary=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/bavli/BAV-005.sources.jsonl)
 
 ### 7b:9
 
@@ -116,7 +116,7 @@
 
 **Оговорки:** Digital API edition; no manuscripts/traditional commentaries or independent review. Narrative/legal testimony is not independent historical or zoological verification.
 
-[Первоисточник](https://www.sefaria.org/api/texts/Avodah_Zarah.7b?context=0&commentary=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/bavli/BAV-005.sources.jsonl)
+[Первоисточник](https://www.sefaria.org/api/texts/Avodah_Zarah.7b?context=0&commentary=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/bavli/BAV-005.sources.jsonl)
 
 
 ## Bava Kamma
@@ -135,7 +135,7 @@
 
 **Оговорки:** Digital API edition; no manuscripts/traditional commentaries or independent review. Narrative/legal testimony is not independent historical or zoological verification.
 
-[Первоисточник](https://www.sefaria.org/api/texts/Bava_Kamma.18b?context=0&commentary=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/bavli/BAV-004.sources.jsonl)
+[Первоисточник](https://www.sefaria.org/api/texts/Bava_Kamma.18b?context=0&commentary=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/bavli/BAV-004.sources.jsonl)
 
 ### 37a:26
 
@@ -151,7 +151,7 @@
 
 **Оговорки:** Digital API edition; no manuscripts/traditional commentaries or independent review. Narrative/legal testimony is not independent historical or zoological verification.
 
-[Первоисточник](https://www.sefaria.org/api/texts/Bava_Kamma.37a?context=0&commentary=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/bavli/BAV-005.sources.jsonl)
+[Первоисточник](https://www.sefaria.org/api/texts/Bava_Kamma.37a?context=0&commentary=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/bavli/BAV-005.sources.jsonl)
 
 
 ## Bava Metzia
@@ -170,7 +170,7 @@
 
 **Оговорки:** Digital API edition; no manuscripts/traditional commentaries or independent review. Narrative/legal testimony is not independent historical or zoological verification.
 
-[Первоисточник](https://www.sefaria.org/api/texts/Bava_Metzia.108a?context=0&commentary=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/bavli/BAV-005.sources.jsonl)
+[Первоисточник](https://www.sefaria.org/api/texts/Bava_Metzia.108a?context=0&commentary=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/bavli/BAV-005.sources.jsonl)
 
 ### 58b:5
 
@@ -186,7 +186,7 @@
 
 **Оговорки:** Digital API edition; no manuscripts/traditional commentaries or independent review. Narrative/legal testimony is not independent historical or zoological verification.
 
-[Первоисточник](https://www.sefaria.org/api/texts/Bava_Metzia.58b?context=0&commentary=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/bavli/BAV-004.sources.jsonl)
+[Первоисточник](https://www.sefaria.org/api/texts/Bava_Metzia.58b?context=0&commentary=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/bavli/BAV-004.sources.jsonl)
 
 
 ## Bekhorot
@@ -205,7 +205,7 @@
 
 **Оговорки:** Digital API edition; no manuscripts/traditional commentaries or independent review. Narrative/legal testimony is not independent historical or zoological verification.
 
-[Первоисточник](https://www.sefaria.org/api/texts/Bekhorot.2a?context=0&commentary=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/bavli/BAV-005.sources.jsonl)
+[Первоисточник](https://www.sefaria.org/api/texts/Bekhorot.2a?context=0&commentary=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/bavli/BAV-005.sources.jsonl)
 
 ### 40a:14
 
@@ -221,7 +221,7 @@
 
 **Оговорки:** Digital API edition; no manuscript or printed-edition collation, traditional commentary review, or independent review. Legal and proverbial claims are retained as attributed discourse, not external historical or zoological verification.
 
-[Первоисточник](https://www.sefaria.org/api/texts/Bekhorot.40a?context=0&commentary=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/bavli/BAV-006.sources.jsonl)
+[Первоисточник](https://www.sefaria.org/api/texts/Bekhorot.40a?context=0&commentary=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/bavli/BAV-006.sources.jsonl)
 
 ### 5b:28
 
@@ -237,7 +237,7 @@
 
 **Оговорки:** Digital API edition; no manuscripts/traditional commentaries or independent review. Narrative/legal testimony is not independent historical or zoological verification.
 
-[Первоисточник](https://www.sefaria.org/api/texts/Bekhorot.5b?context=0&commentary=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/bavli/BAV-005.sources.jsonl)
+[Первоисточник](https://www.sefaria.org/api/texts/Bekhorot.5b?context=0&commentary=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/bavli/BAV-005.sources.jsonl)
 
 ### 5b:3
 
@@ -253,7 +253,7 @@
 
 **Оговорки:** Digital API edition; no manuscripts/traditional commentaries or independent review. Narrative/legal testimony is not independent historical or zoological verification.
 
-[Первоисточник](https://www.sefaria.org/api/texts/Bekhorot.5b?context=0&commentary=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/bavli/BAV-005.sources.jsonl)
+[Первоисточник](https://www.sefaria.org/api/texts/Bekhorot.5b?context=0&commentary=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/bavli/BAV-005.sources.jsonl)
 
 ### 5b:7
 
@@ -269,7 +269,7 @@
 
 **Оговорки:** Digital API edition; no manuscripts/traditional commentaries or independent review. Narrative/legal testimony is not independent historical or zoological verification.
 
-[Первоисточник](https://www.sefaria.org/api/texts/Bekhorot.5b?context=0&commentary=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/bavli/BAV-005.sources.jsonl)
+[Первоисточник](https://www.sefaria.org/api/texts/Bekhorot.5b?context=0&commentary=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/bavli/BAV-005.sources.jsonl)
 
 ### 6a:13
 
@@ -285,7 +285,7 @@
 
 **Оговорки:** Digital API edition; no manuscript or printed-edition collation, traditional commentary review, or independent review. Legal and proverbial claims are retained as attributed discourse, not external historical or zoological verification.
 
-[Первоисточник](https://www.sefaria.org/api/texts/Bekhorot.6a?context=0&commentary=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/bavli/BAV-006.sources.jsonl)
+[Первоисточник](https://www.sefaria.org/api/texts/Bekhorot.6a?context=0&commentary=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/bavli/BAV-006.sources.jsonl)
 
 ### 6a:14
 
@@ -301,7 +301,7 @@
 
 **Оговорки:** Digital API edition; no manuscript or printed-edition collation, traditional commentary review, or independent review. Legal and proverbial claims are retained as attributed discourse, not external historical or zoological verification.
 
-[Первоисточник](https://www.sefaria.org/api/texts/Bekhorot.6a?context=0&commentary=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/bavli/BAV-006.sources.jsonl)
+[Первоисточник](https://www.sefaria.org/api/texts/Bekhorot.6a?context=0&commentary=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/bavli/BAV-006.sources.jsonl)
 
 ### 6a:15
 
@@ -317,7 +317,7 @@
 
 **Оговорки:** Digital API edition; no manuscript or printed-edition collation, traditional commentary review, or independent review. Legal and proverbial claims are retained as attributed discourse, not external historical or zoological verification.
 
-[Первоисточник](https://www.sefaria.org/api/texts/Bekhorot.6a?context=0&commentary=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/bavli/BAV-006.sources.jsonl)
+[Первоисточник](https://www.sefaria.org/api/texts/Bekhorot.6a?context=0&commentary=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/bavli/BAV-006.sources.jsonl)
 
 ### 6a:16
 
@@ -333,7 +333,7 @@
 
 **Оговорки:** Digital API edition; no manuscript or printed-edition collation, traditional commentary review, or independent review. Legal and proverbial claims are retained as attributed discourse, not external historical or zoological verification.
 
-[Первоисточник](https://www.sefaria.org/api/texts/Bekhorot.6a?context=0&commentary=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/bavli/BAV-006.sources.jsonl)
+[Первоисточник](https://www.sefaria.org/api/texts/Bekhorot.6a?context=0&commentary=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/bavli/BAV-006.sources.jsonl)
 
 ### 6a:17
 
@@ -349,7 +349,7 @@
 
 **Оговорки:** Digital API edition; no manuscript or printed-edition collation, traditional commentary review, or independent review. Legal and proverbial claims are retained as attributed discourse, not external historical or zoological verification.
 
-[Первоисточник](https://www.sefaria.org/api/texts/Bekhorot.6a?context=0&commentary=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/bavli/BAV-006.sources.jsonl)
+[Первоисточник](https://www.sefaria.org/api/texts/Bekhorot.6a?context=0&commentary=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/bavli/BAV-006.sources.jsonl)
 
 ### 7a:23
 
@@ -365,7 +365,7 @@
 
 **Оговорки:** Digital API edition; no manuscript or printed-edition collation, traditional commentary review, or independent review. Legal and proverbial claims are retained as attributed discourse, not external historical or zoological verification.
 
-[Первоисточник](https://www.sefaria.org/api/texts/Bekhorot.7a?context=0&commentary=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/bavli/BAV-006.sources.jsonl)
+[Первоисточник](https://www.sefaria.org/api/texts/Bekhorot.7a?context=0&commentary=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/bavli/BAV-006.sources.jsonl)
 
 ### 7b:2
 
@@ -381,7 +381,7 @@
 
 **Оговорки:** Digital API edition; no manuscript or printed-edition collation, traditional commentary review, or independent review. Legal and proverbial claims are retained as attributed discourse, not external historical or zoological verification.
 
-[Первоисточник](https://www.sefaria.org/api/texts/Bekhorot.7b?context=0&commentary=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/bavli/BAV-006.sources.jsonl)
+[Первоисточник](https://www.sefaria.org/api/texts/Bekhorot.7b?context=0&commentary=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/bavli/BAV-006.sources.jsonl)
 
 
 ## Berakhot
@@ -400,7 +400,7 @@
 
 **Оговорки:** Exact quotation follows accessed digital transcription, not manuscript collation.
 
-[Первоисточник](https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Zeraim/Berakhot/Hebrew/merged.json) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/bavli/BAV-001.sources.jsonl)
+[Первоисточник](https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Zeraim/Berakhot/Hebrew/merged.json) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/bavli/BAV-001.sources.jsonl)
 
 ### 56b:18
 
@@ -416,7 +416,7 @@
 
 **Оговорки:** Exact quotation follows accessed digital transcription, not manuscript collation. Central/extraordinary interpretation requires independent review; no verified supernatural-horse conclusion.
 
-[Первоисточник](https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Zeraim/Berakhot/Hebrew/merged.json) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/bavli/BAV-001.sources.jsonl)
+[Первоисточник](https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Zeraim/Berakhot/Hebrew/merged.json) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/bavli/BAV-001.sources.jsonl)
 
 ### 56b:3
 
@@ -432,7 +432,7 @@
 
 **Оговорки:** Exact quotation follows accessed digital transcription, not manuscript collation.
 
-[Первоисточник](https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Zeraim/Berakhot/Hebrew/merged.json) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/bavli/BAV-001.sources.jsonl)
+[Первоисточник](https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Zeraim/Berakhot/Hebrew/merged.json) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/bavli/BAV-001.sources.jsonl)
 
 
 ## Chagigah
@@ -451,7 +451,7 @@
 
 **Оговорки:** Quote/context read directly from JSON export, not webpage or manuscript. No top-level license field; complete corpus not persisted.
 
-[Первоисточник](https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Moed/Chagigah/Hebrew/merged.json) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/bavli/BAV-002.sources.jsonl)
+[Первоисточник](https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Moed/Chagigah/Hebrew/merged.json) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/bavli/BAV-002.sources.jsonl)
 
 ### 9b:12
 
@@ -467,7 +467,7 @@
 
 **Оговорки:** Digital API edition; no manuscript or printed-edition collation, traditional commentary review, or independent review. Legal and proverbial claims are retained as attributed discourse, not external historical or zoological verification.
 
-[Первоисточник](https://www.sefaria.org/api/texts/Chagigah.9b?context=0&commentary=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/bavli/BAV-006.sources.jsonl)
+[Первоисточник](https://www.sefaria.org/api/texts/Chagigah.9b?context=0&commentary=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/bavli/BAV-006.sources.jsonl)
 
 
 ## Chullin
@@ -484,7 +484,7 @@
 
 **Оговорки:** Saved complete target segment from the BAV-002 primary export was read; live adjacent-segment API retrieval timed out, so no broader daf context is claimed in this pass. No manuscript or printed-edition collation, traditional commentary review, or independent review.
 
-[Первоисточник](https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Kodashim/Chullin/Hebrew/merged.json) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/bavli/BAV-007.sources.jsonl)
+[Первоисточник](https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Kodashim/Chullin/Hebrew/merged.json) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/bavli/BAV-007.sources.jsonl)
 
 ### 114b:4
 
@@ -498,7 +498,7 @@
 
 **Оговорки:** Saved complete target segment from the BAV-002 primary export was read; live adjacent-segment API retrieval timed out, so no broader daf context is claimed in this pass. No manuscript or printed-edition collation, traditional commentary review, or independent review.
 
-[Первоисточник](https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Kodashim/Chullin/Hebrew/merged.json) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/bavli/BAV-007.sources.jsonl)
+[Первоисточник](https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Kodashim/Chullin/Hebrew/merged.json) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/bavli/BAV-007.sources.jsonl)
 
 ### 5a:1
 
@@ -514,7 +514,7 @@
 
 **Оговорки:** Digital API edition; no manuscript or printed-edition collation, traditional commentary review, or independent review. Legal and proverbial claims are retained as attributed discourse, not external historical or zoological verification.
 
-[Первоисточник](https://www.sefaria.org/api/texts/Chullin.5a?context=0&commentary=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/bavli/BAV-006.sources.jsonl)
+[Первоисточник](https://www.sefaria.org/api/texts/Chullin.5a?context=0&commentary=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/bavli/BAV-006.sources.jsonl)
 
 ### 79a:10
 
@@ -530,7 +530,7 @@
 
 **Оговорки:** Digital API edition; no manuscript or printed-edition collation, traditional commentary review, or independent review. Legal and proverbial claims are retained as attributed discourse, not external historical or zoological verification.
 
-[Первоисточник](https://www.sefaria.org/api/texts/Chullin.79a?context=0&commentary=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/bavli/BAV-006.sources.jsonl)
+[Первоисточник](https://www.sefaria.org/api/texts/Chullin.79a?context=0&commentary=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/bavli/BAV-006.sources.jsonl)
 
 ### 79a:2
 
@@ -546,7 +546,7 @@
 
 **Оговорки:** Digital API edition; no manuscript or printed-edition collation, traditional commentary review, or independent review. Legal and proverbial claims are retained as attributed discourse, not external historical or zoological verification.
 
-[Первоисточник](https://www.sefaria.org/api/texts/Chullin.79a?context=0&commentary=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/bavli/BAV-006.sources.jsonl)
+[Первоисточник](https://www.sefaria.org/api/texts/Chullin.79a?context=0&commentary=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/bavli/BAV-006.sources.jsonl)
 
 ### 79a:4
 
@@ -562,7 +562,7 @@
 
 **Оговорки:** Digital API edition; no manuscript or printed-edition collation, traditional commentary review, or independent review. Legal and proverbial claims are retained as attributed discourse, not external historical or zoological verification.
 
-[Первоисточник](https://www.sefaria.org/api/texts/Chullin.79a?context=0&commentary=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/bavli/BAV-006.sources.jsonl)
+[Первоисточник](https://www.sefaria.org/api/texts/Chullin.79a?context=0&commentary=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/bavli/BAV-006.sources.jsonl)
 
 ### 79a:7
 
@@ -578,7 +578,7 @@
 
 **Оговорки:** Digital API edition; no manuscript or printed-edition collation, traditional commentary review, or independent review. Legal and proverbial claims are retained as attributed discourse, not external historical or zoological verification.
 
-[Первоисточник](https://www.sefaria.org/api/texts/Chullin.79a?context=0&commentary=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/bavli/BAV-006.sources.jsonl)
+[Первоисточник](https://www.sefaria.org/api/texts/Chullin.79a?context=0&commentary=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/bavli/BAV-006.sources.jsonl)
 
 ### 79a:9
 
@@ -594,7 +594,7 @@
 
 **Оговорки:** Digital API edition; no manuscript or printed-edition collation, traditional commentary review, or independent review. Legal and proverbial claims are retained as attributed discourse, not external historical or zoological verification.
 
-[Первоисточник](https://www.sefaria.org/api/texts/Chullin.79a?context=0&commentary=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/bavli/BAV-006.sources.jsonl)
+[Первоисточник](https://www.sefaria.org/api/texts/Chullin.79a?context=0&commentary=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/bavli/BAV-006.sources.jsonl)
 
 
 ## Gittin
@@ -611,7 +611,7 @@
 
 **Оговорки:** Saved complete target segment from the BAV-002 primary export was read; live adjacent-segment API retrieval timed out, so no broader daf context is claimed in this pass. No manuscript or printed-edition collation, traditional commentary review, or independent review.
 
-[Первоисточник](https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Nashim/Gittin/Hebrew/merged.json) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/bavli/BAV-007.sources.jsonl)
+[Первоисточник](https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Nashim/Gittin/Hebrew/merged.json) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/bavli/BAV-007.sources.jsonl)
 
 
 ## Ketubot
@@ -628,7 +628,7 @@
 
 **Оговорки:** Saved complete target segment from the BAV-002 primary export was read; live adjacent-segment API retrieval timed out, so no broader daf context is claimed in this pass. No manuscript or printed-edition collation, traditional commentary review, or independent review.
 
-[Первоисточник](https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Nashim/Ketubot/Hebrew/merged.json) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/bavli/BAV-007.sources.jsonl)
+[Первоисточник](https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Nashim/Ketubot/Hebrew/merged.json) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/bavli/BAV-007.sources.jsonl)
 
 ### 66a:5
 
@@ -642,7 +642,7 @@
 
 **Оговорки:** Saved complete target segment from the BAV-002 primary export was read; live adjacent-segment API retrieval timed out, so no broader daf context is claimed in this pass. No manuscript or printed-edition collation, traditional commentary review, or independent review.
 
-[Первоисточник](https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Nashim/Ketubot/Hebrew/merged.json) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/bavli/BAV-007.sources.jsonl)
+[Первоисточник](https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Nashim/Ketubot/Hebrew/merged.json) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/bavli/BAV-007.sources.jsonl)
 
 ### 67a:2
 
@@ -656,7 +656,7 @@
 
 **Оговорки:** Saved complete target segment from the BAV-002 primary export was read; live adjacent-segment API retrieval timed out, so no broader daf context is claimed in this pass. No manuscript or printed-edition collation, traditional commentary review, or independent review.
 
-[Первоисточник](https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Nashim/Ketubot/Hebrew/merged.json) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/bavli/BAV-007.sources.jsonl)
+[Первоисточник](https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Nashim/Ketubot/Hebrew/merged.json) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/bavli/BAV-007.sources.jsonl)
 
 ### 67b:3
 
@@ -672,7 +672,7 @@
 
 **Оговорки:** Quote/context read directly from JSON export, not webpage or manuscript. No top-level license field; complete corpus not persisted.
 
-[Первоисточник](https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Nashim/Ketubot/Hebrew/merged.json) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/bavli/BAV-002.sources.jsonl)
+[Первоисточник](https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Nashim/Ketubot/Hebrew/merged.json) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/bavli/BAV-002.sources.jsonl)
 
 
 ## Kiddushin
@@ -689,7 +689,7 @@
 
 **Оговорки:** Saved complete target segment from the BAV-002 primary export was read; live adjacent-segment API retrieval timed out, so no broader daf context is claimed in this pass. No manuscript or printed-edition collation, traditional commentary review, or independent review.
 
-[Первоисточник](https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Nashim/Kiddushin/Hebrew/merged.json) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/bavli/BAV-007.sources.jsonl)
+[Первоисточник](https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Nashim/Kiddushin/Hebrew/merged.json) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/bavli/BAV-007.sources.jsonl)
 
 
 ## Megillah
@@ -708,7 +708,7 @@
 
 **Оговорки:** Digital API edition; no manuscripts/traditional commentaries or independent review. Narrative/legal testimony is not independent historical or zoological verification.
 
-[Первоисточник](https://www.sefaria.org/api/texts/Megillah.16a?context=0&commentary=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/bavli/BAV-004.sources.jsonl)
+[Первоисточник](https://www.sefaria.org/api/texts/Megillah.16a?context=0&commentary=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/bavli/BAV-004.sources.jsonl)
 
 ### 16a:8
 
@@ -724,7 +724,7 @@
 
 **Оговорки:** Digital API edition; no manuscripts/traditional commentaries or independent review. Narrative/legal testimony is not independent historical or zoological verification.
 
-[Первоисточник](https://www.sefaria.org/api/texts/Megillah.16a?context=0&commentary=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/bavli/BAV-004.sources.jsonl)
+[Первоисточник](https://www.sefaria.org/api/texts/Megillah.16a?context=0&commentary=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/bavli/BAV-004.sources.jsonl)
 
 
 ## Menachot
@@ -741,7 +741,7 @@
 
 **Оговорки:** Saved complete target segment from the BAV-002 primary export was read; live adjacent-segment API retrieval timed out, so no broader daf context is claimed in this pass. No manuscript or printed-edition collation, traditional commentary review, or independent review.
 
-[Первоисточник](https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Kodashim/Menachot/Hebrew/merged.json) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/bavli/BAV-007.sources.jsonl)
+[Первоисточник](https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Kodashim/Menachot/Hebrew/merged.json) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/bavli/BAV-007.sources.jsonl)
 
 
 ## Moed Katan
@@ -758,7 +758,7 @@
 
 **Оговорки:** Saved complete target segment from the BAV-002 primary export was read; live adjacent-segment API retrieval timed out, so no broader daf context is claimed in this pass. No manuscript or printed-edition collation, traditional commentary review, or independent review.
 
-[Первоисточник](https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Moed/Moed%20Katan/Hebrew/merged.json) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/bavli/BAV-007.sources.jsonl)
+[Первоисточник](https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Moed/Moed%20Katan/Hebrew/merged.json) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/bavli/BAV-007.sources.jsonl)
 
 ### 10b:2
 
@@ -772,7 +772,7 @@
 
 **Оговорки:** Saved complete target segment from the BAV-002 primary export was read; live adjacent-segment API retrieval timed out, so no broader daf context is claimed in this pass. No manuscript or printed-edition collation, traditional commentary review, or independent review.
 
-[Первоисточник](https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Moed/Moed%20Katan/Hebrew/merged.json) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/bavli/BAV-007.sources.jsonl)
+[Первоисточник](https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Moed/Moed%20Katan/Hebrew/merged.json) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/bavli/BAV-007.sources.jsonl)
 
 
 ## Nedarim
@@ -789,7 +789,7 @@
 
 **Оговорки:** Saved complete target segment from the BAV-002 primary export was read; live adjacent-segment API retrieval timed out, so no broader daf context is claimed in this pass. No manuscript or printed-edition collation, traditional commentary review, or independent review.
 
-[Первоисточник](https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Nashim/Nedarim/Hebrew/merged.json) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/bavli/BAV-007.sources.jsonl)
+[Первоисточник](https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Nashim/Nedarim/Hebrew/merged.json) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/bavli/BAV-007.sources.jsonl)
 
 
 ## Pesachim
@@ -808,7 +808,7 @@
 
 **Оговорки:** Exact quotation follows accessed digital transcription, not manuscript collation.
 
-[Первоисточник](https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Moed/Pesachim/Hebrew/merged.json) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/bavli/BAV-001.sources.jsonl)
+[Первоисточник](https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Moed/Pesachim/Hebrew/merged.json) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/bavli/BAV-001.sources.jsonl)
 
 ### 113b:13
 
@@ -824,7 +824,7 @@
 
 **Оговорки:** Exact quotation follows accessed digital transcription, not manuscript collation.
 
-[Первоисточник](https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Moed/Pesachim/Hebrew/merged.json) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/bavli/BAV-001.sources.jsonl)
+[Первоисточник](https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Moed/Pesachim/Hebrew/merged.json) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/bavli/BAV-001.sources.jsonl)
 
 ### 3b:14
 
@@ -840,7 +840,7 @@
 
 **Оговорки:** Digital API edition; no manuscripts/traditional commentaries or independent review. Narrative/legal testimony is not independent historical or zoological verification.
 
-[Первоисточник](https://www.sefaria.org/api/texts/Pesachim.3b?context=0&commentary=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/bavli/BAV-004.sources.jsonl)
+[Первоисточник](https://www.sefaria.org/api/texts/Pesachim.3b?context=0&commentary=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/bavli/BAV-004.sources.jsonl)
 
 ### 50a:9,10,11,12
 
@@ -856,7 +856,7 @@
 
 **Оговорки:** Exact quotation follows accessed digital transcription, not manuscript collation. Central/extraordinary interpretation requires independent review; no verified supernatural-horse conclusion.
 
-[Первоисточник](https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Moed/Pesachim/Hebrew/merged.json) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/bavli/BAV-001.sources.jsonl)
+[Первоисточник](https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Moed/Pesachim/Hebrew/merged.json) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/bavli/BAV-001.sources.jsonl)
 
 ### 53a:11
 
@@ -872,7 +872,7 @@
 
 **Оговорки:** Digital API edition; no manuscripts/traditional commentaries or independent review. Narrative/legal testimony is not independent historical or zoological verification.
 
-[Первоисточник](https://www.sefaria.org/api/texts/Pesachim.53a?context=0&commentary=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/bavli/BAV-005.sources.jsonl)
+[Первоисточник](https://www.sefaria.org/api/texts/Pesachim.53a?context=0&commentary=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/bavli/BAV-005.sources.jsonl)
 
 ### 94a:2
 
@@ -888,7 +888,7 @@
 
 **Оговорки:** Digital API edition; no manuscripts/traditional commentaries or independent review. Narrative/legal testimony is not independent historical or zoological verification.
 
-[Первоисточник](https://www.sefaria.org/api/texts/Pesachim.94a?context=0&commentary=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/bavli/BAV-005.sources.jsonl)
+[Первоисточник](https://www.sefaria.org/api/texts/Pesachim.94a?context=0&commentary=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/bavli/BAV-005.sources.jsonl)
 
 
 ## Sanhedrin
@@ -907,7 +907,7 @@
 
 **Оговорки:** Digital API edition; no manuscripts/traditional commentaries or independent review. Narrative/legal testimony is not independent historical or zoological verification.
 
-[Первоисточник](https://www.sefaria.org/api/texts/Sanhedrin.105a?context=0&commentary=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/bavli/BAV-005.sources.jsonl)
+[Первоисточник](https://www.sefaria.org/api/texts/Sanhedrin.105a?context=0&commentary=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/bavli/BAV-005.sources.jsonl)
 
 ### 105b:2
 
@@ -923,7 +923,7 @@
 
 **Оговорки:** Digital API edition; no manuscripts/traditional commentaries or independent review. Narrative/legal testimony is not independent historical or zoological verification.
 
-[Первоисточник](https://www.sefaria.org/api/texts/Sanhedrin.105b?context=0&commentary=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/bavli/BAV-005.sources.jsonl)
+[Первоисточник](https://www.sefaria.org/api/texts/Sanhedrin.105b?context=0&commentary=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/bavli/BAV-005.sources.jsonl)
 
 ### 21b:13
 
@@ -937,7 +937,7 @@
 
 **Оговорки:** Digital edition/API segmentation checked; no manuscript or traditional commentary collation. Not independently reviewed; adjacent miracles do not establish extraordinary horse status.
 
-[Первоисточник](https://www.sefaria.org/api/texts/Sanhedrin.21b?context=0&commentary=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/bavli/BAV-003.sources.jsonl)
+[Первоисточник](https://www.sefaria.org/api/texts/Sanhedrin.21b?context=0&commentary=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/bavli/BAV-003.sources.jsonl)
 
 ### 21b:17
 
@@ -951,7 +951,7 @@
 
 **Оговорки:** Digital edition/API segmentation checked; no manuscript or traditional commentary collation. Not independently reviewed; adjacent miracles do not establish extraordinary horse status.
 
-[Первоисточник](https://www.sefaria.org/api/texts/Sanhedrin.21b?context=0&commentary=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/bavli/BAV-003.sources.jsonl)
+[Первоисточник](https://www.sefaria.org/api/texts/Sanhedrin.21b?context=0&commentary=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/bavli/BAV-003.sources.jsonl)
 
 ### 21b:6,7,8,9
 
@@ -967,7 +967,7 @@
 
 **Оговорки:** Exact quotation follows accessed digital transcription, not manuscript collation. API/web reader failed; quote verified directly against exported JSON.
 
-[Первоисточник](https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Nezikin/Sanhedrin/Hebrew/merged.json) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/bavli/BAV-001.sources.jsonl)
+[Первоисточник](https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Nezikin/Sanhedrin/Hebrew/merged.json) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/bavli/BAV-001.sources.jsonl)
 
 ### 22a:11
 
@@ -983,7 +983,7 @@
 
 **Оговорки:** Exact quotation follows accessed digital transcription, not manuscript collation.
 
-[Первоисточник](https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Nezikin/Sanhedrin/Hebrew/merged.json) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/bavli/BAV-001.sources.jsonl)
+[Первоисточник](https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Nezikin/Sanhedrin/Hebrew/merged.json) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/bavli/BAV-001.sources.jsonl)
 
 ### 26b:1
 
@@ -999,7 +999,7 @@
 
 **Оговорки:** Digital API edition; no manuscripts/traditional commentaries or independent review. Narrative/legal testimony is not independent historical or zoological verification.
 
-[Первоисточник](https://www.sefaria.org/api/texts/Sanhedrin.26b?context=0&commentary=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/bavli/BAV-005.sources.jsonl)
+[Первоисточник](https://www.sefaria.org/api/texts/Sanhedrin.26b?context=0&commentary=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/bavli/BAV-005.sources.jsonl)
 
 ### 42b:2
 
@@ -1015,7 +1015,7 @@
 
 **Оговорки:** Exact quotation follows accessed digital transcription, not manuscript collation.
 
-[Первоисточник](https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Nezikin/Sanhedrin/Hebrew/merged.json) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/bavli/BAV-001.sources.jsonl)
+[Первоисточник](https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Nezikin/Sanhedrin/Hebrew/merged.json) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/bavli/BAV-001.sources.jsonl)
 
 ### 43a:9
 
@@ -1031,7 +1031,7 @@
 
 **Оговорки:** Exact quotation follows accessed digital transcription, not manuscript collation.
 
-[Первоисточник](https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Nezikin/Sanhedrin/Hebrew/merged.json) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/bavli/BAV-001.sources.jsonl)
+[Первоисточник](https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Nezikin/Sanhedrin/Hebrew/merged.json) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/bavli/BAV-001.sources.jsonl)
 
 ### 46a:12
 
@@ -1047,7 +1047,7 @@
 
 **Оговорки:** Digital API edition; no manuscripts/traditional commentaries or independent review. Narrative/legal testimony is not independent historical or zoological verification.
 
-[Первоисточник](https://www.sefaria.org/api/texts/Sanhedrin.46a?context=0&commentary=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/bavli/BAV-004.sources.jsonl)
+[Первоисточник](https://www.sefaria.org/api/texts/Sanhedrin.46a?context=0&commentary=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/bavli/BAV-004.sources.jsonl)
 
 ### 63b:17
 
@@ -1063,7 +1063,7 @@
 
 **Оговорки:** Digital API edition; no manuscripts/traditional commentaries or independent review. Narrative/legal testimony is not independent historical or zoological verification.
 
-[Первоисточник](https://www.sefaria.org/api/texts/Sanhedrin.63b?context=0&commentary=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/bavli/BAV-005.sources.jsonl)
+[Первоисточник](https://www.sefaria.org/api/texts/Sanhedrin.63b?context=0&commentary=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/bavli/BAV-005.sources.jsonl)
 
 ### 93a:4,5
 
@@ -1079,7 +1079,7 @@
 
 **Оговорки:** Exact quotation follows accessed digital transcription, not manuscript collation. Central/extraordinary interpretation requires independent review; no verified supernatural-horse conclusion.
 
-[Первоисточник](https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Nezikin/Sanhedrin/Hebrew/merged.json) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/bavli/BAV-001.sources.jsonl)
+[Первоисточник](https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Nezikin/Sanhedrin/Hebrew/merged.json) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/bavli/BAV-001.sources.jsonl)
 
 ### 94b:2
 
@@ -1095,7 +1095,7 @@
 
 **Оговорки:** Digital API edition; no manuscripts/traditional commentaries or independent review. Narrative/legal testimony is not independent historical or zoological verification.
 
-[Первоисточник](https://www.sefaria.org/api/texts/Sanhedrin.94b?context=0&commentary=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/bavli/BAV-005.sources.jsonl)
+[Первоисточник](https://www.sefaria.org/api/texts/Sanhedrin.94b?context=0&commentary=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/bavli/BAV-005.sources.jsonl)
 
 ### 95a:9,10
 
@@ -1111,7 +1111,7 @@
 
 **Оговорки:** Exact quotation follows accessed digital transcription, not manuscript collation. Central/extraordinary interpretation requires independent review; no verified supernatural-horse conclusion.
 
-[Первоисточник](https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Nezikin/Sanhedrin/Hebrew/merged.json) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/bavli/BAV-001.sources.jsonl)
+[Первоисточник](https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Nezikin/Sanhedrin/Hebrew/merged.json) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/bavli/BAV-001.sources.jsonl)
 
 ### 95b:6
 
@@ -1127,7 +1127,7 @@
 
 **Оговорки:** Digital API edition; no manuscripts/traditional commentaries or independent review. Narrative/legal testimony is not independent historical or zoological verification.
 
-[Первоисточник](https://www.sefaria.org/api/texts/Sanhedrin.95b?context=0&commentary=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/bavli/BAV-005.sources.jsonl)
+[Первоисточник](https://www.sefaria.org/api/texts/Sanhedrin.95b?context=0&commentary=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/bavli/BAV-005.sources.jsonl)
 
 ### 96a:5
 
@@ -1141,7 +1141,7 @@
 
 **Оговорки:** Digital edition/API segmentation checked; no manuscript or traditional commentary collation. Not independently reviewed; adjacent miracles do not establish extraordinary horse status.
 
-[Первоисточник](https://www.sefaria.org/api/texts/Sanhedrin.96a?context=0&commentary=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/bavli/BAV-003.sources.jsonl)
+[Первоисточник](https://www.sefaria.org/api/texts/Sanhedrin.96a?context=0&commentary=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/bavli/BAV-003.sources.jsonl)
 
 ### 96a:7
 
@@ -1155,7 +1155,7 @@
 
 **Оговорки:** Digital edition/API segmentation checked; no manuscript or traditional commentary collation. Not independently reviewed; adjacent miracles do not establish extraordinary horse status.
 
-[Первоисточник](https://www.sefaria.org/api/texts/Sanhedrin.96a?context=0&commentary=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/bavli/BAV-003.sources.jsonl)
+[Первоисточник](https://www.sefaria.org/api/texts/Sanhedrin.96a?context=0&commentary=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/bavli/BAV-003.sources.jsonl)
 
 ### 96a:8
 
@@ -1169,7 +1169,7 @@
 
 **Оговорки:** Digital edition/API segmentation checked; no manuscript or traditional commentary collation. Not independently reviewed; adjacent miracles do not establish extraordinary horse status.
 
-[Первоисточник](https://www.sefaria.org/api/texts/Sanhedrin.96a?context=0&commentary=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/bavli/BAV-003.sources.jsonl)
+[Первоисточник](https://www.sefaria.org/api/texts/Sanhedrin.96a?context=0&commentary=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/bavli/BAV-003.sources.jsonl)
 
 ### 96a:9
 
@@ -1183,7 +1183,7 @@
 
 **Оговорки:** Digital edition/API segmentation checked; no manuscript or traditional commentary collation. Not independently reviewed; adjacent miracles do not establish extraordinary horse status.
 
-[Первоисточник](https://www.sefaria.org/api/texts/Sanhedrin.96a?context=0&commentary=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/bavli/BAV-003.sources.jsonl)
+[Первоисточник](https://www.sefaria.org/api/texts/Sanhedrin.96a?context=0&commentary=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/bavli/BAV-003.sources.jsonl)
 
 ### 98a:14
 
@@ -1199,7 +1199,7 @@
 
 **Оговорки:** Exact quotation follows accessed digital transcription, not manuscript collation. Central/extraordinary interpretation requires independent review; no verified supernatural-horse conclusion.
 
-[Первоисточник](https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Nezikin/Sanhedrin/Hebrew/merged.json) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/bavli/BAV-001.sources.jsonl)
+[Первоисточник](https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Nezikin/Sanhedrin/Hebrew/merged.json) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/bavli/BAV-001.sources.jsonl)
 
 ### 98b:1
 
@@ -1215,7 +1215,7 @@
 
 **Оговорки:** Digital API edition; no manuscripts/traditional commentaries or independent review. Narrative/legal testimony is not independent historical or zoological verification.
 
-[Первоисточник](https://www.sefaria.org/api/texts/Sanhedrin.98b?context=0&commentary=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/bavli/BAV-005.sources.jsonl)
+[Первоисточник](https://www.sefaria.org/api/texts/Sanhedrin.98b?context=0&commentary=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/bavli/BAV-005.sources.jsonl)
 
 ### 98b:11
 
@@ -1231,7 +1231,7 @@
 
 **Оговорки:** Digital API edition; no manuscripts/traditional commentaries or independent review. Narrative/legal testimony is not independent historical or zoological verification.
 
-[Первоисточник](https://www.sefaria.org/api/texts/Sanhedrin.98b?context=0&commentary=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/bavli/BAV-005.sources.jsonl)
+[Первоисточник](https://www.sefaria.org/api/texts/Sanhedrin.98b?context=0&commentary=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/bavli/BAV-005.sources.jsonl)
 
 
 ## Shabbat
@@ -1250,7 +1250,7 @@
 
 **Оговорки:** Digital API edition; no manuscripts/traditional commentaries or independent review. Narrative/legal testimony is not independent historical or zoological verification.
 
-[Первоисточник](https://www.sefaria.org/api/texts/Shabbat.152a?context=0&commentary=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/bavli/BAV-004.sources.jsonl)
+[Первоисточник](https://www.sefaria.org/api/texts/Shabbat.152a?context=0&commentary=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/bavli/BAV-004.sources.jsonl)
 
 ### 51b:14
 
@@ -1264,7 +1264,7 @@
 
 **Оговорки:** Digital edition/API segmentation checked; no manuscript or traditional commentary collation. Not independently reviewed; adjacent miracles do not establish extraordinary horse status.
 
-[Первоисточник](https://www.sefaria.org/api/texts/Shabbat.51b?context=0&commentary=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/bavli/BAV-003.sources.jsonl)
+[Первоисточник](https://www.sefaria.org/api/texts/Shabbat.51b?context=0&commentary=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/bavli/BAV-003.sources.jsonl)
 
 ### 51b:7
 
@@ -1278,7 +1278,7 @@
 
 **Оговорки:** Digital edition/API segmentation checked; no manuscript or traditional commentary collation. Not independently reviewed; adjacent miracles do not establish extraordinary horse status.
 
-[Первоисточник](https://www.sefaria.org/api/texts/Shabbat.51b?context=0&commentary=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/bavli/BAV-003.sources.jsonl)
+[Первоисточник](https://www.sefaria.org/api/texts/Shabbat.51b?context=0&commentary=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/bavli/BAV-003.sources.jsonl)
 
 ### 52a:5
 
@@ -1292,7 +1292,7 @@
 
 **Оговорки:** Digital edition/API segmentation checked; no manuscript or traditional commentary collation. Not independently reviewed; adjacent miracles do not establish extraordinary horse status.
 
-[Первоисточник](https://www.sefaria.org/api/texts/Shabbat.52a?context=0&commentary=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/bavli/BAV-003.sources.jsonl)
+[Первоисточник](https://www.sefaria.org/api/texts/Shabbat.52a?context=0&commentary=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/bavli/BAV-003.sources.jsonl)
 
 ### 52a:9
 
@@ -1306,7 +1306,7 @@
 
 **Оговорки:** Saved complete target segment from the BAV-002 primary export was read; live adjacent-segment API retrieval timed out, so no broader daf context is claimed in this pass. No manuscript or printed-edition collation, traditional commentary review, or independent review.
 
-[Первоисточник](https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Moed/Shabbat/Hebrew/merged.json) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/bavli/BAV-007.sources.jsonl)
+[Первоисточник](https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Moed/Shabbat/Hebrew/merged.json) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/bavli/BAV-007.sources.jsonl)
 
 ### 53a:12
 
@@ -1320,7 +1320,7 @@
 
 **Оговорки:** Digital edition/API segmentation checked; no manuscript or traditional commentary collation. Not independently reviewed; adjacent miracles do not establish extraordinary horse status.
 
-[Первоисточник](https://www.sefaria.org/api/texts/Shabbat.53a?context=0&commentary=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/bavli/BAV-003.sources.jsonl)
+[Первоисточник](https://www.sefaria.org/api/texts/Shabbat.53a?context=0&commentary=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/bavli/BAV-003.sources.jsonl)
 
 ### 64a:13
 
@@ -1334,7 +1334,7 @@
 
 **Оговорки:** Saved complete target segment from the BAV-002 primary export was read; live adjacent-segment API retrieval timed out, so no broader daf context is claimed in this pass. No manuscript or printed-edition collation, traditional commentary review, or independent review.
 
-[Первоисточник](https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Moed/Shabbat/Hebrew/merged.json) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/bavli/BAV-007.sources.jsonl)
+[Первоисточник](https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Moed/Shabbat/Hebrew/merged.json) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/bavli/BAV-007.sources.jsonl)
 
 ### 64a:15
 
@@ -1348,7 +1348,7 @@
 
 **Оговорки:** Saved complete target segment from the BAV-002 primary export was read; live adjacent-segment API retrieval timed out, so no broader daf context is claimed in this pass. No manuscript or printed-edition collation, traditional commentary review, or independent review.
 
-[Первоисточник](https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Moed/Shabbat/Hebrew/merged.json) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/bavli/BAV-007.sources.jsonl)
+[Первоисточник](https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Moed/Shabbat/Hebrew/merged.json) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/bavli/BAV-007.sources.jsonl)
 
 ### 64a:9
 
@@ -1362,7 +1362,7 @@
 
 **Оговорки:** Saved complete target segment from the BAV-002 primary export was read; live adjacent-segment API retrieval timed out, so no broader daf context is claimed in this pass. No manuscript or printed-edition collation, traditional commentary review, or independent review.
 
-[Первоисточник](https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Moed/Shabbat/Hebrew/merged.json) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/bavli/BAV-007.sources.jsonl)
+[Первоисточник](https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Moed/Shabbat/Hebrew/merged.json) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/bavli/BAV-007.sources.jsonl)
 
 ### 90b:3
 
@@ -1376,7 +1376,7 @@
 
 **Оговорки:** Saved complete target segment from the BAV-002 primary export was read; live adjacent-segment API retrieval timed out, so no broader daf context is claimed in this pass. No manuscript or printed-edition collation, traditional commentary review, or independent review.
 
-[Первоисточник](https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Moed/Shabbat/Hebrew/merged.json) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/bavli/BAV-007.sources.jsonl)
+[Первоисточник](https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Moed/Shabbat/Hebrew/merged.json) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/bavli/BAV-007.sources.jsonl)
 
 ### 93b:1
 
@@ -1390,7 +1390,7 @@
 
 **Оговорки:** Saved complete target segment from the BAV-002 primary export was read; live adjacent-segment API retrieval timed out, so no broader daf context is claimed in this pass. No manuscript or printed-edition collation, traditional commentary review, or independent review.
 
-[Первоисточник](https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Moed/Shabbat/Hebrew/merged.json) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/bavli/BAV-007.sources.jsonl)
+[Первоисточник](https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Moed/Shabbat/Hebrew/merged.json) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/bavli/BAV-007.sources.jsonl)
 
 ### 94a:3
 
@@ -1404,7 +1404,7 @@
 
 **Оговорки:** Saved complete target segment from the BAV-002 primary export was read; live adjacent-segment API retrieval timed out, so no broader daf context is claimed in this pass. No manuscript or printed-edition collation, traditional commentary review, or independent review.
 
-[Первоисточник](https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Moed/Shabbat/Hebrew/merged.json) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/bavli/BAV-007.sources.jsonl)
+[Первоисточник](https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Moed/Shabbat/Hebrew/merged.json) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/bavli/BAV-007.sources.jsonl)
 
 
 ## Sotah
@@ -1421,7 +1421,7 @@
 
 **Оговорки:** Saved complete target segment from the BAV-002 primary export was read; live adjacent-segment API retrieval timed out, so no broader daf context is claimed in this pass. No manuscript or printed-edition collation, traditional commentary review, or independent review.
 
-[Первоисточник](https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Nashim/Sotah/Hebrew/merged.json) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/bavli/BAV-007.sources.jsonl)
+[Первоисточник](https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Nashim/Sotah/Hebrew/merged.json) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/bavli/BAV-007.sources.jsonl)
 
 ### 42a:10
 
@@ -1437,7 +1437,7 @@
 
 **Оговорки:** Digital API edition; no manuscripts/traditional commentaries or independent review. Narrative/legal testimony is not independent historical or zoological verification.
 
-[Первоисточник](https://www.sefaria.org/api/texts/Sotah.42a?context=0&commentary=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/bavli/BAV-004.sources.jsonl)
+[Первоисточник](https://www.sefaria.org/api/texts/Sotah.42a?context=0&commentary=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/bavli/BAV-004.sources.jsonl)
 
 
 ## Sukkah
@@ -1456,7 +1456,7 @@
 
 **Оговорки:** Quote/context read directly from JSON export, not webpage or manuscript. No top-level license field; complete corpus not persisted.
 
-[Первоисточник](https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Moed/Sukkah/Hebrew/merged.json) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/bavli/BAV-002.sources.jsonl)
+[Первоисточник](https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Moed/Sukkah/Hebrew/merged.json) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/bavli/BAV-002.sources.jsonl)
 
 
 ## Taanit
@@ -1475,7 +1475,7 @@
 
 **Оговорки:** Quote/context read directly from JSON export, not webpage or manuscript. No top-level license field; complete corpus not persisted. Extraordinary/central interpretation requires independent reviewer.
 
-[Первоисточник](https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Moed/Taanit/Hebrew/merged.json) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/bavli/BAV-002.sources.jsonl)
+[Первоисточник](https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Moed/Taanit/Hebrew/merged.json) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/bavli/BAV-002.sources.jsonl)
 
 ### 23b:11
 
@@ -1491,7 +1491,7 @@
 
 **Оговорки:** Quote/context read directly from JSON export, not webpage or manuscript. No top-level license field; complete corpus not persisted. Extraordinary/central interpretation requires independent reviewer.
 
-[Первоисточник](https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Moed/Taanit/Hebrew/merged.json) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/bavli/BAV-002.sources.jsonl)
+[Первоисточник](https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Moed/Taanit/Hebrew/merged.json) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/bavli/BAV-002.sources.jsonl)
 
 
 ## Yevamot
@@ -1510,7 +1510,7 @@
 
 **Оговорки:** Digital API edition; no manuscripts/traditional commentaries or independent review. Narrative/legal testimony is not independent historical or zoological verification.
 
-[Первоисточник](https://www.sefaria.org/api/texts/Yevamot.90b?context=0&commentary=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/bavli/BAV-004.sources.jsonl)
+[Первоисточник](https://www.sefaria.org/api/texts/Yevamot.90b?context=0&commentary=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/bavli/BAV-004.sources.jsonl)
 
 ### 98a:3
 
@@ -1524,7 +1524,7 @@
 
 **Оговорки:** Saved complete target segment from the BAV-002 primary export was read; live adjacent-segment API retrieval timed out, so no broader daf context is claimed in this pass. No manuscript or printed-edition collation, traditional commentary review, or independent review.
 
-[Первоисточник](https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Nashim/Yevamot/Hebrew/merged.json) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/bavli/BAV-007.sources.jsonl)
+[Первоисточник](https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Nashim/Yevamot/Hebrew/merged.json) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/bavli/BAV-007.sources.jsonl)
 
 
 ## Yoma
@@ -1543,7 +1543,7 @@
 
 **Оговорки:** Digital API edition; no manuscripts/traditional commentaries or independent review. Narrative/legal testimony is not independent historical or zoological verification.
 
-[Первоисточник](https://www.sefaria.org/api/texts/Yoma.69a?context=0&commentary=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/bavli/BAV-004.sources.jsonl)
+[Первоисточник](https://www.sefaria.org/api/texts/Yoma.69a?context=0&commentary=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/bavli/BAV-004.sources.jsonl)
 
 ### 77a:11
 
@@ -1557,5 +1557,5 @@
 
 **Оговорки:** Saved complete target segment from the BAV-002 primary export was read; live adjacent-segment API retrieval timed out, so no broader daf context is claimed in this pass. No manuscript or printed-edition collation, traditional commentary review, or independent review.
 
-[Первоисточник](https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Moed/Yoma/Hebrew/merged.json) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/bavli/BAV-007.sources.jsonl)
+[Первоисточник](https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Moed/Yoma/Hebrew/merged.json) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/bavli/BAV-007.sources.jsonl)
 

@@ -2,7 +2,7 @@
 
 Дата: 2026-10-11. **52 отдельных записей, взятых из проверенных партий YER-001, YER-003 — YER-008.** Это навигационный каталог по уже сохранённым оригиналам, аналогичный [каталогу Танаха](tanakh-catalogue.md); новая независимая проверка при создании файла не проводилась.
 
-См. [общий каталог после Танаха](post-tanakh-catalogue.md), [реестр](../../data/sources.jsonl), [покрытие](../../data/coverage.json). Сохранённый конечный список лексических кандидатов обработан, **но не доказано исчерпывающее покрытие иных словоформ, рукописей и косвенных аллюзий**. Контекстная проверка не равна независимому рецензированию. Большие цитаты иногда сокращены, оригинал доступен по ссылке.
+См. [общий каталог после Танаха](post-tanakh-catalogue.md), [реестр](../../research/horse/data/sources.jsonl), [покрытие](../../research/horse/data/coverage.json). Сохранённый конечный список лексических кандидатов обработан, **но не доказано исчерпывающее покрытие иных словоформ, рукописей и косвенных аллюзий**. Контекстная проверка не равна независимому рецензированию. Большие цитаты иногда сокращены, оригинал доступен по ссылке.
 
 ## Guggenheimer commentary on Jerusalem Talmud Makkot
 
@@ -20,7 +20,7 @@
 
 **Оговорки:** Meaning/date of siglum G not resolved. References quoted by editor not independently read.
 
-[Первоисточник](https://www.sefaria.org/Jerusalem_Talmud_Makkot.3.13.2) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/yerushalmi/YER-003.sources.jsonl)
+[Первоисточник](https://www.sefaria.org/Jerusalem_Talmud_Makkot.3.13.2) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/yerushalmi/YER-003.sources.jsonl)
 
 
 ## Jerusalem Talmud Avodah Zarah
@@ -37,7 +37,7 @@
 
 **Оговорки:** Reviewed saved primary digital segment, not freshly retrieved entire halakha. Context limited to complete segment unless additional segment explicitly named. Commentaries and manuscript variants not collated; independent review not performed.
 
-[Первоисточник](https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Nezikin/Jerusalem%20Talmud%20Avodah%20Zarah/Hebrew/merged.json) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/yerushalmi/YER-004.sources.jsonl)
+[Первоисточник](https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Nezikin/Jerusalem%20Talmud%20Avodah%20Zarah/Hebrew/merged.json) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/yerushalmi/YER-004.sources.jsonl)
 
 ### 1:6:6
 
@@ -51,7 +51,7 @@
 
 **Оговорки:** Reviewed saved primary digital segment, not freshly retrieved entire halakha. Context limited to complete segment unless additional segment explicitly named. Commentaries and manuscript variants not collated; independent review not performed.
 
-[Первоисточник](https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Nezikin/Jerusalem%20Talmud%20Avodah%20Zarah/Hebrew/merged.json) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/yerushalmi/YER-004.sources.jsonl)
+[Первоисточник](https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Nezikin/Jerusalem%20Talmud%20Avodah%20Zarah/Hebrew/merged.json) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/yerushalmi/YER-004.sources.jsonl)
 
 ### 1:6:7
 
@@ -67,7 +67,7 @@
 
 **Оговорки:** Digital Guggenheimer edition checked; manuscript/printed-page collation not performed. No independent reviewer yet. Ancient composition/event dates not established by the modern edition date.
 
-[Первоисточник](https://www.sefaria.org/Jerusalem_Talmud_Avodah_Zarah.1.6.7) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/yerushalmi/YER-003.sources.jsonl)
+[Первоисточник](https://www.sefaria.org/Jerusalem_Talmud_Avodah_Zarah.1.6.7) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/yerushalmi/YER-003.sources.jsonl)
 
 ### 1:9:5
 
@@ -83,7 +83,7 @@
 
 **Оговорки:** Digital Guggenheimer edition checked; manuscript/printed-page collation not performed. No independent reviewer yet. Ancient composition/event dates not established by the modern edition date.
 
-[Первоисточник](https://www.sefaria.org/Jerusalem_Talmud_Avodah_Zarah.1.9.5) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/yerushalmi/YER-003.sources.jsonl)
+[Первоисточник](https://www.sefaria.org/Jerusalem_Talmud_Avodah_Zarah.1.9.5) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/yerushalmi/YER-003.sources.jsonl)
 
 
 ## Jerusalem Talmud Bava Batra
@@ -100,7 +100,7 @@
 
 **Оговорки:** Complete saved YER-002 export-derived primary segment read; no fresh surrounding halakha retrieved. Merged export provenance not manuscript collation; no traditional commentaries or independent review.
 
-[Первоисточник](https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Nezikin/Jerusalem%20Talmud%20Bava%20Batra/Hebrew/merged.json) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/yerushalmi/YER-006.sources.jsonl)
+[Первоисточник](https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Nezikin/Jerusalem%20Talmud%20Bava%20Batra/Hebrew/merged.json) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/yerushalmi/YER-006.sources.jsonl)
 
 
 ## Jerusalem Talmud Bava Metzia
@@ -119,7 +119,7 @@
 
 **Оговорки:** Digital Guggenheimer edition checked; manuscript/printed-page collation not performed. No independent reviewer yet. Ancient composition/event dates not established by the modern edition date.
 
-[Первоисточник](https://www.sefaria.org/Jerusalem_Talmud_Bava_Metzia.4.6.2) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/yerushalmi/YER-003.sources.jsonl)
+[Первоисточник](https://www.sefaria.org/Jerusalem_Talmud_Bava_Metzia.4.6.2) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/yerushalmi/YER-003.sources.jsonl)
 
 
 ## Jerusalem Talmud Berakhot
@@ -136,7 +136,7 @@
 
 **Оговорки:** Reviewed saved primary digital segment, not freshly retrieved entire halakha. Context limited to complete segment unless additional segment explicitly named. Commentaries and manuscript variants not collated; independent review not performed.
 
-[Первоисточник](https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Zeraim/Jerusalem%20Talmud%20Berakhot/Hebrew/merged.json) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/yerushalmi/YER-004.sources.jsonl)
+[Первоисточник](https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Zeraim/Jerusalem%20Talmud%20Berakhot/Hebrew/merged.json) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/yerushalmi/YER-004.sources.jsonl)
 
 ### 5:1:3
 
@@ -150,7 +150,7 @@
 
 **Оговорки:** Reviewed saved primary digital segment, not freshly retrieved entire halakha. Context limited to complete segment unless additional segment explicitly named. Commentaries and manuscript variants not collated; independent review not performed.
 
-[Первоисточник](https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Zeraim/Jerusalem%20Talmud%20Berakhot/Hebrew/merged.json) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/yerushalmi/YER-004.sources.jsonl)
+[Первоисточник](https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Zeraim/Jerusalem%20Talmud%20Berakhot/Hebrew/merged.json) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/yerushalmi/YER-004.sources.jsonl)
 
 ### 8:5:6
 
@@ -166,7 +166,7 @@
 
 **Оговорки:** Digital Guggenheimer edition checked; manuscript/printed-page collation not performed. No independent reviewer yet. Ancient composition/event dates not established by the modern edition date.
 
-[Первоисточник](https://www.sefaria.org/Jerusalem_Talmud_Berakhot.8.5.6) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/yerushalmi/YER-003.sources.jsonl)
+[Первоисточник](https://www.sefaria.org/Jerusalem_Talmud_Berakhot.8.5.6) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/yerushalmi/YER-003.sources.jsonl)
 
 ### 8:5:7
 
@@ -182,7 +182,7 @@
 
 **Оговорки:** Digital Guggenheimer edition checked; manuscript/printed-page collation not performed. No independent reviewer yet. Ancient composition/event dates not established by the modern edition date.
 
-[Первоисточник](https://www.sefaria.org/Jerusalem_Talmud_Berakhot.8.5.7) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/yerushalmi/YER-003.sources.jsonl)
+[Первоисточник](https://www.sefaria.org/Jerusalem_Talmud_Berakhot.8.5.7) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/yerushalmi/YER-003.sources.jsonl)
 
 ### 9:1:31
 
@@ -196,7 +196,7 @@
 
 **Оговорки:** Reviewed saved primary digital segment, not freshly retrieved entire halakha. Context limited to complete segment unless additional segment explicitly named. Commentaries and manuscript variants not collated; independent review not performed.
 
-[Первоисточник](https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Zeraim/Jerusalem%20Talmud%20Berakhot/Hebrew/merged.json) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/yerushalmi/YER-004.sources.jsonl)
+[Первоисточник](https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Zeraim/Jerusalem%20Talmud%20Berakhot/Hebrew/merged.json) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/yerushalmi/YER-004.sources.jsonl)
 
 
 ## Jerusalem Talmud Chagigah
@@ -215,7 +215,7 @@
 
 **Оговорки:** Digital Guggenheimer edition checked; manuscript/printed-page collation not performed. No independent reviewer yet. Ancient composition/event dates not established by the modern edition date.
 
-[Первоисточник](https://www.sefaria.org/Jerusalem_Talmud_Chagigah.2.1.10) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/yerushalmi/YER-003.sources.jsonl)
+[Первоисточник](https://www.sefaria.org/Jerusalem_Talmud_Chagigah.2.1.10) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/yerushalmi/YER-003.sources.jsonl)
 
 ### 2:1:7
 
@@ -231,7 +231,7 @@
 
 **Оговорки:** Digital Guggenheimer edition checked; manuscript/printed-page collation not performed. No independent reviewer yet. Ancient composition/event dates not established by the modern edition date.
 
-[Первоисточник](https://www.sefaria.org/Jerusalem_Talmud_Chagigah.2.1.7) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/yerushalmi/YER-003.sources.jsonl)
+[Первоисточник](https://www.sefaria.org/Jerusalem_Talmud_Chagigah.2.1.7) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/yerushalmi/YER-003.sources.jsonl)
 
 ### 2:2:7
 
@@ -247,7 +247,7 @@
 
 **Оговорки:** Digital Guggenheimer edition checked; manuscript/printed-page collation not performed. No independent reviewer yet. Ancient composition/event dates not established by the modern edition date.
 
-[Первоисточник](https://www.sefaria.org/Jerusalem_Talmud_Chagigah.2.2.7) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/yerushalmi/YER-003.sources.jsonl)
+[Первоисточник](https://www.sefaria.org/Jerusalem_Talmud_Chagigah.2.2.7) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/yerushalmi/YER-003.sources.jsonl)
 
 
 ## Jerusalem Talmud Ketubot
@@ -264,7 +264,7 @@
 
 **Оговорки:** Reviewed saved primary digital segment, not freshly retrieved entire halakha. Context limited to complete segment unless additional segment explicitly named. Commentaries and manuscript variants not collated; independent review not performed.
 
-[Первоисточник](https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Nashim/Jerusalem%20Talmud%20Ketubot/Hebrew/merged.json) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/yerushalmi/YER-004.sources.jsonl)
+[Первоисточник](https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Nashim/Jerusalem%20Talmud%20Ketubot/Hebrew/merged.json) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/yerushalmi/YER-004.sources.jsonl)
 
 
 ## Jerusalem Talmud Kiddushin
@@ -281,7 +281,7 @@
 
 **Оговорки:** Complete saved YER-002 export-derived primary segment read; no fresh surrounding halakha retrieved. Merged export provenance not manuscript collation; no traditional commentaries or independent review.
 
-[Первоисточник](https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Nashim/Jerusalem%20Talmud%20Kiddushin/Hebrew/merged.json) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/yerushalmi/YER-006.sources.jsonl)
+[Первоисточник](https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Nashim/Jerusalem%20Talmud%20Kiddushin/Hebrew/merged.json) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/yerushalmi/YER-006.sources.jsonl)
 
 
 ## Jerusalem Talmud Kilayim
@@ -298,7 +298,7 @@
 
 **Оговорки:** Reviewed saved primary digital segment, not freshly retrieved entire halakha. Context limited to complete segment unless additional segment explicitly named. Commentaries and manuscript variants not collated; independent review not performed.
 
-[Первоисточник](https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Zeraim/Jerusalem%20Talmud%20Kilayim/Hebrew/merged.json) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/yerushalmi/YER-004.sources.jsonl)
+[Первоисточник](https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Zeraim/Jerusalem%20Talmud%20Kilayim/Hebrew/merged.json) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/yerushalmi/YER-004.sources.jsonl)
 
 ### 2:2:3
 
@@ -312,7 +312,7 @@
 
 **Оговорки:** Reviewed saved primary digital segment, not freshly retrieved entire halakha. Context limited to complete segment unless additional segment explicitly named. Commentaries and manuscript variants not collated; independent review not performed. Horse-tail designation names a furrow pattern; not a statement about an actual horse.
 
-[Первоисточник](https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Zeraim/Jerusalem%20Talmud%20Kilayim/Hebrew/merged.json) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/yerushalmi/YER-004.sources.jsonl)
+[Первоисточник](https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Zeraim/Jerusalem%20Talmud%20Kilayim/Hebrew/merged.json) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/yerushalmi/YER-004.sources.jsonl)
 
 ### 8:3:1
 
@@ -326,7 +326,7 @@
 
 **Оговорки:** Reviewed saved primary digital segment, not freshly retrieved entire halakha. Context limited to complete segment unless additional segment explicitly named. Commentaries and manuscript variants not collated; independent review not performed.
 
-[Первоисточник](https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Zeraim/Jerusalem%20Talmud%20Kilayim/Hebrew/merged.json) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/yerushalmi/YER-004.sources.jsonl)
+[Первоисточник](https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Zeraim/Jerusalem%20Talmud%20Kilayim/Hebrew/merged.json) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/yerushalmi/YER-004.sources.jsonl)
 
 ### 8:3:2
 
@@ -340,7 +340,7 @@
 
 **Оговорки:** Reviewed saved primary digital segment, not freshly retrieved entire halakha. Context limited to complete segment unless additional segment explicitly named. Commentaries and manuscript variants not collated; independent review not performed.
 
-[Первоисточник](https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Zeraim/Jerusalem%20Talmud%20Kilayim/Hebrew/merged.json) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/yerushalmi/YER-004.sources.jsonl)
+[Первоисточник](https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Zeraim/Jerusalem%20Talmud%20Kilayim/Hebrew/merged.json) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/yerushalmi/YER-004.sources.jsonl)
 
 ### 8:3:6
 
@@ -354,7 +354,7 @@
 
 **Оговорки:** Reviewed saved primary digital segment, not freshly retrieved entire halakha. Context limited to complete segment unless additional segment explicitly named. Commentaries and manuscript variants not collated; independent review not performed.
 
-[Первоисточник](https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Zeraim/Jerusalem%20Talmud%20Kilayim/Hebrew/merged.json) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/yerushalmi/YER-004.sources.jsonl)
+[Первоисточник](https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Zeraim/Jerusalem%20Talmud%20Kilayim/Hebrew/merged.json) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/yerushalmi/YER-004.sources.jsonl)
 
 ### 8:3:8
 
@@ -368,7 +368,7 @@
 
 **Оговорки:** Reviewed saved primary digital segment, not freshly retrieved entire halakha. Context limited to complete segment unless additional segment explicitly named. Commentaries and manuscript variants not collated; independent review not performed.
 
-[Первоисточник](https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Zeraim/Jerusalem%20Talmud%20Kilayim/Hebrew/merged.json) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/yerushalmi/YER-004.sources.jsonl)
+[Первоисточник](https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Zeraim/Jerusalem%20Talmud%20Kilayim/Hebrew/merged.json) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/yerushalmi/YER-004.sources.jsonl)
 
 
 ## Jerusalem Talmud Makkot
@@ -387,7 +387,7 @@
 
 **Оговорки:** Digital Guggenheimer edition checked; manuscript/printed-page collation not performed. No independent reviewer yet. Ancient composition/event dates not established by the modern edition date. Bracketed terminal halakha: editor reports witness G only; identity/date of G not independently resolved. Parallel and medieval quotation attribution come fro… [полная запись — в реестре]
 
-[Первоисточник](https://www.sefaria.org/Jerusalem_Talmud_Makkot.3.13.2) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/yerushalmi/YER-003.sources.jsonl)
+[Первоисточник](https://www.sefaria.org/Jerusalem_Talmud_Makkot.3.13.2) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/yerushalmi/YER-003.sources.jsonl)
 
 
 ## Jerusalem Talmud Nedarim
@@ -404,7 +404,7 @@
 
 **Оговорки:** Reviewed saved primary digital segment, not freshly retrieved entire halakha. Context limited to complete segment unless additional segment explicitly named. Commentaries and manuscript variants not collated; independent review not performed.
 
-[Первоисточник](https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Nashim/Jerusalem%20Talmud%20Nedarim/Hebrew/merged.json) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/yerushalmi/YER-004.sources.jsonl)
+[Первоисточник](https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Nashim/Jerusalem%20Talmud%20Nedarim/Hebrew/merged.json) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/yerushalmi/YER-004.sources.jsonl)
 
 
 ## Jerusalem Talmud Peah
@@ -421,7 +421,7 @@
 
 **Оговорки:** Reviewed saved primary digital segment, not freshly retrieved entire halakha. Context limited to complete segment unless additional segment explicitly named. Commentaries and manuscript variants not collated; independent review not performed.
 
-[Первоисточник](https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Zeraim/Jerusalem%20Talmud%20Peah/Hebrew/merged.json) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/yerushalmi/YER-004.sources.jsonl)
+[Первоисточник](https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Zeraim/Jerusalem%20Talmud%20Peah/Hebrew/merged.json) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/yerushalmi/YER-004.sources.jsonl)
 
 
 ## Jerusalem Talmud Pesachim
@@ -438,7 +438,7 @@
 
 **Оговорки:** Reviewed saved primary digital segment, not freshly retrieved entire halakha. Context limited to complete segment unless additional segment explicitly named. Commentaries and manuscript variants not collated; independent review not performed.
 
-[Первоисточник](https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Moed/Jerusalem%20Talmud%20Pesachim/Hebrew/merged.json) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/yerushalmi/YER-004.sources.jsonl)
+[Первоисточник](https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Moed/Jerusalem%20Talmud%20Pesachim/Hebrew/merged.json) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/yerushalmi/YER-004.sources.jsonl)
 
 ### 4:3:1
 
@@ -452,7 +452,7 @@
 
 **Оговорки:** Reviewed saved primary digital segment, not freshly retrieved entire halakha. Context limited to complete segment unless additional segment explicitly named. Commentaries and manuscript variants not collated; independent review not performed.
 
-[Первоисточник](https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Moed/Jerusalem%20Talmud%20Pesachim/Hebrew/merged.json) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/yerushalmi/YER-004.sources.jsonl)
+[Первоисточник](https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Moed/Jerusalem%20Talmud%20Pesachim/Hebrew/merged.json) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/yerushalmi/YER-004.sources.jsonl)
 
 ### 4:3:7
 
@@ -466,7 +466,7 @@
 
 **Оговорки:** Reviewed saved primary digital segment, not freshly retrieved entire halakha. Context limited to complete segment unless additional segment explicitly named. Commentaries and manuscript variants not collated; independent review not performed.
 
-[Первоисточник](https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Moed/Jerusalem%20Talmud%20Pesachim/Hebrew/merged.json) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/yerushalmi/YER-004.sources.jsonl)
+[Первоисточник](https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Moed/Jerusalem%20Talmud%20Pesachim/Hebrew/merged.json) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/yerushalmi/YER-004.sources.jsonl)
 
 ### 9:2:2
 
@@ -480,7 +480,7 @@
 
 **Оговорки:** Reviewed saved primary digital segment, not freshly retrieved entire halakha. Context limited to complete segment unless additional segment explicitly named. Commentaries and manuscript variants not collated; independent review not performed.
 
-[Первоисточник](https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Moed/Jerusalem%20Talmud%20Pesachim/Hebrew/merged.json) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/yerushalmi/YER-004.sources.jsonl)
+[Первоисточник](https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Moed/Jerusalem%20Talmud%20Pesachim/Hebrew/merged.json) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/yerushalmi/YER-004.sources.jsonl)
 
 
 ## Jerusalem Talmud Sanhedrin
@@ -497,7 +497,7 @@
 
 **Оговорки:** Complete saved YER-002 export-derived primary segment read; no fresh surrounding halakha retrieved. Merged export provenance not manuscript collation; no traditional commentaries or independent review.
 
-[Первоисточник](https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Nezikin/Jerusalem%20Talmud%20Sanhedrin/Hebrew/merged.json) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/yerushalmi/YER-005.sources.jsonl)
+[Первоисточник](https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Nezikin/Jerusalem%20Talmud%20Sanhedrin/Hebrew/merged.json) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/yerushalmi/YER-005.sources.jsonl)
 
 ### 10:2:25
 
@@ -511,7 +511,7 @@
 
 **Оговорки:** Complete saved YER-002 export-derived primary segment read; no fresh surrounding halakha retrieved. Merged export provenance not manuscript collation; no traditional commentaries or independent review.
 
-[Первоисточник](https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Nezikin/Jerusalem%20Talmud%20Sanhedrin/Hebrew/merged.json) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/yerushalmi/YER-005.sources.jsonl)
+[Первоисточник](https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Nezikin/Jerusalem%20Talmud%20Sanhedrin/Hebrew/merged.json) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/yerushalmi/YER-005.sources.jsonl)
 
 ### 2:6:1
 
@@ -527,7 +527,7 @@
 
 **Оговорки:** Quotation verified against retrieved digital edition only; no scan/manuscript collation. No independent second reviewer or commentary review.
 
-[Первоисточник](https://www.sefaria.org/Jerusalem_Talmud_Sanhedrin.2.6.1) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/yerushalmi/YER-001.sources.jsonl)
+[Первоисточник](https://www.sefaria.org/Jerusalem_Talmud_Sanhedrin.2.6.1) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/yerushalmi/YER-001.sources.jsonl)
 
 ### 2:6:11
 
@@ -543,7 +543,7 @@
 
 **Оговорки:** Quotation verified against retrieved digital edition only; no scan/manuscript collation. No independent second reviewer or commentary review.
 
-[Первоисточник](https://www.sefaria.org/Jerusalem_Talmud_Sanhedrin.2.6.11) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/yerushalmi/YER-001.sources.jsonl)
+[Первоисточник](https://www.sefaria.org/Jerusalem_Talmud_Sanhedrin.2.6.11) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/yerushalmi/YER-001.sources.jsonl)
 
 ### 2:6:3
 
@@ -559,7 +559,7 @@
 
 **Оговорки:** Quotation verified against retrieved digital edition only; no scan/manuscript collation. No independent second reviewer or commentary review.
 
-[Первоисточник](https://www.sefaria.org/Jerusalem_Talmud_Sanhedrin.2.6.3) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/yerushalmi/YER-001.sources.jsonl)
+[Первоисточник](https://www.sefaria.org/Jerusalem_Talmud_Sanhedrin.2.6.3) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/yerushalmi/YER-001.sources.jsonl)
 
 ### 2:6:5
 
@@ -575,7 +575,7 @@
 
 **Оговорки:** Quotation verified against retrieved digital edition only; no scan/manuscript collation. No independent second reviewer or commentary review.
 
-[Первоисточник](https://www.sefaria.org/Jerusalem_Talmud_Sanhedrin.2.6.5) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/yerushalmi/YER-001.sources.jsonl)
+[Первоисточник](https://www.sefaria.org/Jerusalem_Talmud_Sanhedrin.2.6.5) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/yerushalmi/YER-001.sources.jsonl)
 
 ### 6:1:1
 
@@ -591,7 +591,7 @@
 
 **Оговорки:** Quotation verified against retrieved digital edition only; no scan/manuscript collation. No independent second reviewer or commentary review.
 
-[Первоисточник](https://www.sefaria.org/Jerusalem_Talmud_Sanhedrin.6.1.1) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/yerushalmi/YER-001.sources.jsonl)
+[Первоисточник](https://www.sefaria.org/Jerusalem_Talmud_Sanhedrin.6.1.1) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/yerushalmi/YER-001.sources.jsonl)
 
 ### 9:2:2
 
@@ -605,7 +605,7 @@
 
 **Оговорки:** Complete saved YER-002 export-derived primary segment read; no fresh surrounding halakha retrieved. Merged export provenance not manuscript collation; no traditional commentaries or independent review.
 
-[Первоисточник](https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Nezikin/Jerusalem%20Talmud%20Sanhedrin/Hebrew/merged.json) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/yerushalmi/YER-005.sources.jsonl)
+[Первоисточник](https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Nezikin/Jerusalem%20Talmud%20Sanhedrin/Hebrew/merged.json) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/yerushalmi/YER-005.sources.jsonl)
 
 
 ## Jerusalem Talmud Shabbat
@@ -622,7 +622,7 @@
 
 **Оговорки:** Complete saved YER-002 export-derived primary segment read; no fresh surrounding halakha retrieved. Merged export provenance not manuscript collation; no traditional commentaries or independent review.
 
-[Первоисточник](https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Moed/Jerusalem%20Talmud%20Shabbat/Hebrew/merged.json) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/yerushalmi/YER-005.sources.jsonl)
+[Первоисточник](https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Moed/Jerusalem%20Talmud%20Shabbat/Hebrew/merged.json) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/yerushalmi/YER-005.sources.jsonl)
 
 ### 5:1:1
 
@@ -636,7 +636,7 @@
 
 **Оговорки:** Complete saved YER-002 export-derived primary segment read; no fresh surrounding halakha retrieved. Merged export provenance not manuscript collation; no traditional commentaries or independent review.
 
-[Первоисточник](https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Moed/Jerusalem%20Talmud%20Shabbat/Hebrew/merged.json) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/yerushalmi/YER-005.sources.jsonl)
+[Первоисточник](https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Moed/Jerusalem%20Talmud%20Shabbat/Hebrew/merged.json) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/yerushalmi/YER-005.sources.jsonl)
 
 ### 5:1:2
 
@@ -650,7 +650,7 @@
 
 **Оговорки:** Complete saved YER-002 export-derived primary segment read; no fresh surrounding halakha retrieved. Merged export provenance not manuscript collation; no traditional commentaries or independent review.
 
-[Первоисточник](https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Moed/Jerusalem%20Talmud%20Shabbat/Hebrew/merged.json) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/yerushalmi/YER-005.sources.jsonl)
+[Первоисточник](https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Moed/Jerusalem%20Talmud%20Shabbat/Hebrew/merged.json) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/yerushalmi/YER-005.sources.jsonl)
 
 ### 5:1:6
 
@@ -664,7 +664,7 @@
 
 **Оговорки:** Complete saved YER-002 export-derived primary segment read; no fresh surrounding halakha retrieved. Merged export provenance not manuscript collation; no traditional commentaries or independent review.
 
-[Первоисточник](https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Moed/Jerusalem%20Talmud%20Shabbat/Hebrew/merged.json) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/yerushalmi/YER-005.sources.jsonl)
+[Первоисточник](https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Moed/Jerusalem%20Talmud%20Shabbat/Hebrew/merged.json) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/yerushalmi/YER-005.sources.jsonl)
 
 ### 5:3:4
 
@@ -678,7 +678,7 @@
 
 **Оговорки:** Complete saved YER-002 export-derived primary segment read; no fresh surrounding halakha retrieved. Merged export provenance not manuscript collation; no traditional commentaries or independent review.
 
-[Первоисточник](https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Moed/Jerusalem%20Talmud%20Shabbat/Hebrew/merged.json) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/yerushalmi/YER-005.sources.jsonl)
+[Первоисточник](https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Moed/Jerusalem%20Talmud%20Shabbat/Hebrew/merged.json) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/yerushalmi/YER-005.sources.jsonl)
 
 ### 6:1:3
 
@@ -692,7 +692,7 @@
 
 **Оговорки:** Complete saved YER-002 export-derived primary segment read; no fresh surrounding halakha retrieved. Merged export provenance not manuscript collation; no traditional commentaries or independent review.
 
-[Первоисточник](https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Moed/Jerusalem%20Talmud%20Shabbat/Hebrew/merged.json) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/yerushalmi/YER-007.sources.jsonl)
+[Первоисточник](https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Moed/Jerusalem%20Talmud%20Shabbat/Hebrew/merged.json) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/yerushalmi/YER-007.sources.jsonl)
 
 ### 8:2:3
 
@@ -706,7 +706,7 @@
 
 **Оговорки:** Complete saved YER-002 export-derived primary segment read; no fresh surrounding halakha retrieved. Merged export provenance not manuscript collation; no traditional commentaries or independent review.
 
-[Первоисточник](https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Moed/Jerusalem%20Talmud%20Shabbat/Hebrew/merged.json) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/yerushalmi/YER-007.sources.jsonl)
+[Первоисточник](https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Moed/Jerusalem%20Talmud%20Shabbat/Hebrew/merged.json) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/yerushalmi/YER-007.sources.jsonl)
 
 
 ## Jerusalem Talmud Shekalim
@@ -723,7 +723,7 @@
 
 **Оговорки:** Complete saved YER-002 export-derived primary segment read; no fresh surrounding halakha retrieved. Merged export provenance not manuscript collation; no traditional commentaries or independent review.
 
-[Первоисточник](https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Moed/Jerusalem%20Talmud%20Shekalim/Hebrew/merged.json) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/yerushalmi/YER-007.sources.jsonl)
+[Первоисточник](https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Moed/Jerusalem%20Talmud%20Shekalim/Hebrew/merged.json) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/yerushalmi/YER-007.sources.jsonl)
 
 
 ## Jerusalem Talmud Sotah
@@ -740,7 +740,7 @@
 
 **Оговорки:** Complete saved YER-002 export-derived primary segment read; no fresh surrounding halakha retrieved. Merged export provenance not manuscript collation; no traditional commentaries or independent review.
 
-[Первоисточник](https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Nashim/Jerusalem%20Talmud%20Sotah/Hebrew/merged.json) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/yerushalmi/YER-008.sources.jsonl)
+[Первоисточник](https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Nashim/Jerusalem%20Talmud%20Sotah/Hebrew/merged.json) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/yerushalmi/YER-008.sources.jsonl)
 
 ### 8:3:1
 
@@ -756,7 +756,7 @@
 
 **Оговорки:** Digital Guggenheimer edition checked; manuscript/printed-page collation not performed. No independent reviewer yet. Ancient composition/event dates not established by the modern edition date.
 
-[Первоисточник](https://www.sefaria.org/Jerusalem_Talmud_Sotah.8.3.1) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/yerushalmi/YER-003.sources.jsonl)
+[Первоисточник](https://www.sefaria.org/Jerusalem_Talmud_Sotah.8.3.1) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/yerushalmi/YER-003.sources.jsonl)
 
 
 ## Jerusalem Talmud Sukkah
@@ -775,7 +775,7 @@
 
 **Оговорки:** Digital Guggenheimer edition checked; manuscript/printed-page collation not performed. No independent reviewer yet. Ancient composition/event dates not established by the modern edition date.
 
-[Первоисточник](https://www.sefaria.org/Jerusalem_Talmud_Sukkah.5.1.5) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/yerushalmi/YER-003.sources.jsonl)
+[Первоисточник](https://www.sefaria.org/Jerusalem_Talmud_Sukkah.5.1.5) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/yerushalmi/YER-003.sources.jsonl)
 
 
 ## Jerusalem Talmud Taanit
@@ -792,7 +792,7 @@
 
 **Оговорки:** Complete saved YER-002 export-derived primary segment read; no fresh surrounding halakha retrieved. Merged export provenance not manuscript collation; no traditional commentaries or independent review.
 
-[Первоисточник](https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Moed/Jerusalem%20Talmud%20Taanit/Hebrew/merged.json) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/yerushalmi/YER-008.sources.jsonl)
+[Первоисточник](https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Moed/Jerusalem%20Talmud%20Taanit/Hebrew/merged.json) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/yerushalmi/YER-008.sources.jsonl)
 
 
 ## Jerusalem Talmud Terumot
@@ -809,7 +809,7 @@
 
 **Оговорки:** Complete saved YER-002 export-derived primary segment read; no fresh surrounding halakha retrieved. Merged export provenance not manuscript collation; no traditional commentaries or independent review.
 
-[Первоисточник](https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Zeraim/Jerusalem%20Talmud%20Terumot/Hebrew/merged.json) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/yerushalmi/YER-008.sources.jsonl)
+[Первоисточник](https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Zeraim/Jerusalem%20Talmud%20Terumot/Hebrew/merged.json) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/yerushalmi/YER-008.sources.jsonl)
 
 
 ## Jerusalem Talmud Yoma
@@ -826,5 +826,5 @@
 
 **Оговорки:** Complete saved YER-002 export-derived primary segment read; no fresh surrounding halakha retrieved. Merged export provenance not manuscript collation; no traditional commentaries or independent review.
 
-[Первоисточник](https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Moed/Jerusalem%20Talmud%20Yoma/Hebrew/merged.json) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/yerushalmi/YER-008.sources.jsonl)
+[Первоисточник](https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Moed/Jerusalem%20Talmud%20Yoma/Hebrew/merged.json) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/yerushalmi/YER-008.sources.jsonl)
 

@@ -20,7 +20,7 @@
 - Комментарии, Перек Шира, поздняя литература и каббала: ограниченные авторские и тематические партии; центральные места проверялись отдельно.
 - Межкультурное сравнение: шесть именованных первичных текстовых узлов.
 
-Каждая запись в `data/sources.jsonl` содержит источник, локатор, цитату, контекст, URL и статусы проверки. `data/sources.csv` — механический табличный экспорт. Поисковые диапазоны и ограничения сохранены в `data/coverage.json` и отчётах `research/`.
+Каждая запись в `research/horse/data/sources.jsonl` содержит источник, локатор, цитату, контекст, URL и статусы проверки. `research/horse/data/sources.csv` — механический табличный экспорт. Поисковые диапазоны и ограничения сохранены в `research/horse/data/coverage.json` и отчётах `research/`.
 
 ## Танах и традиционные комментарии
 
@@ -70,8 +70,8 @@
 ## Навигация
 
 - Тематический синтез: `reports/horse/SYN-001.report.md`
-- Сравнительный отчёт: `research/comparative/CMP-001.report.md`
+- Сравнительный отчёт: `research/horse/comparative/CMP-001.report.md`
 - Финальный аудит: `reports/horse/AUD-001.report.md`
 - Каталог Танаха: `reports/horse/tanakh-catalogue.md`
-- Реестр: `data/sources.jsonl`, `data/sources.csv`
-- Покрытие: `data/coverage.json`
+- Реестр: `research/horse/data/sources.jsonl`, `research/horse/data/sources.csv`
+- Покрытие: `research/horse/data/coverage.json`

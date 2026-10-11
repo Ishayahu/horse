@@ -2,7 +2,7 @@
 Дата первого формирования: 2026-10-11. **Это сводный навигационный каталог, собранный из уже существующих проверенных записей исследования HORSE-RESEARCH-001, а не новая независимая проверка первоисточников.**
 По структуре сопоставим с [каталогом Танаха](tanakh-catalogue.md): точный локатор, исходная цитата, контекст, интерпретация, ссылки и статусы проверки. Мидраши, классические комментарии, поздняя литература, каббала и «Перек Шира» собраны здесь; Талмуды вынесены в два связанных тома (см. ниже).
 **Ограничение:** отдельные цитаты больших комментариев могут быть сокращены для читаемости — см. полный исходный реестр; «контекст проверен» не тождественно независимому аудиту толкования. Кандидаты без первичной проверки не включены. Сведения о Хида `ככר לאדן` остаются нерешённым пробелом, а не проверенной цитатой.
-**Источник истины:** [data/sources.jsonl](../../data/sources.jsonl), [data/coverage.json](../../data/coverage.json), [заключительный аудит](AUD-001.report.md). Каталог не подменяет эти реестры.
+**Источник истины:** [research/horse/data/sources.jsonl](../../research/horse/data/sources.jsonl), [research/horse/data/coverage.json](../../research/horse/data/coverage.json), [заключительный аудит](AUD-001.report.md). Каталог не подменяет эти реестры.
 ## Указатель разделов
 - Поздняя литература и мусар
 - Каббала и школа Аризаля
@@ -38,7 +38,7 @@ _Записей из проверенных партий: 16. Данные ис�
 
 [Первоисточник](https://storage.googleapis.com/sefaria-export/json/Tanakh/Acharonim%20on%20Tanakh/Aderet%20Eliyahu/Aderet%20Eliyahu/Hebrew/merged.json)
 
-[Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/later-literature/LAT-002.sources.jsonl)
+[Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/later-literature/LAT-002.sources.jsonl)
 
 
 ### Be'er HaGolah — Well 6:3:1
@@ -61,7 +61,7 @@ _Записей из проверенных партий: 16. Данные ис�
 
 [Первоисточник](https://storage.googleapis.com/sefaria-export/json/Jewish%20Thought/Acharonim/Maharal/Be%27er%20HaGolah/Hebrew/merged.json)
 
-[Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/later-literature/LAT-001.sources.jsonl)
+[Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/later-literature/LAT-001.sources.jsonl)
 
 
 ### Chomat Anakh on II Kings — 6:18:1
@@ -84,7 +84,7 @@ _Записей из проверенных партий: 16. Данные ис�
 
 [Первоисточник](https://storage.googleapis.com/sefaria-export/json/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Prophets/Chomat%20Anakh%20on%20II%20Kings/Hebrew/merged.json)
 
-[Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/later-literature/LAT-001.sources.jsonl)
+[Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/later-literature/LAT-001.sources.jsonl)
 
 
 ### Chomat Anakh on Torah — Genesis 50:9:1
@@ -107,7 +107,7 @@ _Записей из проверенных партий: 16. Данные ис�
 
 [Первоисточник](https://storage.googleapis.com/sefaria-export/json/Tanakh/Acharonim%20on%20Tanakh/Chida/Chomat%20Anakh/Chomat%20Anakh%20on%20Torah/Hebrew/merged.json)
 
-[Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/later-literature/LAT-002.sources.jsonl)
+[Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/later-literature/LAT-002.sources.jsonl)
 
 
 ### Degel Machaneh Ephraim — Tzav 4
@@ -130,7 +130,7 @@ _Записей из проверенных партий: 16. Данные ис�
 
 [Первоисточник](https://storage.googleapis.com/sefaria-export/json/Chasidut/Other%20Chasidut%20Works/Degel%20Machaneh%20Ephraim/Hebrew/merged.json)
 
-[Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/later-literature/LAT-002.sources.jsonl)
+[Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/later-literature/LAT-002.sources.jsonl)
 
 
 ### Gevurot Hashem — 29:9 (context 29:4–12)
@@ -153,7 +153,7 @@ _Записей из проверенных партий: 16. Данные ис�
 
 [Первоисточник](https://storage.googleapis.com/sefaria-export/json/Jewish%20Thought/Acharonim/Maharal/Gevurot%20Hashem/Hebrew/merged.json)
 
-[Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/later-literature/LAT-001.sources.jsonl)
+[Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/later-literature/LAT-001.sources.jsonl)
 
 
 ### Gevurot Hashem — 47:53
@@ -176,7 +176,7 @@ _Записей из проверенных партий: 16. Данные ис�
 
 [Первоисточник](https://storage.googleapis.com/sefaria-export/json/Jewish%20Thought/Acharonim/Maharal/Gevurot%20Hashem/Hebrew/merged.json)
 
-[Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/later-literature/LAT-001.sources.jsonl)
+[Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/later-literature/LAT-001.sources.jsonl)
 
 
 ### Guide for the Perplexed — I:70:4 (context I:70:1–9)
@@ -199,7 +199,7 @@ _Записей из проверенных партий: 16. Данные ис�
 
 [Первоисточник](https://storage.googleapis.com/sefaria-export/json/Jewish%20Thought/Rishonim/Guide%20for%20the%20Perplexed/Hebrew/Moreh%20Nevuchim%2C%20translated%20by%20Ibn%20Tibon.json)
 
-[Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/later-literature/LAT-001.sources.jsonl)
+[Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/later-literature/LAT-001.sources.jsonl)
 
 
 ### Guide for the Perplexed — I:70:7
@@ -222,7 +222,7 @@ _Записей из проверенных партий: 16. Данные ис�
 
 [Первоисточник](https://storage.googleapis.com/sefaria-export/json/Jewish%20Thought/Rishonim/Guide%20for%20the%20Perplexed/Hebrew/Moreh%20Nevuchim%2C%20translated%20by%20Ibn%20Tibon.json)
 
-[Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/later-literature/LAT-001.sources.jsonl)
+[Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/later-literature/LAT-001.sources.jsonl)
 
 
 ### Guide for the Perplexed — II:43:4
@@ -245,7 +245,7 @@ _Записей из проверенных партий: 16. Данные ис�
 
 [Первоисточник](https://storage.googleapis.com/sefaria-export/json/Jewish%20Thought/Rishonim/Guide%20for%20the%20Perplexed/Hebrew/Moreh%20Nevuchim%2C%20translated%20by%20Ibn%20Tibon.json)
 
-[Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/later-literature/LAT-001.sources.jsonl)
+[Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/later-literature/LAT-001.sources.jsonl)
 
 
 ### Kedushat Levi — Shir HaShirim 12
@@ -268,7 +268,7 @@ _Записей из проверенных партий: 16. Данные ис�
 
 [Первоисточник](https://storage.googleapis.com/sefaria-export/json/Chasidut/Early%20Works/Kedushat%20Levi/Hebrew/merged.json)
 
-[Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/later-literature/LAT-002.sources.jsonl)
+[Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/later-literature/LAT-002.sources.jsonl)
 
 
 ### Kedushat Levi — Shir HaShirim 13
@@ -291,7 +291,7 @@ _Записей из проверенных партий: 16. Данные ис�
 
 [Первоисточник](https://storage.googleapis.com/sefaria-export/json/Chasidut/Early%20Works/Kedushat%20Levi/Hebrew/merged.json)
 
-[Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/later-literature/LAT-002.sources.jsonl)
+[Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/later-literature/LAT-002.sources.jsonl)
 
 
 ### Midbar Kedemot — Letter Mem:38
@@ -314,7 +314,7 @@ _Записей из проверенных партий: 16. Данные ис�
 
 [Первоисточник](https://storage.googleapis.com/sefaria-export/json/Reference/Encyclopedic%20Works/Midbar%20Kedemot/Hebrew/merged.json)
 
-[Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/later-literature/LAT-001.sources.jsonl)
+[Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/later-literature/LAT-001.sources.jsonl)
 
 
 ### Midbar Kedemot — Letter Peh:1
@@ -337,7 +337,7 @@ _Записей из проверенных партий: 16. Данные ис�
 
 [Первоисточник](https://storage.googleapis.com/sefaria-export/json/Reference/Encyclopedic%20Works/Midbar%20Kedemot/Hebrew/merged.json)
 
-[Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/later-literature/LAT-001.sources.jsonl)
+[Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/later-literature/LAT-001.sources.jsonl)
 
 
 ### Midbar Kedemot — Letter Zayin:8
@@ -360,7 +360,7 @@ _Записей из проверенных партий: 16. Данные ис�
 
 [Первоисточник](https://storage.googleapis.com/sefaria-export/json/Reference/Encyclopedic%20Works/Midbar%20Kedemot/Hebrew/merged.json)
 
-[Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/later-literature/LAT-001.sources.jsonl)
+[Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/later-literature/LAT-001.sources.jsonl)
 
 
 ### Nachal Kedumim on Torah — Numbers 22:32:1
@@ -383,7 +383,7 @@ _Записей из проверенных партий: 16. Данные ис�
 
 [Первоисточник](https://storage.googleapis.com/sefaria-export/json/Tanakh/Acharonim%20on%20Tanakh/Chida/Nachal%20Kedumim%20on%20Torah/Hebrew/merged.json)
 
-[Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/later-literature/LAT-002.sources.jsonl)
+[Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/later-literature/LAT-002.sources.jsonl)
 
 
 
@@ -411,7 +411,7 @@ _Записей из проверенных партий: 10. Данные ис�
 
 [Первоисточник](https://www.sefaria.org/api/texts/Pri%20Etz%20Chaim%2C%20Gate%20of%20Songs.6.8?lang=he&context=1)
 
-[Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/kabbalah/KAB-002.sources.jsonl)
+[Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/kabbalah/KAB-002.sources.jsonl)
 
 
 ### Sefer Etz Chaim — Sefer Etz Chaim 49:7:2
@@ -434,7 +434,7 @@ _Записей из проверенных партий: 10. Данные ис�
 
 [Первоисточник](https://www.sefaria.org/api/texts/Sefer%20Etz%20Chaim.49.7.2?lang=he&context=1)
 
-[Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/kabbalah/KAB-002.sources.jsonl)
+[Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/kabbalah/KAB-002.sources.jsonl)
 
 
 ### Sha'ar HaPesukim, Book of Psalms — Sha'ar HaPesukim, Book of Psalms 58
@@ -457,7 +457,7 @@ _Записей из проверенных партий: 10. Данные ис�
 
 [Первоисточник](https://www.sefaria.org/api/texts/Sha%27ar%20HaPesukim%2C%20Book%20of%20Psalms.58?lang=he&context=1)
 
-[Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/kabbalah/KAB-002.sources.jsonl)
+[Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/kabbalah/KAB-002.sources.jsonl)
 
 
 ### Sha'ar HaPesukim, Book of Psalms — Sha'ar HaPesukim, Book of Psalms 59
@@ -480,7 +480,7 @@ _Записей из проверенных партий: 10. Данные ис�
 
 [Первоисточник](https://www.sefaria.org/api/texts/Sha%27ar%20HaPesukim%2C%20Book%20of%20Psalms.59?lang=he&context=1)
 
-[Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/kabbalah/KAB-002.sources.jsonl)
+[Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/kabbalah/KAB-002.sources.jsonl)
 
 
 ### Sha'ar Ma'amarei Rashbi, Parashat Kedoshim — Sha'ar Ma'amarei Rashbi, Parashat Kedoshim 1
@@ -503,7 +503,7 @@ _Записей из проверенных партий: 10. Данные ис�
 
 [Первоисточник](https://www.sefaria.org/api/texts/Sha%27ar%20Ma%27amarei%20Rashbi%2C%20Parashat%20Kedoshim.1?lang=he&context=1)
 
-[Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/kabbalah/KAB-002.sources.jsonl)
+[Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/kabbalah/KAB-002.sources.jsonl)
 
 
 ### Sha'ar Ma'amarei Rashbi, Parashat Kedoshim — Sha'ar Ma'amarei Rashbi, Parashat Kedoshim 2
@@ -526,7 +526,7 @@ _Записей из проверенных партий: 10. Данные ис�
 
 [Первоисточник](https://www.sefaria.org/api/texts/Sha%27ar%20Ma%27amarei%20Rashbi%2C%20Parashat%20Kedoshim.2?lang=he&context=1)
 
-[Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/kabbalah/KAB-002.sources.jsonl)
+[Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/kabbalah/KAB-002.sources.jsonl)
 
 
 ### Sha'ar Ruach HaKodesh — Sha'ar Ruach HaKodesh 129:20
@@ -549,7 +549,7 @@ _Записей из проверенных партий: 10. Данные ис�
 
 [Первоисточник](https://www.sefaria.org/api/texts/Sha%27ar%20Ruach%20HaKodesh.129.20?lang=he&context=1)
 
-[Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/kabbalah/KAB-002.sources.jsonl)
+[Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/kabbalah/KAB-002.sources.jsonl)
 
 
 ### Tikkunei Zohar — 3b:8; export one-based path [6,8]; daf conversion 6=3b
@@ -572,7 +572,7 @@ _Записей из проверенных партий: 10. Данные ис�
 
 [Первоисточник](https://www.sefaria.org/Tikkunei_Zohar.3b.8)
 
-[Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/kabbalah/KAB-001.sources.jsonl)
+[Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/kabbalah/KAB-001.sources.jsonl)
 
 
 ### Zohar — Beshalach 15:22; export path [Beshalach,15,22]
@@ -595,7 +595,7 @@ _Записей из проверенных партий: 10. Данные ис�
 
 [Первоисточник](https://www.sefaria.org/Zohar,_Beshalach.15.22)
 
-[Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/kabbalah/KAB-001.sources.jsonl)
+[Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/kabbalah/KAB-001.sources.jsonl)
 
 
 ### Zohar — Vayigash 12:11; export path [Vayigash,12,11]
@@ -618,7 +618,7 @@ _Записей из проверенных партий: 10. Данные ис�
 
 [Первоисточник](https://www.sefaria.org/Zohar,_Vayigash.12.11)
 
-[Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/kabbalah/KAB-001.sources.jsonl)
+[Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/kabbalah/KAB-001.sources.jsonl)
 
 
 
@@ -646,7 +646,7 @@ _Записей из проверенных партий: 4. Данные исх
 
 [Первоисточник](https://www.daat.ac.il/daat/vl/betelo/betelo28.pdf)
 
-[Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/perek-shira/PSH-002.sources.jsonl)
+[Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/perek-shira/PSH-002.sources.jsonl)
 
 
 ### Beit Elohim, commentary on Perek Shira — סוס אומר הנה כעיני וגו׳; online lines222–223
@@ -669,7 +669,7 @@ _Записей из проверенных партий: 4. Данные исх
 
 [Первоисточник](https://wiki.jewishbooks.org.il/mediawiki/index.php?title=ביאור_המבי%22ט_לפרק_שירה)
 
-[Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/perek-shira/PSH-001.sources.jsonl)
+[Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/perek-shira/PSH-001.sources.jsonl)
 
 
 ### Perek Shira — chapter 5, סוס אומר
@@ -692,7 +692,7 @@ _Записей из проверенных партий: 4. Данные исх
 
 [Первоисточник](https://he.wikisource.org/wiki/פרק_שירה_ה)
 
-[Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/perek-shira/PSH-001.sources.jsonl)
+[Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/perek-shira/PSH-001.sources.jsonl)
 
 
 ### Psalms — 123:2
@@ -715,7 +715,7 @@ _Записей из проверенных партий: 4. Данные исх
 
 [Первоисточник](https://he.wikisource.org/wiki/תהלים_קכג)
 
-[Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/perek-shira/PSH-001.sources.jsonl)
+[Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/perek-shira/PSH-001.sources.jsonl)
 
 
 
@@ -737,7 +737,7 @@ _Проверенных записей в исходных партиях: 16. �
 
 **Оговорки:** Online edition only; no manuscript/print collation. Historical composition/redaction dating not established by narrated event. Central supernatural conclusions require independent review.
 
-[Первоисточник](https://www.sefaria.org/api/texts/Bereshit%20Rabbah.52.7?lang=he&context=1) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/midrash/MID-004.sources.jsonl)
+[Первоисточник](https://www.sefaria.org/api/texts/Bereshit%20Rabbah.52.7?lang=he&context=1) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/midrash/MID-004.sources.jsonl)
 
 ### Bereshit Rabbah — Bereshit Rabbah 68:9
 
@@ -753,7 +753,7 @@ _Проверенных записей в исходных партиях: 16. �
 
 **Оговорки:** Online edition only; no manuscript/print collation. Historical composition/redaction dating not established by narrated event. Central supernatural conclusions require independent review.
 
-[Первоисточник](https://www.sefaria.org/api/texts/Bereshit%20Rabbah.68.9?lang=he&context=1) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/midrash/MID-004.sources.jsonl)
+[Первоисточник](https://www.sefaria.org/api/texts/Bereshit%20Rabbah.68.9?lang=he&context=1) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/midrash/MID-004.sources.jsonl)
 
 ### Bereshit Rabbah — Bereshit Rabbah 75:10
 
@@ -769,7 +769,7 @@ _Проверенных записей в исходных партиях: 16. �
 
 **Оговорки:** Online edition only; no manuscript/print collation. Historical composition/redaction dating not established by narrated event. Central supernatural conclusions require independent review.
 
-[Первоисточник](https://www.sefaria.org/api/texts/Bereshit%20Rabbah.75.10?lang=he&context=1) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/midrash/MID-004.sources.jsonl)
+[Первоисточник](https://www.sefaria.org/api/texts/Bereshit%20Rabbah.75.10?lang=he&context=1) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/midrash/MID-004.sources.jsonl)
 
 ### Mekhilta de-Rabbi Ishmael — Exodus14:29; Wikisource289
 
@@ -785,7 +785,7 @@ _Проверенных записей в исходных партиях: 16. �
 
 **Оговорки:** No printed-page/manuscript collation. Interpretive grammar conclusions require independent review.
 
-[Первоисточник](https://he.wikisource.org/wiki/מכילתא_על_שמות_יד) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/midrash/MID-003.sources.jsonl)
+[Первоисточник](https://he.wikisource.org/wiki/מכילתא_על_שמות_יד) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/midrash/MID-003.sources.jsonl)
 
 ### Mekhilta de-Rabbi Ishmael — Shirata; Exodus 15:1, horse/rider unit; Wikisource lines 164–166
 
@@ -801,7 +801,7 @@ _Проверенных записей в исходных партиях: 16. �
 
 **Оговорки:** Website marks transcription unreviewed; no manuscript/printed edition collation. Historical dating and textual stratification unverified. Independent review required before central supernatural conclusions.
 
-[Первоисточник](https://he.wikisource.org/wiki/מכילתא_על_שמות_טו) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/midrash/MID-001.sources.jsonl)
+[Первоисточник](https://he.wikisource.org/wiki/מכילתא_על_שמות_טו) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/midrash/MID-001.sources.jsonl)
 
 ### Mekhilta de-Rabbi Ishmael — Shirata; Exodus 15:1, joint judgment unit; Wikisource lines 165–166
 
@@ -817,7 +817,7 @@ _Проверенных записей в исходных партиях: 16. �
 
 **Оговорки:** Website marks transcription unreviewed; no manuscript/printed edition collation. Historical dating and textual stratification unverified. Independent review required before central supernatural conclusions.
 
-[Первоисточник](https://he.wikisource.org/wiki/מכילתא_על_שמות_טו) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/midrash/MID-001.sources.jsonl)
+[Первоисточник](https://he.wikisource.org/wiki/מכילתא_על_שמות_טו) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/midrash/MID-001.sources.jsonl)
 
 ### Midrash Tanchuma, Bereshit — Midrash Tanchuma, Bereshit 7:11
 
@@ -833,7 +833,7 @@ _Проверенных записей в исходных партиях: 16. �
 
 **Оговорки:** Online edition only; no manuscript/print collation. Historical composition/redaction dating not established by narrated event. Central supernatural conclusions require independent review.
 
-[Первоисточник](https://www.sefaria.org/api/texts/Midrash%20Tanchuma%2C%20Bereshit.7.11?lang=he&context=1) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/midrash/MID-004.sources.jsonl)
+[Первоисточник](https://www.sefaria.org/api/texts/Midrash%20Tanchuma%2C%20Bereshit.7.11?lang=he&context=1) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/midrash/MID-004.sources.jsonl)
 
 ### Midrash Tehillim — Midrash Tehillim 18:12
 
@@ -849,7 +849,7 @@ _Проверенных записей в исходных партиях: 16. �
 
 **Оговорки:** Online edition only; no manuscript/print collation. Historical composition/redaction dating not established by narrated event. Central supernatural conclusions require independent review.
 
-[Первоисточник](https://www.sefaria.org/api/texts/Midrash%20Tehillim.18.12?lang=he&context=1) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/midrash/MID-004.sources.jsonl)
+[Первоисточник](https://www.sefaria.org/api/texts/Midrash%20Tehillim.18.12?lang=he&context=1) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/midrash/MID-004.sources.jsonl)
 
 ### Midrash Tehillim — Midrash Tehillim 21:2
 
@@ -865,7 +865,7 @@ _Проверенных записей в исходных партиях: 16. �
 
 **Оговорки:** Online edition only; no manuscript/print collation. Historical composition/redaction dating not established by narrated event. Central supernatural conclusions require independent review.
 
-[Первоисточник](https://www.sefaria.org/api/texts/Midrash%20Tehillim.21.2?lang=he&context=1) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/midrash/MID-004.sources.jsonl)
+[Первоисточник](https://www.sefaria.org/api/texts/Midrash%20Tehillim.21.2?lang=he&context=1) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/midrash/MID-004.sources.jsonl)
 
 ### Pesikta Rabbati — Pesikta Rabbati 12:1; chapter12 single section in export; exact-section API separately checked
 
@@ -881,7 +881,7 @@ _Проверенных записей в исходных партиях: 16. �
 
 **Оговорки:** Online edition only; no manuscript/print collation. Historical composition/redaction dating not established by narrated event. Central supernatural conclusions require independent review.
 
-[Первоисточник](https://www.sefaria.org/api/texts/Pesikta%20Rabbati.12?lang=he&context=1) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/midrash/MID-004.sources.jsonl)
+[Первоисточник](https://www.sefaria.org/api/texts/Pesikta%20Rabbati.12?lang=he&context=1) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/midrash/MID-004.sources.jsonl)
 
 ### Pirkei DeRabbi Eliezer — Pirkei DeRabbi Eliezer 42:6
 
@@ -897,7 +897,7 @@ _Проверенных записей в исходных партиях: 16. �
 
 **Оговорки:** Online edition only; no manuscript/print collation. Historical composition/redaction dating not established by narrated event. Central supernatural conclusions require independent review.
 
-[Первоисточник](https://www.sefaria.org/api/texts/Pirkei%20DeRabbi%20Eliezer.42.6?lang=he&context=1) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/midrash/MID-004.sources.jsonl)
+[Первоисточник](https://www.sefaria.org/api/texts/Pirkei%20DeRabbi%20Eliezer.42.6?lang=he&context=1) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/midrash/MID-004.sources.jsonl)
 
 ### Shemot Rabbah — 23:14
 
@@ -913,7 +913,7 @@ _Проверенных записей в исходных партиях: 16. �
 
 **Оговорки:** Website marks transcription unreviewed; no manuscript/printed edition collation. Historical dating and textual stratification unverified. Independent review required before central supernatural conclusions.
 
-[Первоисточник](https://he.wikisource.org/wiki/שמות_רבה_כג_יד) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/midrash/MID-001.sources.jsonl)
+[Первоисточник](https://he.wikisource.org/wiki/שמות_רבה_כג_יד) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/midrash/MID-001.sources.jsonl)
 
 ### Shemot Rabbah — 23:15; Wikisource chapter lines 161–163
 
@@ -929,7 +929,7 @@ _Проверенных записей в исходных партиях: 16. �
 
 **Оговорки:** Website marks transcription unreviewed; no manuscript/printed edition collation. Historical dating and textual stratification unverified. Independent review required before central supernatural conclusions.
 
-[Первоисточник](https://he.wikisource.org/wiki/שמות_רבה_כג) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/midrash/MID-001.sources.jsonl)
+[Первоисточник](https://he.wikisource.org/wiki/שמות_רבה_כג) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/midrash/MID-001.sources.jsonl)
 
 ### Shir HaShirim Rabbah — 1:9:4; Wikisource117–121
 
@@ -945,7 +945,7 @@ _Проверенных записей в исходных партиях: 16. �
 
 **Оговорки:** No printed-page/manuscript collation. Interpretive grammar conclusions require independent review.
 
-[Первоисточник](https://he.wikisource.org/wiki/שיר_השירים_רבה_א_ט) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/midrash/MID-003.sources.jsonl)
+[Первоисточник](https://he.wikisource.org/wiki/שיר_השירים_רבה_א_ט) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/midrash/MID-003.sources.jsonl)
 
 ### Shir HaShirim Rabbah — 1:9:4; Wikisource120–121
 
@@ -961,7 +961,7 @@ _Проверенных записей в исходных партиях: 16. �
 
 **Оговорки:** No printed-page/manuscript collation. Interpretive grammar conclusions require independent review.
 
-[Первоисточник](https://he.wikisource.org/wiki/שיר_השירים_רבה_א_ט) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/midrash/MID-003.sources.jsonl)
+[Первоисточник](https://he.wikisource.org/wiki/שיר_השירים_רבה_א_ט) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/midrash/MID-003.sources.jsonl)
 
 ### Sifrei Devarim — Deuteronomy 17:16; Wikisource section לב (piska 158 in discovered Sefaria indexing, unverified mapping)
 
@@ -977,7 +977,7 @@ _Проверенных записей в исходных партиях: 16. �
 
 **Оговорки:** Website marks transcription unreviewed; no manuscript/printed edition collation. Historical dating and textual stratification unverified. Independent review required before central supernatural conclusions.
 
-[Первоисточник](https://he.wikisource.org/wiki/ספרי_על_דברים_יז_טז) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/midrash/MID-001.sources.jsonl)
+[Первоисточник](https://he.wikisource.org/wiki/ספרי_על_דברים_יז_טז) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/midrash/MID-001.sources.jsonl)
 
 
 ## Классические комментарии
@@ -998,7 +998,7 @@ _Проверенных записей исходных партий: 71. Цит
 
 **Оговорки:** Default digital Hebrew response may combine versions; no print/manuscript collation. No independent review; historical identifications are preserved as Abarbanel/Ibn Ezra interpretations, not externally verified history.
 
-[Первоисточник](https://www.sefaria.org/api/texts/Abarbanel_on_Zechariah?context=0&pad=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/commentaries/COM-004.sources.jsonl)
+[Первоисточник](https://www.sefaria.org/api/texts/Abarbanel_on_Zechariah?context=0&pad=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/commentaries/COM-004.sources.jsonl)
 
 ### Abarbanel on Zechariah — 6:1
 
@@ -1014,7 +1014,7 @@ _Проверенных записей исходных партий: 71. Цит
 
 **Оговорки:** Default digital Hebrew response may combine versions; no print/manuscript collation. No independent review; historical identifications are preserved as Abarbanel/Ibn Ezra interpretations, not externally verified history.
 
-[Первоисточник](https://www.sefaria.org/api/texts/Abarbanel_on_Zechariah?context=0&pad=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/commentaries/COM-004.sources.jsonl)
+[Первоисточник](https://www.sefaria.org/api/texts/Abarbanel_on_Zechariah?context=0&pad=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/commentaries/COM-004.sources.jsonl)
 
 ### Abarbanel on Zechariah — 6:2
 
@@ -1030,7 +1030,7 @@ _Проверенных записей исходных партий: 71. Цит
 
 **Оговорки:** Default digital Hebrew response may combine versions; no print/manuscript collation. No independent review; historical identifications are preserved as Abarbanel/Ibn Ezra interpretations, not externally verified history.
 
-[Первоисточник](https://www.sefaria.org/api/texts/Abarbanel_on_Zechariah?context=0&pad=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/commentaries/COM-004.sources.jsonl)
+[Первоисточник](https://www.sefaria.org/api/texts/Abarbanel_on_Zechariah?context=0&pad=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/commentaries/COM-004.sources.jsonl)
 
 ### Abarbanel on Zechariah — 6:3
 
@@ -1047,7 +1047,7 @@ _Проверенных записей исходных партий: 71. Цит
 
 **Оговорки:** Default digital Hebrew response may combine versions; no print/manuscript collation. No independent review; historical identifications are preserved as Abarbanel/Ibn Ezra interpretations, not externally verified history.
 
-[Первоисточник](https://www.sefaria.org/api/texts/Abarbanel_on_Zechariah?context=0&pad=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/commentaries/COM-004.sources.jsonl)
+[Первоисточник](https://www.sefaria.org/api/texts/Abarbanel_on_Zechariah?context=0&pad=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/commentaries/COM-004.sources.jsonl)
 
 ### Abarbanel on Zechariah — 6:4
 
@@ -1063,7 +1063,7 @@ _Проверенных записей исходных партий: 71. Цит
 
 **Оговорки:** Default digital Hebrew response may combine versions; no print/manuscript collation. No independent review; historical identifications are preserved as Abarbanel/Ibn Ezra interpretations, not externally verified history.
 
-[Первоисточник](https://www.sefaria.org/api/texts/Abarbanel_on_Zechariah?context=0&pad=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/commentaries/COM-004.sources.jsonl)
+[Первоисточник](https://www.sefaria.org/api/texts/Abarbanel_on_Zechariah?context=0&pad=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/commentaries/COM-004.sources.jsonl)
 
 ### Abarbanel on Zechariah — 6:6
 
@@ -1079,7 +1079,7 @@ _Проверенных записей исходных партий: 71. Цит
 
 **Оговорки:** Default digital Hebrew response may combine versions; no print/manuscript collation. No independent review; historical identifications are preserved as Abarbanel/Ibn Ezra interpretations, not externally verified history.
 
-[Первоисточник](https://www.sefaria.org/api/texts/Abarbanel_on_Zechariah?context=0&pad=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/commentaries/COM-004.sources.jsonl)
+[Первоисточник](https://www.sefaria.org/api/texts/Abarbanel_on_Zechariah?context=0&pad=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/commentaries/COM-004.sources.jsonl)
 
 ### Abarbanel on Zechariah — 6:7
 
@@ -1095,7 +1095,7 @@ _Проверенных записей исходных партий: 71. Цит
 
 **Оговорки:** Default digital Hebrew response may combine versions; no print/manuscript collation. No independent review; historical identifications are preserved as Abarbanel/Ibn Ezra interpretations, not externally verified history.
 
-[Первоисточник](https://www.sefaria.org/api/texts/Abarbanel_on_Zechariah?context=0&pad=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/commentaries/COM-004.sources.jsonl)
+[Первоисточник](https://www.sefaria.org/api/texts/Abarbanel_on_Zechariah?context=0&pad=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/commentaries/COM-004.sources.jsonl)
 
 ### Abarbanel on Zechariah — 6:8
 
@@ -1111,7 +1111,7 @@ _Проверенных записей исходных партий: 71. Цит
 
 **Оговорки:** Default digital Hebrew response may combine versions; no print/manuscript collation. No independent review; historical identifications are preserved as Abarbanel/Ibn Ezra interpretations, not externally verified history.
 
-[Первоисточник](https://www.sefaria.org/api/texts/Abarbanel_on_Zechariah?context=0&pad=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/commentaries/COM-004.sources.jsonl)
+[Первоисточник](https://www.sefaria.org/api/texts/Abarbanel_on_Zechariah?context=0&pad=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/commentaries/COM-004.sources.jsonl)
 
 ### Ibn Ezra on Exodus — 14:9:2
 
@@ -1127,7 +1127,7 @@ _Проверенных записей исходных партий: 71. Цит
 
 **Оговорки:** Default API Hebrew response may combine available digital versions; metadata list does not identify a collated print witness. No independent review.
 
-[Первоисточник](https://www.sefaria.org/api/texts/Ibn_Ezra_on_Exodus?context=0&pad=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/commentaries/COM-003.sources.jsonl)
+[Первоисточник](https://www.sefaria.org/api/texts/Ibn_Ezra_on_Exodus?context=0&pad=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/commentaries/COM-003.sources.jsonl)
 
 ### Ibn Ezra on Exodus — 15:1:3
 
@@ -1143,7 +1143,7 @@ _Проверенных записей исходных партий: 71. Цит
 
 **Оговорки:** Default API Hebrew response may combine available digital versions; metadata list does not identify a collated print witness. No independent review.
 
-[Первоисточник](https://www.sefaria.org/api/texts/Ibn_Ezra_on_Exodus_15%3A1?context=0&pad=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/commentaries/COM-003.sources.jsonl)
+[Первоисточник](https://www.sefaria.org/api/texts/Ibn_Ezra_on_Exodus_15%3A1?context=0&pad=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/commentaries/COM-003.sources.jsonl)
 
 ### Ibn Ezra on Exodus — 15:19:2
 
@@ -1159,7 +1159,7 @@ _Проверенных записей исходных партий: 71. Цит
 
 **Оговорки:** Default API Hebrew response may combine available digital versions; metadata list does not identify a collated print witness. No independent review.
 
-[Первоисточник](https://www.sefaria.org/api/texts/Ibn_Ezra_on_Exodus?context=0&pad=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/commentaries/COM-003.sources.jsonl)
+[Первоисточник](https://www.sefaria.org/api/texts/Ibn_Ezra_on_Exodus?context=0&pad=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/commentaries/COM-003.sources.jsonl)
 
 ### Ibn Ezra on Isaiah — 31:3:1
 
@@ -1175,7 +1175,7 @@ _Проверенных записей исходных партий: 71. Цит
 
 **Оговорки:** Online edition attribution accepted; no manuscript/printed-edition collation. No independent review.
 
-[Первоисточник](https://www.sefaria.org/api/texts/Ibn_Ezra_on_Isaiah_31%3A3?context=0&pad=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/commentaries/COM-002.sources.jsonl)
+[Первоисточник](https://www.sefaria.org/api/texts/Ibn_Ezra_on_Isaiah_31%3A3?context=0&pad=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/commentaries/COM-002.sources.jsonl)
 
 ### Ibn Ezra on Psalms — 147:10:1
 
@@ -1191,7 +1191,7 @@ _Проверенных записей исходных партий: 71. Цит
 
 **Оговорки:** Online edition attribution accepted; no manuscript/printed-edition collation. No independent review.
 
-[Первоисточник](https://www.sefaria.org/api/texts/Ibn_Ezra_on_Psalms_147%3A10?context=0&pad=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/commentaries/COM-002.sources.jsonl)
+[Первоисточник](https://www.sefaria.org/api/texts/Ibn_Ezra_on_Psalms_147%3A10?context=0&pad=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/commentaries/COM-002.sources.jsonl)
 
 ### Ibn Ezra on Song of Songs — 1:9:4
 
@@ -1207,7 +1207,7 @@ _Проверенных записей исходных партий: 71. Цит
 
 **Оговорки:** Online edition attribution accepted; no manuscript/printed-edition collation. No independent review.
 
-[Первоисточник](https://www.sefaria.org/api/texts/Ibn_Ezra_on_Song_of_Songs_1%3A9?context=0&pad=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/commentaries/COM-002.sources.jsonl)
+[Первоисточник](https://www.sefaria.org/api/texts/Ibn_Ezra_on_Song_of_Songs_1%3A9?context=0&pad=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/commentaries/COM-002.sources.jsonl)
 
 ### Ibn Ezra on Zechariah — 1:8
 
@@ -1226,7 +1226,7 @@ _Проверенных записей исходных партий: 71. Цит
 
 **Оговорки:** Default digital Hebrew response may combine versions; no print/manuscript collation. No independent review; historical identifications are preserved as Abarbanel/Ibn Ezra interpretations, not externally verified history.
 
-[Первоисточник](https://www.sefaria.org/api/texts/Ibn_Ezra_on_Zechariah?context=0&pad=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/commentaries/COM-004.sources.jsonl)
+[Первоисточник](https://www.sefaria.org/api/texts/Ibn_Ezra_on_Zechariah?context=0&pad=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/commentaries/COM-004.sources.jsonl)
 
 ### Ibn Ezra on Zechariah — 6:1
 
@@ -1245,7 +1245,7 @@ _Проверенных записей исходных партий: 71. Цит
 
 **Оговорки:** Default digital Hebrew response may combine versions; no print/manuscript collation. No independent review; historical identifications are preserved as Abarbanel/Ibn Ezra interpretations, not externally verified history.
 
-[Первоисточник](https://www.sefaria.org/api/texts/Ibn_Ezra_on_Zechariah?context=0&pad=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/commentaries/COM-004.sources.jsonl)
+[Первоисточник](https://www.sefaria.org/api/texts/Ibn_Ezra_on_Zechariah?context=0&pad=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/commentaries/COM-004.sources.jsonl)
 
 ### Ibn Ezra on Zechariah — 6:2
 
@@ -1261,7 +1261,7 @@ _Проверенных записей исходных партий: 71. Цит
 
 **Оговорки:** Default digital Hebrew response may combine versions; no print/manuscript collation. No independent review; historical identifications are preserved as Abarbanel/Ibn Ezra interpretations, not externally verified history.
 
-[Первоисточник](https://www.sefaria.org/api/texts/Ibn_Ezra_on_Zechariah?context=0&pad=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/commentaries/COM-004.sources.jsonl)
+[Первоисточник](https://www.sefaria.org/api/texts/Ibn_Ezra_on_Zechariah?context=0&pad=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/commentaries/COM-004.sources.jsonl)
 
 ### Ibn Ezra on Zechariah — 6:3
 
@@ -1277,7 +1277,7 @@ _Проверенных записей исходных партий: 71. Цит
 
 **Оговорки:** Default digital Hebrew response may combine versions; no print/manuscript collation. No independent review; historical identifications are preserved as Abarbanel/Ibn Ezra interpretations, not externally verified history.
 
-[Первоисточник](https://www.sefaria.org/api/texts/Ibn_Ezra_on_Zechariah?context=0&pad=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/commentaries/COM-004.sources.jsonl)
+[Первоисточник](https://www.sefaria.org/api/texts/Ibn_Ezra_on_Zechariah?context=0&pad=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/commentaries/COM-004.sources.jsonl)
 
 ### Ibn Ezra on Zechariah — 6:5
 
@@ -1294,7 +1294,7 @@ _Проверенных записей исходных партий: 71. Цит
 
 **Оговорки:** Default digital Hebrew response may combine versions; no print/manuscript collation. No independent review; historical identifications are preserved as Abarbanel/Ibn Ezra interpretations, not externally verified history.
 
-[Первоисточник](https://www.sefaria.org/api/texts/Ibn_Ezra_on_Zechariah?context=0&pad=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/commentaries/COM-004.sources.jsonl)
+[Первоисточник](https://www.sefaria.org/api/texts/Ibn_Ezra_on_Zechariah?context=0&pad=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/commentaries/COM-004.sources.jsonl)
 
 ### Ibn Ezra on Zechariah — 6:6
 
@@ -1313,7 +1313,7 @@ _Проверенных записей исходных партий: 71. Цит
 
 **Оговорки:** Default digital Hebrew response may combine versions; no print/manuscript collation. No independent review; historical identifications are preserved as Abarbanel/Ibn Ezra interpretations, not externally verified history.
 
-[Первоисточник](https://www.sefaria.org/api/texts/Ibn_Ezra_on_Zechariah?context=0&pad=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/commentaries/COM-004.sources.jsonl)
+[Первоисточник](https://www.sefaria.org/api/texts/Ibn_Ezra_on_Zechariah?context=0&pad=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/commentaries/COM-004.sources.jsonl)
 
 ### Ibn Ezra on Zechariah — 6:7
 
@@ -1330,7 +1330,7 @@ _Проверенных записей исходных партий: 71. Цит
 
 **Оговорки:** Default digital Hebrew response may combine versions; no print/manuscript collation. No independent review; historical identifications are preserved as Abarbanel/Ibn Ezra interpretations, not externally verified history.
 
-[Первоисточник](https://www.sefaria.org/api/texts/Ibn_Ezra_on_Zechariah?context=0&pad=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/commentaries/COM-004.sources.jsonl)
+[Первоисточник](https://www.sefaria.org/api/texts/Ibn_Ezra_on_Zechariah?context=0&pad=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/commentaries/COM-004.sources.jsonl)
 
 ### Ibn Ezra on Zechariah — 6:8
 
@@ -1346,7 +1346,7 @@ _Проверенных записей исходных партий: 71. Цит
 
 **Оговорки:** Default digital Hebrew response may combine versions; no print/manuscript collation. No independent review; historical identifications are preserved as Abarbanel/Ibn Ezra interpretations, not externally verified history.
 
-[Первоисточник](https://www.sefaria.org/api/texts/Ibn_Ezra_on_Zechariah?context=0&pad=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/commentaries/COM-004.sources.jsonl)
+[Первоисточник](https://www.sefaria.org/api/texts/Ibn_Ezra_on_Zechariah?context=0&pad=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/commentaries/COM-004.sources.jsonl)
 
 ### Kli Yakar on Deuteronomy — 20:1:2
 
@@ -1362,7 +1362,7 @@ _Проверенных записей исходных партий: 71. Цит
 
 **Оговорки:** Online edition attribution accepted; no manuscript/printed-edition collation. No independent review.
 
-[Первоисточник](https://www.sefaria.org/api/texts/Kli_Yakar_on_Deuteronomy_20%3A1?context=0&pad=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/commentaries/COM-002.sources.jsonl)
+[Первоисточник](https://www.sefaria.org/api/texts/Kli_Yakar_on_Deuteronomy_20%3A1?context=0&pad=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/commentaries/COM-002.sources.jsonl)
 
 ### Kli Yakar on Exodus — 15:1:4
 
@@ -1378,7 +1378,7 @@ _Проверенных записей исходных партий: 71. Цит
 
 **Оговорки:** Online edition attribution accepted; no manuscript/printed-edition collation. No independent review.
 
-[Первоисточник](https://www.sefaria.org/api/texts/Kli_Yakar_on_Exodus_15%3A1?context=0&pad=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/commentaries/COM-002.sources.jsonl)
+[Первоисточник](https://www.sefaria.org/api/texts/Kli_Yakar_on_Exodus_15%3A1?context=0&pad=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/commentaries/COM-002.sources.jsonl)
 
 ### Malbim on 2-kings — 2:11
 
@@ -1394,7 +1394,7 @@ _Проверенных записей исходных партий: 71. Цит
 
 **Оговорки:** No independent review; online transcription not collated against a printed edition.
 
-[Первоисточник](https://he.wikisource.org/wiki/מ"ג_מלכים_ב_ב_יא) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/commentaries/COM-001.sources.jsonl)
+[Первоисточник](https://he.wikisource.org/wiki/מ"ג_מלכים_ב_ב_יא) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/commentaries/COM-001.sources.jsonl)
 
 ### Malbim on 2-kings — 6:17
 
@@ -1410,7 +1410,7 @@ _Проверенных записей исходных партий: 71. Цит
 
 **Оговорки:** No independent review; online transcription not collated against a printed edition.
 
-[Первоисточник](https://he.wikisource.org/wiki/מ"ג_מלכים_ב_ו_יז) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/commentaries/COM-001.sources.jsonl)
+[Первоисточник](https://he.wikisource.org/wiki/מ"ג_מלכים_ב_ו_יז) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/commentaries/COM-001.sources.jsonl)
 
 ### Malbim on deuteronomy — 17:16
 
@@ -1426,7 +1426,7 @@ _Проверенных записей исходных партий: 71. Цит
 
 **Оговорки:** No independent review; online transcription not collated against a printed edition.
 
-[Первоисточник](https://he.wikisource.org/wiki/מ"ג_דברים_יז_טז) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/commentaries/COM-001.sources.jsonl)
+[Первоисточник](https://he.wikisource.org/wiki/מ"ג_דברים_יז_טז) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/commentaries/COM-001.sources.jsonl)
 
 ### Malbim on Isaiah — 31:3:1
 
@@ -1442,7 +1442,7 @@ _Проверенных записей исходных партий: 71. Цит
 
 **Оговорки:** Online edition attribution accepted; no manuscript/printed-edition collation. No independent review.
 
-[Первоисточник](https://www.sefaria.org/api/texts/Malbim_on_Isaiah_31%3A3?context=0&pad=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/commentaries/COM-002.sources.jsonl)
+[Первоисточник](https://www.sefaria.org/api/texts/Malbim_on_Isaiah_31%3A3?context=0&pad=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/commentaries/COM-002.sources.jsonl)
 
 ### Malbim on Job — 39:19:1
 
@@ -1458,7 +1458,7 @@ _Проверенных записей исходных партий: 71. Цит
 
 **Оговорки:** Online edition attribution accepted; no manuscript/printed-edition collation. No independent review.
 
-[Первоисточник](https://www.sefaria.org/api/texts/Malbim_on_Job_39%3A19?context=0&pad=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/commentaries/COM-002.sources.jsonl)
+[Первоисточник](https://www.sefaria.org/api/texts/Malbim_on_Job_39%3A19?context=0&pad=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/commentaries/COM-002.sources.jsonl)
 
 ### Malbim on Job — 39:25:1
 
@@ -1474,7 +1474,7 @@ _Проверенных записей исходных партий: 71. Цит
 
 **Оговорки:** Online edition attribution accepted; no manuscript/printed-edition collation. No independent review.
 
-[Первоисточник](https://www.sefaria.org/api/texts/Malbim_on_Job_39%3A25?context=0&pad=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/commentaries/COM-002.sources.jsonl)
+[Первоисточник](https://www.sefaria.org/api/texts/Malbim_on_Job_39%3A25?context=0&pad=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/commentaries/COM-002.sources.jsonl)
 
 ### Malbim on Psalms — 20:8:1
 
@@ -1490,7 +1490,7 @@ _Проверенных записей исходных партий: 71. Цит
 
 **Оговорки:** Online edition attribution accepted; no manuscript/printed-edition collation. No independent review.
 
-[Первоисточник](https://www.sefaria.org/api/texts/Malbim_on_Psalms_20%3A8?context=0&pad=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/commentaries/COM-002.sources.jsonl)
+[Первоисточник](https://www.sefaria.org/api/texts/Malbim_on_Psalms_20%3A8?context=0&pad=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/commentaries/COM-002.sources.jsonl)
 
 ### Malbim on Song of Songs — 1:9:2
 
@@ -1506,7 +1506,7 @@ _Проверенных записей исходных партий: 71. Цит
 
 **Оговорки:** Online edition attribution accepted; no manuscript/printed-edition collation. No independent review.
 
-[Первоисточник](https://www.sefaria.org/api/texts/Malbim_on_Song_of_Songs_1%3A9?context=0&pad=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/commentaries/COM-002.sources.jsonl)
+[Первоисточник](https://www.sefaria.org/api/texts/Malbim_on_Song_of_Songs_1%3A9?context=0&pad=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/commentaries/COM-002.sources.jsonl)
 
 ### Malbim on zechariah — 1:8
 
@@ -1522,7 +1522,7 @@ _Проверенных записей исходных партий: 71. Цит
 
 **Оговорки:** No independent review; online transcription not collated against a printed edition.
 
-[Первоисточник](https://he.wikisource.org/wiki/מ"ג_זכריה_א_ח) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/commentaries/COM-001.sources.jsonl)
+[Первоисточник](https://he.wikisource.org/wiki/מ"ג_זכריה_א_ח) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/commentaries/COM-001.sources.jsonl)
 
 ### Malbim on zechariah — 6:5
 
@@ -1538,7 +1538,7 @@ _Проверенных записей исходных партий: 71. Цит
 
 **Оговорки:** No independent review; online transcription not collated against a printed edition.
 
-[Первоисточник](https://he.wikisource.org/wiki/מ"ג_זכריה_ו_ה) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/commentaries/COM-001.sources.jsonl)
+[Первоисточник](https://he.wikisource.org/wiki/מ"ג_זכריה_ו_ה) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/commentaries/COM-001.sources.jsonl)
 
 ### Metzudat David on Ezekiel — 39:20:1
 
@@ -1554,7 +1554,7 @@ _Проверенных записей исходных партий: 71. Цит
 
 **Оговорки:** Default API Hebrew response may combine available digital versions; metadata list does not identify a collated print witness. No independent review.
 
-[Первоисточник](https://www.sefaria.org/api/texts/Metzudat_David_on_Ezekiel?context=0&pad=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/commentaries/COM-003.sources.jsonl)
+[Первоисточник](https://www.sefaria.org/api/texts/Metzudat_David_on_Ezekiel?context=0&pad=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/commentaries/COM-003.sources.jsonl)
 
 ### Metzudat David on II Kings — 23:11:1
 
@@ -1570,7 +1570,7 @@ _Проверенных записей исходных партий: 71. Цит
 
 **Оговорки:** Default API Hebrew response may combine available digital versions; metadata list does not identify a collated print witness. No independent review.
 
-[Первоисточник](https://www.sefaria.org/api/texts/Metzudat_David_on_II_Kings?context=0&pad=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/commentaries/COM-003.sources.jsonl)
+[Первоисточник](https://www.sefaria.org/api/texts/Metzudat_David_on_II_Kings?context=0&pad=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/commentaries/COM-003.sources.jsonl)
 
 ### Metzudat David on II Kings — 6:17:1
 
@@ -1586,7 +1586,7 @@ _Проверенных записей исходных партий: 71. Цит
 
 **Оговорки:** Default API Hebrew response may combine available digital versions; metadata list does not identify a collated print witness. No independent review.
 
-[Первоисточник](https://www.sefaria.org/api/texts/Metzudat_David_on_II_Kings?context=0&pad=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/commentaries/COM-003.sources.jsonl)
+[Первоисточник](https://www.sefaria.org/api/texts/Metzudat_David_on_II_Kings?context=0&pad=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/commentaries/COM-003.sources.jsonl)
 
 ### Metzudat David on II Kings — 6:17:2
 
@@ -1602,7 +1602,7 @@ _Проверенных записей исходных партий: 71. Цит
 
 **Оговорки:** Default API Hebrew response may combine available digital versions; metadata list does not identify a collated print witness. No independent review.
 
-[Первоисточник](https://www.sefaria.org/api/texts/Metzudat_David_on_II_Kings?context=0&pad=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/commentaries/COM-003.sources.jsonl)
+[Первоисточник](https://www.sefaria.org/api/texts/Metzudat_David_on_II_Kings?context=0&pad=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/commentaries/COM-003.sources.jsonl)
 
 ### Metzudat David on Isaiah — 63:13:1
 
@@ -1618,7 +1618,7 @@ _Проверенных записей исходных партий: 71. Цит
 
 **Оговорки:** Default API Hebrew response may combine available digital versions; metadata list does not identify a collated print witness. No independent review.
 
-[Первоисточник](https://www.sefaria.org/api/texts/Metzudat_David_on_Isaiah?context=0&pad=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/commentaries/COM-003.sources.jsonl)
+[Первоисточник](https://www.sefaria.org/api/texts/Metzudat_David_on_Isaiah?context=0&pad=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/commentaries/COM-003.sources.jsonl)
 
 ### Metzudat David on Isaiah — 66:20:1
 
@@ -1634,7 +1634,7 @@ _Проверенных записей исходных партий: 71. Цит
 
 **Оговорки:** Default API Hebrew response may combine available digital versions; metadata list does not identify a collated print witness. No independent review.
 
-[Первоисточник](https://www.sefaria.org/api/texts/Metzudat_David_on_Isaiah?context=0&pad=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/commentaries/COM-003.sources.jsonl)
+[Первоисточник](https://www.sefaria.org/api/texts/Metzudat_David_on_Isaiah?context=0&pad=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/commentaries/COM-003.sources.jsonl)
 
 ### Metzudat David on Jeremiah — 5:8:1
 
@@ -1650,7 +1650,7 @@ _Проверенных записей исходных партий: 71. Цит
 
 **Оговорки:** Default API Hebrew response may combine available digital versions; metadata list does not identify a collated print witness. No independent review.
 
-[Первоисточник](https://www.sefaria.org/api/texts/Metzudat_David_on_Jeremiah?context=0&pad=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/commentaries/COM-003.sources.jsonl)
+[Первоисточник](https://www.sefaria.org/api/texts/Metzudat_David_on_Jeremiah?context=0&pad=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/commentaries/COM-003.sources.jsonl)
 
 ### Metzudat David on Jeremiah — 51:27:3
 
@@ -1666,7 +1666,7 @@ _Проверенных записей исходных партий: 71. Цит
 
 **Оговорки:** Default API Hebrew response may combine available digital versions; metadata list does not identify a collated print witness. No independent review.
 
-[Первоисточник](https://www.sefaria.org/api/texts/Metzudat_David_on_Jeremiah?context=0&pad=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/commentaries/COM-003.sources.jsonl)
+[Первоисточник](https://www.sefaria.org/api/texts/Metzudat_David_on_Jeremiah?context=0&pad=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/commentaries/COM-003.sources.jsonl)
 
 ### Metzudat David on Jeremiah — 8:6:3
 
@@ -1682,7 +1682,7 @@ _Проверенных записей исходных партий: 71. Цит
 
 **Оговорки:** Default API Hebrew response may combine available digital versions; metadata list does not identify a collated print witness. No independent review.
 
-[Первоисточник](https://www.sefaria.org/api/texts/Metzudat_David_on_Jeremiah?context=0&pad=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/commentaries/COM-003.sources.jsonl)
+[Первоисточник](https://www.sefaria.org/api/texts/Metzudat_David_on_Jeremiah?context=0&pad=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/commentaries/COM-003.sources.jsonl)
 
 ### Metzudat David on Judges — 5:22:1
 
@@ -1698,7 +1698,7 @@ _Проверенных записей исходных партий: 71. Цит
 
 **Оговорки:** Default API Hebrew response may combine available digital versions; metadata list does not identify a collated print witness. No independent review.
 
-[Первоисточник](https://www.sefaria.org/api/texts/Metzudat_David_on_Judges?context=0&pad=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/commentaries/COM-003.sources.jsonl)
+[Первоисточник](https://www.sefaria.org/api/texts/Metzudat_David_on_Judges?context=0&pad=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/commentaries/COM-003.sources.jsonl)
 
 ### Metzudat David on Psalms — 147:10:1
 
@@ -1714,7 +1714,7 @@ _Проверенных записей исходных партий: 71. Цит
 
 **Оговорки:** Online edition attribution accepted; no manuscript/printed-edition collation. No independent review.
 
-[Первоисточник](https://www.sefaria.org/api/texts/Metzudat_David_on_Psalms_147%3A10?context=0&pad=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/commentaries/COM-002.sources.jsonl)
+[Первоисточник](https://www.sefaria.org/api/texts/Metzudat_David_on_Psalms_147%3A10?context=0&pad=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/commentaries/COM-002.sources.jsonl)
 
 ### Metzudat Zion on Ezekiel — 27:14:2
 
@@ -1730,7 +1730,7 @@ _Проверенных записей исходных партий: 71. Цит
 
 **Оговорки:** Default API Hebrew response may combine available digital versions; metadata list does not identify a collated print witness. No independent review.
 
-[Первоисточник](https://www.sefaria.org/api/texts/Metzudat_Zion_on_Ezekiel?context=0&pad=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/commentaries/COM-003.sources.jsonl)
+[Первоисточник](https://www.sefaria.org/api/texts/Metzudat_Zion_on_Ezekiel?context=0&pad=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/commentaries/COM-003.sources.jsonl)
 
 ### Metzudat Zion on Isaiah — 31:3:1
 
@@ -1746,7 +1746,7 @@ _Проверенных записей исходных партий: 71. Цит
 
 **Оговорки:** Default API Hebrew response may combine available digital versions; metadata list does not identify a collated print witness. No independent review.
 
-[Первоисточник](https://www.sefaria.org/api/texts/Metzudat_Zion_on_Isaiah?context=0&pad=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/commentaries/COM-003.sources.jsonl)
+[Первоисточник](https://www.sefaria.org/api/texts/Metzudat_Zion_on_Isaiah?context=0&pad=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/commentaries/COM-003.sources.jsonl)
 
 ### Metzudat Zion on Joshua — 11:6:1
 
@@ -1762,7 +1762,7 @@ _Проверенных записей исходных партий: 71. Цит
 
 **Оговорки:** Default API Hebrew response may combine available digital versions; metadata list does not identify a collated print witness. No independent review.
 
-[Первоисточник](https://www.sefaria.org/api/texts/Metzudat_Zion_on_Joshua?context=0&pad=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/commentaries/COM-003.sources.jsonl)
+[Первоисточник](https://www.sefaria.org/api/texts/Metzudat_Zion_on_Joshua?context=0&pad=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/commentaries/COM-003.sources.jsonl)
 
 ### Or HaChaim on Deuteronomy — 20:1:2
 
@@ -1778,7 +1778,7 @@ _Проверенных записей исходных партий: 71. Цит
 
 **Оговорки:** Online edition attribution accepted; no manuscript/printed-edition collation. No independent review.
 
-[Первоисточник](https://www.sefaria.org/api/texts/Or_HaChaim_on_Deuteronomy_20%3A1?context=0&pad=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/commentaries/COM-002.sources.jsonl)
+[Первоисточник](https://www.sefaria.org/api/texts/Or_HaChaim_on_Deuteronomy_20%3A1?context=0&pad=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/commentaries/COM-002.sources.jsonl)
 
 ### Radak on 2-kings — 2:1
 
@@ -1794,7 +1794,7 @@ _Проверенных записей исходных партий: 71. Цит
 
 **Оговорки:** No independent review; online transcription not collated against a printed edition.
 
-[Первоисточник](https://xn--febl3a.co.il/929/311/רד%22ק) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/commentaries/COM-001.sources.jsonl)
+[Первоисточник](https://xn--febl3a.co.il/929/311/רד%22ק) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/commentaries/COM-001.sources.jsonl)
 
 ### Radak on 2-kings — 2:11
 
@@ -1810,7 +1810,7 @@ _Проверенных записей исходных партий: 71. Цит
 
 **Оговорки:** No independent review; online transcription not collated against a printed edition.
 
-[Первоисточник](https://xn--febl3a.co.il/929/311/רד%22ק) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/commentaries/COM-001.sources.jsonl)
+[Первоисточник](https://xn--febl3a.co.il/929/311/רד%22ק) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/commentaries/COM-001.sources.jsonl)
 
 ### Radak on Psalms — 33:17:1
 
@@ -1826,7 +1826,7 @@ _Проверенных записей исходных партий: 71. Цит
 
 **Оговорки:** Online edition attribution accepted; no manuscript/printed-edition collation. No independent review.
 
-[Первоисточник](https://www.sefaria.org/api/texts/Radak_on_Psalms_33%3A17?context=0&pad=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/commentaries/COM-002.sources.jsonl)
+[Первоисточник](https://www.sefaria.org/api/texts/Radak_on_Psalms_33%3A17?context=0&pad=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/commentaries/COM-002.sources.jsonl)
 
 ### Ralbag on 2-kings — 2:11
 
@@ -1842,7 +1842,7 @@ _Проверенных записей исходных партий: 71. Цит
 
 **Оговорки:** No independent review; online transcription not collated against a printed edition.
 
-[Первоисточник](https://www.daat.ac.il/daat/olam_hatanah/mefaresh.asp?book=11&mefaresh=ralbag&perek=2) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/commentaries/COM-001.sources.jsonl)
+[Первоисточник](https://www.daat.ac.il/daat/olam_hatanah/mefaresh.asp?book=11&mefaresh=ralbag&perek=2) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/commentaries/COM-001.sources.jsonl)
 
 ### Ramban on deuteronomy — 17:16
 
@@ -1858,7 +1858,7 @@ _Проверенных записей исходных партий: 71. Цит
 
 **Оговорки:** No independent review; online transcription not collated against a printed edition.
 
-[Первоисточник](https://he.wikisource.org/wiki/מ"ג_דברים_יז_טז) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/commentaries/COM-001.sources.jsonl)
+[Первоисточник](https://he.wikisource.org/wiki/מ"ג_דברים_יז_טז) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/commentaries/COM-001.sources.jsonl)
 
 ### Rashi on deuteronomy — 17:16
 
@@ -1874,7 +1874,7 @@ _Проверенных записей исходных партий: 71. Цит
 
 **Оговорки:** No independent review; online transcription not collated against a printed edition.
 
-[Первоисточник](https://he.wikisource.org/wiki/מ"ג_דברים_יז_טז) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/commentaries/COM-001.sources.jsonl)
+[Первоисточник](https://he.wikisource.org/wiki/מ"ג_דברים_יז_טז) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/commentaries/COM-001.sources.jsonl)
 
 ### Rashi on Deuteronomy — 20:1:3
 
@@ -1890,7 +1890,7 @@ _Проверенных записей исходных партий: 71. Цит
 
 **Оговорки:** Online edition attribution accepted; no manuscript/printed-edition collation. No independent review.
 
-[Первоисточник](https://www.sefaria.org/api/texts/Rashi_on_Deuteronomy_20%3A1?context=0&pad=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/commentaries/COM-002.sources.jsonl)
+[Первоисточник](https://www.sefaria.org/api/texts/Rashi_on_Deuteronomy_20%3A1?context=0&pad=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/commentaries/COM-002.sources.jsonl)
 
 ### Rashi on Exodus — 14:23:1
 
@@ -1906,7 +1906,7 @@ _Проверенных записей исходных партий: 71. Цит
 
 **Оговорки:** Default API Hebrew response may combine available digital versions; metadata list does not identify a collated print witness. No independent review.
 
-[Первоисточник](https://www.sefaria.org/api/texts/Rashi_on_Exodus?context=0&pad=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/commentaries/COM-003.sources.jsonl)
+[Первоисточник](https://www.sefaria.org/api/texts/Rashi_on_Exodus?context=0&pad=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/commentaries/COM-003.sources.jsonl)
 
 ### Rashi on Exodus — 15:1:3
 
@@ -1922,7 +1922,7 @@ _Проверенных записей исходных партий: 71. Цит
 
 **Оговорки:** Online edition attribution accepted; no manuscript/printed-edition collation. No independent review.
 
-[Первоисточник](https://www.sefaria.org/api/texts/Rashi_on_Exodus_15%3A1?context=0&pad=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/commentaries/COM-002.sources.jsonl)
+[Первоисточник](https://www.sefaria.org/api/texts/Rashi_on_Exodus_15%3A1?context=0&pad=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/commentaries/COM-002.sources.jsonl)
 
 ### Rashi on Ezekiel — 23:20:3
 
@@ -1938,7 +1938,7 @@ _Проверенных записей исходных партий: 71. Цит
 
 **Оговорки:** Default API Hebrew response may combine available digital versions; metadata list does not identify a collated print witness. No independent review.
 
-[Первоисточник](https://www.sefaria.org/api/texts/Rashi_on_Ezekiel?context=0&pad=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/commentaries/COM-003.sources.jsonl)
+[Первоисточник](https://www.sefaria.org/api/texts/Rashi_on_Ezekiel?context=0&pad=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/commentaries/COM-003.sources.jsonl)
 
 ### Rashi on Genesis — 49:17:2
 
@@ -1954,7 +1954,7 @@ _Проверенных записей исходных партий: 71. Цит
 
 **Оговорки:** Default API Hebrew response may combine available digital versions; metadata list does not identify a collated print witness. No independent review.
 
-[Первоисточник](https://www.sefaria.org/api/texts/Rashi_on_Genesis?context=0&pad=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/commentaries/COM-003.sources.jsonl)
+[Первоисточник](https://www.sefaria.org/api/texts/Rashi_on_Genesis?context=0&pad=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/commentaries/COM-003.sources.jsonl)
 
 ### Rashi on I Kings — 10:28:2
 
@@ -1970,7 +1970,7 @@ _Проверенных записей исходных партий: 71. Цит
 
 **Оговорки:** Default API Hebrew response may combine available digital versions; metadata list does not identify a collated print witness. No independent review.
 
-[Первоисточник](https://www.sefaria.org/api/texts/Rashi_on_I_Kings?context=0&pad=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/commentaries/COM-003.sources.jsonl)
+[Первоисточник](https://www.sefaria.org/api/texts/Rashi_on_I_Kings?context=0&pad=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/commentaries/COM-003.sources.jsonl)
 
 ### Rashi on I Kings — 10:29:1
 
@@ -1986,7 +1986,7 @@ _Проверенных записей исходных партий: 71. Цит
 
 **Оговорки:** Default API Hebrew response may combine available digital versions; metadata list does not identify a collated print witness. No independent review.
 
-[Первоисточник](https://www.sefaria.org/api/texts/Rashi_on_I_Kings?context=0&pad=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/commentaries/COM-003.sources.jsonl)
+[Первоисточник](https://www.sefaria.org/api/texts/Rashi_on_I_Kings?context=0&pad=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/commentaries/COM-003.sources.jsonl)
 
 ### Rashi on II Kings — 23:11:1
 
@@ -2002,7 +2002,7 @@ _Проверенных записей исходных партий: 71. Цит
 
 **Оговорки:** Default API Hebrew response may combine available digital versions; metadata list does not identify a collated print witness. No independent review.
 
-[Первоисточник](https://www.sefaria.org/api/texts/Rashi_on_II_Kings?context=0&pad=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/commentaries/COM-003.sources.jsonl)
+[Первоисточник](https://www.sefaria.org/api/texts/Rashi_on_II_Kings?context=0&pad=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/commentaries/COM-003.sources.jsonl)
 
 ### Rashi on II Kings — 7:6:1
 
@@ -2018,7 +2018,7 @@ _Проверенных записей исходных партий: 71. Цит
 
 **Оговорки:** Default API Hebrew response may combine available digital versions; metadata list does not identify a collated print witness. No independent review.
 
-[Первоисточник](https://www.sefaria.org/api/texts/Rashi_on_II_Kings?context=0&pad=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/commentaries/COM-003.sources.jsonl)
+[Первоисточник](https://www.sefaria.org/api/texts/Rashi_on_II_Kings?context=0&pad=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/commentaries/COM-003.sources.jsonl)
 
 ### Rashi on Jeremiah — 12:5:2
 
@@ -2034,7 +2034,7 @@ _Проверенных записей исходных партий: 71. Цит
 
 **Оговорки:** Default API Hebrew response may combine available digital versions; metadata list does not identify a collated print witness. No independent review.
 
-[Первоисточник](https://www.sefaria.org/api/texts/Rashi_on_Jeremiah?context=0&pad=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/commentaries/COM-003.sources.jsonl)
+[Первоисточник](https://www.sefaria.org/api/texts/Rashi_on_Jeremiah?context=0&pad=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/commentaries/COM-003.sources.jsonl)
 
 ### Rashi on Job — 39:24:2
 
@@ -2050,7 +2050,7 @@ _Проверенных записей исходных партий: 71. Цит
 
 **Оговорки:** Online edition attribution accepted; no manuscript/printed-edition collation. No independent review.
 
-[Первоисточник](https://www.sefaria.org/api/texts/Rashi_on_Job_39%3A24?context=0&pad=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/commentaries/COM-002.sources.jsonl)
+[Первоисточник](https://www.sefaria.org/api/texts/Rashi_on_Job_39%3A24?context=0&pad=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/commentaries/COM-002.sources.jsonl)
 
 ### Rashi on Judges — 5:22:1
 
@@ -2066,7 +2066,7 @@ _Проверенных записей исходных партий: 71. Цит
 
 **Оговорки:** Default API Hebrew response may combine available digital versions; metadata list does not identify a collated print witness. No independent review.
 
-[Первоисточник](https://www.sefaria.org/api/texts/Rashi_on_Judges?context=0&pad=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/commentaries/COM-003.sources.jsonl)
+[Первоисточник](https://www.sefaria.org/api/texts/Rashi_on_Judges?context=0&pad=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/commentaries/COM-003.sources.jsonl)
 
 ### Rashi on Song of Songs — 1:9:1
 
@@ -2082,7 +2082,7 @@ _Проверенных записей исходных партий: 71. Цит
 
 **Оговорки:** Online edition attribution accepted; no manuscript/printed-edition collation. No independent review.
 
-[Первоисточник](https://www.sefaria.org/api/texts/Rashi_on_Song_of_Songs_1%3A9?context=0&pad=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/commentaries/COM-002.sources.jsonl)
+[Первоисточник](https://www.sefaria.org/api/texts/Rashi_on_Song_of_Songs_1%3A9?context=0&pad=0) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/commentaries/COM-002.sources.jsonl)
 
 ### Rashi on zechariah — 1:8
 
@@ -2098,7 +2098,7 @@ _Проверенных записей исходных партий: 71. Цит
 
 **Оговорки:** No independent review; online transcription not collated against a printed edition.
 
-[Первоисточник](https://he.wikisource.org/wiki/מ"ג_זכריה_א_ח) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/commentaries/COM-001.sources.jsonl)
+[Первоисточник](https://he.wikisource.org/wiki/מ"ג_זכריה_א_ח) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/commentaries/COM-001.sources.jsonl)
 
 ### Rashi on zechariah — 6:1
 
@@ -2114,7 +2114,7 @@ _Проверенных записей исходных партий: 71. Цит
 
 **Оговорки:** No independent review; online transcription not collated against a printed edition.
 
-[Первоисточник](https://he.wikisource.org/wiki/מ"ג_זכריה_ו_א) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/commentaries/COM-001.sources.jsonl)
+[Первоисточник](https://he.wikisource.org/wiki/מ"ג_זכריה_ו_א) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/commentaries/COM-001.sources.jsonl)
 
 ### Rashi on zechariah — 6:5
 
@@ -2130,7 +2130,7 @@ _Проверенных записей исходных партий: 71. Цит
 
 **Оговорки:** No independent review; online transcription not collated against a printed edition.
 
-[Первоисточник](https://he.wikisource.org/wiki/מ"ג_זכריה_ו_ה) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/commentaries/COM-001.sources.jsonl)
+[Первоисточник](https://he.wikisource.org/wiki/מ"ג_זכריה_ו_ה) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/commentaries/COM-001.sources.jsonl)
 
 
 ## Дополнительные традиционные источники из исследования Египта
@@ -2151,7 +2151,7 @@ _Записей: 7. Этот раздел содержит галахическ�
 
 **Оговорки:** No independent review; online transcription not collated. Traditional interpretation is not independent archaeological verification.
 
-[Первоисточник](https://he.wikisource.org/wiki/רמב%22ם_הלכות_מלכים_ומלחמות_ג) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/egypt/EGY-001.sources.jsonl)
+[Первоисточник](https://he.wikisource.org/wiki/רמב%22ם_הלכות_מלכים_ומלחמות_ג) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/egypt/EGY-001.sources.jsonl)
 
 ### Mishneh Torah, Kings and Wars — 5:7
 
@@ -2167,7 +2167,7 @@ _Записей: 7. Этот раздел содержит галахическ�
 
 **Оговорки:** No independent review; online transcription not collated. Traditional interpretation is not independent archaeological verification.
 
-[Первоисточник](https://he.wikisource.org/wiki/רמב%22ם_הלכות_מלכים_ומלחמות_ה) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/egypt/EGY-001.sources.jsonl)
+[Первоисточник](https://he.wikisource.org/wiki/רמב%22ם_הלכות_מלכים_ומלחמות_ה) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/egypt/EGY-001.sources.jsonl)
 
 ### Mishneh Torah, Kings and Wars — 5:8
 
@@ -2183,7 +2183,7 @@ _Записей: 7. Этот раздел содержит галахическ�
 
 **Оговорки:** No independent review; online transcription not collated. Traditional interpretation is not independent archaeological verification.
 
-[Первоисточник](https://he.wikisource.org/wiki/רמב%22ם_הלכות_מלכים_ומלחמות_ה) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/egypt/EGY-001.sources.jsonl)
+[Первоисточник](https://he.wikisource.org/wiki/רמב%22ם_הלכות_מלכים_ומלחמות_ה) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/egypt/EGY-001.sources.jsonl)
 
 ### Kli Yakar on Deuteronomy — 17:18 (discussion of 17:16)
 
@@ -2199,7 +2199,7 @@ _Записей: 7. Этот раздел содержит галахическ�
 
 **Оговорки:** No independent review; online transcription not collated. Traditional interpretation is not independent archaeological verification.
 
-[Первоисточник](https://he.wikisource.org/wiki/כלי_יקר_על_דברים_יז) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/egypt/EGY-001.sources.jsonl)
+[Первоисточник](https://he.wikisource.org/wiki/כלי_יקר_על_דברים_יז) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/egypt/EGY-001.sources.jsonl)
 
 ### Abarbanel on Deuteronomy — 17; paragraphs beginning והנה הזכיר and ואפשר לפרש ולא ישיב (Wikisource lines186,191)
 
@@ -2215,7 +2215,7 @@ _Записей: 7. Этот раздел содержит галахическ�
 
 **Оговорки:** No independent review; online transcription not collated. Wikisource chapter grouping differs from Sefaria verse anchor17:14; exact segment crosswalk pending. Printed prooftext numbers in transcription sometimes inaccurate (e.g. Isaiah citation); do not repeat erroneous numbers.
 
-[Первоисточник](https://he.wikisource.org/wiki/אברבנאל_על_דברים_יז) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/egypt/EGY-001.sources.jsonl)
+[Первоисточник](https://he.wikisource.org/wiki/אברבנאל_על_דברים_יז) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/egypt/EGY-001.sources.jsonl)
 
 ### Gur Aryeh on Deuteronomy — 17:16 [12]
 
@@ -2231,7 +2231,7 @@ _Записей: 7. Этот раздел содержит галахическ�
 
 **Оговорки:** No independent review; online transcription not collated. Traditional interpretation is not independent archaeological verification.
 
-[Первоисточник](https://he.wikisource.org/wiki/מ%22ג_דברים_יז_טז) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/egypt/EGY-001.sources.jsonl)
+[Первоисточник](https://he.wikisource.org/wiki/מ%22ג_דברים_יז_טז) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/egypt/EGY-001.sources.jsonl)
 
 ### Rabbeinu Bahya ben Asher on Deuteronomy — 17:16
 
@@ -2247,7 +2247,7 @@ _Записей: 7. Этот раздел содержит галахическ�
 
 **Оговорки:** No independent review; online transcription not collated. Statement about contemporary communities is author’s textual argument, not independently surveyed demographic evidence.
 
-[Первоисточник](https://he.wikisource.org/wiki/מ%22ג_דברים_יז_טז) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/egypt/EGY-001.sources.jsonl)
+[Первоисточник](https://he.wikisource.org/wiki/מ%22ג_דברים_יז_טז) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/horse/egypt/EGY-001.sources.jsonl)
 
 
 ---

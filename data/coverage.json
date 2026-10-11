@@ -273,15 +273,16 @@
       "ranges": [
         "13 selected commentaries; see COM-001 report"
       ],
-      "candidate_count": 13,
-      "confirmed_count": 13,
+      "candidate_count": 29,
+      "confirmed_count": 29,
       "commentary_count": 13,
       "limitations": [
-        "Selected locators only; five comments independently reviewed, not print-collated."
+        "COM-004 finite matrix normalized; missing indexed titles and empty exact verse cells do not establish absence from print or grouped commentary.",
+        "Default digital Hebrew responses are not print/manuscript collation; most selected commentary remains without independent review."
       ],
       "next_checks": [
-        "Remaining meaningful comments",
-        "COM-002"
+        "Independent review of Abarbanel/Ibn Ezra central Zechariah interpretations",
+        "Broader authors and print witnesses only if required by final audit"
       ]
     },
     {
@@ -362,9 +363,9 @@
     }
   ],
   "registry_statistics": {
-    "records": 508,
-    "context_checked": 506,
+    "records": 524,
+    "context_checked": 522,
     "independently_reviewed": 62
   },
-  "checkpoint_note": "BAV-007 adjudicated the final 23 saved Bavli candidates: 21 registered contexts, 2 covered continuations/repeats, zero finite-ledger candidates remain; Yerushalmi ledger also has zero remaining. COM-004 and chronology remain partial."
+  "checkpoint_note": "COM-004 normalized 16 meaningful Abarbanel/Ibn Ezra Zechariah commentary cells; Bavli and Yerushalmi finite ledgers remain closed; chronology remains partial."
 }

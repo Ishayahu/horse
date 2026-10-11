@@ -71,7 +71,7 @@
       "works": [
         "All canonical 37 tractates; detailed inventory BAV001+BAV002"
       ],
-      "status": "partial",
+      "status": "processed",
       "queries": [
         "normalized סוס",
         "סוסיא",
@@ -81,14 +81,15 @@
         "5349 nonempty exported amudim across37 canonical tractates"
       ],
       "candidate_count": 999,
-      "confirmed_count": 34,
+      "confirmed_count": 55,
       "commentary_count": 0,
       "limitations": [
-        "Finite lexical discovery ledger has 23 candidates still pending after BAV-006; counts are contextual records, not proof of absolute corpus completeness."
+        "Saved BAV-002 finite discovery ledger is fully adjudicated, but this does not prove absolute completeness across every spelling, edition, commentary, manuscript or allusion.",
+        "The final 23-candidate pass used complete saved target segments because live adjacent-segment API retrieval timed out; earlier batches include bounded adjacent context."
       ],
       "next_checks": [
-        "BAV-007 final 23-candidate review",
-        "Independent review of central extraordinary/spiritual passages"
+        "Independent review of central extraordinary/spiritual passages",
+        "Resolve edition/manuscript limitations if stronger completeness is required"
       ]
     },
     {
@@ -361,9 +362,9 @@
     }
   ],
   "registry_statistics": {
-    "records": 487,
-    "context_checked": 485,
+    "records": 508,
+    "context_checked": 506,
     "independently_reviewed": 62
   },
-  "checkpoint_note": "YER-008 read the final 9 named Yerushalmi candidates: 4 registered contexts, 5 lexical false positives, zero finite-ledger candidates remain; BAV 23 remain; COM-004 and chronology remain partial."
+  "checkpoint_note": "BAV-007 adjudicated the final 23 saved Bavli candidates: 21 registered contexts, 2 covered continuations/repeats, zero finite-ledger candidates remain; Yerushalmi ledger also has zero remaining. COM-004 and chronology remain partial."
 }

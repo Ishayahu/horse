@@ -9,7 +9,6 @@
   "session_id": "research-2026-10-11-01",
   "active_task_ids": [],
   "pending_task_ids": [
-    "BAV-007",
     "COM-004",
     "CHR-001",
     "CHR-002",
@@ -20,8 +19,8 @@
   ],
   "unsaved_results": [],
   "blockers": [],
-  "next_action": "Run final Bavli batch BAV-007; then finish COM-004 normalization and chronology before synthesis/comparison/audit.",
-  "last_confirmed_commit": "14ff896f14acda0805ee713f3fc766cd4d248441",
+  "next_action": "Finish COM-004 normalization and chronology (CHR-001/CHR-002), then resolve remaining KAB-002 status before synthesis/comparison/audit.",
+  "last_confirmed_commit": "9bf0cf3b828b0ce3604470cde558b82cd68567ff",
   "capabilities": {
     "github_read": true,
     "github_write": true,
@@ -32,8 +31,8 @@
   },
   "active_workers": [],
   "registry_statistics": {
-    "records": 487,
-    "context_checked": 485,
+    "records": 508,
+    "context_checked": 506,
     "independently_reviewed": 62
   }
 }

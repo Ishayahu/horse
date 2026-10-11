@@ -1,0 +1,186 @@
+[
+  {
+    "candidate_id": "bav-002-chullin-79a-11",
+    "work": "Chullin",
+    "locator": "79a:11",
+    "export_url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Kodashim/Chullin/Hebrew/merged.json",
+    "quote": "והא ״אלא מינה״ קתני? הכי קאמר: אין מרביעין עליה לא מין סוס ולא מין חמור, לפי שאין יודעין במינה. וליבדוק בסימנין? דאמר אביי: עבי קליה – בר חמרא, צניף קליה – בר סוסיא. ואמר רב פפא: רברבן אודניה וזוטרא ג",
+    "read_scope": "complete saved target segment excerpt from BAV-002 export; adjacent API retrieval unavailable in this pass"
+  },
+  {
+    "candidate_id": "bav-002-chullin-114b-2",
+    "work": "Chullin",
+    "locator": "114b:2",
+    "export_url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Kodashim/Chullin/Hebrew/merged.json",
+    "quote": "הא למה לי קרא, הא אתיא לה? אמר רב אחדבוי בר אמי: משום דאיכא למימר, סוס בן סוסיא אחי פרדה יוכיח, שאסור פרי עם פרי, ומותר פרי עם האם.",
+    "read_scope": "complete saved target segment excerpt from BAV-002 export; adjacent API retrieval unavailable in this pass"
+  },
+  {
+    "candidate_id": "bav-002-chullin-114b-4",
+    "work": "Chullin",
+    "locator": "114b:4",
+    "export_url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Kodashim/Chullin/Hebrew/merged.json",
+    "quote": "דהא פרד בן סוסיא אחי פרדה יוכיח, שמותר פרי עם פרי, ואסור פרי עם האם.",
+    "read_scope": "complete saved target segment excerpt from BAV-002 export; adjacent API retrieval unavailable in this pass"
+  },
+  {
+    "candidate_id": "bav-002-gittin-14b-5",
+    "work": "Gittin",
+    "locator": "14b:5",
+    "export_url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Nashim/Gittin/Hebrew/merged.json",
+    "quote": "אמר ליה: בני אדם הללו קרובים למלכות הן? אמר ליה: הן. יש להן סוסים ופרדים שרצים אחריהן? אמר ליה: הן. אמר ליה: אי הכי, שפיר עבדת.",
+    "read_scope": "complete saved target segment excerpt from BAV-002 export; adjacent API retrieval unavailable in this pass"
+  },
+  {
+    "candidate_id": "bav-002-ketubot-66a-5",
+    "work": "Ketubot",
+    "locator": "66a:5",
+    "export_url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Nashim/Ketubot/Hebrew/merged.json",
+    "quote": "בושתה ופגמה. מתקיף לה רבא בר רב חנן: אלא מעתה, בייש סוסתו של חבירו, הכי נמי דבעי למיתן ליה בושת? וסוס בר בושת הוא?! אלא: רקק בבגדו של חבירו, הכי נמי דבעי למיתן ליה בושת?",
+    "read_scope": "complete saved target segment excerpt from BAV-002 export; adjacent API retrieval unavailable in this pass"
+  },
+  {
+    "candidate_id": "bav-002-ketubot-67a-2",
+    "work": "Ketubot",
+    "locator": "67a:2",
+    "export_url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Nashim/Ketubot/Hebrew/merged.json",
+    "quote": "תניא: אמר רבי אלעזר ברבי צדוק: אראה בנחמה, אם לא ראיתיה שהיתה מלקטת שעורים מבין טלפי סוסים בעכו. קראתי עליה מקרא זה: ״אם לא תדעי לך היפה בנשים צאי לך בעקבי הצאן ורעי את גדיותיך״. אל תקרי ״גדיותיך״, אל",
+    "read_scope": "complete saved target segment excerpt from BAV-002 export; adjacent API retrieval unavailable in this pass"
+  },
+  {
+    "candidate_id": "bav-002-ketubot-111b-2",
+    "work": "Ketubot",
+    "locator": "111b:2",
+    "export_url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Nashim/Ketubot/Hebrew/merged.json",
+    "quote": "וכן אמרו: יצחק ושמעון ואושעיא אמרו דבר אחד: הלכה כרבי יהודה בפרדות. דתניא רבי יהודה אומר: פרדה שתבעה — אין מרביעין עליה לא סוס ולא חמור, אלא מינה.",
+    "read_scope": "complete saved target segment excerpt from BAV-002 export; adjacent API retrieval unavailable in this pass"
+  },
+  {
+    "candidate_id": "bav-002-kiddushin-24b-10",
+    "work": "Kiddushin",
+    "locator": "24b:10",
+    "export_url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Nashim/Kiddushin/Hebrew/merged.json",
+    "quote": "והתני רמי בר יחזקאל: תרנגול שהושיט ראשו לאויר כלי זכוכית, ותקע בו ושברו משלם נזק שלם. ואמר רב יוסף, אמרי בי רב: סוס שצנף וחמור שנער, ושברו כלים בתוך הבית – משלמים חצי נזק.",
+    "read_scope": "complete saved target segment excerpt from BAV-002 export; adjacent API retrieval unavailable in this pass"
+  },
+  {
+    "candidate_id": "bav-002-menachot-85b-17",
+    "work": "Menachot",
+    "locator": "85b:17",
+    "export_url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Kodashim/Menachot/Hebrew/merged.json",
+    "quote": "לאחר שאכלו ושתו, מדד לו שמן במאה ריבוא. אמר לו: כלום אתה צריך ליותר? אמר לו: הן, אלא שאין לי דמים. אמר לו: אם אתה רוצה ליקח – קח, ואני אלך עמך ואטול דמיו. מדד לו שמן בשמונה עשר ריבוא. אמרו: לא הניח או",
+    "read_scope": "complete saved target segment excerpt from BAV-002 export; adjacent API retrieval unavailable in this pass"
+  },
+  {
+    "candidate_id": "bav-002-moed-katan-10a-16",
+    "work": "Moed Katan",
+    "locator": "10a:16",
+    "export_url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Moed/Moed%20Katan/Hebrew/merged.json",
+    "quote": "דרש רב חמא: נוקרין ריחים במועד. משום רבי מאיר אמר: אפילו סוס שרוכב עליו וחמור שרוכב עליו — מותר ליטול צפרנים בחולו של מועד,",
+    "read_scope": "complete saved target segment excerpt from BAV-002 export; adjacent API retrieval unavailable in this pass"
+  },
+  {
+    "candidate_id": "bav-002-moed-katan-10b-2",
+    "work": "Moed Katan",
+    "locator": "10b:2",
+    "export_url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Moed/Moed%20Katan/Hebrew/merged.json",
+    "quote": "רב יהודה שרי למישקל טופריה לחמרא דריחיא, ולאוקומי ריחיא, ולמיבני ריחיא, ולמיבני אמת ריחיא, ולמיבני אוריא. רבא שרא לסרוקי סוסיא, ולמיבני אקרפיטא, ולמיבני איצטבא.",
+    "read_scope": "complete saved target segment excerpt from BAV-002 export; adjacent API retrieval unavailable in this pass"
+  },
+  {
+    "candidate_id": "bav-002-nedarim-33a-3",
+    "work": "Nedarim",
+    "locator": "33a:3",
+    "export_url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Nashim/Nedarim/Hebrew/merged.json",
+    "quote": "אמר רב פפא: שק להביא פירות, וחמור להביא עליו פירות, ואפילו צנא בעלמא, הנאה המביאה לידי מאכל הוא. בעי רב פפא: סוס לרכוב עליו וטבעת ליראות בה, מהו? מיפסק ומיזל בארעיה, מאי?",
+    "read_scope": "complete saved target segment excerpt from BAV-002 export; adjacent API retrieval unavailable in this pass"
+  },
+  {
+    "candidate_id": "bav-002-shabbat-52a-9",
+    "work": "Shabbat",
+    "locator": "52a:9",
+    "export_url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Moed/Shabbat/Hebrew/merged.json",
+    "quote": "הסוס בשיר וכו׳. מאי ״יוצאין״? ומאי ״נמשכין״? אמר רב הונא: או יוצאין כרוכין, או נמשכין. ושמואל אמר: יוצאין נמשכין, ואין יוצאין כרוכין.",
+    "read_scope": "complete saved target segment excerpt from BAV-002 export; adjacent API retrieval unavailable in this pass"
+  },
+  {
+    "candidate_id": "bav-002-shabbat-52a-14",
+    "work": "Shabbat",
+    "locator": "52a:14",
+    "export_url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Moed/Shabbat/Hebrew/merged.json",
+    "quote": "דאמר רב יהודה אמר שמואל: מחליפין היו לפני רבי, של זו בזו מהו? אמר לפניו רבי ישמעאל ברבי יוסי, כך אמר אבא: ארבע בהמות יוצאת באפסר, הסוס והפרד והגמל והחמור.",
+    "read_scope": "complete saved target segment excerpt from BAV-002 export; adjacent API retrieval unavailable in this pass"
+  },
+  {
+    "candidate_id": "bav-002-shabbat-64a-9",
+    "work": "Shabbat",
+    "locator": "64a:9",
+    "export_url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Moed/Shabbat/Hebrew/merged.json",
+    "quote": "אין לי אלא דבר הבא מן העזים, מניין לרבות דבר הבא מזנב הסוס ומזנב הפרה? — תלמוד לומר: ״או שק״.",
+    "read_scope": "complete saved target segment excerpt from BAV-002 export; adjacent API retrieval unavailable in this pass"
+  },
+  {
+    "candidate_id": "bav-002-shabbat-64a-13",
+    "work": "Shabbat",
+    "locator": "64a:13",
+    "export_url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Moed/Shabbat/Hebrew/merged.json",
+    "quote": "ודין הוא: טימא במת וטימא בשרץ. מה כשטימא בשרץ — עשה דבר הבא מזנב הסוס ומזנב הפרה כמעשה עזים, אף כשטימא במת — עשה דבר הבא מזנב הסוס ומזנב הפרה כמעשה עזים.",
+    "read_scope": "complete saved target segment excerpt from BAV-002 export; adjacent API retrieval unavailable in this pass"
+  },
+  {
+    "candidate_id": "bav-002-shabbat-64a-15",
+    "work": "Shabbat",
+    "locator": "64a:15",
+    "export_url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Moed/Shabbat/Hebrew/merged.json",
+    "quote": "תלמוד לומר: ״בגד״ ו״עור״ ״בגד״ ו״עור״ לגזירה שוה. נאמר ״בגד״ ו״עור״ בשרץ, ונאמר ״בגד״ ו״עור״ במת. מה ״בגד״ ו״עור״ האמור בשרץ — עשה דבר הבא מזנב הסוס ומזנב הפרה כמעשה עזים, אף ״בגד״ ו״עור״ האמור במת — ",
+    "read_scope": "complete saved target segment excerpt from BAV-002 export; adjacent API retrieval unavailable in this pass"
+  },
+  {
+    "candidate_id": "bav-002-shabbat-90b-3",
+    "work": "Shabbat",
+    "locator": "90b:3",
+    "export_url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Moed/Shabbat/Hebrew/merged.json",
+    "quote": "זרע קישואין. תנו רבנן: המוציא גרעינין, אם לנטיעה — שתים, אם לאכילה — כמלא פי חזיר, וכמה מלא פי חזיר — אחת. אם להסיק — כדי לבשל ביצה קלה. אם לחשבון — שתים. אחרים אומרים: חמש. תנו רבנן: המוציא שני נימין",
+    "read_scope": "complete saved target segment excerpt from BAV-002 export; adjacent API retrieval unavailable in this pass"
+  },
+  {
+    "candidate_id": "bav-002-shabbat-93b-1",
+    "work": "Shabbat",
+    "locator": "93b:1",
+    "export_url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Moed/Shabbat/Hebrew/merged.json",
+    "quote": "רבי יוסי אומר: הסוס מטמא על ידיו, החמור — על רגליו, שמשענת הסוס על ידיו, וחמור על רגליו. ואמאי? הא קא מסייע בהדי הדדי! לאו משום דאמרינן מסייע אין בו ממש? אמר רב אשי: אף אנן נמי תנינא. רבי אליעזר אומר:",
+    "read_scope": "complete saved target segment excerpt from BAV-002 export; adjacent API retrieval unavailable in this pass"
+  },
+  {
+    "candidate_id": "bav-002-shabbat-94a-3",
+    "work": "Shabbat",
+    "locator": "94a:3",
+    "export_url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Moed/Shabbat/Hebrew/merged.json",
+    "quote": "אמר ליה רב אדא בר אהבה לרבא, והא דתנן: בן בתירא מתיר בסוס. ותניא: בן בתירא מתיר בסוס מפני שהוא עושה בו מלאכה שאין חייבין עליו חטאת, ואמר רבי יוחנן: בן בתירא ורבי נתן אמרו דבר אחד. ואי אמרת דלא פליגי ר",
+    "read_scope": "complete saved target segment excerpt from BAV-002 export; adjacent API retrieval unavailable in this pass"
+  },
+  {
+    "candidate_id": "bav-002-sotah-13a-6",
+    "work": "Sotah",
+    "locator": "13a:6",
+    "export_url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Nashim/Sotah/Hebrew/merged.json",
+    "quote": "״ויספדו שם מספד גדול וכבד מאד״. תנא: אפילו סוסים ואפילו חמורים.",
+    "read_scope": "complete saved target segment excerpt from BAV-002 export; adjacent API retrieval unavailable in this pass"
+  },
+  {
+    "candidate_id": "bav-002-yevamot-98a-3",
+    "work": "Yevamot",
+    "locator": "98a:3",
+    "export_url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Nashim/Yevamot/Hebrew/merged.json",
+    "quote": "דהא שני אחין תאומים, דטפה אחת היא ונחלקה לשתים, וקתני סיפא: לא חולצין ולא מייבמין, שמע מינה: אפקורי אפקריה רחמנא לזרעיה, דכתיב: ״בשר חמורים בשרם וזרמת סוסים זרמתם״.",
+    "read_scope": "complete saved target segment excerpt from BAV-002 export; adjacent API retrieval unavailable in this pass"
+  },
+  {
+    "candidate_id": "bav-002-yoma-77a-11",
+    "work": "Yoma",
+    "locator": "77a:11",
+    "export_url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Moed/Yoma/Hebrew/merged.json",
+    "quote": "ונעילת הסנדל מנא לן? דכתיב: ״ודוד עולה במעלה הזיתים עולה ובוכה וראש לו חפוי (והולך) יחף״, יחף ממאי — לאו מנעילת הסנדל? ודילמא מסוסיא ומרטקא.",
+    "read_scope": "complete saved target segment excerpt from BAV-002 export; adjacent API retrieval unavailable in this pass"
+  }
+]

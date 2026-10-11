@@ -2,7 +2,7 @@
 """Build final BAV-007 adjudication from saved primary export segments."""
 import json
 from pathlib import Path
-ROOT=Path(__file__).resolve().parents[2]; HERE=ROOT/'research/bavli'
+ROOT=Path(__file__).resolve().parents[3]; HERE=ROOT/'research/bavli'
 def rows(p): return [json.loads(x) for x in p.read_text().splitlines() if x.strip()]
 def save(p,x): p.write_text(''.join(json.dumps(y,ensure_ascii=False)+'\n' for y in x))
 remaining=rows(HERE/'BAV-006.remaining.jsonl'); keys={(x['work'],x['locator']):x for x in remaining}

@@ -1,5 +1,5 @@
 import json,re,html,pathlib,collections
-p=pathlib.Path('horse-check/research/commentaries');xs=json.loads((p/'COM-002.raw.json').read_text())
+p=pathlib.Path(__file__).resolve().parent;xs=json.loads((p/'COM-002.raw.json').read_text())
 def clean(s):return html.unescape(re.sub('<[^>]+>','',s))
 # All quoted segments below are drawn verbatim from the fetched Hebrew, with markup removed only.
 sel=[
@@ -22,7 +22,7 @@ sel=[
 ('Kli Yakar','Exodus','15:1',3,'Rider’s elevation over his horse is read as pride and a larger fall, supporting the theme of God humbling the proud.'),
 ]
 base={'Job':'job','Song of Songs':'song','Psalms':'ps','Isaiah':'isa','Deuteronomy':'deut','Exodus':'exod'}
-existing={json.loads(l)['id'] for l in open('horse-check/data/sources.jsonl')}
+existing={json.loads(l)['id'] for l in open(pathlib.Path(__file__).resolve().parents[1] / 'data/sources.jsonl')}
 records=[]
 for a,b,v,i,interp in sel:
  x=next(x for x in xs if (x['author'],x['book'],x['verse'])==(a,b,v));d=x['data'];hs=d['he'];assert i<len(hs),(x['ref'],len(hs),i)

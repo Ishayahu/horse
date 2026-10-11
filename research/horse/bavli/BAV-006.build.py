@@ -3,8 +3,8 @@
 import json
 from pathlib import Path
 
-ROOT = Path(__file__).resolve().parents[2]
-readings = json.loads((ROOT / "research/bavli/BAV-006.read-excerpts.json").read_text())
+ROOT = Path(__file__).resolve().parents[3]
+readings = json.loads((ROOT / "research/horse/bavli/BAV-006.read-excerpts.json").read_text())
 covered = {
     "5b:29": "Already read and explicitly incorporated as continuation context in bavli-bekhorot-5b-28-davidson.",
     "6a:1": "Already read and explicitly incorporated as continuation context in bavli-bekhorot-5b-28-davidson.",
@@ -55,7 +55,7 @@ for item in readings:
     })
     verdicts.append({**c, "task_id": "BAV-006", "verdict": "accepted", "reason": interpretation, "source_id": source_id})
 
-remaining = [json.loads(line) for line in (ROOT / "research/bavli/BAV-005.remaining.jsonl").read_text().splitlines() if line.strip()][20:]
+remaining = [json.loads(line) for line in (ROOT / "research/horse/bavli/BAV-005.remaining.jsonl").read_text().splitlines() if line.strip()][20:]
 for row in remaining:
     row["task_id"] = "BAV-006"
     row["carried_from_task_id"] = "BAV-006"
@@ -63,9 +63,9 @@ for row in remaining:
 def write_jsonl(path, rows):
     (ROOT / path).write_text("".join(json.dumps(row, ensure_ascii=False) + "\n" for row in rows))
 
-write_jsonl("research/bavli/BAV-006.sources.jsonl", sources)
-write_jsonl("research/bavli/BAV-006.verdicts.jsonl", verdicts)
-write_jsonl("research/bavli/BAV-006.remaining.jsonl", remaining)
+write_jsonl("research/horse/bavli/BAV-006.sources.jsonl", sources)
+write_jsonl("research/horse/bavli/BAV-006.verdicts.jsonl", verdicts)
+write_jsonl("research/horse/bavli/BAV-006.remaining.jsonl", remaining)
 report = f"""# BAV-006 — bounded primary context review
 
 2026-10-11. Read the next 20 entries of the saved 43-candidate BAV-005 remainder in the named William Davidson digital witness, with up to two adjacent segments on each side.
@@ -78,5 +78,5 @@ The batch is predominantly legal zoological classification: horse-like offspring
 
 Exact quotations and access URLs are in `BAV-006.sources.jsonl`; complete bounded reading receipts are in `BAV-006.read-excerpts.json`. No commentaries, manuscripts, printed witnesses, or independent reviews were added in this pass.
 """
-(ROOT / "research/bavli/BAV-006.report.md").write_text(report)
+(ROOT / "research/horse/bavli/BAV-006.report.md").write_text(report)
 print(json.dumps({"accepted": len(sources), "covered": len(covered), "remaining": len(remaining)}))

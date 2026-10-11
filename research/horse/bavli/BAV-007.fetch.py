@@ -7,8 +7,8 @@ import urllib.parse
 import urllib.request
 from pathlib import Path
 
-ROOT = Path(__file__).resolve().parents[2]
-rows = [json.loads(line) for line in (ROOT / "research/bavli/BAV-006.remaining.jsonl").read_text().splitlines() if line.strip()]
+ROOT = Path(__file__).resolve().parents[3]
+rows = [json.loads(line) for line in (ROOT / "research/horse/bavli/BAV-006.remaining.jsonl").read_text().splitlines() if line.strip()]
 pages, out = {}, []
 for row in rows:
     daf, segment = row["locator"].split(":")
@@ -28,5 +28,5 @@ for row in rows:
         "edition": page.get("heVersionTitle"), "license": page.get("heLicense"),
         "read_segments": {str(i + 1): re.sub(r"<[^>]+>", "", page["he"][i]) for i in range(lo, hi)},
     })
-(ROOT / "research/bavli/BAV-007.read-excerpts.json").write_text(json.dumps(out, ensure_ascii=False, indent=2) + "\n")
+(ROOT / "research/horse/bavli/BAV-007.read-excerpts.json").write_text(json.dumps(out, ensure_ascii=False, indent=2) + "\n")
 print(json.dumps({"saved": len(out), "dapim": len(pages)}))

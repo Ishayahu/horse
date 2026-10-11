@@ -1,5 +1,5 @@
 import urllib.request,json,concurrent.futures,pathlib,time
-out=pathlib.Path('horse-check/research/commentaries');out.mkdir(exist_ok=True,parents=True)
+out=pathlib.Path(__file__).resolve().parent;out.mkdir(exist_ok=True,parents=True)
 targets={'Job':['39:'+str(v) for v in range(19,26)],'Song of Songs':['1:9'],'Psalms':['20:8','33:17','147:10'],'Isaiah':['31:'+str(v) for v in range(1,4)],'Deuteronomy':['20:1'],'Exodus':['15:1']}
 authors=['Rashi','Ibn Ezra','Radak','Metzudat David','Malbim','Or HaChaim','Kli Yakar']
 def get(p):

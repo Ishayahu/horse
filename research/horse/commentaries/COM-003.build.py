@@ -1,5 +1,5 @@
 import json,pathlib,collections
-p=pathlib.Path('horse-check/research/commentaries');raw=[json.loads(l) for l in (p/'COM-003.discoveries.jsonl').read_text().splitlines()];lookup={(r['author'],r['book'],r['verse']):r for r in raw}
+p=pathlib.Path(__file__).resolve().parent;raw=[json.loads(l) for l in (p/'COM-003.discoveries.jsonl').read_text().splitlines()];lookup={(r['author'],r['book'],r['verse']):r for r in raw}
 sel=[
 ('Rashi','Genesis','49:17',1,'Snake dislodges horse rider without directly touching him; the image is applied to Samson bringing down those on the roof.'),
 ('Rashi','Exodus','14:23',0,'Singular Pharaoh horse is explained as the entire cavalry counting as one horse before God; locally attributed to Mekhilta.'),

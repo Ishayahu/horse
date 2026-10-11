@@ -9,8 +9,6 @@
   "session_id": "research-2026-10-11-01",
   "active_task_ids": [],
   "pending_task_ids": [
-    "CHR-001",
-    "CHR-002",
     "KAB-002",
     "SYN-001",
     "CMP-001",
@@ -18,8 +16,8 @@
   ],
   "unsaved_results": [],
   "blockers": [],
-  "next_action": "Finish chronology CHR-001/CHR-002, then resolve KAB-002 status before synthesis/comparison/audit.",
-  "last_confirmed_commit": "b0f1b2d39f21a7fe24131d96ac01de5a69afc192",
+  "next_action": "Resolve KAB-002 artifact status, then synthesis/comparison/audit.",
+  "last_confirmed_commit": "4f9f51b12491ce978bf495b4641bf0d9d9a66b7b",
   "capabilities": {
     "github_read": true,
     "github_write": true,

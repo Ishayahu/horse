@@ -367,5 +367,5 @@
     "context_checked": 522,
     "independently_reviewed": 62
   },
-  "checkpoint_note": "COM-004 normalized 16 meaningful Abarbanel/Ibn Ezra Zechariah commentary cells; Bavli and Yerushalmi finite ledgers remain closed; chronology remains partial."
+  "checkpoint_note": "CHR-001/CHR-002 bounded chronology audit closed with passage-level earliest witnesses explicitly unresolved; these limits constrain borrowing/priority claims but do not block qualified synthesis."
 }

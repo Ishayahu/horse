@@ -1,18 +1,13 @@
 # horse — промежуточные материалы исследования коней
 
-**`codename: horse`** · Основная тема: `HORSE-RESEARCH-001` (завершено в ограниченном охвате), дополнительная проверка: `HORSE-SUPPLEMENT-001` (в работе). Итоговые читательские материалы: [`reports/horse/`](../../reports/horse/).
+**Кодовое имя:** `horse`. Исходное исследование `HORSE-RESEARCH-001` завершено в ограниченном охвате; `HORSE-SUPPLEMENT-001` продолжает доступную проверку источников.
 
-## Временная карта уже существующих материалов
+Внутри этой папки находятся тематические корпуса `tanakh/`, `bavli/`, `yerushalmi/`, `midrash/`, `commentaries/`, `later-literature/`, `kabbalah/`, `perek-shira/`, `egypt/`, `comparative/`, `provenance/`, `verification/`. Также здесь находятся `data/` (общий исторический реестр этой темы), `state/` (закрытый исходный checkpoint), `scripts/` (генераторы и проверки), `docs/` (исходное исследовательское задание) и **`supplement/`** (текущее дополнение).
 
-До безопасной атомарной миграции исторический корпус HORSE фактически расположен в:
+**Восстановление текущей работы:** [supplement/state.md](supplement/state.md) · [supplement/tasks.jsonl](supplement/tasks.jsonl). Первоначальная очередь: [state/tasks.jsonl](state/tasks.jsonl), реестр: [data/sources.jsonl](data/sources.jsonl), карта покрытия: [data/coverage.json](data/coverage.json).
 
-- `research/tanakh/`, `research/bavli/`, `research/yerushalmi/`, `research/midrash/`, `research/commentaries/`, `research/later-literature/`;
-- `research/kabbalah/`, `research/perek-shira/`, `research/comparative/`, `research/egypt/`, `research/provenance/`, `research/verification/`;
-- `research/horse-supplement/` — текущие промежуточные результаты дополнительного исследования;
-- `data/` (старый реестр и покрытие) и `state/` (задачи/checkpoint исходного HORSE).
+**Публикации:** [reports/horse](../../reports/horse/README.md).
 
-Все эти папки **относятся только к codename `horse`**, а не к другим исследованиям. Наличие старых папок пока означает неполную физическую миграцию, не другой `codename`. Не дублировать реестр и не переписывать исходные цитаты ради перемещения.
-
-**Требуемое целевое расположение:** `research/horse/<corpus>/...`, `research/horse/supplement/...`, `research/horse/data/...` и `research/horse/state/...`. Перенос должен сохранить историю и работоспособность, исправить все JSONL/Markdown/Python пути и ссылки, а затем проверить удалённый checkpoint. До такого переноса исторические артефакты продолжают читаться по фактическим адресам.
+Скрипт проверки исходных данных из корня репозитория: `python3 research/horse/scripts/validate_state.py`.
 
 [Методология](../../docs/methodology.md) · [Очередь](../../RESEARCH-RUNNER.md).

@@ -15,6 +15,6 @@
 - [Тематический синтез](SYN-001.report.md)
 - [Финальный аудит](AUD-001.report.md)
 
-[Первичные реестры](../../data/sources.jsonl) · [Покрытие](../../data/coverage.json) · [Общая очередь](../../RESEARCH-RUNNER.md).
+[Первичные реестры](../../research/horse/data/sources.jsonl) · [Покрытие](../../research/horse/data/coverage.json) · [Общая очередь](../../RESEARCH-RUNNER.md).
 
 **Кодовое имя:** `horse` — то же самое имя должно использоваться для промежуточной папки `research/horse/` и для всех подзадач HORSE/SUPPLEMENT. Исторические исходные пути в данный момент сохраняются до безопасной миграции.

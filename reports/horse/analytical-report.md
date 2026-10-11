@@ -69,9 +69,9 @@
 
 ## Навигация
 
-- Тематический синтез: `reports/SYN-001.report.md`
+- Тематический синтез: `reports/horse/SYN-001.report.md`
 - Сравнительный отчёт: `research/comparative/CMP-001.report.md`
-- Финальный аудит: `reports/AUD-001.report.md`
-- Каталог Танаха: `reports/tanakh-catalogue.md`
+- Финальный аудит: `reports/horse/AUD-001.report.md`
+- Каталог Танаха: `reports/horse/tanakh-catalogue.md`
 - Реестр: `data/sources.jsonl`, `data/sources.csv`
 - Покрытие: `data/coverage.json`

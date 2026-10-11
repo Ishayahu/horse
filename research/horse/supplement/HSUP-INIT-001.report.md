@@ -2,9 +2,9 @@
 
 Дата: 2026-10-11.
 
-Проверены актуальные `RESEARCH-RUNNER.md`, `docs/methodology.md`, `state/handoff.md`, `state/project.json`, `data/coverage.json`, `reports/AUD-001.report.md` и существующие тематические артефакты.
+Проверены актуальные `RESEARCH-RUNNER.md`, `docs/methodology.md`, `research/horse/state/handoff.md`, `research/horse/state/project.json`, `research/horse/data/coverage.json`, `reports/AUD-001.report.md` и существующие тематические артефакты.
 
-Дополнение начинается от удалённого HEAD `71f6cbc1d398c4dcafc827e720ed7fd1a0b5d64c`. Каталог `research/horse-supplement/` до этого отсутствовал. Исторические 524 записи не копируются.
+Дополнение начинается от удалённого HEAD `71f6cbc1d398c4dcafc827e720ed7fd1a0b5d64c`. Каталог `research/horse/supplement/` до этого отсутствовал. Исторические 524 записи не копируются.
 
 ## Дедупликация входных пробелов
 

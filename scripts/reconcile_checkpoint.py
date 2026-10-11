@@ -33,7 +33,7 @@ def main():
             "research/verification/VER-007.reviews.jsonl", "research/verification/VER-007.report.md"]),
         "TAN-AUDIT": ("done", [
             "research/tanakh/TAN-AUDIT.build.py", "research/tanakh/TAN-AUDIT.report.md",
-            "reports/tanakh-catalogue.md"]),
+            "reports/horse/tanakh-catalogue.md"]),
         "CHR-002": ("partial", [
             "research/provenance/CHR001.evidence.jsonl", "research/provenance/CHR001.chronology.jsonl",
             "research/provenance/CHR001.report.md"]),

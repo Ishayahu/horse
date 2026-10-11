@@ -8,3 +8,7 @@ project: phase, current_assignment (null либо цель+идентифика�
 hypotheses.jsonl: id, claim, epistemic_type, source_ids[], mechanism, falsifiers[], alternatives[], confidence, followup_task_ids[].
 decisions.jsonl: id,date,decision,rationale,task_ids[].
 handoff — короткое человекочитаемое отражение состояния. Проверка валидатором обязательна перед checkpoint. Running из прошлого сеанса не означает выполненное.
+
+## Тематическое размещение итоговых результатов
+
+Конечные проверенные каталоги, отчёты и аудиты помещаются по одной теме в `reports/<research-slug>/`. В корне `reports/` разрешён только общий указатель. `HORSE-RESEARCH-001` и `HORSE-SUPPLEMENT-001` публикуются в `reports/horse/`; `YIRAT-RESEARCH-001` — в `reports/yirat-shamayim/`. Задания `tasks.jsonl` и код генерации должны ссылаться на фактические пути; исторические статусы не менять при чисто структурном переносе.

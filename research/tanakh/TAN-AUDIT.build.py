@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 import json,collections
 from pathlib import Path
-P=Path(__file__).parent;R=P.parents[1]/'reports'
+P=Path(__file__).parent;R=P.parents[1]/'reports'/'horse';R.mkdir(parents=True,exist_ok=True)
 load=lambda n:[json.loads(x) for x in (P/n).read_text().splitlines()]
 files=['TAN-002a.sources.jsonl','TAN-002b.sources.jsonl','TAN-003.sources.jsonl','TAN-004.sources.jsonl']
 rows=[r for n in files for r in load(n)];assert len(rows)==len({r['id'] for r in rows})==len({r['locator'] for r in rows})==242
@@ -58,7 +58,7 @@ text='''# TAN-AUDIT — конечный аудит Танаха
 
 2Kgs2:11,6:17,23:11; Hab3:8,15; Zech1 и6; Ps68:18; Isa66:15 требуют отдельного комментария и независимого чтения. В 2Kgs6:17 אש непосредственно относится к רכב: отсутствующее «סוסי אש» не выдаётся за цитату. В Zech6 четыре колесницы объясняются как четыре רחות השמים; буквальное «четыре коня — четыре духа» не приписывается стиху. Isa31:3 противопоставляет плотских египетских коней духу, сам по себе не устанавливая духовных коней. Солнечные кони 2Kgs23:11 не определены автоматически как живые либо изображения. Nah2:4–5 — блеск военных колесниц, не огненные кони.
 
-Связанный полный Markdown-каталог: `reports/tanakh-catalogue.md`. Первичные ссылки и еврейские цитаты в каждой записи. Совокупный аудит не создаёт нового статуса самостоятельной проверки и не меняет общие индексы/state; удалённое сохранение подтверждает координатор.
+Связанный полный Markdown-каталог: `reports/horse/tanakh-catalogue.md`. Первичные ссылки и еврейские цитаты в каждой записи. Совокупный аудит не создаёт нового статуса самостоятельной проверки и не меняет общие индексы/state; удалённое сохранение подтверждает координатор.
 '''
 (P/'TAN-AUDIT.report.md').write_text(text)
 print('242 records, catalogue and final finite audit written')

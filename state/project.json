@@ -10,7 +10,6 @@
   "active_task_ids": [],
   "pending_task_ids": [
     "BAV-007",
-    "YER-008",
     "COM-004",
     "CHR-001",
     "CHR-002",
@@ -21,8 +20,8 @@
   ],
   "unsaved_results": [],
   "blockers": [],
-  "next_action": "Run final Yerushalmi batch YER-008 or final Bavli batch BAV-007; then finish COM-004 normalization and chronology before synthesis/comparison/audit.",
-  "last_confirmed_commit": "16cec116b0ffed9d26535d860bd8f3139940f95c",
+  "next_action": "Run final Bavli batch BAV-007; then finish COM-004 normalization and chronology before synthesis/comparison/audit.",
+  "last_confirmed_commit": "14ff896f14acda0805ee713f3fc766cd4d248441",
   "capabilities": {
     "github_read": true,
     "github_write": true,
@@ -33,8 +32,8 @@
   },
   "active_workers": [],
   "registry_statistics": {
-    "records": 483,
-    "context_checked": 481,
+    "records": 487,
+    "context_checked": 485,
     "independently_reviewed": 62
   }
 }

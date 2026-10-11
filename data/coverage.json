@@ -134,7 +134,7 @@
         "Jerusalem Talmud Yevamot",
         "Jerusalem Talmud Yoma"
       ],
-      "status": "partial",
+      "status": "processed",
       "queries": [
         "סוס",
         "סוסים",
@@ -152,15 +152,15 @@
         "YER001/YER003 context ranges"
       ],
       "candidate_count": 149,
-      "confirmed_count": 19,
+      "confirmed_count": 23,
       "commentary_count": 0,
       "limitations": [
-        "Finite lexical discovery ledger has 9 candidates still pending after YER-007; counts are contextual records, not proof of absolute corpus completeness.",
+        "Saved 149-candidate YER-002 discovery ledger is fully adjudicated, but this does not prove absolute completeness across every spelling, edition, commentary, manuscript or allusion.",
         "Niddah mixed provenance/license and rare Makkot witness identification remain unresolved."
       ],
       "next_checks": [
-        "YER-008 final 9-candidate review",
-        "Independent review of central extraordinary/spiritual passages"
+        "Independent review of central extraordinary/spiritual passages",
+        "Resolve edition/manuscript limitations if stronger completeness is required"
       ]
     },
     {
@@ -361,9 +361,9 @@
     }
   ],
   "registry_statistics": {
-    "records": 483,
-    "context_checked": 481,
+    "records": 487,
+    "context_checked": 485,
     "independently_reviewed": 62
   },
-  "checkpoint_note": "YER-007 read 15 named remaining candidates: 3 registered contexts, 12 lexical false positives, 9 finite-ledger candidates remain; BAV 23 remain; COM-004 and chronology remain partial."
+  "checkpoint_note": "YER-008 read the final 9 named Yerushalmi candidates: 4 registered contexts, 5 lexical false positives, zero finite-ledger candidates remain; BAV 23 remain; COM-004 and chronology remain partial."
 }

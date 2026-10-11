@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "phase": "research_in_progress",
+  "phase": "completed_bounded",
   "current_assignment": {
     "id": "HORSE-RESEARCH-001",
     "goal": "Образ коня в еврейских источниках и проверка связи со сверхъестественным перемещением",
@@ -8,13 +8,11 @@
   },
   "session_id": "research-2026-10-11-01",
   "active_task_ids": [],
-  "pending_task_ids": [
-    "AUD-001"
-  ],
+  "pending_task_ids": [],
   "unsaved_results": [],
   "blockers": [],
-  "next_action": "Execute AUD-001: validate task closure, export registry CSV, finalize analytical report, and decide HORSE completion.",
-  "last_confirmed_commit": "fbb188a81f7e4b1a056830adc8988ccb42327a80",
+  "next_action": "Initialize YIRAT-RESEARCH-001 from the queue in RESEARCH-RUNNER.md and begin its first bounded Tanakh task.",
+  "last_confirmed_commit": "f1c48f91479fc1f05cc135ef3b3939fcb53caa8e",
   "capabilities": {
     "github_read": true,
     "github_write": true,

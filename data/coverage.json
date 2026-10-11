@@ -44,7 +44,7 @@
         "Zech",
         "Mal"
       ],
-      "status": "partial",
+      "status": "processed",
       "queries": [
         "5483 b",
         "5484",
@@ -54,16 +54,16 @@
       "ranges": [
         "All 39 OSHB WLC XML books; 23,213 verses"
       ],
-      "candidate_count": 367,
-      "confirmed_count": 160,
+      "candidate_count": 374,
+      "confirmed_count": 242,
       "commentary_count": 0,
       "limitations": [
-        "129 direct verses context classified;31 bounded indirect/context records, not exhaustive indirect coverage.",
-        "Corrected lexeme inventory TAN003 pending;139 direct horse tokens."
+        "129 direct verses and 113 accepted indirect locators context classified; this remains a bounded lexical/contextual catalogue, not every possible allusion.",
+        "Some indirect chariot/rider cases are explicitly ambiguous and do not prove the presence of a horse."
       ],
       "next_checks": [
-        "TAN003 corrected indirect search",
-        "Independent full catalogue audit"
+        "Print/manuscript collation if stronger textual completeness is required",
+        "Further allusion search only as a new bounded task"
       ]
     },
     {
@@ -217,10 +217,9 @@
       "commentary_count": 0,
       "limitations": [
         "2850 broad candidates including false פרש hits; not horse mention count.",
-        "8 contextual units from MID001+MID003; MID004 ready but not included in this checkpoint."
+        "Selected contextual units were normalized into the registry; the 2,850-hit broad ledger was not exhaustively semantically filtered."
       ],
       "next_checks": [
-        "MID004 acceptance",
         "Per-work candidate semantic filtering",
         "Dating and edition collation"
       ]
@@ -281,8 +280,7 @@
         "Default digital Hebrew responses are not print/manuscript collation; most selected commentary remains without independent review."
       ],
       "next_checks": [
-        "Independent review of Abarbanel/Ibn Ezra central Zechariah interpretations",
-        "Broader authors and print witnesses only if required by final audit"
+        "Broader authors and print witnesses only as a new bounded task"
       ]
     },
     {
@@ -312,9 +310,8 @@
         "IbnTibbon Hebrew translation verified; Arabic not collated."
       ],
       "next_checks": [
-        "LAT002",
-        "VER003l",
-        "Historical dating"
+        "Additional author-specific bounded searches",
+        "Arabic/print collation and historical dating"
       ]
     },
     {
@@ -333,33 +330,52 @@
         "לא ירבה"
       ],
       "ranges": [
-        "32005 export leaves;3 selected readings"
+        "32005 export leaves;10 selected readings including seven KAB-002 contexts"
       ],
       "candidate_count": 114,
-      "confirmed_count": 3,
-      "commentary_count": 3,
+      "confirmed_count": 10,
+      "commentary_count": 10,
       "limitations": [
-        "Raw114 candidates; no Zohar commentaries or comprehensive Hasidic corpus yet.",
+        "Raw114 candidates; no comprehensive Zohar-commentary or Hasidic corpus audit.",
         "Version licensing/passage dating noted; symbolic terminology preserved."
       ],
       "next_checks": [
-        "KAB002",
-        "Remaining candidate filtering"
+        "Remaining candidate filtering only as a new bounded task",
+        "Passage-specific manuscript dating"
       ]
     },
     {
       "id": "comparative",
-      "works": [],
-      "status": "not_started",
-      "queries": [],
-      "ranges": [],
-      "candidate_count": 0,
-      "confirmed_count": 0,
+      "works": [
+        "Hesiod, Theogony",
+        "Pindar, Olympian 13",
+        "Rig Veda 4.40",
+        "Tishtrya Yasht 8",
+        "Grimnismal 44",
+        "Enuma Elish IV (low-confidence comparator)"
+      ],
+      "status": "processed",
+      "queries": [
+        "Pegasus winged horse",
+        "Dadhikravan bird-like horse",
+        "Tishtrya white horse",
+        "Sleipnir Grimnismal",
+        "storm chariot"
+      ],
+      "ranges": [
+        "Six named primary-text nodes; feature-level comparison only"
+      ],
+      "candidate_count": 6,
+      "confirmed_count": 5,
       "commentary_count": 0,
       "limitations": [
-        "Initial search assignment started; no completed coverage yet"
+        "Not an exhaustive catalogue of world mythology.",
+        "Oral-layer chronology is disputed; no archaeological transmission chain was established.",
+        "Mesopotamian comparator remains low-confidence pending critical-edition line verification."
       ],
-      "next_checks": []
+      "next_checks": [
+        "Any diffusion claim requires a separately scoped contact and transmission study"
+      ]
     }
   ],
   "registry_statistics": {
@@ -367,5 +383,5 @@
     "context_checked": 522,
     "independently_reviewed": 62
   },
-  "checkpoint_note": "KAB-002 closed from seven existing verified contextual records; Lurianic horse imagery is symbolic/moral and does not establish Pegasus or literal interworld horse transport. Synthesis is next."
+  "checkpoint_note": "SYN-001 and CMP-001 complete. Final audit records bounded completion: supernatural horses are documented, but a general winged/interworld horse motif and a Pegasus borrowing chain are not established."
 }

@@ -1,6 +1,6 @@
 # Источники после Танаха — каталог подтверждённых записей о конях
 Дата первого формирования: 2026-10-11. **Это сводный навигационный каталог, собранный из уже существующих проверенных записей исследования HORSE-RESEARCH-001, а не новая независимая проверка первоисточников.**
-По структуре сопоставим с [каталогом Танаха](tanakh-catalogue.md): точный локатор, исходная цитата, контекст, интерпретация, ссылки и статусы проверки. Он включает Талмуды, мидраши, классические комментарии, позднюю литературу, каббалу и «Перек Шира».
+По структуре сопоставим с [каталогом Танаха](tanakh-catalogue.md): точный локатор, исходная цитата, контекст, интерпретация, ссылки и статусы проверки. Мидраши, классические комментарии, поздняя литература, каббала и «Перек Шира» собраны здесь; Талмуды вынесены в два связанных тома (см. ниже).
 **Ограничение:** отдельные цитаты больших комментариев могут быть сокращены для читаемости — см. полный исходный реестр; «контекст проверен» не тождественно независимому аудиту толкования. Кандидаты без первичной проверки не включены. Сведения о Хида `ככר לאדן` остаются нерешённым пробелом, а не проверенной цитатой.
 **Источник истины:** [data/sources.jsonl](../data/sources.jsonl), [data/coverage.json](../data/coverage.json), [заключительный аудит](AUD-001.report.md). Каталог не подменяет эти реестры.
 ## Указатель разделов
@@ -9,8 +9,8 @@
 - Перек Шира и комментарии к ней
 - Мидраши
 - Классические комментарии
-- Вавилонский Талмуд
-- Иерусалимский Талмуд
+- [Вавилонский Талмуд — отдельный том](bavli-catalogue.md)
+- [Иерусалимский Талмуд — отдельный том](yerushalmi-catalogue.md)
 - Дополнительные традиционные источники из исследования Египта
 ---
 
@@ -2133,6 +2133,128 @@ _Проверенных записей исходных партий: 71. Цит
 [Первоисточник](https://he.wikisource.org/wiki/מ"ג_זכריה_ו_ה) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/commentaries/COM-001.sources.jsonl)
 
 
+## Дополнительные традиционные источники из исследования Египта
+
+_Записей: 7. Этот раздел содержит галахические и комментаторские тексты, найденные при исследовании запрета умножать царских коней и возвращаться в Египет. Современные исторические статьи и повторные тексты Танаха в каталог не включены._
+
+### Mishneh Torah, Kings and Wars — 3:3
+
+**ID:** `rambam-melakhim-3-3-horse-excess` · **Задание:** `EGY-001`
+
+> אפילו סוס אחד פנוי להיות רץ לפניו כדרך שעושין שאר המלכים אסור ואם הוסיף לוקה.
+
+**Контекст:** King may keep horses required for chariot; paragraph immediately follows wife restriction and precedes treasury restriction.
+
+**Интерпретация:** Legal codification: needed horses allowed; even one extra horse for running before him in customary royal display forbidden.
+
+**Проверки:** оригинал да; цитата да; контекст да; независимая нет.
+
+**Оговорки:** No independent review; online transcription not collated. Traditional interpretation is not independent archaeological verification.
+
+[Первоисточник](https://he.wikisource.org/wiki/רמב%22ם_הלכות_מלכים_ומלחמות_ג) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/egypt/EGY-001.sources.jsonl)
+
+### Mishneh Torah, Kings and Wars — 5:7
+
+**ID:** `rambam-melakhim-5-7-egypt-residence` · **Задание:** `EGY-001`
+
+> בשלשה מקומות הזהירה תורה שלא לשוב למצרים
+
+**Контекст:** Egyptian residence forbidden, Alexandria included; cites Deut17:16, Deut28:68 and Exodus14:13 return prohibitions.
+
+**Интерпретация:** Legal codification cites sea-context verse as one source for Egyptian residence restriction. It does not explicitly explain royal horse restriction by Pharaoh’s cavalry defeat.
+
+**Проверки:** оригинал да; цитата да; контекст да; независимая нет.
+
+**Оговорки:** No independent review; online transcription not collated. Traditional interpretation is not independent archaeological verification.
+
+[Первоисточник](https://he.wikisource.org/wiki/רמב%22ם_הלכות_מלכים_ומלחמות_ה) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/egypt/EGY-001.sources.jsonl)
+
+### Mishneh Torah, Kings and Wars — 5:8
+
+**ID:** `rambam-melakhim-5-8-egypt-trade` · **Задание:** `EGY-001`
+
+> מותר לחזור לארץ מצרים לסחורה ולפרקמטיא ולכבוש ארצות אחרות ואין אסור אלא להשתקע שם
+
+**Контекст:** Explains no lashes because entry permitted and later intent to settle lacks action; then author’s ויראה לי permits Egypt under Jewish king’s court-authorized conquest, distinguishing individual settlement under gentile rule and corrupt customs.
+
+**Интерпретация:** Trade/temporary return differentiated from settling. These lines have no horse noun; relevant legal boundary prevents treating all Egyptian horse purchasing as forbidden.
+
+**Проверки:** оригинал да; цитата да; контекст да; независимая нет.
+
+**Оговорки:** No independent review; online transcription not collated. Traditional interpretation is not independent archaeological verification.
+
+[Первоисточник](https://he.wikisource.org/wiki/רמב%22ם_הלכות_מלכים_ומלחמות_ה) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/egypt/EGY-001.sources.jsonl)
+
+### Kli Yakar on Deuteronomy — 17:18 (discussion of 17:16)
+
+**ID:** `kli-yakar-deut-17-18-horse-trust` · **Задание:** `EGY-001`
+
+> עיקר האיסור הוא בעבור שריבוי הסוסים מסיר ממנו הבטחון בה'
+
+**Контекст:** כסא acronym כסף סוס אשה introduces royal three restrictions; cites Isaiah31:1. Distinguishes horse-oriented Egyptian trip from other trade; concludes reliance on horse/chariot endangers life and seeks foreign rescue rather than God among Israel.
+
+**Интерпретация:** Traditional commentary: excessive horses displace trust in God; other commerce in Egypt permitted. Distinct from generic trade embargo.
+
+**Проверки:** оригинал да; цитата да; контекст да; независимая нет.
+
+**Оговорки:** No independent review; online transcription not collated. Traditional interpretation is not independent archaeological verification.
+
+[Первоисточник](https://he.wikisource.org/wiki/כלי_יקר_על_דברים_יז) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/egypt/EGY-001.sources.jsonl)
+
+### Abarbanel on Deuteronomy — 17; paragraphs beginning והנה הזכיר and ואפשר לפרש ולא ישיב (Wikisource lines186,191)
+
+**ID:** `abarbanel-deut-17-horse-alliance` · **Задание:** `EGY-001`
+
+> ר"ל לשאול ממצרים עזרה
+
+**Контекст:** Says kings pursue horses for rank/honor/wars, women for pleasure and money for wealth. Necessary cavalry allowed; commerce and horse purchase not inherently forbidden return. Excess reliance leads to Egyptian military aid; alternative explanation is exile. Reconsiders causal versus consequential wording of ולא ישיב.
+
+**Интерпретация:** Traditional commentary: military dependency/trust plus alternative exile reading. No modern economic reconstruction or sole-supplier claim.
+
+**Проверки:** оригинал да; цитата да; контекст да; независимая нет.
+
+**Оговорки:** No independent review; online transcription not collated. Wikisource chapter grouping differs from Sefaria verse anchor17:14; exact segment crosswalk pending. Printed prooftext numbers in transcription sometimes inaccurate (e.g. Isaiah citation); do not repeat erroneous numbers.
+
+[Первоисточник](https://he.wikisource.org/wiki/אברבנאל_על_דברים_יז) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/egypt/EGY-001.sources.jsonl)
+
+### Gur Aryeh on Deuteronomy — 17:16 [12]
+
+**ID:** `gur-aryeh-deut-17-16-egypt-dependency` · **Задание:** `EGY-001`
+
+> שדבר זה אסרה התורה שיהיה צריך למצרים
+
+**Контекст:** Replies to Ramban’s objection that commerce allowed: king’s many selected horses make Egyptian supply necessary whereas ordinary commerce not necessary; residence and compulsory dependency both permanent-looking. Calls Re’em explanation incorrect.
+
+**Интерпретация:** Traditional commentary explicitly objects to necessary dependence on Egypt. His selected-horse sourcing is an author’s assertion, not archaeological finding.
+
+**Проверки:** оригинал да; цитата да; контекст да; независимая нет.
+
+**Оговорки:** No independent review; online transcription not collated. Traditional interpretation is not independent archaeological verification.
+
+[Первоисточник](https://he.wikisource.org/wiki/מ%22ג_דברים_יז_טז) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/egypt/EGY-001.sources.jsonl)
+
+### Rabbeinu Bahya ben Asher on Deuteronomy — 17:16
+
+**ID:** `rabbeinu-bachya-deut-17-16-egypt-time` · **Задание:** `EGY-001`
+
+> זו מצוה לשעה כדי שלא ילמדו ישראל מעשיהם
+
+**Контекст:** Horse accumulation beyond cavalry need ties to Egypt as supplier at that time. Author argues Egyptian residence prohibition temporary, pointing to contemporary communities; reports another view of continuing restriction limited to return from land of Israel.
+
+**Интерпретация:** Traditional commentary preserves significant disagreement with Rambam’s general continuing residence ban; residence rationale avoiding Egyptian practices. Do not homogenize views.
+
+**Проверки:** оригинал да; цитата да; контекст да; независимая нет.
+
+**Оговорки:** No independent review; online transcription not collated. Statement about contemporary communities is author’s textual argument, not independently surveyed demographic evidence.
+
+[Первоисточник](https://he.wikisource.org/wiki/מ%22ג_דברים_יז_טז) · [Запись исследования](https://github.com/Ishayahu/horse/blob/main/research/egypt/EGY-001.sources.jsonl)
+
+
 ---
 
-_Продолжение каталога — разделы мидрашей, классических комментариев и обоих Талмудов — добавляется отдельными проверяемыми коммитами. Пока документ неполон._
+## Отдельные тома каталога
+
+- **[Вавилонский Талмуд — 97 записей](bavli-catalogue.md)**: отрывки на иврите/арамейском, контексты, прямые ссылки, проверочные статусы и задачи BAV-001 — BAV-007.
+- **[Иерусалимский Талмуд — 52 записи](yerushalmi-catalogue.md)**: аналогичная подборка из заданий YER-001 и YER-003 — YER-008.
+
+Суммарно в этих трёх читаемых томах — **273 зарегистрированных записи**: 124 в данном томе и 149 в обоих Талмудах. Это количество **записей из проверенных файлов-партий**, а не гарантированное число независимых текстов и не претензия на исчерпание всей традиции; часть параллелей между источниками может повторяться. Непроверенные кандидаты и ограничения перечислены в исходных отчётах.

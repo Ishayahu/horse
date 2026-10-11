@@ -1,8 +1,8 @@
 # Каталоги исследовательских отчётов
 
-Результаты разных исследований хранятся в собственных тематических каталогах `reports/<slug>/`. Здесь только навигация.
+Результаты разных исследований хранятся в собственных тематических каталогах `reports/<codename>/`. **Имена папок совпадают с полем `codename` в очереди и с именами `research/<codename>/`.** Здесь только навигация.
 
-## [HORSE — образ коня](horse/README.md)
+## [horse — образ коня](horse/README.md)
 
 - [Каталог Танаха](horse/tanakh-catalogue.md)
 - [Подборка после Танаха](horse/post-tanakh-catalogue.md)
@@ -14,7 +14,7 @@
 
 Дополнительная проверка `HORSE-SUPPLEMENT-001` пополняет каталог этой же темы.
 
-## [YIRAT — יראת שמים](yirat-shamayim/README.md)
+## [yirat-shamayim — יראת שמים](yirat-shamayim/README.md)
 
 Текущая исследовательская работа и черновики: [`research/yirat-shamayim/`](../research/yirat-shamayim/). После проверки итоговые материалы публикуются в `reports/yirat-shamayim/`.
 

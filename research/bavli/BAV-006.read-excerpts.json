@@ -1,0 +1,473 @@
+[
+  {
+    "candidate": {
+      "schema_version": 1,
+      "candidate_id": "bav-002-bekhorot-5b-29",
+      "discovery_file": "BAV-002.candidates.jsonl",
+      "task_id": "BAV-006",
+      "work": "Bekhorot",
+      "locator": "5b:29",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Kodashim/Bekhorot/Hebrew/merged.json",
+      "verdict": "pending",
+      "reason": "True horse lexical candidate in saved discovery index; complete primary contextual reading still required, no verification promoted.",
+      "carried_from_task_id": "BAV-004"
+    },
+    "url": "https://www.sefaria.org/api/texts/Bekhorot.5b?context=0&commentary=0",
+    "edition": "William Davidson Edition - Vocalized Aramaic",
+    "license": "CC-BY-NC",
+    "read_segments": {
+      "27": "וְרַבִּי יוֹסֵי הַגְּלִילִי, הַאי ״פֶּטֶר חֲמוֹר״ ״פֶּטֶר חֲמוֹר״ מַאי עָבֵיד לֵיהּ?",
+      "28": "מִיבְּעֵי לֵיהּ לְכִדְתַנְיָא: רַבִּי יוֹסֵי הַגְּלִילִי אוֹמֵר, מִתּוֹךְ שֶׁנֶּאֱמַר ״אַךְ פָּדֹה תִפְדֶּה אֶת בְּכוֹר הָאָדָם וְאֵת בְּכוֹר הַבְּהֵמָה הַטְּמֵאָה תִּפְדֶּה״, שׁוֹמֵעַ אֲנִי אֲפִילּוּ פִּטְרֵי סוּסִים וּגְמַלִּים? תַּלְמוּד לוֹמַר ״פֶּטֶר חֲמוֹר״ — פֶּטֶר חֲמוֹר אָמַרְתִּי לְךָ, וְלֹא פִּטְרֵי סוּסִים וּגְמַלִּים.",
+      "29": "וַעֲדַיִין אֲנִי אוֹמֵר: פִּטְרֵי חֲמוֹר בְּשֶׂה, פִּטְרֵי סוּסִים וּגְמַלִּים בְּכׇל דָּבָר."
+    }
+  },
+  {
+    "candidate": {
+      "schema_version": 1,
+      "candidate_id": "bav-002-bekhorot-6a-1",
+      "discovery_file": "BAV-002.candidates.jsonl",
+      "task_id": "BAV-006",
+      "work": "Bekhorot",
+      "locator": "6a:1",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Kodashim/Bekhorot/Hebrew/merged.json",
+      "verdict": "pending",
+      "reason": "True horse lexical candidate in saved discovery index; complete primary contextual reading still required, no verification promoted.",
+      "carried_from_task_id": "BAV-004"
+    },
+    "url": "https://www.sefaria.org/api/texts/Bekhorot.6a?context=0&commentary=0",
+    "edition": "William Davidson Edition - Vocalized Aramaic",
+    "license": "CC-BY-NC",
+    "read_segments": {
+      "1": "תַּלְמוּד לוֹמַר: ״פֶּטֶר חֲמוֹר״ ״פֶּטֶר חֲמוֹר״ שְׁנֵי פְּעָמִים — פִּטְרֵי חֲמוֹרִים אָמַרְתִּי לְךָ, וְלֹא פִּטְרֵי סוּסִים וּגְמַלִּים.",
+      "2": "פָּרֵיךְ רַב אַחַאי: אִי כְּתַב רַחֲמָנָא חַד, הֲוָה אָמֵינָא דָּבָר שֶׁהָיָה בַּכְּלָל, וְיָצָא מִן הַכְּלָל לְלַמֵּד, לֹא לְלַמֵּד עַל עַצְמוֹ יָצָא אֶלָּא לְלַמֵּד עַל הַכְּלָל כּוּלּוֹ יָצָא, וּלְעוֹלָם בְּשֶׂה.",
+      "3": "כְּתַב רַחֲמָנָא ״פֶּטֶר חֲמוֹר״ אַחֲרִינָא, פִּטְרֵי חֲמוֹרִים וְלֹא פִּטְרֵי סוּסִים וּגְמַלִּים, וְאֵימָא: מַעֲטִינְהוּ מִשֶׂה, וּלְעוֹלָם בְּכׇל דָּבָר!"
+    }
+  },
+  {
+    "candidate": {
+      "schema_version": 1,
+      "candidate_id": "bav-002-bekhorot-6a-3",
+      "discovery_file": "BAV-002.candidates.jsonl",
+      "task_id": "BAV-006",
+      "work": "Bekhorot",
+      "locator": "6a:3",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Kodashim/Bekhorot/Hebrew/merged.json",
+      "verdict": "pending",
+      "reason": "True horse lexical candidate in saved discovery index; complete primary contextual reading still required, no verification promoted.",
+      "carried_from_task_id": "BAV-004"
+    },
+    "url": "https://www.sefaria.org/api/texts/Bekhorot.6a?context=0&commentary=0",
+    "edition": "William Davidson Edition - Vocalized Aramaic",
+    "license": "CC-BY-NC",
+    "read_segments": {
+      "1": "תַּלְמוּד לוֹמַר: ״פֶּטֶר חֲמוֹר״ ״פֶּטֶר חֲמוֹר״ שְׁנֵי פְּעָמִים — פִּטְרֵי חֲמוֹרִים אָמַרְתִּי לְךָ, וְלֹא פִּטְרֵי סוּסִים וּגְמַלִּים.",
+      "2": "פָּרֵיךְ רַב אַחַאי: אִי כְּתַב רַחֲמָנָא חַד, הֲוָה אָמֵינָא דָּבָר שֶׁהָיָה בַּכְּלָל, וְיָצָא מִן הַכְּלָל לְלַמֵּד, לֹא לְלַמֵּד עַל עַצְמוֹ יָצָא אֶלָּא לְלַמֵּד עַל הַכְּלָל כּוּלּוֹ יָצָא, וּלְעוֹלָם בְּשֶׂה.",
+      "3": "כְּתַב רַחֲמָנָא ״פֶּטֶר חֲמוֹר״ אַחֲרִינָא, פִּטְרֵי חֲמוֹרִים וְלֹא פִּטְרֵי סוּסִים וּגְמַלִּים, וְאֵימָא: מַעֲטִינְהוּ מִשֶׂה, וּלְעוֹלָם בְּכׇל דָּבָר!",
+      "4": "אִם כֵּן, לִכְתּוֹב רַחֲמָנָא: ״פֶּטֶר חֲמוֹר תִּפְדֶּה בְשֶׂה״ וַ״חֲמוֹר תִּפְדֶּה בְשֶׂה״. ״פֶּטֶר חֲמוֹר תִּפְדֶּה בְשֶׂה״, ״פֶּטֶר חֲמוֹר תִּפְדֶּה בְשֶׂה״ לְמָה לִי? פִּטְרֵי חֲמוֹרִים אָמַרְתִּי לְךָ, וְלֹא פִּטְרֵי סוּסִים וּגְמַלִּים.",
+      "5": "וְתַנָּא דִידַן, לְמַעוֹטֵי סוּסִים וּגְמַלִּים, מְנָא לֵיהּ?"
+    }
+  },
+  {
+    "candidate": {
+      "schema_version": 1,
+      "candidate_id": "bav-002-bekhorot-6a-4",
+      "discovery_file": "BAV-002.candidates.jsonl",
+      "task_id": "BAV-006",
+      "work": "Bekhorot",
+      "locator": "6a:4",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Kodashim/Bekhorot/Hebrew/merged.json",
+      "verdict": "pending",
+      "reason": "True horse lexical candidate in saved discovery index; complete primary contextual reading still required, no verification promoted.",
+      "carried_from_task_id": "BAV-004"
+    },
+    "url": "https://www.sefaria.org/api/texts/Bekhorot.6a?context=0&commentary=0",
+    "edition": "William Davidson Edition - Vocalized Aramaic",
+    "license": "CC-BY-NC",
+    "read_segments": {
+      "2": "פָּרֵיךְ רַב אַחַאי: אִי כְּתַב רַחֲמָנָא חַד, הֲוָה אָמֵינָא דָּבָר שֶׁהָיָה בַּכְּלָל, וְיָצָא מִן הַכְּלָל לְלַמֵּד, לֹא לְלַמֵּד עַל עַצְמוֹ יָצָא אֶלָּא לְלַמֵּד עַל הַכְּלָל כּוּלּוֹ יָצָא, וּלְעוֹלָם בְּשֶׂה.",
+      "3": "כְּתַב רַחֲמָנָא ״פֶּטֶר חֲמוֹר״ אַחֲרִינָא, פִּטְרֵי חֲמוֹרִים וְלֹא פִּטְרֵי סוּסִים וּגְמַלִּים, וְאֵימָא: מַעֲטִינְהוּ מִשֶׂה, וּלְעוֹלָם בְּכׇל דָּבָר!",
+      "4": "אִם כֵּן, לִכְתּוֹב רַחֲמָנָא: ״פֶּטֶר חֲמוֹר תִּפְדֶּה בְשֶׂה״ וַ״חֲמוֹר תִּפְדֶּה בְשֶׂה״. ״פֶּטֶר חֲמוֹר תִּפְדֶּה בְשֶׂה״, ״פֶּטֶר חֲמוֹר תִּפְדֶּה בְשֶׂה״ לְמָה לִי? פִּטְרֵי חֲמוֹרִים אָמַרְתִּי לְךָ, וְלֹא פִּטְרֵי סוּסִים וּגְמַלִּים.",
+      "5": "וְתַנָּא דִידַן, לְמַעוֹטֵי סוּסִים וּגְמַלִּים, מְנָא לֵיהּ?",
+      "6": "אָמַר רַב פָּפָּא: כׇּל מִקְנְךָ תִּזָּכָר — כָּלַל, שׁוֹר וָשֶׂה וַחֲמוֹר — פָּרַט, כְּלָל וּפְרָט — אֵין בַּכְּלָל אֶלָּא מַה שֶּׁבַּפְּרָט, שׁוֹר וָשֶׂה וַחֲמוֹר — אִין, מִידֵּי אַחֲרִינָא — לָא."
+    }
+  },
+  {
+    "candidate": {
+      "schema_version": 1,
+      "candidate_id": "bav-002-bekhorot-6a-5",
+      "discovery_file": "BAV-002.candidates.jsonl",
+      "task_id": "BAV-006",
+      "work": "Bekhorot",
+      "locator": "6a:5",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Kodashim/Bekhorot/Hebrew/merged.json",
+      "verdict": "pending",
+      "reason": "True horse lexical candidate in saved discovery index; complete primary contextual reading still required, no verification promoted.",
+      "carried_from_task_id": "BAV-004"
+    },
+    "url": "https://www.sefaria.org/api/texts/Bekhorot.6a?context=0&commentary=0",
+    "edition": "William Davidson Edition - Vocalized Aramaic",
+    "license": "CC-BY-NC",
+    "read_segments": {
+      "3": "כְּתַב רַחֲמָנָא ״פֶּטֶר חֲמוֹר״ אַחֲרִינָא, פִּטְרֵי חֲמוֹרִים וְלֹא פִּטְרֵי סוּסִים וּגְמַלִּים, וְאֵימָא: מַעֲטִינְהוּ מִשֶׂה, וּלְעוֹלָם בְּכׇל דָּבָר!",
+      "4": "אִם כֵּן, לִכְתּוֹב רַחֲמָנָא: ״פֶּטֶר חֲמוֹר תִּפְדֶּה בְשֶׂה״ וַ״חֲמוֹר תִּפְדֶּה בְשֶׂה״. ״פֶּטֶר חֲמוֹר תִּפְדֶּה בְשֶׂה״, ״פֶּטֶר חֲמוֹר תִּפְדֶּה בְשֶׂה״ לְמָה לִי? פִּטְרֵי חֲמוֹרִים אָמַרְתִּי לְךָ, וְלֹא פִּטְרֵי סוּסִים וּגְמַלִּים.",
+      "5": "וְתַנָּא דִידַן, לְמַעוֹטֵי סוּסִים וּגְמַלִּים, מְנָא לֵיהּ?",
+      "6": "אָמַר רַב פָּפָּא: כׇּל מִקְנְךָ תִּזָּכָר — כָּלַל, שׁוֹר וָשֶׂה וַחֲמוֹר — פָּרַט, כְּלָל וּפְרָט — אֵין בַּכְּלָל אֶלָּא מַה שֶּׁבַּפְּרָט, שׁוֹר וָשֶׂה וַחֲמוֹר — אִין, מִידֵּי אַחֲרִינָא — לָא.",
+      "7": "וְרַבִּי יוֹסֵי הַגְּלִילִי? ״פֶּטֶר״ הִפְסִיק הָעִנְיָן, וְרַבָּנַן? וָי״ו הֲדַר עָרְבֵיהּ קְרָא."
+    }
+  },
+  {
+    "candidate": {
+      "schema_version": 1,
+      "candidate_id": "bav-002-bekhorot-6a-13",
+      "discovery_file": "BAV-002.candidates.jsonl",
+      "task_id": "BAV-006",
+      "work": "Bekhorot",
+      "locator": "6a:13",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Kodashim/Bekhorot/Hebrew/merged.json",
+      "verdict": "pending",
+      "reason": "True horse lexical candidate in saved discovery index; complete primary contextual reading still required, no verification promoted.",
+      "carried_from_task_id": "BAV-004"
+    },
+    "url": "https://www.sefaria.org/api/texts/Bekhorot.6a?context=0&commentary=0",
+    "edition": "William Davidson Edition - Vocalized Aramaic",
+    "license": "CC-BY-NC",
+    "read_segments": {
+      "11": "עֵז שֶׁיָּלְדָה מִין רָחֵל, וְרָחֵל שֶׁיָּלְדָה מִין עֵז, דְּכִי יֵשׁ מִקְצָת סִימָנִין — חַיֶּיבֶת בִּבְכוֹרָה, דְּהָא טְהוֹרָה וְהָא טְהוֹרָה, הָא קְדוּשַּׁת הַגּוּף וְהָא קְדוּשַּׁת הַגּוּף.",
+      "12": "הָכָא, דְּהָא טְמֵאָה וְהָא טְהוֹרָה, הָא קְדוּשַּׁת הַגּוּף וְהָא קְדוּשַּׁת דָּמִים — לָא, אוֹ דִלְמָא: כֵּיוָן דְּאִידֵּי וְאִידֵּי בְּנֵי מִיקְדָּשׁ בִּבְכוֹרָה — קָדוֹשׁ?",
+      "13": "וְאִם תִּמְצֵי לוֹמַר: כֵּיוָן דְּאִידֵּי וְאִידֵּי מִיקְדָּשׁ בִּבְכוֹרָה קָדוֹשׁ, חֲמוֹר שֶׁיָּלְדָה מִין סוּס מַהוּ? הָכָא וַדַּאי לָא בַּת מִיקְדָּשׁ בִּבְכוֹרָה הוּא, אוֹ דִלְמָא כֵּיוָן דְּמִין טְמֵאָה הוּא קָדוֹשׁ?",
+      "14": "אִם תִּמְצָא לוֹמַר: כֵּיוָן דְּמִין טְמֵאָה הוּא קָדוֹשׁ, פָּרָה שֶׁיָּלְדָה מִין סוּס מַהוּ? הָכָא וַדַּאי הָא טְהוֹרָה וְהָא טְמֵאָה, הָא בַּת מִיקְדָּשׁ בִּבְכוֹרָה וְהָא לָא בַּת מִיקְדָּשׁ בִּבְכוֹרָה, אוֹ דִלְמָא סִימָנִין מִילְּתָא הִיא?",
+      "15": "תָּא שְׁמַע: בְּהֵמָה טְהוֹרָה שֶׁיָּלְדָה מִין בְּהֵמָה טְמֵאָה — פְּטוּרָה מִן הַבְּכוֹרָה, אִם יֵשׁ בּוֹ מִקְצָת סִימָנִין — חַיֶּיבֶת בִּבְכוֹרָה. מַאי לָאו אֲפִילּוּ פָּרָה שֶׁיָּלְדָה מִין סוּס? לֹא, פָּרָה שֶׁיָּלְדָה מִין חֲמוֹר."
+    }
+  },
+  {
+    "candidate": {
+      "schema_version": 1,
+      "candidate_id": "bav-002-bekhorot-6a-14",
+      "discovery_file": "BAV-002.candidates.jsonl",
+      "task_id": "BAV-006",
+      "work": "Bekhorot",
+      "locator": "6a:14",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Kodashim/Bekhorot/Hebrew/merged.json",
+      "verdict": "pending",
+      "reason": "True horse lexical candidate in saved discovery index; complete primary contextual reading still required, no verification promoted.",
+      "carried_from_task_id": "BAV-004"
+    },
+    "url": "https://www.sefaria.org/api/texts/Bekhorot.6a?context=0&commentary=0",
+    "edition": "William Davidson Edition - Vocalized Aramaic",
+    "license": "CC-BY-NC",
+    "read_segments": {
+      "12": "הָכָא, דְּהָא טְמֵאָה וְהָא טְהוֹרָה, הָא קְדוּשַּׁת הַגּוּף וְהָא קְדוּשַּׁת דָּמִים — לָא, אוֹ דִלְמָא: כֵּיוָן דְּאִידֵּי וְאִידֵּי בְּנֵי מִיקְדָּשׁ בִּבְכוֹרָה — קָדוֹשׁ?",
+      "13": "וְאִם תִּמְצֵי לוֹמַר: כֵּיוָן דְּאִידֵּי וְאִידֵּי מִיקְדָּשׁ בִּבְכוֹרָה קָדוֹשׁ, חֲמוֹר שֶׁיָּלְדָה מִין סוּס מַהוּ? הָכָא וַדַּאי לָא בַּת מִיקְדָּשׁ בִּבְכוֹרָה הוּא, אוֹ דִלְמָא כֵּיוָן דְּמִין טְמֵאָה הוּא קָדוֹשׁ?",
+      "14": "אִם תִּמְצָא לוֹמַר: כֵּיוָן דְּמִין טְמֵאָה הוּא קָדוֹשׁ, פָּרָה שֶׁיָּלְדָה מִין סוּס מַהוּ? הָכָא וַדַּאי הָא טְהוֹרָה וְהָא טְמֵאָה, הָא בַּת מִיקְדָּשׁ בִּבְכוֹרָה וְהָא לָא בַּת מִיקְדָּשׁ בִּבְכוֹרָה, אוֹ דִלְמָא סִימָנִין מִילְּתָא הִיא?",
+      "15": "תָּא שְׁמַע: בְּהֵמָה טְהוֹרָה שֶׁיָּלְדָה מִין בְּהֵמָה טְמֵאָה — פְּטוּרָה מִן הַבְּכוֹרָה, אִם יֵשׁ בּוֹ מִקְצָת סִימָנִין — חַיֶּיבֶת בִּבְכוֹרָה. מַאי לָאו אֲפִילּוּ פָּרָה שֶׁיָּלְדָה מִין סוּס? לֹא, פָּרָה שֶׁיָּלְדָה מִין חֲמוֹר.",
+      "16": "תָּא שְׁמַע: פָּרָה שֶׁיָּלְדָה מִין חֲמוֹר, וַחֲמוֹר שֶׁיָּלְדָה מִין סוּס — פְּטוּרָה מִן הַבְּכוֹרָה, אִם יֵשׁ בּוֹ מִקְצָת סִימָנִין — חַיֶּיבֶת בִּבְכוֹרָה. מַאי לָאו אַתַּרְוַיְיהוּ? לָא, אַפָּרָה שֶׁיָּלְדָה מִין חֲמוֹר."
+    }
+  },
+  {
+    "candidate": {
+      "schema_version": 1,
+      "candidate_id": "bav-002-bekhorot-6a-15",
+      "discovery_file": "BAV-002.candidates.jsonl",
+      "task_id": "BAV-006",
+      "work": "Bekhorot",
+      "locator": "6a:15",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Kodashim/Bekhorot/Hebrew/merged.json",
+      "verdict": "pending",
+      "reason": "True horse lexical candidate in saved discovery index; complete primary contextual reading still required, no verification promoted.",
+      "carried_from_task_id": "BAV-004"
+    },
+    "url": "https://www.sefaria.org/api/texts/Bekhorot.6a?context=0&commentary=0",
+    "edition": "William Davidson Edition - Vocalized Aramaic",
+    "license": "CC-BY-NC",
+    "read_segments": {
+      "13": "וְאִם תִּמְצֵי לוֹמַר: כֵּיוָן דְּאִידֵּי וְאִידֵּי מִיקְדָּשׁ בִּבְכוֹרָה קָדוֹשׁ, חֲמוֹר שֶׁיָּלְדָה מִין סוּס מַהוּ? הָכָא וַדַּאי לָא בַּת מִיקְדָּשׁ בִּבְכוֹרָה הוּא, אוֹ דִלְמָא כֵּיוָן דְּמִין טְמֵאָה הוּא קָדוֹשׁ?",
+      "14": "אִם תִּמְצָא לוֹמַר: כֵּיוָן דְּמִין טְמֵאָה הוּא קָדוֹשׁ, פָּרָה שֶׁיָּלְדָה מִין סוּס מַהוּ? הָכָא וַדַּאי הָא טְהוֹרָה וְהָא טְמֵאָה, הָא בַּת מִיקְדָּשׁ בִּבְכוֹרָה וְהָא לָא בַּת מִיקְדָּשׁ בִּבְכוֹרָה, אוֹ דִלְמָא סִימָנִין מִילְּתָא הִיא?",
+      "15": "תָּא שְׁמַע: בְּהֵמָה טְהוֹרָה שֶׁיָּלְדָה מִין בְּהֵמָה טְמֵאָה — פְּטוּרָה מִן הַבְּכוֹרָה, אִם יֵשׁ בּוֹ מִקְצָת סִימָנִין — חַיֶּיבֶת בִּבְכוֹרָה. מַאי לָאו אֲפִילּוּ פָּרָה שֶׁיָּלְדָה מִין סוּס? לֹא, פָּרָה שֶׁיָּלְדָה מִין חֲמוֹר.",
+      "16": "תָּא שְׁמַע: פָּרָה שֶׁיָּלְדָה מִין חֲמוֹר, וַחֲמוֹר שֶׁיָּלְדָה מִין סוּס — פְּטוּרָה מִן הַבְּכוֹרָה, אִם יֵשׁ בּוֹ מִקְצָת סִימָנִין — חַיֶּיבֶת בִּבְכוֹרָה. מַאי לָאו אַתַּרְוַיְיהוּ? לָא, אַפָּרָה שֶׁיָּלְדָה מִין חֲמוֹר.",
+      "17": "אֲבָל חֲמוֹר שֶׁיָּלְדָה מִין סוּס, לְמַאי קָתָנֵי לַהּ? לִפְטוּרָא? פְּשִׁיטָא! הַשְׁתָּא, וּמָה פָּרָה שֶׁיָּלְדָה מִין חֲמוֹר, דְּאִידֵּי וְאִידֵּי בְּנֵי מִיקְדָּשׁ בִּבְכוֹרָה נִינְהוּ, אָמְרַתְּ: אִם יֵשׁ בּוֹ מִקְצָת סִימָנִין — אִין, וְאִי לָא — לָא, חֲמוֹר שֶׁיָּלְדָה מִין סוּס מִיבַּעְיָא?"
+    }
+  },
+  {
+    "candidate": {
+      "schema_version": 1,
+      "candidate_id": "bav-002-bekhorot-6a-16",
+      "discovery_file": "BAV-002.candidates.jsonl",
+      "task_id": "BAV-006",
+      "work": "Bekhorot",
+      "locator": "6a:16",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Kodashim/Bekhorot/Hebrew/merged.json",
+      "verdict": "pending",
+      "reason": "True horse lexical candidate in saved discovery index; complete primary contextual reading still required, no verification promoted.",
+      "carried_from_task_id": "BAV-004"
+    },
+    "url": "https://www.sefaria.org/api/texts/Bekhorot.6a?context=0&commentary=0",
+    "edition": "William Davidson Edition - Vocalized Aramaic",
+    "license": "CC-BY-NC",
+    "read_segments": {
+      "14": "אִם תִּמְצָא לוֹמַר: כֵּיוָן דְּמִין טְמֵאָה הוּא קָדוֹשׁ, פָּרָה שֶׁיָּלְדָה מִין סוּס מַהוּ? הָכָא וַדַּאי הָא טְהוֹרָה וְהָא טְמֵאָה, הָא בַּת מִיקְדָּשׁ בִּבְכוֹרָה וְהָא לָא בַּת מִיקְדָּשׁ בִּבְכוֹרָה, אוֹ דִלְמָא סִימָנִין מִילְּתָא הִיא?",
+      "15": "תָּא שְׁמַע: בְּהֵמָה טְהוֹרָה שֶׁיָּלְדָה מִין בְּהֵמָה טְמֵאָה — פְּטוּרָה מִן הַבְּכוֹרָה, אִם יֵשׁ בּוֹ מִקְצָת סִימָנִין — חַיֶּיבֶת בִּבְכוֹרָה. מַאי לָאו אֲפִילּוּ פָּרָה שֶׁיָּלְדָה מִין סוּס? לֹא, פָּרָה שֶׁיָּלְדָה מִין חֲמוֹר.",
+      "16": "תָּא שְׁמַע: פָּרָה שֶׁיָּלְדָה מִין חֲמוֹר, וַחֲמוֹר שֶׁיָּלְדָה מִין סוּס — פְּטוּרָה מִן הַבְּכוֹרָה, אִם יֵשׁ בּוֹ מִקְצָת סִימָנִין — חַיֶּיבֶת בִּבְכוֹרָה. מַאי לָאו אַתַּרְוַיְיהוּ? לָא, אַפָּרָה שֶׁיָּלְדָה מִין חֲמוֹר.",
+      "17": "אֲבָל חֲמוֹר שֶׁיָּלְדָה מִין סוּס, לְמַאי קָתָנֵי לַהּ? לִפְטוּרָא? פְּשִׁיטָא! הַשְׁתָּא, וּמָה פָּרָה שֶׁיָּלְדָה מִין חֲמוֹר, דְּאִידֵּי וְאִידֵּי בְּנֵי מִיקְדָּשׁ בִּבְכוֹרָה נִינְהוּ, אָמְרַתְּ: אִם יֵשׁ בּוֹ מִקְצָת סִימָנִין — אִין, וְאִי לָא — לָא, חֲמוֹר שֶׁיָּלְדָה מִין סוּס מִיבַּעְיָא?",
+      "18": "אִיצְטְרִיךְ, סָלְקָא דַּעְתָּךְ: הָתָם הוּא דְּיֵשׁ לָהּ קַרְנַיִם, וְהָא אֵין לָהּ קַרְנַיִם; הָא פַּרְסוֹתֶיהָ סְדוּקוֹת, וְהָא פַּרְסוֹתֶיהָ קְלוּטוֹת."
+    }
+  },
+  {
+    "candidate": {
+      "schema_version": 1,
+      "candidate_id": "bav-002-bekhorot-6a-17",
+      "discovery_file": "BAV-002.candidates.jsonl",
+      "task_id": "BAV-006",
+      "work": "Bekhorot",
+      "locator": "6a:17",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Kodashim/Bekhorot/Hebrew/merged.json",
+      "verdict": "pending",
+      "reason": "True horse lexical candidate in saved discovery index; complete primary contextual reading still required, no verification promoted.",
+      "carried_from_task_id": "BAV-004"
+    },
+    "url": "https://www.sefaria.org/api/texts/Bekhorot.6a?context=0&commentary=0",
+    "edition": "William Davidson Edition - Vocalized Aramaic",
+    "license": "CC-BY-NC",
+    "read_segments": {
+      "15": "תָּא שְׁמַע: בְּהֵמָה טְהוֹרָה שֶׁיָּלְדָה מִין בְּהֵמָה טְמֵאָה — פְּטוּרָה מִן הַבְּכוֹרָה, אִם יֵשׁ בּוֹ מִקְצָת סִימָנִין — חַיֶּיבֶת בִּבְכוֹרָה. מַאי לָאו אֲפִילּוּ פָּרָה שֶׁיָּלְדָה מִין סוּס? לֹא, פָּרָה שֶׁיָּלְדָה מִין חֲמוֹר.",
+      "16": "תָּא שְׁמַע: פָּרָה שֶׁיָּלְדָה מִין חֲמוֹר, וַחֲמוֹר שֶׁיָּלְדָה מִין סוּס — פְּטוּרָה מִן הַבְּכוֹרָה, אִם יֵשׁ בּוֹ מִקְצָת סִימָנִין — חַיֶּיבֶת בִּבְכוֹרָה. מַאי לָאו אַתַּרְוַיְיהוּ? לָא, אַפָּרָה שֶׁיָּלְדָה מִין חֲמוֹר.",
+      "17": "אֲבָל חֲמוֹר שֶׁיָּלְדָה מִין סוּס, לְמַאי קָתָנֵי לַהּ? לִפְטוּרָא? פְּשִׁיטָא! הַשְׁתָּא, וּמָה פָּרָה שֶׁיָּלְדָה מִין חֲמוֹר, דְּאִידֵּי וְאִידֵּי בְּנֵי מִיקְדָּשׁ בִּבְכוֹרָה נִינְהוּ, אָמְרַתְּ: אִם יֵשׁ בּוֹ מִקְצָת סִימָנִין — אִין, וְאִי לָא — לָא, חֲמוֹר שֶׁיָּלְדָה מִין סוּס מִיבַּעְיָא?",
+      "18": "אִיצְטְרִיךְ, סָלְקָא דַּעְתָּךְ: הָתָם הוּא דְּיֵשׁ לָהּ קַרְנַיִם, וְהָא אֵין לָהּ קַרְנַיִם; הָא פַּרְסוֹתֶיהָ סְדוּקוֹת, וְהָא פַּרְסוֹתֶיהָ קְלוּטוֹת.",
+      "19": "אֲבָל הָכָא, דְּאִידֵּי וְאִידֵּי אֵין לָהּ קַרְנַיִם, אִידֵּי וְאִידֵּי פַּרְסוֹתֶיהָ קְלוּטוֹת, אֵימָא חֲמוֹר אָדוֹם בְּעָלְמָא הוּא, קָמַשְׁמַע לַן."
+    }
+  },
+  {
+    "candidate": {
+      "schema_version": 1,
+      "candidate_id": "bav-002-bekhorot-7a-23",
+      "discovery_file": "BAV-002.candidates.jsonl",
+      "task_id": "BAV-006",
+      "work": "Bekhorot",
+      "locator": "7a:23",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Kodashim/Bekhorot/Hebrew/merged.json",
+      "verdict": "pending",
+      "reason": "True horse lexical candidate in saved discovery index; complete primary contextual reading still required, no verification promoted.",
+      "carried_from_task_id": "BAV-004"
+    },
+    "url": "https://www.sefaria.org/api/texts/Bekhorot.7a?context=0&commentary=0",
+    "edition": "William Davidson Edition - Vocalized Aramaic",
+    "license": "CC-BY-NC",
+    "read_segments": {
+      "21": "שְׁמַע מִינַּהּ, לַאֲכִילָה נָמֵי בָּעֵי רַבִּי שִׁמְעוֹן רֹאשׁוֹ וְרוּבּוֹ, שְׁמַע מִינַּהּ.",
+      "22": "שֶׁהַיּוֹצֵא מִן הַטָּמֵא וְכוּ׳. בְּעוֹ מִינַּהּ מֵרַב שֵׁשֶׁת: מֵי רַגְלַיִם שֶׁל חֲמוֹר, מַהוּ?",
+      "23": "וְתִיבְּעֵי לֵיהּ דְּסוּסִים וּגְמַלִּים? דְּסוּסִים וּגְמַלִּים לָא מִיבַּעְיָא לְהוּ, דְּלָא עֲכִירִי וְלָא דָּמוּ לְחָלָב, מַיָּא עוּל מַיָּא נְפוּק. כִּי קָמִיבַּעְיָא לְהוּ דַּחֲמוֹר, דַּעֲכִירִי וְדָמוּ לְחָלָב, מַאי? מִגּוּפֵיהּ קָא מִימַּצְצִי וַאֲסִירִי, אוֹ דִלְמָא מַיָּא עוּל מַיָּא נְפוּק, וְהַאי דַּעֲכִירִי — הַבְלָא דְּבִישְׂרָא הוּא?",
+      "24": "אֲמַר לְהוּ רַב שֵׁשֶׁת, תְּנֵיתוּה: שֶׁהַיּוֹצֵא מִן הַטָּמֵא — טָמֵא, וְהַיּוֹצֵא מִן הַטָּהוֹר — טָהוֹר. ״מִטָּמֵא״ לָא קָאָמַר, אֶלָּא ״מִן"
+    }
+  },
+  {
+    "candidate": {
+      "schema_version": 1,
+      "candidate_id": "bav-002-bekhorot-7b-2",
+      "discovery_file": "BAV-002.candidates.jsonl",
+      "task_id": "BAV-006",
+      "work": "Bekhorot",
+      "locator": "7b:2",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Kodashim/Bekhorot/Hebrew/merged.json",
+      "verdict": "pending",
+      "reason": "True horse lexical candidate in saved discovery index; complete primary contextual reading still required, no verification promoted.",
+      "carried_from_task_id": "BAV-004"
+    },
+    "url": "https://www.sefaria.org/api/texts/Bekhorot.7b?context=0&commentary=0",
+    "edition": "William Davidson Edition - Vocalized Aramaic",
+    "license": "CC-BY-NC",
+    "read_segments": {
+      "1": "הַטָּמֵא״, וְהָנֵי נָמֵי מִינָא דְּטָמֵא הוּא.",
+      "2": "וְאִיכָּא דְּאָמְרִי, דְּסוּסִים וּגְמַלִּים לָא קָא מִיבַּעְיָא לְהוּ, דְּלָא שָׁתוּ אִינָשֵׁי. כִּי קָמִיבַּעְיָא לְהוּ דַּחֲמוֹר, דְּשָׁתוּ אִינָשֵׁי וּמְעַלּוּ לְיַרְקוֹנָא, מַאי?",
+      "3": "אֲמַר לְהוּ רַב שֵׁשֶׁת, תְּנֵיתוּהָ: הַיּוֹצֵא מִן הַטָּמֵא טָמֵא, וְהַיּוֹצֵא מִן הַטָּהוֹר טָהוֹר — וְהָנֵי נָמֵי מִטָּמֵא קָאָתֵי.",
+      "4": "מֵיתִיבִי: מִפְּנֵי מָה אָמְרוּ דְּבַשׁ דְּבוֹרִים מוּתָּר? מִפְּנֵי שֶׁמַּכְנִיסוֹת אוֹתוֹ לְגוּפָן, וְאֵין מְמַצּוֹת אוֹתוֹ מִגּוּפָן."
+    }
+  },
+  {
+    "candidate": {
+      "schema_version": 1,
+      "candidate_id": "bav-002-bekhorot-40a-14",
+      "discovery_file": "BAV-002.candidates.jsonl",
+      "task_id": "BAV-006",
+      "work": "Bekhorot",
+      "locator": "40a:14",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Kodashim/Bekhorot/Hebrew/merged.json",
+      "verdict": "pending",
+      "reason": "True horse lexical candidate in saved discovery index; complete primary contextual reading still required, no verification promoted.",
+      "carried_from_task_id": "BAV-004"
+    },
+    "url": "https://www.sefaria.org/api/texts/Bekhorot.40a?context=0&commentary=0",
+    "edition": "William Davidson Edition - Vocalized Aramaic",
+    "license": "CC-BY-NC",
+    "read_segments": {
+      "12": "גְּמָ׳ אָמַר רַב הוּנָא: לֹא שָׁנוּ אֶלָּא שֶׁחָסֵר וְיָתֵר בַּיָּד, אֲבָל בָּרֶגֶל — טְרֵפָה נָמֵי הָוֵי, דְּכֹל יָתֵיר כְּנָטוּל דָּמֵי.",
+      "13": "אָמַר רַב פָּפָּא: לָא תֵּימָא דַּעֲגִילָן וְלָא סְדִיקָן, אֶלָּא כֵּיוָן דַּעֲגִילָן, אַף עַל גַּב דִּסְדִיקָן.",
+      "14": "וְהַשָּׁחוּל וְהַכָּסוּל וְכוּ׳. תָּנוּ רַבָּנַן: אֵיזֶהוּ כָּסוּל וְאֵיזֶהוּ שָׁחוּל? שָׁחוּל — שֶׁנִּשְׁמְטָה יְרֵיכוֹ, כָּסוּל — שֶׁרַגְלוֹ אֶחָד בְּתוֹךְ הַכֶּסֶל, וְרַגְלוֹ אֶחָד עַל גַּבֵּי הַכֶּסֶל. תָּנָא: הַשָּׂרוּעַ וְהַקָּלוּט — שָׂרוּעַ שֶׁנִּשְׁתַּרְבֵּב לוֹ יְרֵיכוֹ, קָלוּט — שֶׁרַגְלָיו קְלוּטוֹת כְּשֶׁל חֲמוֹר וּכְשֶׁל סוּס.",
+      "15": "מַתְנִי׳ נִשְׁבַּר עֶצֶם יָדוֹ וְעֶצֶם רַגְלוֹ, אַף עַל פִּי שֶׁאֵינוֹ נִיכָּר. מוּמִין אֵלּוּ מָנָה אִילָא בְּיַבְנֶה, וְהוֹדוּ לוֹ חֲכָמִים.",
+      "16": "וְעוֹד שְׁלֹשָׁה הוֹסִיף, אָמְרוּ לוֹ: לֹא שָׁמַעְנוּ אֶת אֵלּוּ. שֶׁגַּלְגַּל עֵינוֹ עָגוֹל כְּשֶׁל אָדָם, וּפִיו דּוֹמֶה כְּשֶׁל חֲזִיר, וְשֶׁנִּיטַּל רוֹב הַמְדַבֵּר בִּלְשׁוֹנוֹ. בֵּית דִּין שֶׁל אַחֲרֵיהֶן אָמְרוּ: הֲרֵי זֶה מוּם."
+    }
+  },
+  {
+    "candidate": {
+      "schema_version": 1,
+      "candidate_id": "bav-002-chagigah-9b-12",
+      "discovery_file": "BAV-002.candidates.jsonl",
+      "task_id": "BAV-006",
+      "work": "Chagigah",
+      "locator": "9b:12",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Moed/Chagigah/Hebrew/merged.json",
+      "verdict": "pending",
+      "reason": "True horse lexical candidate in saved discovery index; complete primary contextual reading still required, no verification promoted.",
+      "carried_from_task_id": "BAV-004"
+    },
+    "url": "https://www.sefaria.org/api/texts/Chagigah.9b?context=0&commentary=0",
+    "edition": "William Davidson Edition - Vocalized Aramaic",
+    "license": "CC-BY-NC",
+    "read_segments": {
+      "10": "אֲמַר לֵיהּ בַּר הֵי הֵי לְהִלֵּל, מַאי דִּכְתִיב: ״וְשַׁבְתֶּם וּרְאִיתֶם בֵּין צַדִּיק לְרָשָׁע בֵּין עוֹבֵד אֱלֹהִים לַאֲשֶׁר לֹא עֲבָדוֹ״, הַיְינוּ ״צַדִּיק״ — הַיְינוּ ״עוֹבֵד אֱלֹהִים״, הַיְינוּ ״רָשָׁע״ — הַיְינוּ ״אֲשֶׁר לֹא עֲבָדוֹ״! אֲמַר לֵיהּ: ״עֲבָדוֹ״ וְ״לֹא עֲבָדוֹ״ — תַּרְוַיְיהוּ צַדִּיקֵי גְּמוּרֵי נִינְהוּ, וְאֵינוֹ דּוֹמֶה שׁוֹנֶה פִּרְקוֹ מֵאָה פְּעָמִים, לְשׁוֹנֶה פִּרְקוֹ מֵאָה וְאֶחָד.",
+      "11": "אֲמַר לֵיהּ: וּמִשּׁוּם חַד זִימְנָא קָרֵי לֵיהּ ״לֹא עֲבָדוֹ״? אֲמַר לֵיהּ: אִין, צֵא וּלְמַד מִשּׁוּק שֶׁל חֲמָרִין: עַשְׂרָה פַּרְסֵי — בְּזוּזָא, חַד עֲשַׂר פַּרְסֵי — בִּתְרֵי זוּזֵי.",
+      "12": "אֲמַר לֵיהּ אֵלִיָּהוּ לְבַר הֵי הֵי, וְאָמְרִי לַהּ לְרַבִּי אֶלְעָזָר: מַאי דִּכְתִיב: ״הִנֵּה צְרַפְתִּיךָ וְלֹא בְכָסֶף בְּחַרְתִּיךָ בְּכוּר עוֹנִי״ — מְלַמֵּד שֶׁחָזַר הַקָּדוֹשׁ בָּרוּךְ הוּא עַל כׇּל מִדּוֹת טוֹבוֹת לִיתֵּן לְיִשְׂרָאֵל, וְלֹא מָצָא אֶלָּא עֲנִיּוּת. אָמַר שְׁמוּאֵל וְאִיתֵּימָא רַב יוֹסֵף, הַיְינוּ דְּאָמְרִי אִינָשֵׁי: יָאָה עַנְיוּתָא לִיהוּדָאֵי כִּי בַּרְזָא סוּמָּקָא לְסוּסְיָא חִיוָּרָא.",
+      "13": "רַבִּי שִׁמְעוֹן בֶּן מְנַסְיָא אוֹמֵר: אֵי זֶה הוּא ״מְעֻוָּת לֹא יוּכַל לִתְקוֹן״ — זֶה הַבָּא עַל הָעֶרְוָה וְהוֹלִיד מִמֶּנָּה מַמְזֵר וְכוּ׳. הוֹלִיד — אִין, לֹא הוֹלִיד — לָא?",
+      "14": "וְהָא תַּנְיָא, רַבִּי שִׁמְעוֹן בֶּן מְנַסְיָא אוֹמֵר: גּוֹנֵב אָדָם — אֶפְשָׁר שֶׁיַּחֲזִיר גְּנֵבוֹ וִיתַקֵּן, גּוֹזֵל אָדָם — אֶפְשָׁר שֶׁיַּחֲזִיר גְּזֵלוֹ וִיתַקֵּן, אֲבָל הַבָּא עַל אֵשֶׁת אִישׁ וַאֲסָרָהּ לְבַעְלָהּ — נִטְרַד מִן הָעוֹלָם וְהָלַךְ לוֹ."
+    }
+  },
+  {
+    "candidate": {
+      "schema_version": 1,
+      "candidate_id": "bav-002-chullin-5a-1",
+      "discovery_file": "BAV-002.candidates.jsonl",
+      "task_id": "BAV-006",
+      "work": "Chullin",
+      "locator": "5a:1",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Kodashim/Chullin/Hebrew/merged.json",
+      "verdict": "pending",
+      "reason": "True horse lexical candidate in saved discovery index; complete primary contextual reading still required, no verification promoted.",
+      "carried_from_task_id": "BAV-004"
+    },
+    "url": "https://www.sefaria.org/api/texts/Chullin.5a?context=0&commentary=0",
+    "edition": "William Davidson Edition - Vocalized Aramaic",
+    "license": "unknown",
+    "read_segments": {
+      "1": "לָא הֲוָה מְפַלֵּיג נַפְשֵׁיהּ מִינֵּיהּ, מְנָלַן? אִילֵּימָא מִדִּכְתִיב ״כָּמוֹנִי כָמוֹךָ כְּעַמִּי כְעַמֶּךָ״, אֶלָּא מֵעַתָּה ״כְּסוּסַי כְּסוּסֶיךָ״ הָכִי נָמֵי? אֶלָּא מָה דְּהָוֵי אַסּוּסֶיךָ תֶּהֱוֵי אַסּוּסַי, הָכִי נָמֵי מַאי דְּהָוֵי עֲלָךְ וְעִילָּוֵי עַמָּךְ תֶּיהֱוֵי עֲלַי וְעִילָּוֵי עַמִּי.",
+      "2": "אֶלָּא מֵהָכָא: ״וּמֶלֶךְ יִשְׂרָאֵל וִיהוֹשָׁפָט מֶלֶךְ יְהוּדָה יֹשְׁבִים אִישׁ עַל כִּסְאוֹ מְלֻבָּשִׁים בְּגָדִים בְּגֹרֶן פֶּתַח שַׁעַר שֹׁמְרוֹן״. מַאי גּוֹרֶן? אִילֵּימָא גּוֹרֶן מַמָּשׁ, אַטּוּ שַׁעַר שׁוֹמְרוֹן גּוֹרֶן הֲוָה? אֶלָּא כִּי גוֹרֶן, דִּתְנַן: סַנְהֶדְרִין הָיְתָה כַּחֲצִי גוֹרֶן עֲגוּלָּה כְּדֵי שֶׁיְּהוּ רוֹאִין זֶה אֶת זֶה.",
+      "3": "לֵימָא מְסַיַּיע לֵיהּ, ״וְהָעֹרְבִים מְבִיאִים לוֹ לֶחֶם וּבָשָׂר בַּבֹּקֶר וְלֶחֶם וּבָשָׂר בָּעָרֶב״, וְאָמַר רַב יְהוּדָה אָמַר רַב: מִבֵּי טַבָּחֵי דְאַחְאָב. עַל פִּי הַדִּבּוּר שָׁאנֵי."
+    }
+  },
+  {
+    "candidate": {
+      "schema_version": 1,
+      "candidate_id": "bav-002-chullin-79a-2",
+      "discovery_file": "BAV-002.candidates.jsonl",
+      "task_id": "BAV-006",
+      "work": "Chullin",
+      "locator": "79a:2",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Kodashim/Chullin/Hebrew/merged.json",
+      "verdict": "pending",
+      "reason": "True horse lexical candidate in saved discovery index; complete primary contextual reading still required, no verification promoted.",
+      "carried_from_task_id": "BAV-004"
+    },
+    "url": "https://www.sefaria.org/api/texts/Chullin.79a?context=0&commentary=0",
+    "edition": "William Davidson Edition - Vocalized Aramaic",
+    "license": "unknown",
+    "read_segments": {
+      "1": "וְלַחֲנַנְיָה, כְּתִיב ״אוֹתוֹ״ דְּמַשְׁמַע זָכָר, וּכְתִיב ״בְּנוֹ״ – מִי שֶׁבְּנוֹ כָּרוּךְ אַחֲרָיו דְּמַשְׁמַע נְקֵבָה, הִלְכָּךְ נוֹהֵג בֵּין בִּזְכָרִים בֵּין בִּנְקֵבוֹת.",
+      "2": "אָמַר רַב הוּנָא בַּר חִיָּיא אָמַר שְׁמוּאֵל: הִלְכְתָא כַּחֲנַנְיָה, וְאַזְדָּא שְׁמוּאֵל לְטַעְמֵיהּ, דִּתְנַן: רַבִּי יְהוּדָה אוֹמֵר: הַנּוֹלָדִים מִן הַסּוּס, אַף עַל פִּי שֶׁאֲבִיהֶן חֲמוֹר – מוּתָּרִין זֶה בְּזֶה, אֲבָל הַנּוֹלָדִין מִן הַחֲמוֹר עִם הַנּוֹלָדִין מִן הַסּוּס – אֲסוּרִין.",
+      "3": "וְאָמַר רַב יְהוּדָה אָמַר שְׁמוּאֵל: זוֹ דִּבְרֵי רַבִּי יְהוּדָה, דְּאָמַר אֵין חוֹשְׁשִׁין לְזֶרַע הָאָב, אֲבָל חֲכָמִים אוֹמְרִים: כׇּל מִינֵי פְּרָדוֹת אַחַת הֵן.",
+      "4": "מַאן חֲכָמִים? חֲנַנְיָה הוּא, דְּאָמַר חוֹשְׁשִׁין לְזֶרַע הָאָב, וְהַאי בַּר סוּסְיָא וַחֲמָרָא, וְהַאי בַּר חֲמָרָא וְסוּסְיָא – כּוּלְּהוּ חֲדָא מִינָא נִינְהוּ."
+    }
+  },
+  {
+    "candidate": {
+      "schema_version": 1,
+      "candidate_id": "bav-002-chullin-79a-4",
+      "discovery_file": "BAV-002.candidates.jsonl",
+      "task_id": "BAV-006",
+      "work": "Chullin",
+      "locator": "79a:4",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Kodashim/Chullin/Hebrew/merged.json",
+      "verdict": "pending",
+      "reason": "True horse lexical candidate in saved discovery index; complete primary contextual reading still required, no verification promoted.",
+      "carried_from_task_id": "BAV-004"
+    },
+    "url": "https://www.sefaria.org/api/texts/Chullin.79a?context=0&commentary=0",
+    "edition": "William Davidson Edition - Vocalized Aramaic",
+    "license": "unknown",
+    "read_segments": {
+      "2": "אָמַר רַב הוּנָא בַּר חִיָּיא אָמַר שְׁמוּאֵל: הִלְכְתָא כַּחֲנַנְיָה, וְאַזְדָּא שְׁמוּאֵל לְטַעְמֵיהּ, דִּתְנַן: רַבִּי יְהוּדָה אוֹמֵר: הַנּוֹלָדִים מִן הַסּוּס, אַף עַל פִּי שֶׁאֲבִיהֶן חֲמוֹר – מוּתָּרִין זֶה בְּזֶה, אֲבָל הַנּוֹלָדִין מִן הַחֲמוֹר עִם הַנּוֹלָדִין מִן הַסּוּס – אֲסוּרִין.",
+      "3": "וְאָמַר רַב יְהוּדָה אָמַר שְׁמוּאֵל: זוֹ דִּבְרֵי רַבִּי יְהוּדָה, דְּאָמַר אֵין חוֹשְׁשִׁין לְזֶרַע הָאָב, אֲבָל חֲכָמִים אוֹמְרִים: כׇּל מִינֵי פְּרָדוֹת אַחַת הֵן.",
+      "4": "מַאן חֲכָמִים? חֲנַנְיָה הוּא, דְּאָמַר חוֹשְׁשִׁין לְזֶרַע הָאָב, וְהַאי בַּר סוּסְיָא וַחֲמָרָא, וְהַאי בַּר חֲמָרָא וְסוּסְיָא – כּוּלְּהוּ חֲדָא מִינָא נִינְהוּ.",
+      "5": "אִיבַּעְיָא לְהוּ: מִי פְּשִׁיט לֵיהּ לְרַבִּי יְהוּדָה דְּאֵין חוֹשְׁשִׁין לְזֶרַע הָאָב, אוֹ דִלְמָא סַפּוֹקֵי מְסַפְּקָא לֵיהּ? לְמַאי נָפְקָא מִינַּהּ?",
+      "6": "לְמִישְׁרֵא פְּרִי עִם הָאֵם, אִי אָמְרַתְּ: מִיפְשָׁט פְּשִׁיטָא לֵיהּ – פְּרִי עִם הָאֵם שְׁרֵי, אֶלָּא אִי אָמְרַתְּ: סַפּוֹקֵי מְסַפְּקָא לֵיהּ – פְּרִי עִם הָאֵם אָסוּר."
+    }
+  },
+  {
+    "candidate": {
+      "schema_version": 1,
+      "candidate_id": "bav-002-chullin-79a-7",
+      "discovery_file": "BAV-002.candidates.jsonl",
+      "task_id": "BAV-006",
+      "work": "Chullin",
+      "locator": "79a:7",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Kodashim/Chullin/Hebrew/merged.json",
+      "verdict": "pending",
+      "reason": "True horse lexical candidate in saved discovery index; complete primary contextual reading still required, no verification promoted.",
+      "carried_from_task_id": "BAV-004"
+    },
+    "url": "https://www.sefaria.org/api/texts/Chullin.79a?context=0&commentary=0",
+    "edition": "William Davidson Edition - Vocalized Aramaic",
+    "license": "unknown",
+    "read_segments": {
+      "5": "אִיבַּעְיָא לְהוּ: מִי פְּשִׁיט לֵיהּ לְרַבִּי יְהוּדָה דְּאֵין חוֹשְׁשִׁין לְזֶרַע הָאָב, אוֹ דִלְמָא סַפּוֹקֵי מְסַפְּקָא לֵיהּ? לְמַאי נָפְקָא מִינַּהּ?",
+      "6": "לְמִישְׁרֵא פְּרִי עִם הָאֵם, אִי אָמְרַתְּ: מִיפְשָׁט פְּשִׁיטָא לֵיהּ – פְּרִי עִם הָאֵם שְׁרֵי, אֶלָּא אִי אָמְרַתְּ: סַפּוֹקֵי מְסַפְּקָא לֵיהּ – פְּרִי עִם הָאֵם אָסוּר.",
+      "7": "מַאי תָּא שְׁמַע: רַבִּי יְהוּדָה אוֹמֵר: כׇּל הַנּוֹלָדִים מִן הַסּוּס, אַף עַל פִּי שֶׁאֲבִיהֶן חֲמוֹר – מוּתָּרִין זֶה בָּזֶה. הֵיכִי דָמֵי? אִילֵּימָא דַּאֲבוּהּ דְּהַאי חֲמוֹר וַאֲבוּהּ דְּהַאי חֲמוֹר – צְרִיכָא לְמֵימַר? אֶלָּא לָאו דַּאֲבוּהּ דְּהַאי סוּס וַאֲבוּהּ דְּהַאי חֲמוֹר;",
+      "8": "וְקָתָנֵי מוּתָּרִים זֶה עִם זֶה, אַלְמָא מִיפְשָׁט פְּשִׁיטָא לֵיהּ!",
+      "9": "לָא, לְעוֹלָם דַּאֲבוּהּ דְּהַאי חֲמוֹר, וַאֲבוּהּ דְּהַאי חֲמוֹר. וּדְקָאָמְרַתְּ: צְרִיכָא לְמֵימַר? מַהוּ דְּתֵימָא: אָתֵי צַד דְּסוּס מִשְׁתַּמֵּשׁ בְּצַד חֲמוֹר, וְצַד חֲמוֹר מִשְׁתַּמֵּשׁ בְּצַד סוּס, קָא מַשְׁמַע לַן."
+    }
+  },
+  {
+    "candidate": {
+      "schema_version": 1,
+      "candidate_id": "bav-002-chullin-79a-9",
+      "discovery_file": "BAV-002.candidates.jsonl",
+      "task_id": "BAV-006",
+      "work": "Chullin",
+      "locator": "79a:9",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Kodashim/Chullin/Hebrew/merged.json",
+      "verdict": "pending",
+      "reason": "True horse lexical candidate in saved discovery index; complete primary contextual reading still required, no verification promoted.",
+      "carried_from_task_id": "BAV-004"
+    },
+    "url": "https://www.sefaria.org/api/texts/Chullin.79a?context=0&commentary=0",
+    "edition": "William Davidson Edition - Vocalized Aramaic",
+    "license": "unknown",
+    "read_segments": {
+      "7": "מַאי תָּא שְׁמַע: רַבִּי יְהוּדָה אוֹמֵר: כׇּל הַנּוֹלָדִים מִן הַסּוּס, אַף עַל פִּי שֶׁאֲבִיהֶן חֲמוֹר – מוּתָּרִין זֶה בָּזֶה. הֵיכִי דָמֵי? אִילֵּימָא דַּאֲבוּהּ דְּהַאי חֲמוֹר וַאֲבוּהּ דְּהַאי חֲמוֹר – צְרִיכָא לְמֵימַר? אֶלָּא לָאו דַּאֲבוּהּ דְּהַאי סוּס וַאֲבוּהּ דְּהַאי חֲמוֹר;",
+      "8": "וְקָתָנֵי מוּתָּרִים זֶה עִם זֶה, אַלְמָא מִיפְשָׁט פְּשִׁיטָא לֵיהּ!",
+      "9": "לָא, לְעוֹלָם דַּאֲבוּהּ דְּהַאי חֲמוֹר, וַאֲבוּהּ דְּהַאי חֲמוֹר. וּדְקָאָמְרַתְּ: צְרִיכָא לְמֵימַר? מַהוּ דְּתֵימָא: אָתֵי צַד דְּסוּס מִשְׁתַּמֵּשׁ בְּצַד חֲמוֹר, וְצַד חֲמוֹר מִשְׁתַּמֵּשׁ בְּצַד סוּס, קָא מַשְׁמַע לַן.",
+      "10": "תָּא שְׁמַע: רַבִּי יְהוּדָה אוֹמֵר, פִּרְדָּה שֶׁתָּבְעָה – אֵין מַרְבִּיעִין עָלֶיהָ לֹא סוּס וְלֹא חֲמוֹר, אֶלָּא מִינָהּ. וְאִי אָמְרַתְּ מִפְשָׁט פְּשִׁיטָא לֵיהּ לַרְבַּע עֲלַהּ מִינָא דְּאִמַּהּ! דְּלָא יָדְעִינַן מִינָא דְּאִמַּהּ מַאי נִיהוּ.",
+      "11": "וְהָא ״אֶלָּא מִינַּהּ״ קָתָנֵי? הָכִי קָאָמַר: אֵין מַרְבִּיעִין עָלֶיהָ לֹא מִין סוּס וְלֹא מִין חֲמוֹר, לְפִי שֶׁאֵין יוֹדְעִין בְּמִינָהּ. וְלִיבְדּוֹק בְּסִימָנִין? דְּאָמַר אַבָּיֵי: עָבֵי קָלֵיהּ – בַּר חַמָּרָא, צְנִיף קָלֵיהּ – בַּר סוּסְיָא. וְאָמַר רַב פָּפָּא: רַבְרְבָן אוּדְנֵיהּ וְזוּטְרָא גְּנוּבְתֵיהּ – בַּר חַמָּרָא, זוּטְרָן אוּדְנֵיהּ וְרַבָּה גְּנוּבְתֵיהּ – בַּר סוּסְיָא. הָכָא בְּמַאי עָסְקִינַן? בְּאִלֶּמֶת וְגִידֶּמֶת."
+    }
+  },
+  {
+    "candidate": {
+      "schema_version": 1,
+      "candidate_id": "bav-002-chullin-79a-10",
+      "discovery_file": "BAV-002.candidates.jsonl",
+      "task_id": "BAV-006",
+      "work": "Chullin",
+      "locator": "79a:10",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Kodashim/Chullin/Hebrew/merged.json",
+      "verdict": "pending",
+      "reason": "True horse lexical candidate in saved discovery index; complete primary contextual reading still required, no verification promoted.",
+      "carried_from_task_id": "BAV-004"
+    },
+    "url": "https://www.sefaria.org/api/texts/Chullin.79a?context=0&commentary=0",
+    "edition": "William Davidson Edition - Vocalized Aramaic",
+    "license": "unknown",
+    "read_segments": {
+      "8": "וְקָתָנֵי מוּתָּרִים זֶה עִם זֶה, אַלְמָא מִיפְשָׁט פְּשִׁיטָא לֵיהּ!",
+      "9": "לָא, לְעוֹלָם דַּאֲבוּהּ דְּהַאי חֲמוֹר, וַאֲבוּהּ דְּהַאי חֲמוֹר. וּדְקָאָמְרַתְּ: צְרִיכָא לְמֵימַר? מַהוּ דְּתֵימָא: אָתֵי צַד דְּסוּס מִשְׁתַּמֵּשׁ בְּצַד חֲמוֹר, וְצַד חֲמוֹר מִשְׁתַּמֵּשׁ בְּצַד סוּס, קָא מַשְׁמַע לַן.",
+      "10": "תָּא שְׁמַע: רַבִּי יְהוּדָה אוֹמֵר, פִּרְדָּה שֶׁתָּבְעָה – אֵין מַרְבִּיעִין עָלֶיהָ לֹא סוּס וְלֹא חֲמוֹר, אֶלָּא מִינָהּ. וְאִי אָמְרַתְּ מִפְשָׁט פְּשִׁיטָא לֵיהּ לַרְבַּע עֲלַהּ מִינָא דְּאִמַּהּ! דְּלָא יָדְעִינַן מִינָא דְּאִמַּהּ מַאי נִיהוּ.",
+      "11": "וְהָא ״אֶלָּא מִינַּהּ״ קָתָנֵי? הָכִי קָאָמַר: אֵין מַרְבִּיעִין עָלֶיהָ לֹא מִין סוּס וְלֹא מִין חֲמוֹר, לְפִי שֶׁאֵין יוֹדְעִין בְּמִינָהּ. וְלִיבְדּוֹק בְּסִימָנִין? דְּאָמַר אַבָּיֵי: עָבֵי קָלֵיהּ – בַּר חַמָּרָא, צְנִיף קָלֵיהּ – בַּר סוּסְיָא. וְאָמַר רַב פָּפָּא: רַבְרְבָן אוּדְנֵיהּ וְזוּטְרָא גְּנוּבְתֵיהּ – בַּר חַמָּרָא, זוּטְרָן אוּדְנֵיהּ וְרַבָּה גְּנוּבְתֵיהּ – בַּר סוּסְיָא. הָכָא בְּמַאי עָסְקִינַן? בְּאִלֶּמֶת וְגִידֶּמֶת.",
+      "12": "מַאי הָוֵי עֲלַהּ? תָּא שְׁמַע, דְּאָמַר רַב הוּנָא בְּרֵיהּ דְּרַב יְהוֹשֻׁעַ: הַכֹּל מוֹדִין בִּפְרִי עִם הָאֵם שֶׁאָסוּר. שְׁמַע מִינַּהּ סַפּוֹקֵי מְסַפְּקָא לֵיהּ, שְׁמַע מִינַּהּ."
+    }
+  }
+]

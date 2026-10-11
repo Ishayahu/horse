@@ -81,15 +81,14 @@
         "5349 nonempty exported amudim across37 canonical tractates"
       ],
       "candidate_count": 999,
-      "confirmed_count": 19,
+      "confirmed_count": 34,
       "commentary_count": 0,
       "limitations": [
-        "111 first3 +888 remaining34 broad candidate segments; not horse count.",
-        "19 contextual records include mule boundary case; candidate filtration still incomplete."
+        "Finite lexical discovery ledger has 23 candidates still pending after BAV-006; counts are contextual records, not proof of absolute corpus completeness."
       ],
       "next_checks": [
-        "BAV-002",
-        "Independent Sanhedrin93a/98a/95a review"
+        "BAV-007 final 23-candidate review",
+        "Independent review of central extraordinary/spiritual passages"
       ]
     },
     {
@@ -362,9 +361,9 @@
     }
   ],
   "registry_statistics": {
-    "records": 465,
-    "context_checked": 463,
+    "records": 480,
+    "context_checked": 478,
     "independently_reviewed": 62
   },
-  "checkpoint_note": "Recovered artifact truth on 2026-10-11: TAN-AUDIT, BAV-005, YER-006, VER-007 and VER-007p completed as bounded tasks; BAV 43 and YER 24 candidates remain; COM-004 and chronology remain partial."
+  "checkpoint_note": "BAV-006 read 20 named remaining candidates: 15 registered contexts, 5 already covered continuations, 23 finite-ledger candidates remain; YER 24 remain; COM-004 and chronology remain partial."
 }

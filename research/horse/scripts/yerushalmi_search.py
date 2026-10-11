@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """YER-002 bounded complete-index discovery, stdlib. Corpus cache outside repository."""
 import concurrent.futures,datetime,hashlib,html,json,pathlib,re,urllib.request
-ROOT=pathlib.Path(__file__).resolve().parents[3];OUT=ROOT/'research/yerushalmi';CACHE=pathlib.Path('/tmp/horse-yerushalmi-export');CACHE.mkdir(exist_ok=True)
+ROOT=pathlib.Path(__file__).resolve().parents[3];OUT=ROOT/'research/horse/yerushalmi';CACHE=pathlib.Path('/tmp/horse-yerushalmi-export');CACHE.mkdir(exist_ok=True)
 INDEX_URL='https://raw.githubusercontent.com/Sefaria/Sefaria-Export/master/books.json'
 NOW=datetime.datetime.now(datetime.timezone.utc).isoformat()
 def fetch(u):

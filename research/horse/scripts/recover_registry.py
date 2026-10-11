@@ -18,7 +18,7 @@ def main():
    s['parent_reference']=s['parent_source_id'];s['parent_source_id']=None
   s.setdefault('period_status','Historical composition/edition dating not independently established')
   s.setdefault('confidence',{'quotation':'verified_in_named_digital_witness' if s['checks']['quote_verified'] else 'not_verified','interpretation':'working_contextual_reading' if s['checks']['interpretation_prepared'] else 'not_prepared'})
- for path in sorted((ROOT/'research/verification').glob('*.jsonl')):
+ for path in sorted((ROOT/'research/horse/verification').glob('*.jsonl')):
   for line in path.read_text().splitlines():
    if not line.strip():continue
    v=json.loads(line);sid=v.get('source_id')

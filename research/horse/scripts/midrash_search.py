@@ -3,7 +3,7 @@
 import concurrent.futures, hashlib, json, re, unicodedata, urllib.request
 from pathlib import Path
 ROOT=Path(__file__).resolve().parents[3]
-OUT=ROOT/'research/midrash';OUT.mkdir(parents=True,exist_ok=True)
+OUT=ROOT/'research/horse/midrash';OUT.mkdir(parents=True,exist_ok=True)
 CACHE=Path('/tmp/horse-mid-cache');CACHE.mkdir(exist_ok=True)
 TITLES=['Mekhilta DeRabbi Yishmael','Mekhilta DeRabbi Shimon Ben Yochai','Sifra','Sifrei Bamidbar','Sifrei Devarim','Bereshit Rabbah','Shemot Rabbah','Vayikra Rabbah','Bamidbar Rabbah','Devarim Rabbah','Midrash Tanchuma','Midrash Tanchuma Buber','Pesikta DeRav Kahana','Pesikta Rabbati','Midrash Tehillim','Midrash Mishlei','Pirkei DeRabbi Eliezer','Yalkut Shimoni on Torah','Yalkut Shimoni on Nach','Shir HaShirim Rabbah','Ruth Rabbah','Eikhah Rabbah','Esther Rabbah','Kohelet Rabbah','Aggadat Bereshit','Bereshit Rabbati','Midrash Aggadah','Midrash Shmuel','Mishnat Rabbi Eliezer','Otzar Midrashim','Tanna DeBei Eliyahu Rabbah','Tanna DeBei Eliyahu Zuta','Sefer HaYashar (midrash)','Midrash Tannaim on Deuteronomy','Sifrei Zuta']
 def norm(s):

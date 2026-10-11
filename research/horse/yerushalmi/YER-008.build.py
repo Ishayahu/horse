@@ -3,7 +3,7 @@
 import json
 from collections import Counter
 from pathlib import Path
-ROOT=Path(__file__).resolve().parents[3]; HERE=ROOT/'research/yerushalmi'
+ROOT=Path(__file__).resolve().parents[3]; HERE=ROOT/'research/horse/yerushalmi'
 def lines(p): return [json.loads(x) for x in p.read_text().splitlines() if x.strip()]
 def write_lines(p,rows): p.write_text(''.join(json.dumps(x,ensure_ascii=False)+'\n' for x in rows))
 batch=lines(HERE/'YER-007.remaining.jsonl'); cand={x['id']:x for x in lines(HERE/'YER-002.candidates.jsonl')}; prior=lines(HERE/'YER-007.verdicts.jsonl')

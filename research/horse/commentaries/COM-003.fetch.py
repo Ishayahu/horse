@@ -2,7 +2,7 @@ import json,pathlib,urllib.request,urllib.parse,concurrent.futures,collections,r
 out=pathlib.Path(__file__).resolve().parent;cache=pathlib.Path('/tmp/horse-com003-cache');cache.mkdir(exist_ok=True)
 books=dict(zip('Gen Exod Deut Josh Judg 2Sam 1Kgs 2Kgs Isa Jer Ezek Hos Joel Amos Mic Nah Hab Hag Zech Ps Job Prov Eccl Song Ezra Neh Esth 2Chr'.split(),['Genesis','Exodus','Deuteronomy','Joshua','Judges','II Samuel','I Kings','II Kings','Isaiah','Jeremiah','Ezekiel','Hosea','Joel','Amos','Micah','Nahum','Habakkuk','Haggai','Zechariah','Psalms','Job','Proverbs','Ecclesiastes','Song of Songs','Ezra','Nehemiah','Esther','II Chronicles']))
 authors=['Rashi','Ibn Ezra','Metzudat David','Metzudat Zion']
-base=[json.loads(l) for l in open('horse-check/research/horse/tanakh/TAN-001.direct.jsonl')]
+base=[json.loads(l) for l in open(pathlib.Path(__file__).resolve().parents[1] / 'tanakh/TAN-001.direct.jsonl')]
 reuse={(r['author'],r['book'],r['verse']):r for r in json.loads((out/'COM-002.raw.json').read_text())}
 def get(url):
  try:

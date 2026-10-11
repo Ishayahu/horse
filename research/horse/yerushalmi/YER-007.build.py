@@ -5,7 +5,7 @@ from collections import Counter
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[3]
-HERE = ROOT / "research/yerushalmi"
+HERE = ROOT / "research/horse/yerushalmi"
 
 def lines(path):
     return [json.loads(x) for x in path.read_text().splitlines() if x.strip()]

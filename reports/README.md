@@ -14,6 +14,10 @@
 
 Дополнительная проверка `HORSE-SUPPLEMENT-001` пополняет каталог этой же темы.
 
+## [reform-deliberation — общественная дискуссия и реформы](reform-deliberation/README.md)
+
+Исследование в очереди после HORSE-SUPPLEMENT-001: [полное задание](../research/reform-deliberation/research-assignment.md). Итоговые результаты будут публиковаться в `reports/reform-deliberation/` после проверки.
+
 ## [yirat-shamayim — יראת שמים](yirat-shamayim/README.md)
 
 Текущая исследовательская работа и черновики: [`research/yirat-shamayim/`](../research/yirat-shamayim/). После проверки итоговые материалы публикуются в `reports/yirat-shamayim/`.

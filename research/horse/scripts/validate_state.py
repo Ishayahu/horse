@@ -2,7 +2,7 @@
 """Validate HORSE checkpoint; no network/dependencies required."""
 import json
 from pathlib import Path
-ROOT = Path(__file__).resolve().parents[1]
+ROOT = Path(__file__).resolve().parents[3]
 def read(path):
     return json.loads((ROOT/path).read_text(encoding="utf-8"))
 def rows(path):
@@ -10,13 +10,13 @@ def rows(path):
 def require(ok, message):
     if not ok: raise ValueError(message)
 def validate():
-    project, coverage = read("state/project.json"), read("data/coverage.json")
+    project, coverage = read("research/horse/state/project.json"), read("research/horse/data/coverage.json")
     require(project["schema_version"] == coverage["schema_version"] == 1, "Unsupported schema")
-    tasks = rows("state/tasks.jsonl")
-    sources = rows("data/sources.jsonl")
-    refs = rows("data/references.jsonl")
-    hypotheses = rows("data/hypotheses.jsonl")
-    decisions = rows("state/decisions.jsonl")
+    tasks = rows("research/horse/state/tasks.jsonl")
+    sources = rows("research/horse/data/sources.jsonl")
+    refs = rows("research/horse/data/references.jsonl")
+    hypotheses = rows("research/horse/data/hypotheses.jsonl")
+    decisions = rows("research/horse/state/decisions.jsonl")
     for name, records in [("tasks",tasks),("sources",sources),("references",refs),("hypotheses",hypotheses),("decisions",decisions)]:
         ids=[r["id"] for r in records]
         require(len(ids)==len(set(ids)), "Duplicate IDs: "+name)
@@ -65,6 +65,6 @@ def validate():
         require(set(h["followup_task_ids"])<=set(by_id),"Unknown hypothesis task")
     sha=project["last_confirmed_commit"]
     require(isinstance(sha,str) and len(sha)==40 and all(c in "0123456789abcdef" for c in sha),"Invalid previous commit")
-    require((ROOT/"state/handoff.md").is_file(),"Missing handoff")
+    require((ROOT/"research/horse/state/handoff.md").is_file(),"Missing handoff")
     print("HORSE state valid")
 if __name__=="__main__": validate()

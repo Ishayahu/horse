@@ -2,14 +2,14 @@
 """Additive integration of recovered task outputs; coordinator-only local operation."""
 import json
 from pathlib import Path
-ROOT=Path(__file__).resolve().parents[1]
+ROOT=Path(__file__).resolve().parents[3]
 def rows(path):
  return [json.loads(s) for s in (ROOT/path).read_text().splitlines() if s.strip()]
 def save(path,value):
  (ROOT/path).write_text(''.join(json.dumps(r,ensure_ascii=False)+'\n' for r in value))
 def main():
- by={s['id']:s for s in rows('data/sources.jsonl')}
- batches=['research/tanakh/TAN-002b.sources.jsonl','research/midrash/MID-004.sources.jsonl','research/egypt/EGY-001.sources.jsonl','research/kabbalah/KAB-002.sources.jsonl','research/later-literature/LAT-002.sources.jsonl','research/tanakh/TAN-003.sources.jsonl','research/commentaries/COM-002.sources.jsonl','research/perek-shira/PSH-002.sources.jsonl','research/tanakh/TAN-004.sources.jsonl','research/commentaries/COM-003.sources.jsonl','research/commentaries/COM-004.sources.jsonl','research/bavli/BAV-003.sources.jsonl','research/bavli/BAV-004.sources.jsonl','research/bavli/BAV-005.sources.jsonl','research/bavli/BAV-006.sources.jsonl','research/bavli/BAV-007.sources.jsonl','research/yerushalmi/YER-004.sources.jsonl','research/yerushalmi/YER-005.sources.jsonl','research/yerushalmi/YER-006.sources.jsonl','research/yerushalmi/YER-007.sources.jsonl','research/yerushalmi/YER-008.sources.jsonl','research/egypt/EGY-002.sources.jsonl']
+ by={s['id']:s for s in rows('research/horse/data/sources.jsonl')}
+ batches=['research/horse/tanakh/TAN-002b.sources.jsonl','research/horse/midrash/MID-004.sources.jsonl','research/horse/egypt/EGY-001.sources.jsonl','research/horse/kabbalah/KAB-002.sources.jsonl','research/horse/later-literature/LAT-002.sources.jsonl','research/horse/tanakh/TAN-003.sources.jsonl','research/horse/commentaries/COM-002.sources.jsonl','research/horse/perek-shira/PSH-002.sources.jsonl','research/horse/tanakh/TAN-004.sources.jsonl','research/horse/commentaries/COM-003.sources.jsonl','research/horse/commentaries/COM-004.sources.jsonl','research/horse/bavli/BAV-003.sources.jsonl','research/horse/bavli/BAV-004.sources.jsonl','research/horse/bavli/BAV-005.sources.jsonl','research/horse/bavli/BAV-006.sources.jsonl','research/horse/bavli/BAV-007.sources.jsonl','research/horse/yerushalmi/YER-004.sources.jsonl','research/horse/yerushalmi/YER-005.sources.jsonl','research/horse/yerushalmi/YER-006.sources.jsonl','research/horse/yerushalmi/YER-007.sources.jsonl','research/horse/yerushalmi/YER-008.sources.jsonl','research/horse/egypt/EGY-002.sources.jsonl']
  for path in batches:
   if not (ROOT/path).exists():continue
   for s in rows(path):by[s['id']]=s
@@ -35,6 +35,6 @@ def main():
     if note.get('locator'):s['locator']=note['locator']
     if note.get('url'):s.setdefault('initial_url',s['url']);s['url']=note['url']
     if note.get('quote_suggestion'):s['quote_context_addition']=note['quote_suggestion']
- save('data/sources.jsonl',list(by.values()))
+ save('research/horse/data/sources.jsonl',list(by.values()))
  print(json.dumps({'records':len(by),'context_checked':sum(s['checks']['context_checked'] for s in by.values()),'independently_reviewed':sum(s['checks']['independent_reviewed'] for s in by.values())}))
 if __name__=='__main__':main()

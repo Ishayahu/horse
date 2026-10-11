@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Reproducible OSHB WLC Tanakh horse inventory. Stdlib only; corpus cache outside git."""
 import concurrent.futures,datetime,hashlib,json,pathlib,re,urllib.request,xml.etree.ElementTree as ET
-ROOT=pathlib.Path(__file__).resolve().parents[1]; OUT=ROOT/'research/tanakh'; CACHE=pathlib.Path('/tmp/horse-oshb-wlc');CACHE.mkdir(exist_ok=True)
+ROOT=pathlib.Path(__file__).resolve().parents[3]; OUT=ROOT/'research/tanakh'; CACHE=pathlib.Path('/tmp/horse-oshb-wlc');CACHE.mkdir(exist_ok=True)
 REVISION='3d15126fb1ef74867fc1434be1942e837932691f'
 BOOKS='Gen Exod Lev Num Deut Josh Judg Ruth 1Sam 2Sam 1Kgs 2Kgs 1Chr 2Chr Ezra Neh Esth Job Ps Prov Eccl Song Isa Jer Lam Ezek Dan Hos Joel Amos Obad Jonah Mic Nah Hab Zeph Hag Zech Mal'.split()
 NS={'o':'http://www.bibletechnologies.net/2003/OSIS/namespace'}

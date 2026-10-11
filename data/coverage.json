@@ -152,15 +152,15 @@
         "YER001/YER003 context ranges"
       ],
       "candidate_count": 149,
-      "confirmed_count": 16,
+      "confirmed_count": 19,
       "commentary_count": 0,
       "limitations": [
-        "149 machine candidates, not confirmed horse mentions; 5 prior+11 contextual records, editorial note separate.",
-        "Niddah mixed provenance/license unresolved; rare Makkot witness G unresolved."
+        "Finite lexical discovery ledger has 9 candidates still pending after YER-007; counts are contextual records, not proof of absolute corpus completeness.",
+        "Niddah mixed provenance/license and rare Makkot witness identification remain unresolved."
       ],
       "next_checks": [
-        "Remaining candidate context",
-        "Rare witness identification"
+        "YER-008 final 9-candidate review",
+        "Independent review of central extraordinary/spiritual passages"
       ]
     },
     {
@@ -361,9 +361,9 @@
     }
   ],
   "registry_statistics": {
-    "records": 480,
-    "context_checked": 478,
+    "records": 483,
+    "context_checked": 481,
     "independently_reviewed": 62
   },
-  "checkpoint_note": "BAV-006 read 20 named remaining candidates: 15 registered contexts, 5 already covered continuations, 23 finite-ledger candidates remain; YER 24 remain; COM-004 and chronology remain partial."
+  "checkpoint_note": "YER-007 read 15 named remaining candidates: 3 registered contexts, 12 lexical false positives, 9 finite-ledger candidates remain; BAV 23 remain; COM-004 and chronology remain partial."
 }

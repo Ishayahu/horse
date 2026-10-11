@@ -1,5 +1,5 @@
 import json,pathlib,urllib.request,urllib.parse,concurrent.futures,html,re,collections
-p=pathlib.Path('horse-check/research/commentaries');cache=pathlib.Path('/tmp/horse-com004-cache');cache.mkdir(exist_ok=True)
+p=pathlib.Path(__file__).resolve().parent;cache=pathlib.Path('/tmp/horse-com004-cache');cache.mkdir(exist_ok=True)
 authors=['Abarbanel','Sforno','Ibn Ezra'];targets={'II Kings':['2:11','6:17'],'Zechariah':['1:8']+['6:'+str(i) for i in range(1,9)]}
 def get(u):
  try:

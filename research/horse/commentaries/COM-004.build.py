@@ -2,7 +2,7 @@
 """Normalize the saved COM-004 Abarbanel/Ibn Ezra Zechariah discoveries."""
 import json
 from pathlib import Path
-ROOT=Path(__file__).resolve().parents[2]; P=ROOT/'research/commentaries'
+ROOT=Path(__file__).resolve().parents[3]; P=ROOT/'research/commentaries'
 rows=[json.loads(x) for x in (P/'COM-004.discoveries.jsonl').read_text().splitlines() if x.strip()]
 skip={('Ibn Ezra','6:4')}
 interp={

@@ -1,14 +1,14 @@
 #!/usr/bin/env python3
 import json,collections
 from pathlib import Path
-P=Path(__file__).parent;R=P.parents[1]/'reports'/'horse';R.mkdir(parents=True,exist_ok=True)
+P=Path(__file__).parent;R=P.parents[2]/'reports'/'horse';R.mkdir(parents=True,exist_ok=True)
 load=lambda n:[json.loads(x) for x in (P/n).read_text().splitlines()]
 files=['TAN-002a.sources.jsonl','TAN-002b.sources.jsonl','TAN-003.sources.jsonl','TAN-004.sources.jsonl']
 rows=[r for n in files for r in load(n)];assert len(rows)==len({r['id'] for r in rows})==len({r['locator'] for r in rows})==242
 base=load('TAN-001.direct.jsonl');direct=[r for r in rows if r['mention_type']=='direct'];assert {r['id'] for r in base}=={r['id'] for r in direct};assert all(r['checks']['context_checked'] for r in rows)
 books=[x['book'] for x in json.loads((P/'TAN-001.manifest.json').read_text())['books']];order={b:i for i,b in enumerate(books)}
 rows.sort(key=lambda r:(order[r['work']],*[int(x) for x in r['locator'].split('.')[1:]]))
-cat=['# Танах — каталог проверенных первичных записей','', '2026-10-10. **242 уникальных стиха: 129 прямых סוס/סוסה и 113 косвенных записей.** Редкие конские обозначения, военные колесницы, продолжения рассказов и возможные образы остаются внутри исторической категории `indirect`; эта категория не означает 113 доказанных буквальных коней. Все записи имеют проверку цитаты и ограниченного контекста; комментарии и независимая проверка не подразумеваются. Нумерация OSIS/WLC; возможны отличия от переводов. Транскрипция слов XML сохраняет обе формы ketiv/qere, если присутствуют.','', 'Подробные диапазоны и признаки проверки находятся в research/tanakh/TAN-002a,b / TAN-003 / TAN-004.sources.jsonl; итоговые границы — research/tanakh/TAN-AUDIT.report.md.','']
+cat=['# Танах — каталог проверенных первичных записей','', '2026-10-10. **242 уникальных стиха: 129 прямых סוס/סוסה и 113 косвенных записей.** Редкие конские обозначения, военные колесницы, продолжения рассказов и возможные образы остаются внутри исторической категории `indirect`; эта категория не означает 113 доказанных буквальных коней. Все записи имеют проверку цитаты и ограниченного контекста; комментарии и независимая проверка не подразумеваются. Нумерация OSIS/WLC; возможны отличия от переводов. Транскрипция слов XML сохраняет обе формы ketiv/qere, если присутствуют.','', 'Подробные диапазоны и признаки проверки находятся в research/horse/tanakh/TAN-002a,b / TAN-003 / TAN-004.sources.jsonl; итоговые границы — research/horse/tanakh/TAN-AUDIT.report.md.','']
 last=None
 for r in rows:
  if r['work']!=last:cat.extend(['## '+r['work'],'']);last=r['work']
@@ -30,7 +30,7 @@ text='''# TAN-AUDIT — конечный аудит Танаха
 - Исправленный запрос содержит **245 = 99 уже покрытых TAN-002a/b + 82 новых принятых + 64 отклонённых**; pending=0. 99 — число пересечений с прежними записями, а не новая партия. 245 не складывается с 129 в общий счётчик.
 - Пять отдельно разобранных неоднозначностей סוס (имя, топонимы, птицы) не входят в 129. Первоначальные 238 сырых косвенных кандидатов заменены исправленным обнаружением; их не следует считать дополнительными источниками.
 
-Воспроизведение каталога: `python research/tanakh/TAN-AUDIT.build.py`; входы TAN-002a/b,003,004 неизменны. Все 242 записи имеют primary_read, quote_verified, context_checked и attribution_verified=true; ни одна из этих стадий не подразумевает самостоятельной независимой текстологической проверки. Комментарии и independent_reviewed не заявлены. TAN-004 повторно проверил все 39 хешей закреплённой ревизии `3d15126fb1ef74867fc1434be1942e837932691f` и точное совпадение извлечённых цитат своей дельты. Итоговый builder проверяет уникальность, полное совпадение прямых IDs и сохранённые признаки контекста без повторного XML-разбора.
+Воспроизведение каталога: `python research/horse/tanakh/TAN-AUDIT.build.py`; входы TAN-002a/b,003,004 неизменны. Все 242 записи имеют primary_read, quote_verified, context_checked и attribution_verified=true; ни одна из этих стадий не подразумевает самостоятельной независимой текстологической проверки. Комментарии и independent_reviewed не заявлены. TAN-004 повторно проверил все 39 хешей закреплённой ревизии `3d15126fb1ef74867fc1434be1942e837932691f` и точное совпадение извлечённых цитат своей дельты. Итоговый builder проверяет уникальность, полное совпадение прямых IDs и сохранённые признаки контекста без повторного XML-разбора.
 
 ## Прямое, косвенное и неопределённое
 

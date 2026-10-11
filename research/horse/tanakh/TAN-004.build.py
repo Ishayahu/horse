@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 import sys,json,copy,hashlib
 from pathlib import Path
-sys.path.insert(0,str(Path(__file__).resolve().parents[2]/'scripts'))
+sys.path.insert(0,str(Path(__file__).resolve().parents[1]/'scripts'))
 import tanakh_indirect as ti
 P=Path(__file__).parent
 load=lambda n:[json.loads(x) for x in (P/n).read_text().splitlines()]

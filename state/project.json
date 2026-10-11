@@ -9,15 +9,14 @@
   "session_id": "research-2026-10-11-01",
   "active_task_ids": [],
   "pending_task_ids": [
-    "KAB-002",
     "SYN-001",
     "CMP-001",
     "AUD-001"
   ],
   "unsaved_results": [],
   "blockers": [],
-  "next_action": "Resolve KAB-002 artifact status, then synthesis/comparison/audit.",
-  "last_confirmed_commit": "4f9f51b12491ce978bf495b4641bf0d9d9a66b7b",
+  "next_action": "Produce SYN-001 qualified thematic synthesis, then CMP-001 comparison and AUD-001 final audit.",
+  "last_confirmed_commit": "33e0cdaa3378c7732e375ba8e5ba2b9ed7dc3666",
   "capabilities": {
     "github_read": true,
     "github_write": true,

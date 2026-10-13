@@ -24,6 +24,6 @@
 
 ## [rosenblum-parasha — источники к урокам рава Розенблюма](rosenblum-parasha/README.md)
 
-Два открытых вопроса, перенесённых из `main-ai`: [исходное задание](../research/rosenblum-parasha/research-assignment.md). Исследование ещё не завершено, проверенных отчётов нет; выполнять по запросу, не изменяя текущую очередь.
+Два открытых вопроса, перенесённых из `main-ai`: [исходное задание](../research/rosenblum-parasha/research-assignment.md). Исследования RPL-TORAH-001 и RPL-MAMZER-002 ещё не начаты и стоят в конце текущей очереди после YIRAT; проверенных отчётов пока нет.
 
 [Очередь и задания](../RESEARCH-RUNNER.md).

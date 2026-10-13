@@ -1,6 +1,6 @@
 # Rosenblum parasha — вопросы по первоисточникам
 
-**Codename:** `rosenblum-parasha`. **Статус:** REGISTERED / ON DEMAND, исследования пока не проведены; не часть действующей автоматической очереди HORSE → REFORM → YIRAT.
+**Codename:** `rosenblum-parasha`. **Статус:** QUEUED (позиции 5–6 в [RESEARCH-RUNNER.md](../../RESEARCH-RUNNER.md)); исследования ещё не проведены. Порядок: HORSE-SUPPLEMENT → REFORM → YIRAT → RPL-TORAH-001 → RPL-MAMZER-002.
 
 - [Исходное задание и вопросы R01/R02](research-assignment.md) — исходный текст перенесён из `Ishayahu/main-ai` (2026-10-14) с сохранением исследовательских вопросов.
 - [Состояние и следующий шаг](state.md).

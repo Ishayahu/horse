@@ -22,4 +22,8 @@
 
 Текущая исследовательская работа и черновики: [`research/yirat-shamayim/`](../research/yirat-shamayim/). После проверки итоговые материалы публикуются в `reports/yirat-shamayim/`.
 
+## [rosenblum-parasha — источники к урокам рава Розенблюма](rosenblum-parasha/README.md)
+
+Два открытых вопроса, перенесённых из `main-ai`: [исходное задание](../research/rosenblum-parasha/research-assignment.md). Исследование ещё не завершено, проверенных отчётов нет; выполнять по запросу, не изменяя текущую очередь.
+
 [Очередь и задания](../RESEARCH-RUNNER.md).

@@ -26,4 +26,8 @@
 
 Два открытых вопроса, перенесённых из `main-ai`: [исходное задание](../research/rosenblum-parasha/research-assignment.md). Исследования RPL-TORAH-001 и RPL-MAMZER-002 ещё не начаты и стоят в конце текущей очереди после YIRAT; проверенных отчётов пока нет.
 
+## [ritual-handwashing — устрожения при омовении рук](ritual-handwashing/README.md)
+
+[Реестр исторических источников с прямыми ссылками](../research/ritual-handwashing/sources.md). Исследование ON-DEMAND, без изменения автоматической очереди.
+
 [Очередь и задания](../RESEARCH-RUNNER.md).

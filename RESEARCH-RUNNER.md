@@ -22,6 +22,7 @@
 | 5 | RPL-TORAH-001 | `rosenblum-parasha` | Тора до Синая и до описанных событий: Рамбан, «Диврей Йоэль», мидраши, свобода выбора | **QUEUED — после YIRAT-RESEARCH-001** | `research/rosenblum-parasha/research-assignment.md` (R01), `state.md`, `tasks.jsonl` |
 | 6 | RPL-MAMZER-002 | `rosenblum-parasha` | Раши о «труде» создания мамзеров, דין ממזר у בני נח, книга לב טהור | **QUEUED — после RPL-TORAH-001** | `research/rosenblum-parasha/research-assignment.md` (R02), `state.md`, `tasks.jsonl` |
 
+| — | PRE-SHACHARIT-001 | `pre-shacharit` | Между Брахот ха-шахар и шахаритом: подготовка, исторические мингагим, Корбанот | **ON-DEMAND — partial; не меняет CURRENT** | [12 этапов](reports/pre-shacharit/README.md), [реестр источников](research/pre-shacharit/sources.md) |
 | — | MORNING-BLESSINGS-001 | `morning-blessings` | Утренние благословения, исторические и современные обычаи, проверяемая пошаговая схема | **ON-DEMAND — partial; не меняет CURRENT** | [Протокол по этапам](reports/morning-blessings/README.md), [ссылки](research/morning-blessings/sources.md) |
 | — | WASH-001 | `ritual-handwashing` | Исторические свидетельства об омовении рук с тканью/полотенцем утром, троекратности после туалета и применении ткани после туалета/миквы | **ON-DEMAND — partial; не меняет CURRENT и автоматическую очередь** | [Задание](research/ritual-handwashing/research-assignment.md), [реестр ссылок](research/ritual-handwashing/sources.md), [отчёт](reports/ritual-handwashing/README.md) |
 

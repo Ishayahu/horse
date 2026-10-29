@@ -30,4 +30,8 @@
 
 [Реестр исторических источников с прямыми ссылками](../research/ritual-handwashing/sources.md). Исследование ON-DEMAND, без изменения автоматической очереди.
 
+## [morning-blessings — утренние благословения](morning-blessings/README.md)
+
+Поэтапный протокол с прямыми ссылками: [источники](../research/morning-blessings/sources.md). Исследование ON-DEMAND.
+
 [Очередь и задания](../RESEARCH-RUNNER.md).

@@ -9,4 +9,6 @@
 
 - [`ritual-handwashing`](ritual-handwashing/research-assignment.md) — исторические сведения об омовении рук с тканью, троекратном омовении после туалета, микве; [ссылки](ritual-handwashing/sources.md). ON-DEMAND.
 
+- [`morning-blessings`](morning-blessings/README.md) — утренние благословения: обычаи и источники, ON-DEMAND.
+
 Кодовое имя совпадает с именем каталога [итоговых отчётов](../reports/README.md): `reports/<codename>/`. [Общая методология](../docs/methodology.md) · [Очередь и запуск](../RESEARCH-RUNNER.md).

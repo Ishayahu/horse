@@ -11,4 +11,6 @@
 
 - [`morning-blessings`](morning-blessings/README.md) — утренние благословения: обычаи и источники, ON-DEMAND.
 
+- [`pre-shacharit`](pre-shacharit/README.md) — документированные устрожения между утренними благословениями и шахаритом. ON-DEMAND.
+
 Кодовое имя совпадает с именем каталога [итоговых отчётов](../reports/README.md): `reports/<codename>/`. [Общая методология](../docs/methodology.md) · [Очередь и запуск](../RESEARCH-RUNNER.md).

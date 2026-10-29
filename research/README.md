@@ -7,4 +7,6 @@
 
 - [`rosenblum-parasha`](rosenblum-parasha/README.md) — открытые вопросы по урокам рава Баруха Розенблюма (Тора до Синая; мамзеры и לב טהור); зарегистрировано в конце автоматической очереди (позиции 5–6, после YIRAT).
 
+- [`ritual-handwashing`](ritual-handwashing/research-assignment.md) — исторические сведения об омовении рук с тканью, троекратном омовении после туалета, микве; [ссылки](ritual-handwashing/sources.md). ON-DEMAND.
+
 Кодовое имя совпадает с именем каталога [итоговых отчётов](../reports/README.md): `reports/<codename>/`. [Общая методология](../docs/methodology.md) · [Очередь и запуск](../RESEARCH-RUNNER.md).

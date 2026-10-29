@@ -38,4 +38,8 @@
 
 От Брахот ха-шахар до Псукей де-зимра: 12 этапов, прямая ссылка после каждого. [Исходники](../research/pre-shacharit/sources.md). ON-DEMAND.
 
+## [post-shacharit — после шахарита](post-shacharit/README.md)
+
+Продолжение утренней последовательности, 15 этапов от окончания молитвы до начала дня, [18 точных источников](../research/post-shacharit/sources.md). ON-DEMAND.
+
 [Очередь и задания](../RESEARCH-RUNNER.md).

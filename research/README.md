@@ -13,4 +13,6 @@
 
 - [`pre-shacharit`](pre-shacharit/README.md) — документированные устрожения между утренними благословениями и шахаритом. ON-DEMAND.
 
+- [`post-shacharit`](post-shacharit/README.md) — обычаи после шахарита: тфилин, Теилим, учебные установления, выход из синагоги, завтрак; ON-DEMAND.
+
 Кодовое имя совпадает с именем каталога [итоговых отчётов](../reports/README.md): `reports/<codename>/`. [Общая методология](../docs/methodology.md) · [Очередь и запуск](../RESEARCH-RUNNER.md).

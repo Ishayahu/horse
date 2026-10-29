@@ -34,4 +34,8 @@
 
 Поэтапный протокол с прямыми ссылками: [источники](../research/morning-blessings/sources.md). Исследование ON-DEMAND.
 
+## [pre-shacharit — до утренней молитвы](pre-shacharit/README.md)
+
+От Брахот ха-шахар до Псукей де-зимра: 12 этапов, прямая ссылка после каждого. [Исходники](../research/pre-shacharit/sources.md). ON-DEMAND.
+
 [Очередь и задания](../RESEARCH-RUNNER.md).

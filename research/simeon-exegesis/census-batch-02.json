@@ -1,0 +1,645 @@
+{
+  "version": "2026-11-25",
+  "stage": "census",
+  "series": {
+    "JFB": {
+      "title": "Commentary Critical and Explanatory on the Whole Bible",
+      "edition": "1871",
+      "catalog": "https://ccel.org/j/jfb/jfb/JFB00.htm"
+    },
+    "L": {
+      "title": "A Commentary on the Holy Scriptures: Critical, Doctrinal, and Homiletical",
+      "catalog": "https://openlibrary.org/books/OL24188898M/A_commentary_on_the_Holy_Scriptures_critical_doctrinal_and_homiletical"
+    },
+    "ICC": {
+      "title": "International Critical Commentary",
+      "catalog": "https://biblicalstudies.gospelstudies.org.uk/commentaries_international-critical-commentary.php",
+      "catalog2": "https://guides.library.duke.edu/c.php?g=289359&p=1933919",
+      "catalog3": "https://onlinebooks.library.upenn.edu/webbin/serial?id=intcritcomm"
+    },
+    "EXP": {
+      "title": "The Expositor's Bible",
+      "catalog": "https://biblehub.com/commentaries/expositors/"
+    },
+    "EGT": {
+      "title": "The Expositor's Greek Testament",
+      "catalog": "https://openlibrary.org/books/OL7241600M/The_expositor%27s_Greek_Testament"
+    }
+  },
+  "candidates": [
+    {
+      "name": "Роберт Джеймисон",
+      "latin": "Robert Jamieson",
+      "entity_type": "person",
+      "period": "XIX–XX (work date per record)",
+      "tradition": "Christian; exact affiliation to verify",
+      "works": [
+        {
+          "series_id": "JFB",
+          "episode": "J",
+          "book": "Genesis",
+          "locator": "46:30; 47:28; 48–49",
+          "edition": "1871",
+          "status": "chapter text located; passage relevance not screened",
+          "text_url": "https://ccel.org/j/jfb/jfb/JFB01.htm"
+        },
+        {
+          "series_id": "JFB",
+          "episode": "M",
+          "book": "Deuteronomy",
+          "locator": "3:23–29; 31:2; 34:5–7",
+          "edition": "1871",
+          "status": "volume authorship verified; target passage not yet checked"
+        },
+        {
+          "series_id": "JFB",
+          "episode": "H",
+          "book": "2 Kings",
+          "locator": "20:1–6",
+          "edition": "1871",
+          "status": "volume authorship verified; target passage not yet checked"
+        },
+        {
+          "series_id": "JFB",
+          "episode": "B",
+          "book": "2 Samuel",
+          "locator": "19:31–39",
+          "edition": "1871",
+          "status": "chapter text located; passage relevance not screened",
+          "text_url": "https://biblehub.com/commentaries/jfb/2_samuel/19.htm"
+        }
+      ],
+      "notes": "Genesis search for a discrete 46:30 note unsuccessful; do not infer absence until other passages checked.",
+      "profile_status": "pending",
+      "screen_status": "candidate; relevance screen pending",
+      "id": "C071"
+    },
+    {
+      "name": "Эндрю Роберт Фоссет",
+      "latin": "Andrew Robert Fausset",
+      "entity_type": "person",
+      "period": "XIX–XX (work date per record)",
+      "tradition": "Christian; exact affiliation to verify",
+      "works": [
+        {
+          "series_id": "JFB",
+          "episode": "P",
+          "book": "Philippians",
+          "locator": "1:21–26",
+          "edition": "1871",
+          "status": "relevant substantive passage located; detailed interpretation deferred",
+          "text_url": "https://ccel.org/j/jfb/jfb/JFB50.htm"
+        },
+        {
+          "series_id": "JFB",
+          "episode": "H",
+          "book": "Isaiah",
+          "locator": "38",
+          "edition": "1871",
+          "status": "volume authorship verified; target passage not yet checked"
+        }
+      ],
+      "notes": "",
+      "profile_status": "pending",
+      "screen_status": "relevant passage located",
+      "id": "C072"
+    },
+    {
+      "name": "Дэвид Браун",
+      "latin": "David Brown",
+      "entity_type": "person",
+      "period": "XIX–XX (work date per record)",
+      "tradition": "Christian; exact affiliation to verify",
+      "works": [
+        {
+          "series_id": "JFB",
+          "episode": "S",
+          "book": "Luke",
+          "locator": "2:25–35",
+          "edition": "1871",
+          "status": "relevant substantive passage located; detailed interpretation deferred",
+          "text_url": "https://ccel.org/j/jfb/jfb/JFB42.htm"
+        },
+        {
+          "series_id": "JFB",
+          "episode": "A",
+          "book": "Luke",
+          "locator": "2:36–38",
+          "edition": "1871",
+          "status": "chapter text located; passage relevance not screened",
+          "text_url": "https://ccel.org/j/jfb/jfb/JFB42.htm"
+        }
+      ],
+      "notes": "",
+      "profile_status": "pending",
+      "screen_status": "relevant passage located",
+      "id": "C073"
+    },
+    {
+      "name": "Иоганн Петер Ланге",
+      "latin": "Johann Peter Lange",
+      "entity_type": "person",
+      "period": "XIX–XX (work date per record)",
+      "tradition": "Christian; exact affiliation to verify",
+      "works": [
+        {
+          "series_id": "L",
+          "episode": "J",
+          "book": "Genesis",
+          "locator": "46:30; 47:28; 48–49",
+          "edition": "1868 English",
+          "status": "chapter text located; passage relevance not screened",
+          "text_url": "https://biblehub.com/commentaries/lange/genesis/46.htm"
+        }
+      ],
+      "notes": "Quoted by Van Oosterzee on Simeon, not automatically a separate relevant Luke work; distinguish attribution from editors' supplements.",
+      "profile_status": "pending",
+      "screen_status": "candidate; relevance screen pending",
+      "id": "C074"
+    },
+    {
+      "name": "Фридрих Вильгельм Юлиус Шрёдер",
+      "latin": "Friedrich Wilhelm Julius Schröder",
+      "entity_type": "person",
+      "period": "XIX–XX (work date per record)",
+      "tradition": "Christian; exact affiliation to verify",
+      "works": [
+        {
+          "series_id": "L",
+          "episode": "M",
+          "book": "Deuteronomy",
+          "locator": "3:23–29; 31:2; 34:5–7",
+          "edition": "1879 English",
+          "status": "electronic chapter defective; seek alternative edition",
+          "text_url": "https://biblehub.com/commentaries/lange/deuteronomy/3.htm"
+        }
+      ],
+      "notes": "Chapter 3 digital page shows only opening biblical verse and attribution; printed volume needed.",
+      "profile_status": "pending",
+      "screen_status": "candidate; relevance screen pending",
+      "id": "C075"
+    },
+    {
+      "name": "Карл Фридрих Давид Эрдман",
+      "latin": "Carl Friedrich David Erdmann",
+      "entity_type": "person",
+      "period": "XIX–XX (work date per record)",
+      "tradition": "Christian; exact affiliation to verify",
+      "works": [
+        {
+          "series_id": "L",
+          "episode": "B",
+          "book": "2 Samuel",
+          "locator": "19:31–39",
+          "edition": "1877 English",
+          "status": "chapter text located; passage relevance not screened",
+          "text_url": "https://biblehub.com/commentaries/lange/2_samuel/19.htm"
+        }
+      ],
+      "notes": "",
+      "profile_status": "pending",
+      "screen_status": "candidate; relevance screen pending",
+      "id": "C076"
+    },
+    {
+      "name": "Карл Христиан Вильгельм Феликс Бер",
+      "latin": "Karl Christian Wilhelm Felix Bähr",
+      "entity_type": "person",
+      "period": "XIX–XX (work date per record)",
+      "tradition": "Christian; exact affiliation to verify",
+      "works": [
+        {
+          "series_id": "L",
+          "episode": "H",
+          "book": "2 Kings",
+          "locator": "20:1–6",
+          "edition": "1872 English",
+          "status": "chapter text located; passage relevance not screened",
+          "text_url": "https://biblehub.com/commentaries/lange/2_kings/20.htm"
+        }
+      ],
+      "notes": "",
+      "profile_status": "pending",
+      "screen_status": "candidate; relevance screen pending",
+      "id": "C077"
+    },
+    {
+      "name": "Карл Вильгельм Эдуард Негельсбах",
+      "latin": "Carl Wilhelm Eduard Nägelsbach",
+      "entity_type": "person",
+      "period": "XIX–XX (work date per record)",
+      "tradition": "Christian; exact affiliation to verify",
+      "works": [
+        {
+          "series_id": "L",
+          "episode": "H",
+          "book": "Isaiah",
+          "locator": "38",
+          "edition": "1878 English",
+          "status": "chapter text located; passage relevance not screened",
+          "text_url": "https://biblehub.com/commentaries/lange/isaiah/38.htm"
+        }
+      ],
+      "notes": "",
+      "profile_status": "pending",
+      "screen_status": "candidate; relevance screen pending",
+      "id": "C078"
+    },
+    {
+      "name": "Ян Якоб ван Оостерзе",
+      "latin": "Jan Jacob van Oosterzee",
+      "entity_type": "person",
+      "period": "XIX–XX (work date per record)",
+      "tradition": "Christian; exact affiliation to verify",
+      "works": [
+        {
+          "series_id": "L",
+          "episode": "S",
+          "book": "Luke",
+          "locator": "2:25–35",
+          "edition": "1869 English 5th ed.",
+          "status": "relevant substantive passage located; detailed interpretation deferred",
+          "text_url": "https://biblehub.com/commentaries/lange/luke/2.htm"
+        },
+        {
+          "series_id": "L",
+          "episode": "A",
+          "book": "Luke",
+          "locator": "2:36–38",
+          "edition": "1869 English 5th ed.",
+          "status": "relevant substantive passage located; detailed interpretation deferred",
+          "text_url": "https://biblehub.com/commentaries/lange/luke/2.htm"
+        }
+      ],
+      "notes": "Distinguish quoted Lange/Starke and other authorities from his own comments and editorial additions.",
+      "profile_status": "pending",
+      "screen_status": "relevant passage located",
+      "id": "C079"
+    },
+    {
+      "name": "Карл Брауне",
+      "latin": "Karl Braune",
+      "entity_type": "person",
+      "period": "XIX–XX (work date per record)",
+      "tradition": "Christian; exact affiliation to verify",
+      "works": [
+        {
+          "series_id": "L",
+          "episode": "P",
+          "book": "Philippians",
+          "locator": "1:21–26",
+          "edition": "English edition date pending",
+          "status": "relevant substantive passage located; detailed interpretation deferred",
+          "text_url": "https://www.studylight.org/commentaries/eng/lcc/philippians-1.html",
+          "catalog_url": "https://www.studylight.org/commentaries/eng/lcc/philippians.html"
+        }
+      ],
+      "notes": "",
+      "profile_status": "pending",
+      "screen_status": "relevant passage located",
+      "id": "C080"
+    },
+    {
+      "name": "Сэмюэл Роллс Драйвер",
+      "latin": "Samuel Rolles Driver",
+      "entity_type": "person",
+      "period": "XIX–XX (work date per record)",
+      "tradition": "Christian; exact affiliation to verify",
+      "works": [
+        {
+          "series_id": "ICC",
+          "episode": "M",
+          "book": "Deuteronomy",
+          "locator": "3:23–29; 31:2; 34:5–7",
+          "edition": "1895",
+          "status": "volume authorship verified; target passage not yet checked",
+          "catalog_url": "https://onlinebooks.library.upenn.edu/webbin/serial?id=intcritcomm"
+        }
+      ],
+      "notes": "",
+      "profile_status": "pending",
+      "screen_status": "candidate; relevance screen pending",
+      "id": "C081"
+    },
+    {
+      "name": "Генри Презервед Смит",
+      "latin": "Henry Preserved Smith",
+      "entity_type": "person",
+      "period": "XIX–XX (work date per record)",
+      "tradition": "Christian; exact affiliation to verify",
+      "works": [
+        {
+          "series_id": "ICC",
+          "episode": "B",
+          "book": "Samuel",
+          "locator": "2 Samuel 19:31–39",
+          "edition": "1899",
+          "status": "volume authorship verified; target passage not yet checked",
+          "catalog_url": "https://onlinebooks.library.upenn.edu/webbin/serial?id=intcritcomm"
+        }
+      ],
+      "notes": "",
+      "profile_status": "pending",
+      "screen_status": "candidate; relevance screen pending",
+      "id": "C082"
+    },
+    {
+      "name": "Джеймс Алан Монтгомери",
+      "latin": "James Alan Montgomery",
+      "entity_type": "person",
+      "period": "XIX–XX (work date per record)",
+      "tradition": "Christian; exact affiliation to verify",
+      "works": [
+        {
+          "series_id": "ICC",
+          "episode": "H",
+          "book": "Kings",
+          "locator": "2 Kings 20:1–6",
+          "edition": "1951? Duke catalogue lists 1950; edition discrepancy pending",
+          "status": "volume authorship verified; target passage not yet checked",
+          "catalog_url": "https://guides.library.duke.edu/c.php?g=289359&p=1933919"
+        }
+      ],
+      "notes": "Henry Snyder Gehman edited the volume; defer separate author candidate unless substantive signed contribution identified.",
+      "profile_status": "pending",
+      "screen_status": "candidate; relevance screen pending",
+      "id": "C083"
+    },
+    {
+      "name": "Альфред Пламмер",
+      "latin": "Alfred Plummer",
+      "entity_type": "person",
+      "period": "XIX–XX (work date per record)",
+      "tradition": "Christian; exact affiliation to verify",
+      "works": [
+        {
+          "series_id": "ICC",
+          "episode": "S",
+          "book": "Luke",
+          "locator": "2:25–35",
+          "edition": "1896",
+          "status": "relevant substantive passage located; detailed interpretation deferred",
+          "text_url": "https://biblehub.com/commentaries/icc/luke/2.htm",
+          "catalog_url": "https://openlibrary.org/books/OL7082983M/A_critical_and_exegetical_commentary_on_the_Gospel_according_to_St._Luke."
+        },
+        {
+          "series_id": "ICC",
+          "episode": "A",
+          "book": "Luke",
+          "locator": "2:36–38",
+          "edition": "1896",
+          "status": "chapter text located; passage relevance not screened",
+          "text_url": "https://biblehub.com/commentaries/icc/luke/2.htm"
+        }
+      ],
+      "notes": "",
+      "profile_status": "pending",
+      "screen_status": "relevant passage located",
+      "id": "C084"
+    },
+    {
+      "name": "Маркус Додс",
+      "latin": "Marcus Dods",
+      "entity_type": "person",
+      "period": "XIX–XX (work date per record)",
+      "tradition": "Christian; exact affiliation to verify",
+      "works": [
+        {
+          "series_id": "EXP",
+          "episode": "J",
+          "book": "Genesis",
+          "locator": "46:30; 47:28; 48–49",
+          "edition": "1887–88 series",
+          "status": "volume authorship verified; target passage not yet checked"
+        }
+      ],
+      "notes": "",
+      "profile_status": "pending",
+      "screen_status": "candidate; relevance screen pending",
+      "id": "C085"
+    },
+    {
+      "name": "Эндрю Харпер",
+      "latin": "Andrew Harper",
+      "entity_type": "person",
+      "period": "XIX–XX (work date per record)",
+      "tradition": "Christian; exact affiliation to verify",
+      "works": [
+        {
+          "series_id": "EXP",
+          "episode": "M",
+          "book": "Deuteronomy",
+          "locator": "3:23–29; 31:2; 34:5–7",
+          "edition": "1895–96 series",
+          "status": "volume authorship verified; target passage not yet checked"
+        }
+      ],
+      "notes": "",
+      "profile_status": "pending",
+      "screen_status": "candidate; relevance screen pending",
+      "id": "C086"
+    },
+    {
+      "name": "Уильям Гарден Блейки",
+      "latin": "William Garden Blaikie",
+      "entity_type": "person",
+      "period": "XIX–XX (work date per record)",
+      "tradition": "Christian; exact affiliation to verify",
+      "works": [
+        {
+          "series_id": "EXP",
+          "episode": "B",
+          "book": "2 Samuel",
+          "locator": "19:31–39",
+          "edition": "1887–88 series",
+          "status": "volume authorship verified; target passage not yet checked"
+        }
+      ],
+      "notes": "",
+      "profile_status": "pending",
+      "screen_status": "candidate; relevance screen pending",
+      "id": "C087"
+    },
+    {
+      "name": "Генри Бёртон",
+      "latin": "Henry Burton",
+      "entity_type": "person",
+      "period": "XIX–XX (work date per record)",
+      "tradition": "Christian; exact affiliation to verify",
+      "works": [
+        {
+          "series_id": "EXP",
+          "episode": "S",
+          "book": "Luke",
+          "locator": "2:25–35",
+          "edition": "1889–90 series",
+          "status": "chapter text located; passage relevance not screened",
+          "text_url": "https://biblehub.com/commentaries/expositors/luke/2.htm"
+        },
+        {
+          "series_id": "EXP",
+          "episode": "A",
+          "book": "Luke",
+          "locator": "2:36–38",
+          "edition": "1889–90 series",
+          "status": "chapter text located; passage relevance not screened",
+          "text_url": "https://biblehub.com/commentaries/expositors/luke/2.htm"
+        }
+      ],
+      "notes": "Verse mapping in digitized Expositor's Bible is retrospective and sometimes subjective.",
+      "profile_status": "pending",
+      "screen_status": "candidate; relevance screen pending",
+      "id": "C088"
+    },
+    {
+      "name": "Роберт Рейни",
+      "latin": "Robert Rainy",
+      "entity_type": "person",
+      "period": "XIX–XX (work date per record)",
+      "tradition": "Christian; exact affiliation to verify",
+      "works": [
+        {
+          "series_id": "EXP",
+          "episode": "P",
+          "book": "Philippians",
+          "locator": "1:21–26",
+          "edition": "1892–93 series",
+          "status": "relevant substantive passage located; detailed interpretation deferred",
+          "text_url": "https://biblehub.com/commentaries/expositors/philippians/1.htm"
+        }
+      ],
+      "notes": "",
+      "profile_status": "pending",
+      "screen_status": "relevant passage located",
+      "id": "C089"
+    },
+    {
+      "name": "Александр Балмейн Брюс",
+      "latin": "Alexander Balmain Bruce",
+      "entity_type": "person",
+      "period": "XIX–XX (work date per record)",
+      "tradition": "Christian; exact affiliation to verify",
+      "works": [
+        {
+          "series_id": "EGT",
+          "episode": "S",
+          "book": "Luke",
+          "locator": "2:25–35",
+          "edition": "series from 1897; volume date pending",
+          "status": "relevant substantive passage located; detailed interpretation deferred",
+          "text_url": "https://www.biblehub.com/commentaries/egt/luke/2.htm"
+        },
+        {
+          "series_id": "EGT",
+          "episode": "A",
+          "book": "Luke",
+          "locator": "2:36–38",
+          "edition": "series from 1897; volume date pending",
+          "status": "chapter text located; passage relevance not screened",
+          "text_url": "https://www.biblehub.com/commentaries/egt/luke/2.htm"
+        }
+      ],
+      "notes": "",
+      "profile_status": "pending",
+      "screen_status": "relevant passage located",
+      "id": "C090"
+    },
+    {
+      "name": "Гарри Ангус Александер Кеннеди",
+      "latin": "H. A. A. Kennedy",
+      "entity_type": "person",
+      "period": "XIX–XX (work date per record)",
+      "tradition": "Christian; exact affiliation to verify",
+      "works": [
+        {
+          "series_id": "EGT",
+          "episode": "P",
+          "book": "Philippians",
+          "locator": "1:21–26",
+          "edition": "series from 1897; volume date pending",
+          "status": "chapter text located; passage relevance not screened",
+          "text_url": "https://biblehub.com/commentaries/egt/philippians/1.htm"
+        }
+      ],
+      "notes": "",
+      "profile_status": "pending",
+      "screen_status": "candidate; relevance screen pending",
+      "id": "C091"
+    }
+  ],
+  "existing_addenda": [
+    {
+      "author_id": "C064",
+      "name": "Джон Скиннер",
+      "works": [
+        {
+          "series_id": "ICC",
+          "episode": "J",
+          "book": "Genesis",
+          "locator": "46:30; 47:28; 48–49",
+          "edition": "1910",
+          "status": "volume authorship verified; target passage not yet checked",
+          "catalog_url": "https://onlinebooks.library.upenn.edu/webbin/serial?id=intcritcomm"
+        }
+      ]
+    },
+    {
+      "author_id": "C039",
+      "name": "Марвин Винсент",
+      "works": [
+        {
+          "series_id": "ICC",
+          "episode": "P",
+          "book": "Philippians",
+          "locator": "1:21–26",
+          "edition": "1897",
+          "status": "volume authorship verified; target passage not yet checked",
+          "catalog_url": "https://onlinebooks.library.upenn.edu/webbin/serial?id=intcritcomm"
+        }
+      ]
+    },
+    {
+      "author_id": "C059",
+      "name": "Фредерик Уильям Фаррар",
+      "works": [
+        {
+          "series_id": "EXP",
+          "episode": "H",
+          "book": "2 Kings",
+          "locator": "20:1–6",
+          "edition": "1893–94 series",
+          "status": "volume authorship verified; target passage not yet checked"
+        }
+      ]
+    },
+    {
+      "author_id": "C061",
+      "name": "Джордж Адам Смит",
+      "works": [
+        {
+          "series_id": "EXP",
+          "episode": "H",
+          "book": "Isaiah",
+          "locator": "38",
+          "edition": "1888–89 series",
+          "status": "volume authorship verified; target passage not yet checked"
+        }
+      ]
+    }
+  ],
+  "negative_results": [
+    {
+      "name": "George Buchanan Gray",
+      "work": "ICC Isaiah 1–27 (1912)",
+      "reason": "Does not cover Isaiah 38; Isaiah 28–66 continuation not published. Exclusion for this volume only; not a claim about all works.",
+      "source": "https://libguides.twu.ca/religiousstudies/ecommentariesOT"
+    },
+    {
+      "name": "Henry Snyder Gehman",
+      "work": "ICC Kings",
+      "reason": "Editor of Montgomery's work; independent passage authorship unresolved. Do not count automatically.",
+      "source": "https://onlinebooks.library.upenn.edu/webbin/serial?id=intcritcomm"
+    }
+  ],
+  "scope": "Book-level verification across five series. Explicit per-work status distinguishes checked substantive text, chapter located, catalog-only, and defective digital copy. Not exhaustive. No new author profiles or doctrinal color classifications."
+}

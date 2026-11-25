@@ -190,6 +190,33 @@
       "scope": "Сретение, пастырское применение",
       "evidence": "Проповедь 15.02.1982 прямо применяет слова Павла о необходимости остаться ради других.",
       "url": "https://azbyka.ru/otechnik/Antonij_Surozhskij/propovedi-2/"
+    },
+    {
+      "id": "E21",
+      "from": "Амвросий",
+      "to": "Альфонс Мария де Лигуори",
+      "type": "citation",
+      "scope": "Лк 2:29; Apparecchio alla morte VIII.III (1758)",
+      "evidence": "Автор цитирует «Quasi necessitate teneretur, dimitti petit» непосредственно после объяснения смерти Симеона как освобождения. Источник Амвросия — De bono mortis, точный локатор сверить.",
+      "url": "https://www.intratext.com/ixt/ITASA0000/_P2H.HTM"
+    },
+    {
+      "id": "E22",
+      "from": "Флп 1:21–26",
+      "to": "Альфонс Мария де Лигуори",
+      "type": "citation",
+      "scope": "Флп 1:23; Лк 2:29",
+      "evidence": "Цитирует Cupio dissolvi et esse cum Christo; в отличие от Антония выделяет желание уйти, а не обязанность остаться.",
+      "url": "https://www.intratext.com/ixt/ITASA0000/_P2H.HTM"
+    },
+    {
+      "id": "E23",
+      "from": "Корнелий а Лапиде",
+      "to": "Дюжарден (переводчик)",
+      "type": "citation",
+      "scope": "Литургическое применение Nunc dimittis",
+      "evidence": "The Divine Office, pp.516–517, footnote 2; Notice p.12 сообщает, что все примечания добавлены французским переводчиком. Не приписывать ссылку Альфонсу 1774.",
+      "url": "https://archive.org/stream/alphonsusworks14liguuoft/alphonsusworks14liguuoft_djvu.txt"
     }
   ]
 }

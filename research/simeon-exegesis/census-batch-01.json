@@ -1,0 +1,486 @@
+{
+  "version": "2026-11-25",
+  "stage": "census",
+  "source_index_urls": [
+    "https://biblehub.com/commentaries/luke/2-29.htm",
+    "https://biblehub.com/commentaries/genesis/46-30.htm",
+    "https://biblehub.com/commentaries/deuteronomy/3-25.htm",
+    "https://biblehub.com/commentaries/luke/2-38.htm",
+    "https://biblehub.com/commentaries/philippians/1-23.htm",
+    "https://biblehub.com/commentaries/2_kings/20-3.htm",
+    "https://biblehub.com/commentaries/2_samuel/19-35.htm"
+  ],
+  "series": {
+    "E": {
+      "title": "A Bible Commentary for English Readers",
+      "edition": "1905 collected edition (not date of original composition)",
+      "authority": "https://biblehub.com/commentaries/ellicott/index.html",
+      "slug": "ellicott"
+    },
+    "C": {
+      "title": "Cambridge Bible for Schools and Colleges",
+      "authority": "https://biblehub.com/commentaries/cambridge/",
+      "slug": "cambridge"
+    },
+    "K": {
+      "title": "Biblical Commentary on the Old Testament",
+      "edition": "German series 1857–78; online English translation",
+      "authority": "https://catalog.otsnagaland.edu.in/bib/10323",
+      "slug": "kad"
+    }
+  },
+  "candidates": [
+    {
+      "name": "Эдвард Хейс Пламптр",
+      "latin": "Edward Hayes Plumptre",
+      "period": "XIX",
+      "tradition": "Christian; precise affiliation to verify",
+      "entity_type": "person",
+      "series": "E",
+      "works": [
+        {
+          "episode": "S",
+          "book": "luke",
+          "locator": "2:29",
+          "edition": "1905 collected edition (not date of original composition)",
+          "url": "https://biblehub.com/commentaries/ellicott/luke/2.htm",
+          "status": "substantive relevant passage located; interpretation deferred"
+        },
+        {
+          "episode": "A",
+          "book": "luke",
+          "locator": "2:38",
+          "edition": "1905 collected edition (not date of original composition)",
+          "url": "https://biblehub.com/commentaries/ellicott/luke/2.htm",
+          "status": "substantive relevant passage located; interpretation deferred"
+        },
+        {
+          "episode": "H",
+          "book": "isaiah",
+          "locator": "38:1–22",
+          "edition": "1905 collected edition (not date of original composition)",
+          "url": "https://biblehub.com/commentaries/ellicott/isaiah/38.htm",
+          "status": "substantive relevant passage located; interpretation deferred"
+        }
+      ],
+      "notes": "Author of Luke and Isaiah in series, not Ellicott.",
+      "id": "C053",
+      "profile_status": "pending",
+      "screen_status": "relevant passage located; full dossier pending"
+    },
+    {
+      "name": "Роберт Пейн Смит",
+      "latin": "Robert Payne Smith",
+      "period": "XIX",
+      "tradition": "Christian; precise affiliation to verify",
+      "entity_type": "person",
+      "series": "E",
+      "works": [
+        {
+          "episode": "J",
+          "book": "genesis",
+          "locator": "46:30",
+          "edition": "1905 collected edition (not date of original composition)",
+          "url": "https://biblehub.com/commentaries/ellicott/genesis/46.htm",
+          "status": "substantive relevant passage located; interpretation deferred"
+        }
+      ],
+      "notes": "Author of Genesis.",
+      "id": "C054",
+      "profile_status": "pending",
+      "screen_status": "relevant passage located; full dossier pending"
+    },
+    {
+      "name": "Чарльз Генри Уоллер",
+      "latin": "Charles Henry Waller",
+      "period": "XIX",
+      "tradition": "Christian; precise affiliation to verify",
+      "entity_type": "person",
+      "series": "E",
+      "works": [
+        {
+          "episode": "M",
+          "book": "deuteronomy",
+          "locator": "3:23–28",
+          "edition": "1905 collected edition (not date of original composition)",
+          "url": "https://biblehub.com/commentaries/ellicott/deuteronomy/3.htm",
+          "status": "passage commentary located; relevance screening pending"
+        }
+      ],
+      "notes": "Author of Deuteronomy.",
+      "id": "C055",
+      "profile_status": "pending",
+      "screen_status": "candidate; relevance screening pending"
+    },
+    {
+      "name": "Альфред Барри",
+      "latin": "Alfred Barry",
+      "period": "XIX",
+      "tradition": "Christian; precise affiliation to verify",
+      "entity_type": "person",
+      "series": "E",
+      "works": [
+        {
+          "episode": "P",
+          "book": "philippians",
+          "locator": "1:23",
+          "edition": "1905 collected edition (not date of original composition)",
+          "url": "https://biblehub.com/commentaries/ellicott/philippians/1.htm",
+          "status": "substantive relevant passage located; interpretation deferred"
+        }
+      ],
+      "notes": "Author of Philippians.",
+      "id": "C056",
+      "profile_status": "pending",
+      "screen_status": "relevant passage located; full dossier pending"
+    },
+    {
+      "name": "Чарльз Джеймс Болл",
+      "latin": "Charles James Ball",
+      "period": "XIX–XX",
+      "tradition": "Christian; precise affiliation to verify",
+      "entity_type": "person",
+      "series": "E",
+      "works": [
+        {
+          "episode": "H",
+          "book": "2_kings",
+          "locator": "20:3",
+          "edition": "1905 collected edition (not date of original composition)",
+          "url": "https://biblehub.com/commentaries/ellicott/2_kings/20.htm",
+          "status": "substantive relevant passage located; interpretation deferred"
+        }
+      ],
+      "notes": "Author of 2 Kings.",
+      "id": "C057",
+      "profile_status": "pending",
+      "screen_status": "relevant passage located; full dossier pending"
+    },
+    {
+      "name": "Фредерик Гардинер",
+      "latin": "Frederic Gardiner",
+      "period": "XIX",
+      "tradition": "Christian; precise affiliation to verify",
+      "entity_type": "person",
+      "series": "E",
+      "works": [
+        {
+          "episode": "B",
+          "book": "2_samuel",
+          "locator": "19:32,37",
+          "edition": "1905 collected edition (not date of original composition)",
+          "url": "https://biblehub.com/commentaries/ellicott/2_samuel/19.htm",
+          "status": "passage commentary located; relevance screening pending"
+        }
+      ],
+      "notes": "Notes on sustenance and Chimham; whether substantive aging treatment not established.",
+      "id": "C058",
+      "profile_status": "pending",
+      "screen_status": "candidate; relevance screening pending"
+    },
+    {
+      "name": "Фредерик Уильям Фаррар",
+      "latin": "Frederic William Farrar",
+      "period": "XIX",
+      "tradition": "Christian; precise affiliation to verify",
+      "entity_type": "person",
+      "series": "C",
+      "works": [
+        {
+          "episode": "S",
+          "book": "luke",
+          "locator": "2:29",
+          "edition": "1891 edition",
+          "url": "https://biblehub.com/commentaries/cambridge/luke/2.htm",
+          "status": "substantive relevant passage located; interpretation deferred"
+        },
+        {
+          "episode": "A",
+          "book": "luke",
+          "locator": "2:36–38",
+          "edition": "1891 edition",
+          "url": "https://biblehub.com/commentaries/cambridge/luke/2.htm",
+          "status": "passage commentary located; relevance screening pending"
+        }
+      ],
+      "notes": "Luke volume.",
+      "id": "C059",
+      "profile_status": "pending",
+      "screen_status": "relevant passage located; full dossier pending"
+    },
+    {
+      "name": "Герберт Эдвард Райл",
+      "latin": "Herbert Edward Ryle",
+      "period": "XIX–XX",
+      "tradition": "Christian; precise affiliation to verify",
+      "entity_type": "person",
+      "series": "C",
+      "works": [
+        {
+          "episode": "J",
+          "book": "genesis",
+          "locator": "46:29–31",
+          "edition": "1921 edition",
+          "url": "https://biblehub.com/commentaries/cambridge/genesis/46.htm",
+          "status": "verse present but no discrete note on verse; check wider episode"
+        }
+      ],
+      "notes": "No discrete annotation at 46:30 on this page; check 47–49 before exclusion.",
+      "id": "C060",
+      "profile_status": "pending",
+      "screen_status": "candidate; relevance screening pending"
+    },
+    {
+      "name": "Джордж Адам Смит",
+      "latin": "George Adam Smith",
+      "period": "XIX–XX",
+      "tradition": "Christian; precise affiliation to verify",
+      "entity_type": "person",
+      "series": "C",
+      "works": [
+        {
+          "episode": "M",
+          "book": "deuteronomy",
+          "locator": "3:23–29",
+          "edition": "1928 edition",
+          "url": "https://biblehub.com/commentaries/cambridge/deuteronomy/3.htm",
+          "status": "passage commentary located; relevance screening pending"
+        }
+      ],
+      "notes": "Deuteronomy volume.",
+      "id": "C061",
+      "profile_status": "pending",
+      "screen_status": "candidate; relevance screening pending"
+    },
+    {
+      "name": "Хэндли Карр Глин Моул",
+      "latin": "Handley Carr Glyn Moule",
+      "period": "XIX",
+      "tradition": "Christian; precise affiliation to verify",
+      "entity_type": "person",
+      "series": "C",
+      "works": [
+        {
+          "episode": "P",
+          "book": "philippians",
+          "locator": "1:21–26",
+          "edition": "1893 edition",
+          "url": "https://biblehub.com/commentaries/cambridge/philippians/1.htm",
+          "status": "substantive relevant passage located; interpretation deferred"
+        }
+      ],
+      "notes": "Philippians volume.",
+      "id": "C062",
+      "profile_status": "pending",
+      "screen_status": "relevant passage located; full dossier pending"
+    },
+    {
+      "name": "Джозеф Роусон Ламби",
+      "latin": "Joseph Rawson Lumby",
+      "period": "XIX",
+      "tradition": "Christian; precise affiliation to verify",
+      "entity_type": "person",
+      "series": "C",
+      "works": [
+        {
+          "episode": "H",
+          "book": "2_kings",
+          "locator": "20:1–11",
+          "edition": "1886 edition",
+          "url": "https://biblehub.com/commentaries/cambridge/2_kings/20.htm",
+          "status": "passage commentary located; relevance screening pending"
+        }
+      ],
+      "notes": "2 Kings volume.",
+      "id": "C063",
+      "profile_status": "pending",
+      "screen_status": "candidate; relevance screening pending"
+    },
+    {
+      "name": "Джон Скиннер",
+      "latin": "John Skinner",
+      "period": "XIX–XX",
+      "tradition": "Christian; precise affiliation to verify",
+      "entity_type": "person",
+      "series": "C",
+      "works": [
+        {
+          "episode": "H",
+          "book": "isaiah",
+          "locator": "38:3,11,18–19",
+          "edition": "1897–98 volumes",
+          "url": "https://biblehub.com/commentaries/cambridge/isaiah/38.htm",
+          "status": "substantive relevant passage located; interpretation deferred"
+        }
+      ],
+      "notes": "Isaiah volume.",
+      "id": "C064",
+      "profile_status": "pending",
+      "screen_status": "relevant passage located; full dossier pending"
+    },
+    {
+      "name": "Александр Фрэнсис Киркпатрик",
+      "latin": "Alexander Francis Kirkpatrick",
+      "period": "XIX",
+      "tradition": "Christian; precise affiliation to verify",
+      "entity_type": "person",
+      "series": "C",
+      "works": [
+        {
+          "episode": "B",
+          "book": "2_samuel",
+          "locator": "19:31–40",
+          "edition": "1890 edition",
+          "url": "https://biblehub.com/commentaries/cambridge/2_samuel/19.htm",
+          "status": "passage commentary located; relevance screening pending"
+        }
+      ],
+      "notes": "2 Samuel volume.",
+      "id": "C065",
+      "profile_status": "pending",
+      "screen_status": "candidate; relevance screening pending"
+    },
+    {
+      "name": "Карл Фридрих Кейль",
+      "latin": "Carl Friedrich Keil",
+      "period": "XIX",
+      "tradition": "Christian; precise affiliation to verify",
+      "entity_type": "person",
+      "series": "K",
+      "works": [
+        {
+          "episode": "J",
+          "book": "genesis",
+          "locator": "46:30",
+          "edition": "German series 1857–78; online English translation",
+          "url": "https://biblehub.com/commentaries/kad/genesis/46.htm",
+          "status": "passage commentary located; relevance screening pending"
+        },
+        {
+          "episode": "M",
+          "book": "deuteronomy",
+          "locator": "3:23–29",
+          "edition": "German series 1857–78; online English translation",
+          "url": "https://biblehub.com/commentaries/kad/deuteronomy/3.htm",
+          "status": "work identified; passage check pending"
+        },
+        {
+          "episode": "H",
+          "book": "2_kings",
+          "locator": "20:3",
+          "edition": "German series 1857–78; online English translation",
+          "url": "https://biblehub.com/commentaries/kad/2_kings/20.htm",
+          "status": "substantive relevant passage located; interpretation deferred"
+        },
+        {
+          "episode": "B",
+          "book": "2_samuel",
+          "locator": "19:34–37",
+          "edition": "German series 1857–78; online English translation",
+          "url": "https://biblehub.com/commentaries/kad/2_samuel/19.htm",
+          "status": "substantive relevant passage located; interpretation deferred"
+        }
+      ],
+      "notes": "Keil authored Pentateuch, Samuel and Kings; not Delitzsch.",
+      "id": "C066",
+      "profile_status": "pending",
+      "screen_status": "relevant passage located; full dossier pending"
+    },
+    {
+      "name": "Франц Делич",
+      "latin": "Franz Delitzsch",
+      "period": "XIX",
+      "tradition": "Christian; precise affiliation to verify",
+      "entity_type": "person",
+      "series": "K",
+      "works": [
+        {
+          "episode": "H",
+          "book": "isaiah",
+          "locator": "38:18–19",
+          "edition": "German series 1857–78; online English translation",
+          "url": "https://biblehub.com/commentaries/kad/isaiah/38.htm",
+          "status": "substantive relevant passage located; interpretation deferred"
+        }
+      ],
+      "notes": "Isaiah attributed separately; https://onlinebooks.library.upenn.edu/webbin/book/lookupid?key=olbp41301",
+      "id": "C067",
+      "profile_status": "pending",
+      "screen_status": "relevant passage located; full dossier pending"
+    },
+    {
+      "name": "Генри Алфорд",
+      "latin": "Henry Alford",
+      "period": "XIX",
+      "tradition": "Anglican",
+      "entity_type": "person",
+      "works": [
+        {
+          "episode": "S",
+          "title": "Greek Testament Critical Exegetical Commentary",
+          "locator": "Luke 2:29",
+          "url": "https://biblehub.com/commentaries/alford/luke/2.htm",
+          "status": "substantive relevant passage located; interpretation deferred"
+        },
+        {
+          "episode": "P",
+          "title": "Greek Testament Critical Exegetical Commentary",
+          "locator": "Phil 1:21–26",
+          "status": "index only; check text"
+        }
+      ],
+      "id": "C068",
+      "profile_status": "pending",
+      "screen_status": "relevant passage located; full dossier pending"
+    },
+    {
+      "name": "Генрих Август Вильгельм Мейер",
+      "latin": "Heinrich August Wilhelm Meyer",
+      "period": "XIX",
+      "tradition": "Lutheran",
+      "entity_type": "person",
+      "works": [
+        {
+          "episode": "S",
+          "title": "Critical and Exegetical Commentary on the New Testament",
+          "locator": "Luke 2:29–32",
+          "url": "https://biblehub.com/commentaries/luke/2-29.htm",
+          "status": "substantive relevant passage located; interpretation deferred"
+        }
+      ],
+      "notes": "Check authorship by volume for Philippians, do not attribute later revisions to Meyer automatically.",
+      "id": "C069",
+      "profile_status": "pending",
+      "screen_status": "relevant passage located; full dossier pending"
+    },
+    {
+      "name": "Иоанн Златоуст",
+      "latin": "John Chrysostom",
+      "period": "IV–V",
+      "tradition": "Common patristic heritage",
+      "entity_type": "person",
+      "works": [
+        {
+          "episode": "P",
+          "title": "Homilies on Philippians",
+          "locator": "Homilies 3–4, Phil 1:21–26",
+          "edition": "NPNF English translation",
+          "url": "https://www.newadvent.org/fathers/230204.htm",
+          "url2": "https://www.newadvent.org/fathers/230203.htm",
+          "status": "substantive relevant passage located; interpretation deferred"
+        },
+        {
+          "episode": "J",
+          "title": "Homilies on Genesis",
+          "locator": "Homily 65 §2",
+          "url": "https://azbyka.ru/otechnik/Ioann_Zlatoust/besedy-na-knigu-bytija/65",
+          "status": "prior comparison record; reverify"
+        }
+      ],
+      "id": "C070",
+      "profile_status": "pending",
+      "screen_status": "relevant passage located; full dossier pending"
+    }
+  ],
+  "note": "13 distinct contributors across Ellicott (6) and Cambridge (7), not 12. Chapter URLs constructed from verified series navigation; some exact passage checks remain as explicitly flagged. Not full census."
+}

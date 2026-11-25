@@ -1,6 +1,6 @@
 {
   "version": "2026-11-25",
-  "status": "seed census, not exhaustive; no new primary texts verified in this operation",
+  "status": "census in progress; source batch files extend seed register; no frozen roster; no new dossier interpretations",
   "episodes": [
     {
       "id": "S",
@@ -1130,7 +1130,10 @@
           "A",
           "P"
         ],
-        "status": "resolve work and actual author; check relevant text"
+        "status": "identified, relevant Luke text located",
+        "author_ids": [
+          "C068"
+        ]
       },
       {
         "label": "BI",
@@ -1208,7 +1211,17 @@
           "H",
           "B"
         ],
-        "status": "resolve work and actual author; check relevant text"
+        "status": "series authors resolved for target books",
+        "batch": "census-batch-01.json",
+        "author_ids": [
+          "C059",
+          "C060",
+          "C061",
+          "C062",
+          "C063",
+          "C064",
+          "C065"
+        ]
       },
       {
         "label": "Chrysostom",
@@ -1216,7 +1229,10 @@
         "listed_on": [
           "P"
         ],
-        "status": "resolve work and actual author; check relevant text"
+        "status": "identified, relevant Philippians homilies located",
+        "author_ids": [
+          "C070"
+        ]
       },
       {
         "label": "Clarke",
@@ -1258,7 +1274,16 @@
           "H",
           "B"
         ],
-        "status": "resolve work and actual author; check relevant text"
+        "status": "series authors resolved for target books",
+        "batch": "census-batch-01.json",
+        "author_ids": [
+          "C053",
+          "C054",
+          "C055",
+          "C056",
+          "C057",
+          "C058"
+        ]
       },
       {
         "label": "Exp_Dct",
@@ -1443,7 +1468,11 @@
           "H",
           "B"
         ],
-        "status": "resolve work and actual author; check relevant text"
+        "status": "Keil / Delitzsch split by book",
+        "author_ids": [
+          "C066",
+          "C067"
+        ]
       },
       {
         "label": "Kelly",
@@ -1533,7 +1562,10 @@
           "A",
           "P"
         ],
-        "status": "resolve work and actual author; check relevant text"
+        "status": "identified for Luke; other volumes need attribution",
+        "author_ids": [
+          "C069"
+        ]
       },
       {
         "label": "PNT",
@@ -1668,5 +1700,23 @@
         "status": "resolve work and actual author; check relevant text"
       }
     ]
+  },
+  "census_batches": [
+    {
+      "path": "census-batch-01.json",
+      "ids": "C053–C070",
+      "persons": 18,
+      "relevant_passage_located": 12,
+      "screening_pending": 6,
+      "commit": "f8391befe6849acfe0e53862b364df2dce720b8f"
+    }
+  ],
+  "totals": {
+    "named_seed_persons": 50,
+    "unresolved_collective_seed_labels": 2,
+    "new_candidate_persons": 18,
+    "all_named_candidates": 68,
+    "all_entries_including_collective": 70,
+    "author_episode_slots_for_named_candidates": 476
   }
 }

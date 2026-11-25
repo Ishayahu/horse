@@ -410,6 +410,33 @@
       "scope": "Быт 46:30 → Лк 2:29",
       "evidence": "Explicitly suggests that Simeon may have had Jacob's wording in mind, not proof of authorial allusion in Luke.",
       "url": "https://truthaccordingtoscripture.com/commentaries/acc/genesis-46.php"
+    },
+    {
+      "id": "E45",
+      "from": "Быт 15:15 (Авраам)",
+      "to": "Ориген",
+      "type": "citation",
+      "scope": "Hom. Luc. XV, Лк 2:29",
+      "evidence": "Прямая цитата обещания мирной кончины Аврааму; не параллель с Яаковом.",
+      "url": "https://ancientlibrary.net/origen-homiliae-in-lucam/16/"
+    },
+    {
+      "id": "E46",
+      "from": "Флп 1:21–26",
+      "to": "Ориген",
+      "type": "citation",
+      "scope": "Hom. Luc. XV, Лк 2:29",
+      "evidence": "Привлекает Флп 1:23, разрешиться и быть со Христом.",
+      "url": "https://ancientlibrary.net/origen-homiliae-in-lucam/16/"
+    },
+    {
+      "id": "E47",
+      "from": "Амвросий",
+      "to": "Беда",
+      "type": "citation",
+      "scope": "Лк 2:38, Анна",
+      "evidence": "Беда близко воспроизводит Expositio Lucam II.62, подтверждено примечанием 397 английского издания; не зависимость по 2:29.",
+      "url": "https://www.uecf.net/books/bede-on-luke/chapter5.html"
     }
   ]
 }

@@ -363,6 +363,53 @@
       "evidence": "Gill interprets Jacob's statement as readiness with positive value of remaining life; Simeon actually desires death. No cross-reference between these passages in checked Gill paragraphs.",
       "url": "https://biblehub.com/commentaries/genesis/46-30.htm",
       "url2": "https://biblehub.com/commentaries/luke/2-29.htm"
+    },
+    {
+      "id": "E40",
+      "from": "Быт 46:30 (Яаков)",
+      "to": "Мэтью Генри",
+      "type": "citation",
+      "scope": "Лк 2:29–32",
+      "evidence": "Explicitly distinguishes Jacob's satisfaction from Simeon's additional hope of blessed existence after death.",
+      "url": "https://www.biblegateway.com/resources/matthew-henry/Luke.2.25-Luke.2.40",
+      "url2": "https://search.biblegateway.com/resources/matthew-henry/Gen.46.28-Gen.46.34"
+    },
+    {
+      "id": "E41",
+      "from": "Флп 1:21–26",
+      "to": "Мэтью Генри",
+      "type": "citation",
+      "scope": "Лк 2:29–32",
+      "evidence": "Explicit Phil 1:21, death as gain through Christ.",
+      "url": "https://www.biblegateway.com/resources/matthew-henry/Luke.2.25-Luke.2.40"
+    },
+    {
+      "id": "E42",
+      "from": "Втор 3:24–25",
+      "to": "Мэтью Генри",
+      "type": "citation",
+      "scope": "Лк 2:29",
+      "evidence": "Contrasts Moses asking to live to enter Canaan with Simeon construing the promise as permission to die.",
+      "url": "https://www.biblegateway.com/resources/matthew-henry/Luke.2.25-Luke.2.40"
+    },
+    {
+      "id": "E43",
+      "from": "Мэтью Генри",
+      "to": "Джозеф Бенсон",
+      "type": "hypothesis",
+      "scope": "Быт 46:30",
+      "evidence": "Near-verbatim wording about desirability of living with Joseph, his honor and usefulness; earlier Henry, later Benson; direct dependence versus common intermediary not yet proven.",
+      "url": "https://search.biblegateway.com/resources/matthew-henry/Gen.46.28-Gen.46.34",
+      "url2": "https://truthaccordingtoscripture.com/commentaries/rbc/genesis-46.php"
+    },
+    {
+      "id": "E44",
+      "from": "Быт 46:30 (Яаков)",
+      "to": "Адам Кларк",
+      "type": "citation",
+      "scope": "Быт 46:30 → Лк 2:29",
+      "evidence": "Explicitly suggests that Simeon may have had Jacob's wording in mind, not proof of authorial allusion in Luke.",
+      "url": "https://truthaccordingtoscripture.com/commentaries/acc/genesis-46.php"
     }
   ]
 }

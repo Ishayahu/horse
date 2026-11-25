@@ -217,6 +217,87 @@
       "scope": "Литургическое применение Nunc dimittis",
       "evidence": "The Divine Office, pp.516–517, footnote 2; Notice p.12 сообщает, что все примечания добавлены французским переводчиком. Не приписывать ссылку Альфонсу 1774.",
       "url": "https://archive.org/stream/alphonsusworks14liguuoft/alphonsusworks14liguuoft_djvu.txt"
+    },
+    {
+      "id": "E24",
+      "from": "Ориген",
+      "to": "Джон Макэвилли",
+      "type": "citation",
+      "scope": "Лк 2:28",
+      "evidence": "Прямо называет Hom. 15 о благодати, полученной Симеоном; не толкование смерти.",
+      "url": "https://www.ecatholic2000.com/macevilly2/untitled-62.shtml"
+    },
+    {
+      "id": "E25",
+      "from": "Быт 46:30 (Яаков)",
+      "to": "Джон Макэвилли",
+      "type": "citation",
+      "scope": "Лк 2:29",
+      "evidence": "Прямо сопоставляет слова Яакова при встрече с Йосефом.",
+      "url": "https://www.ecatholic2000.com/macevilly2/untitled-62.shtml"
+    },
+    {
+      "id": "E26",
+      "from": "Киприан",
+      "to": "Корнелий а Лапиде",
+      "type": "citation",
+      "scope": "Лк 2:29",
+      "evidence": "Избавление от опасностей мира и покой; прямо назван в английском переводе комментария.",
+      "url": "https://www.bibliaplus.org/en/commentaries/392/the-great-commentary-of-cornelius-a-lapide/luke/2/29"
+    },
+    {
+      "id": "E27",
+      "from": "Амвросий",
+      "to": "Корнелий а Лапиде",
+      "type": "citation",
+      "scope": "Лк 2:29",
+      "evidence": "Освобождение из телесной темницы; прямо назван в английском переводе комментария.",
+      "url": "https://www.bibliaplus.org/en/commentaries/392/the-great-commentary-of-cornelius-a-lapide/luke/2/29"
+    },
+    {
+      "id": "E28",
+      "from": "Феофилакт Охридский",
+      "to": "Корнелий а Лапиде",
+      "type": "citation",
+      "scope": "Лк 2:29",
+      "evidence": "Исполненное обещание и желание умереть; прямо назван в английском переводе комментария.",
+      "url": "https://www.bibliaplus.org/en/commentaries/392/the-great-commentary-of-cornelius-a-lapide/luke/2/29"
+    },
+    {
+      "id": "E29",
+      "from": "Евфимий Зигабен",
+      "to": "Корнелий а Лапиде",
+      "type": "citation",
+      "scope": "Лк 2:29",
+      "evidence": "Умиротворение, бесстрашие, радость; прямо назван в английском переводе комментария.",
+      "url": "https://www.bibliaplus.org/en/commentaries/392/the-great-commentary-of-cornelius-a-lapide/luke/2/29"
+    },
+    {
+      "id": "E30",
+      "from": "Флп 1:21–26",
+      "to": "Корнелий а Лапиде",
+      "type": "citation",
+      "scope": "Лк 2:29",
+      "evidence": "Флп 1:23 — пастырское применение, желание пребывать со Христом; прямо назван в английском переводе комментария.",
+      "url": "https://www.bibliaplus.org/en/commentaries/392/the-great-commentary-of-cornelius-a-lapide/luke/2/29"
+    },
+    {
+      "id": "E31",
+      "from": "Альберт Великий",
+      "to": "Иоганн Альбрехт Бенгель",
+      "type": "parallel",
+      "scope": "Посмертная миссия",
+      "evidence": "Бенгель удивляется, если отцы не предполагали подобной миссии Симеона; Альберт явно утверждает её. Зависимость не доказана.",
+      "url": "https://biblehub.com/commentaries/luke/2-29.htm"
+    },
+    {
+      "id": "E32",
+      "from": "Пельбарт Темешварский",
+      "to": "Иоганн Альбрехт Бенгель",
+      "type": "parallel",
+      "scope": "Посмертная миссия",
+      "evidence": "Аналогичная параллель; Бенгель не называет Пельбарта.",
+      "url": "https://biblehub.com/commentaries/luke/2-29.htm"
     }
   ]
 }

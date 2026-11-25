@@ -1,0 +1,1672 @@
+{
+  "version": "2026-11-25",
+  "status": "seed census, not exhaustive; no new primary texts verified in this operation",
+  "episodes": [
+    {
+      "id": "S",
+      "name": "Симеон",
+      "passage": "Luke 2:25–35",
+      "url": "https://biblehub.com/commentaries/luke/2-29.htm"
+    },
+    {
+      "id": "J",
+      "name": "Яаков",
+      "passage": "Genesis 46:30; 47:28; 48–49",
+      "url": "https://biblehub.com/commentaries/genesis/46-30.htm"
+    },
+    {
+      "id": "M",
+      "name": "Моше",
+      "passage": "Deuteronomy 3:23–29; 31:2; 34:5–7",
+      "url": "https://biblehub.com/commentaries/deuteronomy/3-25.htm"
+    },
+    {
+      "id": "A",
+      "name": "Анна",
+      "passage": "Luke 2:36–38",
+      "url": "https://biblehub.com/commentaries/luke/2-38.htm"
+    },
+    {
+      "id": "P",
+      "name": "Павел",
+      "passage": "Philippians 1:21–26",
+      "url": "https://biblehub.com/commentaries/philippians/1-23.htm"
+    },
+    {
+      "id": "H",
+      "name": "Хизкия",
+      "passage": "2 Kings 20:1–6; Isaiah 38",
+      "url": "https://biblehub.com/commentaries/2_kings/20-3.htm"
+    },
+    {
+      "id": "B",
+      "name": "Барзилай",
+      "passage": "2 Samuel 19:31–39",
+      "url": "https://biblehub.com/commentaries/2_samuel/19-35.htm"
+    }
+  ],
+  "authors": [
+    {
+      "id": "C001",
+      "name": "Ориген",
+      "period": "III",
+      "tradition": "общая",
+      "entity_type": "person",
+      "source_note": "A-text: Hom. Luc. XV, латинский перевод Иеронима; телесные узы, но подчёркивает мирный уход, цитирует Быт 15:15 и Флп 1:23. https://ancientlibrary.net/origen-homiliae-in-lucam/16/",
+      "source_urls": [
+        "https://ancientlibrary.net/origen-homiliae-in-lucam/16/"
+      ],
+      "episodes": {
+        "S": "existing corpus entry; verify status and primary text",
+        "J": "not audited in this registry; consult existing comparison notes",
+        "M": "not audited in this registry; consult existing comparison notes",
+        "A": "not audited in this registry; consult existing comparison notes",
+        "P": "not audited in this registry; consult existing comparison notes",
+        "H": "not audited in this registry; consult existing comparison notes",
+        "B": "not audited in this registry; consult existing comparison notes"
+      },
+      "profile_status": "pending"
+    },
+    {
+      "id": "C002",
+      "name": "Киприан",
+      "period": "III",
+      "tradition": "общая",
+      "entity_type": "person",
+      "source_note": "A-text: De mortalitate III, латинский оригинал: «scivit se cito esse moriturum», «Laetus itaque de morte jam proxima»; мир как избавление от бурь мира, радость близкой смерти. Пастырское утешение в эпидемию, не буквальный срок из Луки. https://la.wikisource.org/wiki/De_mortalitate_(Cyprianus_Carthaginensis)",
+      "source_urls": [
+        "https://la.wikisource.org/wiki/De_mortalitate_(Cyprianus_Carthaginensis)"
+      ],
+      "episodes": {
+        "S": "existing corpus entry; verify status and primary text",
+        "J": "not audited in this registry; consult existing comparison notes",
+        "M": "not audited in this registry; consult existing comparison notes",
+        "A": "not audited in this registry; consult existing comparison notes",
+        "P": "not audited in this registry; consult existing comparison notes",
+        "H": "not audited in this registry; consult existing comparison notes",
+        "B": "not audited in this registry; consult existing comparison notes"
+      },
+      "profile_status": "pending"
+    },
+    {
+      "id": "C003",
+      "name": "Амвросий",
+      "period": "IV",
+      "tradition": "общая",
+      "entity_type": "person",
+      "source_note": "A-text: Expositio evangelii secundum Lucam II.59 «velut corporeae carcere molis inclusum velle dissolvi»; далее цитирует Флп 1:23. De bono mortis 5: «quasi necessitate quadam teneretur in hac vita, non voluntate»; просит освободить из уз, спешит к свободе. https://la.wikisource.org/wiki/Expositio_evangelii_secundum_Lucam/II ; https://la.wikisource.org/wiki/De_bono_mortis",
+      "source_urls": [
+        "https://la.wikisource.org/wiki/Expositio_evangelii_secundum_Lucam/II",
+        "https://la.wikisource.org/wiki/De_bono_mortis"
+      ],
+      "episodes": {
+        "S": "existing corpus entry; verify status and primary text",
+        "J": "not audited in this registry; consult existing comparison notes",
+        "M": "not audited in this registry; consult existing comparison notes",
+        "A": "not audited in this registry; consult existing comparison notes",
+        "P": "not audited in this registry; consult existing comparison notes",
+        "H": "not audited in this registry; consult existing comparison notes",
+        "B": "not audited in this registry; consult existing comparison notes"
+      },
+      "profile_status": "pending"
+    },
+    {
+      "id": "C004",
+      "name": "Григорий Нисский",
+      "period": "IV",
+      "tradition": "общая",
+      "entity_type": "person",
+      "source_note": "Мир после примирения, P",
+      "source_urls": [],
+      "episodes": {
+        "S": "existing corpus entry; verify status and primary text",
+        "J": "not audited in this registry; consult existing comparison notes",
+        "M": "not audited in this registry; consult existing comparison notes",
+        "A": "not audited in this registry; consult existing comparison notes",
+        "P": "not audited in this registry; consult existing comparison notes",
+        "H": "not audited in this registry; consult existing comparison notes",
+        "B": "not audited in this registry; consult existing comparison notes"
+      },
+      "profile_status": "pending"
+    },
+    {
+      "id": "C005",
+      "name": "Беда",
+      "period": "VIII",
+      "tradition": "общая",
+      "entity_type": "person",
+      "source_note": "B-text: In Lucae evangelium expositio I, 2:29, праведники обоих Заветов желали освобождения от тела; 2:36–38, возраст и благочестие Анны делают её достойной свидетельствовать; воспроизводит Амвросия II.62 (прим.397). https://www.uecf.net/books/bede-on-luke/chapter5.html",
+      "source_urls": [
+        "https://www.uecf.net/books/bede-on-luke/chapter5.html"
+      ],
+      "episodes": {
+        "S": "existing corpus entry; verify status and primary text",
+        "J": "not audited in this registry; consult existing comparison notes",
+        "M": "not audited in this registry; consult existing comparison notes",
+        "A": "not audited in this registry; consult existing comparison notes",
+        "P": "not audited in this registry; consult existing comparison notes",
+        "H": "not audited in this registry; consult existing comparison notes",
+        "B": "not audited in this registry; consult existing comparison notes"
+      },
+      "profile_status": "pending"
+    },
+    {
+      "id": "C006",
+      "name": "Феофилакт Охридский",
+      "period": "XI–XII",
+      "tradition": "православие",
+      "entity_type": "person",
+      "source_note": "C: тело — узы, смерть — мир, исполнение обещания; https://ekzeget.ru/bible/evangelie-ot-luki/glava-2/stih-29/",
+      "source_urls": [
+        "https://ekzeget.ru/bible/evangelie-ot-luki/glava-2/stih-29/"
+      ],
+      "episodes": {
+        "S": "existing corpus entry; verify status and primary text",
+        "J": "not audited in this registry; consult existing comparison notes",
+        "M": "not audited in this registry; consult existing comparison notes",
+        "A": "not audited in this registry; consult existing comparison notes",
+        "P": "not audited in this registry; consult existing comparison notes",
+        "H": "not audited in this registry; consult existing comparison notes",
+        "B": "not audited in this registry; consult existing comparison notes"
+      },
+      "profile_status": "pending"
+    },
+    {
+      "id": "C007",
+      "name": "Евфимий Зигабен",
+      "period": "XI–XII",
+      "tradition": "православие",
+      "entity_type": "person",
+      "source_note": "C, PG 129 col. 892: бесстрашие и радость об Освободителе Израиля; тот же URL",
+      "source_urls": [],
+      "episodes": {
+        "S": "existing corpus entry; verify status and primary text",
+        "J": "not audited in this registry; consult existing comparison notes",
+        "M": "not audited in this registry; consult existing comparison notes",
+        "A": "not audited in this registry; consult existing comparison notes",
+        "P": "not audited in this registry; consult existing comparison notes",
+        "H": "not audited in this registry; consult existing comparison notes",
+        "B": "not audited in this registry; consult existing comparison notes"
+      },
+      "profile_status": "pending"
+    },
+    {
+      "id": "C008",
+      "name": "Геррик из Иньи",
+      "period": "XII",
+      "tradition": "католицизм, цистерцианец",
+      "entity_type": "person",
+      "source_note": "Очищение, ожидание, вечный покой; P",
+      "source_urls": [],
+      "episodes": {
+        "S": "existing corpus entry; verify status and primary text",
+        "J": "not audited in this registry; consult existing comparison notes",
+        "M": "not audited in this registry; consult existing comparison notes",
+        "A": "not audited in this registry; consult existing comparison notes",
+        "P": "not audited in this registry; consult existing comparison notes",
+        "H": "not audited in this registry; consult existing comparison notes",
+        "B": "not audited in this registry; consult existing comparison notes"
+      },
+      "profile_status": "pending"
+    },
+    {
+      "id": "C009",
+      "name": "Юлиан Везлейский",
+      "period": "XII",
+      "tradition": "католицизм",
+      "entity_type": "person",
+      "source_note": "Мирная смерть праведника; P",
+      "source_urls": [],
+      "episodes": {
+        "S": "existing corpus entry; verify status and primary text",
+        "J": "not audited in this registry; consult existing comparison notes",
+        "M": "not audited in this registry; consult existing comparison notes",
+        "A": "not audited in this registry; consult existing comparison notes",
+        "P": "not audited in this registry; consult existing comparison notes",
+        "H": "not audited in this registry; consult existing comparison notes",
+        "B": "not audited in this registry; consult existing comparison notes"
+      },
+      "profile_status": "pending"
+    },
+    {
+      "id": "C010",
+      "name": "Гуго де Сен-Шер",
+      "period": "XIII",
+      "tradition": "католицизм, доминиканец",
+      "entity_type": "person",
+      "source_note": "P, postilla: «ut solvas de carcere carnis miserum spiritum diutius captivatum»; три прочтения: смерть, просьба, покой. https://gloss-e.irht.cnrs.fr/php/editions_chapitre.php?id=hug&numLivre=57&chapitre=57_2",
+      "source_urls": [
+        "https://gloss-e.irht.cnrs.fr/php/editions_chapitre.php?id=hug&numLivre=57&chapitre=57_2"
+      ],
+      "episodes": {
+        "S": "existing corpus entry; verify status and primary text",
+        "J": "not audited in this registry; consult existing comparison notes",
+        "M": "not audited in this registry; consult existing comparison notes",
+        "A": "not audited in this registry; consult existing comparison notes",
+        "P": "not audited in this registry; consult existing comparison notes",
+        "H": "not audited in this registry; consult existing comparison notes",
+        "B": "not audited in this registry; consult existing comparison notes"
+      },
+      "profile_status": "pending"
+    },
+    {
+      "id": "C011",
+      "name": "Альберт Великий",
+      "period": "XIII",
+      "tradition": "католицизм, доминиканец",
+      "entity_type": "person",
+      "source_note": "A-text 25.11: Enarrationes in Lucam II, 2:29: «Petit enim in pace dimitti» (просит отпустить с миром); обещание исполнено, тело уже начало распадаться; «In pace reconciliationis quam nuntiabo inferis» (возвещу примирение в преисподней); просьба о смерти, близкая кончина, посмертное служение; не утверждает, что тело — темница. https://summa.fwoar.co/albert/enarrationes-in-lucam/caput-02.html",
+      "source_urls": [
+        "https://summa.fwoar.co/albert/enarrationes-in-lucam/caput-02.html"
+      ],
+      "episodes": {
+        "S": "existing corpus entry; verify status and primary text",
+        "J": "not audited in this registry; consult existing comparison notes",
+        "M": "not audited in this registry; consult existing comparison notes",
+        "A": "not audited in this registry; consult existing comparison notes",
+        "P": "not audited in this registry; consult existing comparison notes",
+        "H": "not audited in this registry; consult existing comparison notes",
+        "B": "not audited in this registry; consult existing comparison notes"
+      },
+      "profile_status": "pending"
+    },
+    {
+      "id": "C012",
+      "name": "Бонавентура",
+      "period": "XIII",
+      "tradition": "католицизм, францисканец",
+      "entity_type": "person",
+      "source_note": "A-text: §68, «quia nihil aliud expectabat»; Быт 46:30 цитируется прямо, затем Товит 3:6; исполнение обещания и душевное спокойствие. Желание смерти не исключено, явная телесная темница отсутствует. Скан не получен, OCR прочитан pp.59–60. Opera omnia VII, 59–60: https://www.documentacatholicaomnia.eu/20vs/221_Bonaventura/1221-1274%2C_Bonaventura%2C_Doctoris_Seraphici_Opera_Omnia_%28Quaracchi%29_Vol_07%2C_LT.pdf",
+      "source_urls": [
+        "https://www.documentacatholicaomnia.eu/20vs/221_Bonaventura/1221-1274%2C_Bonaventura%2C_Doctoris_Seraphici_Opera_Omnia_%28Quaracchi%29_Vol_07%2C_LT.pdf"
+      ],
+      "episodes": {
+        "S": "existing corpus entry; verify status and primary text",
+        "J": "not audited in this registry; consult existing comparison notes",
+        "M": "not audited in this registry; consult existing comparison notes",
+        "A": "not audited in this registry; consult existing comparison notes",
+        "P": "not audited in this registry; consult existing comparison notes",
+        "H": "not audited in this registry; consult existing comparison notes",
+        "B": "not audited in this registry; consult existing comparison notes"
+      },
+      "profile_status": "pending"
+    },
+    {
+      "id": "C013",
+      "name": "Иаков Ворагинский",
+      "period": "XIII",
+      "tradition": "католицизм, доминиканец",
+      "entity_type": "person",
+      "source_note": "Освобождение от бедствий; P",
+      "source_urls": [],
+      "episodes": {
+        "S": "existing corpus entry; verify status and primary text",
+        "J": "not audited in this registry; consult existing comparison notes",
+        "M": "not audited in this registry; consult existing comparison notes",
+        "A": "not audited in this registry; consult existing comparison notes",
+        "P": "not audited in this registry; consult existing comparison notes",
+        "H": "not audited in this registry; consult existing comparison notes",
+        "B": "not audited in this registry; consult existing comparison notes"
+      },
+      "profile_status": "pending"
+    },
+    {
+      "id": "C014",
+      "name": "Григорий Палама",
+      "period": "XIV",
+      "tradition": "православие",
+      "entity_type": "person",
+      "source_note": "C, омилия 5: моление разрешиться от тела; https://ekzeget.ru/bible/evangelie-ot-luki/glava-2/stih-29/",
+      "source_urls": [
+        "https://ekzeget.ru/bible/evangelie-ot-luki/glava-2/stih-29/"
+      ],
+      "episodes": {
+        "S": "existing corpus entry; verify status and primary text",
+        "J": "not audited in this registry; consult existing comparison notes",
+        "M": "not audited in this registry; consult existing comparison notes",
+        "A": "not audited in this registry; consult existing comparison notes",
+        "P": "not audited in this registry; consult existing comparison notes",
+        "H": "not audited in this registry; consult existing comparison notes",
+        "B": "not audited in this registry; consult existing comparison notes"
+      },
+      "profile_status": "pending"
+    },
+    {
+      "id": "C015",
+      "name": "Николай де Лира",
+      "period": "XIV",
+      "tradition": "католицизм, францисканец",
+      "entity_type": "person",
+      "source_note": "P: «Id est de cetero dimittes me de hac vita transire in cordis quiete»; радостный переход к умершим праведникам; https://gloss-e.irht.cnrs.fr/php/editions_chapitre.php?chapitre=57_2&id=lyr&numLivre=57",
+      "source_urls": [
+        "https://gloss-e.irht.cnrs.fr/php/editions_chapitre.php?chapitre=57_2&id=lyr&numLivre=57"
+      ],
+      "episodes": {
+        "S": "existing corpus entry; verify status and primary text",
+        "J": "not audited in this registry; consult existing comparison notes",
+        "M": "not audited in this registry; consult existing comparison notes",
+        "A": "not audited in this registry; consult existing comparison notes",
+        "P": "not audited in this registry; consult existing comparison notes",
+        "H": "not audited in this registry; consult existing comparison notes",
+        "B": "not audited in this registry; consult existing comparison notes"
+      },
+      "profile_status": "pending"
+    },
+    {
+      "id": "C016",
+      "name": "Людольф Саксонский",
+      "period": "XIV",
+      "tradition": "католицизм, картезианец",
+      "entity_type": "person",
+      "source_note": "P: Vita Christi I XII §11 «Ecce Simeon perfectus fuit, habens vitam in patientia, et mortem in desiderio»; https://librinostri.catholica.cz/download/LudDeSaxVitChr1-text.pdf",
+      "source_urls": [
+        "https://librinostri.catholica.cz/download/LudDeSaxVitChr1-text.pdf"
+      ],
+      "episodes": {
+        "S": "existing corpus entry; verify status and primary text",
+        "J": "not audited in this registry; consult existing comparison notes",
+        "M": "not audited in this registry; consult existing comparison notes",
+        "A": "not audited in this registry; consult existing comparison notes",
+        "P": "not audited in this registry; consult existing comparison notes",
+        "H": "not audited in this registry; consult existing comparison notes",
+        "B": "not audited in this registry; consult existing comparison notes"
+      },
+      "profile_status": "pending"
+    },
+    {
+      "id": "C017",
+      "name": "Симеон Солунский",
+      "period": "XV",
+      "tradition": "православие",
+      "entity_type": "person",
+      "source_note": "C, литургический раздел 305: просьба отпущения от плоти, если Богу угодно; для молящихся освобождение от страстей; https://ekzeget.ru/bible/evangelie-ot-luki/glava-2/stih-29/",
+      "source_urls": [
+        "https://ekzeget.ru/bible/evangelie-ot-luki/glava-2/stih-29/"
+      ],
+      "episodes": {
+        "S": "existing corpus entry; verify status and primary text",
+        "J": "not audited in this registry; consult existing comparison notes",
+        "M": "not audited in this registry; consult existing comparison notes",
+        "A": "not audited in this registry; consult existing comparison notes",
+        "P": "not audited in this registry; consult existing comparison notes",
+        "H": "not audited in this registry; consult existing comparison notes",
+        "B": "not audited in this registry; consult existing comparison notes"
+      },
+      "profile_status": "pending"
+    },
+    {
+      "id": "C018",
+      "name": "Пельбарт Темешварский",
+      "period": "XV",
+      "tradition": "католицизм, францисканец",
+      "entity_type": "person",
+      "source_note": "A-text 25.11: Stellarium, ST 03 01 03, cap. I–II; «quatinus laetus moriar et patribus gaudium in lymbo adducam nunciando» — чтобы с радостью умереть и принести радостную весть отцам в лимбе. Просьба умереть, исполнение ожидания, посмертное служение. В том же артикуле прямо ссылается на Лиру по Лк 2:34–38; индексированный текст указывает также на Людольфа в смежном сюжете. Прямая ссылка на Альберта при повторном чтении не подтверждена; общность мотива посмертной миссии установлена, зависимость гипотетична. См. relations.json. Издание 1498: https://www.huntington.org/collections/lib-104129 ; текст https://sermones.elte.hu/pelbart/index.php?file=st/st030103",
+      "source_urls": [
+        "https://www.huntington.org/collections/lib-104129",
+        "https://sermones.elte.hu/pelbart/index.php?file=st/st030103"
+      ],
+      "episodes": {
+        "S": "existing corpus entry; verify status and primary text",
+        "J": "not audited in this registry; consult existing comparison notes",
+        "M": "not audited in this registry; consult existing comparison notes",
+        "A": "not audited in this registry; consult existing comparison notes",
+        "P": "not audited in this registry; consult existing comparison notes",
+        "H": "not audited in this registry; consult existing comparison notes",
+        "B": "not audited in this registry; consult existing comparison notes"
+      },
+      "profile_status": "pending"
+    },
+    {
+      "id": "C019",
+      "name": "Мартин Лютер",
+      "period": "XVI",
+      "tradition": "лютеранство",
+      "entity_type": "person",
+      "source_note": "P: постилла 1522 и другие проповеди; радость встречи, не обязательно просьба о смерти",
+      "source_urls": [],
+      "episodes": {
+        "S": "existing corpus entry; verify status and primary text",
+        "J": "not audited in this registry; consult existing comparison notes",
+        "M": "not audited in this registry; consult existing comparison notes",
+        "A": "not audited in this registry; consult existing comparison notes",
+        "P": "not audited in this registry; consult existing comparison notes",
+        "H": "not audited in this registry; consult existing comparison notes",
+        "B": "not audited in this registry; consult existing comparison notes"
+      },
+      "profile_status": "pending"
+    },
+    {
+      "id": "C020",
+      "name": "Жан Кальвин",
+      "period": "XVI",
+      "tradition": "реформаты",
+      "entity_type": "person",
+      "source_note": "B-text: Harmony, Лк 2:29, английский перевод: достигнув высшей цели, Симеон радостен и желает умереть; мир = спокойствие после исполнения обещания. Не оправдывает произвольное условное желание смерти у других; обетование — основание ожидания. https://ccel.org/ccel/calvin/calcom31.all.html",
+      "source_urls": [
+        "https://ccel.org/ccel/calvin/calcom31.all.html"
+      ],
+      "episodes": {
+        "S": "existing corpus entry; verify status and primary text",
+        "J": "not audited in this registry; consult existing comparison notes",
+        "M": "not audited in this registry; consult existing comparison notes",
+        "A": "not audited in this registry; consult existing comparison notes",
+        "P": "not audited in this registry; consult existing comparison notes",
+        "H": "not audited in this registry; consult existing comparison notes",
+        "B": "not audited in this registry; consult existing comparison notes"
+      },
+      "profile_status": "pending"
+    },
+    {
+      "id": "C021",
+      "name": "Корнелий а Лапиде",
+      "period": "XVII",
+      "tradition": "католицизм, иезуит",
+      "entity_type": "person",
+      "source_note": "B-text 25.11: английский перевод, Лк 2:29: освобождение от телесных цепей, желание смерти, близкая кончина; цитирует Киприана, Амвросия, Феофилакта, Зигабена, Флп 1:23, а также приписанные Августину и Епифанию тексты (атрибуции проверить). Восточная рецепция непосредственно по стиху; сместить влево. https://www.bibliaplus.org/en/commentaries/392/the-great-commentary-of-cornelius-a-lapide/luke/2/29",
+      "source_urls": [
+        "https://www.bibliaplus.org/en/commentaries/392/the-great-commentary-of-cornelius-a-lapide/luke/2/29"
+      ],
+      "episodes": {
+        "S": "existing corpus entry; verify status and primary text",
+        "J": "not audited in this registry; consult existing comparison notes",
+        "M": "not audited in this registry; consult existing comparison notes",
+        "A": "not audited in this registry; consult existing comparison notes",
+        "P": "not audited in this registry; consult existing comparison notes",
+        "H": "not audited in this registry; consult existing comparison notes",
+        "B": "not audited in this registry; consult existing comparison notes"
+      },
+      "profile_status": "pending"
+    },
+    {
+      "id": "C022",
+      "name": "Жак-Бенинь Боссюэ",
+      "period": "XVII",
+      "tradition": "католицизм",
+      "entity_type": "person",
+      "source_note": "A: «Il pouvait, ce semble, désirer de vivre, puisque Jésus-Christ était sur la terre» — рассматривает и отвергает возможность пожелать дальнейшей жизни; https://www.bibliotheque-monastique.ch/bibliotheque/bibliotheque/bossuet/volume011/017.htm (с.251)",
+      "source_urls": [
+        "https://www.bibliotheque-monastique.ch/bibliotheque/bibliotheque/bossuet/volume011/017.htm"
+      ],
+      "episodes": {
+        "S": "existing corpus entry; verify status and primary text",
+        "J": "not audited in this registry; consult existing comparison notes",
+        "M": "not audited in this registry; consult existing comparison notes",
+        "A": "not audited in this registry; consult existing comparison notes",
+        "P": "not audited in this registry; consult existing comparison notes",
+        "H": "not audited in this registry; consult existing comparison notes",
+        "B": "not audited in this registry; consult existing comparison notes"
+      },
+      "profile_status": "pending"
+    },
+    {
+      "id": "C023",
+      "name": "Джон Трапп",
+      "period": "XVII",
+      "tradition": "англиканин, пуританин",
+      "entity_type": "person",
+      "source_note": "A-text: Лк 2:29 — сирийский образ открытой двери темницы, нельзя уйти до отпущения Богом; поэтическое выражение заимствовано от неназванного автора. Быт 46:30 — прямо сравнивает Яакова с Симеоном; Лк 2:30 — Иов 42:5. https://www.truthaccordingtoscripture.com/commentaries/jtc/luke-2.php ; https://www.bibliaplus.org/en/commentaries/192/john-trapp-complete-commentary/genesis/46/30",
+      "source_urls": [
+        "https://www.truthaccordingtoscripture.com/commentaries/jtc/luke-2.php",
+        "https://www.bibliaplus.org/en/commentaries/192/john-trapp-complete-commentary/genesis/46/30"
+      ],
+      "episodes": {
+        "S": "existing corpus entry; verify status and primary text",
+        "J": "not audited in this registry; consult existing comparison notes",
+        "M": "not audited in this registry; consult existing comparison notes",
+        "A": "not audited in this registry; consult existing comparison notes",
+        "P": "not audited in this registry; consult existing comparison notes",
+        "H": "not audited in this registry; consult existing comparison notes",
+        "B": "not audited in this registry; consult existing comparison notes"
+      },
+      "profile_status": "pending"
+    },
+    {
+      "id": "C024",
+      "name": "Мэтью Пул",
+      "period": "XVII",
+      "tradition": "реформатская/пресвитерианская традиция",
+      "entity_type": "person",
+      "source_note": "A-text: Лк 2:29–32 прямо говорит «He desireth to die», просьба отпустить от тягот; Быт 46:30 — сравнение, но причина у Симеона весомее; на Быт 46:30 обратная ссылка и готовность умереть, не просьба ускорить смерть. В 2:25 ссылается на Кальвина и Бренция о личности Симеона. https://biblehub.com/commentaries/poole/luke/2.htm ; https://biblehub.com/commentaries/genesis/46-30.htm",
+      "source_urls": [
+        "https://biblehub.com/commentaries/poole/luke/2.htm",
+        "https://biblehub.com/commentaries/genesis/46-30.htm"
+      ],
+      "episodes": {
+        "S": "existing corpus entry; verify status and primary text",
+        "J": "not audited in this registry; consult existing comparison notes",
+        "M": "not audited in this registry; consult existing comparison notes",
+        "A": "not audited in this registry; consult existing comparison notes",
+        "P": "not audited in this registry; consult existing comparison notes",
+        "H": "not audited in this registry; consult existing comparison notes",
+        "B": "not audited in this registry; consult existing comparison notes"
+      },
+      "profile_status": "pending"
+    },
+    {
+      "id": "C025",
+      "name": "Димитрий Ростовский",
+      "period": "XVIII",
+      "tradition": "православие",
+      "entity_type": "person",
+      "source_note": "P: агиография, не прямая экзегеза",
+      "source_urls": [],
+      "episodes": {
+        "S": "existing corpus entry; verify status and primary text",
+        "J": "not audited in this registry; consult existing comparison notes",
+        "M": "not audited in this registry; consult existing comparison notes",
+        "A": "not audited in this registry; consult existing comparison notes",
+        "P": "not audited in this registry; consult existing comparison notes",
+        "H": "not audited in this registry; consult existing comparison notes",
+        "B": "not audited in this registry; consult existing comparison notes"
+      },
+      "profile_status": "pending"
+    },
+    {
+      "id": "C026",
+      "name": "Альфонс Мария де Лигуори",
+      "period": "XVIII",
+      "tradition": "католицизм, редемпторист",
+      "entity_type": "person",
+      "source_note": "A-text: Apparecchio alla morte (перв. изд. 1758), considerazione VIII, punto III, pp. 76–79: «non seppe altra grazia cercargli che la morte, per esser liberato dal carcere della presente vita»; прямо цитирует Амвросия, затем Флп 1:23; сопоставляет освобождение с освобождением виночерпия фараона у Йосефа. https://www.intratext.com/ixt/ITASA0000/_P2H.HTM ; B: Divine Office (1774), pp. 516–517, исполнение обещания, уход с миром. Примечание о земном изгнании и ссылка на а Лапиде принадлежат переводчику Дюжардену (см. Notice, p. 12), а не доказанно Альфонсу. https://archive.org/stream/alphonsusworks14liguuoft/alphonsusworks14liguuoft_djvu.txt",
+      "source_urls": [
+        "https://www.intratext.com/ixt/ITASA0000/_P2H.HTM",
+        "https://archive.org/stream/alphonsusworks14liguuoft/alphonsusworks14liguuoft_djvu.txt"
+      ],
+      "episodes": {
+        "S": "existing corpus entry; verify status and primary text",
+        "J": "not audited in this registry; consult existing comparison notes",
+        "M": "not audited in this registry; consult existing comparison notes",
+        "A": "not audited in this registry; consult existing comparison notes",
+        "P": "not audited in this registry; consult existing comparison notes",
+        "H": "not audited in this registry; consult existing comparison notes",
+        "B": "not audited in this registry; consult existing comparison notes"
+      },
+      "profile_status": "pending"
+    },
+    {
+      "id": "C027",
+      "name": "Мэтью Генри",
+      "period": "XVIII",
+      "tradition": "пресвитерианский нонконформизм",
+      "entity_type": "person",
+      "source_note": "A-text: «holy contempt of life, and desire of death»; сопоставляет с Яаковом (Быт 46:30), объясняя различие надеждой на блаженство после смерти благодаря Христу (Флп 1:21); не оставляет службу до Божьего отпущения. Быт 46:30 — ценность дальнейшей жизни с Йосефом; https://search.biblegateway.com/resources/matthew-henry/Gen.46.28-Gen.46.34 ; https://www.biblegateway.com/resources/matthew-henry/Luke.2.25-Luke.2.40",
+      "source_urls": [
+        "https://search.biblegateway.com/resources/matthew-henry/Gen.46.28-Gen.46.34",
+        "https://www.biblegateway.com/resources/matthew-henry/Luke.2.25-Luke.2.40"
+      ],
+      "episodes": {
+        "S": "existing corpus entry; verify status and primary text",
+        "J": "not audited in this registry; consult existing comparison notes",
+        "M": "not audited in this registry; consult existing comparison notes",
+        "A": "not audited in this registry; consult existing comparison notes",
+        "P": "not audited in this registry; consult existing comparison notes",
+        "H": "not audited in this registry; consult existing comparison notes",
+        "B": "not audited in this registry; consult existing comparison notes"
+      },
+      "profile_status": "pending"
+    },
+    {
+      "id": "C028",
+      "name": "Джон Гилл",
+      "period": "XVIII",
+      "tradition": "партикулярный баптист, кальвинист",
+      "entity_type": "person",
+      "source_note": "A-text: Лк 2:29 — сердечное желание умереть, тело как темница, предполагает смерть сразу или вскоре; подчинение Божией воле; Флп 1:21. В Быт 46:30 тот же автор прямо отрицает нетерпение Яакова умереть, утверждает радость дальнейшей жизни с Йосефом, 17 лет (Быт 47:28). Контраст внутри автора, не изменение цвета карточки Симеона. https://biblehub.com/commentaries/luke/2-29.htm ; https://biblehub.com/commentaries/genesis/46-30.htm",
+      "source_urls": [
+        "https://biblehub.com/commentaries/luke/2-29.htm",
+        "https://biblehub.com/commentaries/genesis/46-30.htm"
+      ],
+      "episodes": {
+        "S": "existing corpus entry; verify status and primary text",
+        "J": "not audited in this registry; consult existing comparison notes",
+        "M": "not audited in this registry; consult existing comparison notes",
+        "A": "not audited in this registry; consult existing comparison notes",
+        "P": "not audited in this registry; consult existing comparison notes",
+        "H": "not audited in this registry; consult existing comparison notes",
+        "B": "not audited in this registry; consult existing comparison notes"
+      },
+      "profile_status": "pending"
+    },
+    {
+      "id": "C029",
+      "name": "Иоганн Альбрехт Бенгель",
+      "period": "XVIII",
+      "tradition": "лютеранин, пиетист",
+      "entity_type": "person",
+      "source_note": "B-text 25.11: Gnomon Novi Testamenti (1742), английский перевод; исполненное обещание и счастливое отшествие — двойное благо. Удивляется, если отцы не предполагали возвещения Симеоном умершим, подобно Иоанну Крестителю; не утверждает факт миссии, не доказывает незнакомство со средневековыми текстами. Примечание «Not a prayer» принадлежит переводчику/редактору. https://biblehub.com/commentaries/luke/2-29.htm",
+      "source_urls": [
+        "https://biblehub.com/commentaries/luke/2-29.htm"
+      ],
+      "episodes": {
+        "S": "existing corpus entry; verify status and primary text",
+        "J": "not audited in this registry; consult existing comparison notes",
+        "M": "not audited in this registry; consult existing comparison notes",
+        "A": "not audited in this registry; consult existing comparison notes",
+        "P": "not audited in this registry; consult existing comparison notes",
+        "H": "not audited in this registry; consult existing comparison notes",
+        "B": "not audited in this registry; consult existing comparison notes"
+      },
+      "profile_status": "pending"
+    },
+    {
+      "id": "C030",
+      "name": "Джозеф Бенсон",
+      "period": "XIX",
+      "tradition": "протестантизм, уэслианский методизм",
+      "entity_type": "person",
+      "source_note": "A-text: Лк 2:25–33, желание немедленной смерти, не видит дальнейшей потребности в жизни; Бог должен сам отпустить. В 2:38 отдельно призывает пожилых использовать оставшиеся годы для воспитания следующего поколения (D†, не биография Симеона). Быт 46:30 — ценность дальнейшей жизни Яакова с Йосефом, близко к Генри. https://biblehub.com/commentaries/benson/luke/2.htm ; https://truthaccordingtoscripture.com/commentaries/rbc/genesis-46.php",
+      "source_urls": [
+        "https://biblehub.com/commentaries/benson/luke/2.htm",
+        "https://truthaccordingtoscripture.com/commentaries/rbc/genesis-46.php"
+      ],
+      "episodes": {
+        "S": "existing corpus entry; verify status and primary text",
+        "J": "not audited in this registry; consult existing comparison notes",
+        "M": "not audited in this registry; consult existing comparison notes",
+        "A": "not audited in this registry; consult existing comparison notes",
+        "P": "not audited in this registry; consult existing comparison notes",
+        "H": "not audited in this registry; consult existing comparison notes",
+        "B": "not audited in this registry; consult existing comparison notes"
+      },
+      "profile_status": "pending"
+    },
+    {
+      "id": "C031",
+      "name": "Адам Кларк",
+      "period": "XIX",
+      "tradition": "протестантизм, уэслианский методизм",
+      "entity_type": "person",
+      "source_note": "A-text: Лк 2:29, главная цель жизни достигнута, ожидает немедленного мирного ухода; явного желания умереть не формулирует. Быт 46:30 предполагает, что Симеон имел в виду слова Яакова. Комментарий 1810–1826. https://www.truthaccordingtoscripture.com/commentaries/acc/luke-2.php ; https://truthaccordingtoscripture.com/commentaries/acc/genesis-46.php",
+      "source_urls": [
+        "https://www.truthaccordingtoscripture.com/commentaries/acc/luke-2.php",
+        "https://truthaccordingtoscripture.com/commentaries/acc/genesis-46.php"
+      ],
+      "episodes": {
+        "S": "existing corpus entry; verify status and primary text",
+        "J": "not audited in this registry; consult existing comparison notes",
+        "M": "not audited in this registry; consult existing comparison notes",
+        "A": "not audited in this registry; consult existing comparison notes",
+        "P": "not audited in this registry; consult existing comparison notes",
+        "H": "not audited in this registry; consult existing comparison notes",
+        "B": "not audited in this registry; consult existing comparison notes"
+      },
+      "profile_status": "pending"
+    },
+    {
+      "id": "C032",
+      "name": "Джон Макэвилли",
+      "period": "XIX",
+      "tradition": "католицизм, ирландский архиепископ Туама",
+      "entity_type": "person",
+      "source_note": "A-text 25.11: An Exposition of the Gospel of St Luke (издание 1887, также 1888); 2:29: предпочитает настоящее время, готов уйти когда Бог определит; обещание исполнено, ничто не привязывает к земле, образ телесных уз; прямо приводит Быт 46:30. В 2:28 цитирует Оригена, Hom. 15. Не утверждает положительную ценность дальнейших лет. https://www.ecatholic2000.com/macevilly2/untitled-62.shtml ; библиография https://openlibrary.org/books/OL7056002M/An_exposition_of_the_Gospel_of_St._Luke_consisting_of_an_analysis_of_each_chapter_and_of_a_commentar",
+      "source_urls": [
+        "https://www.ecatholic2000.com/macevilly2/untitled-62.shtml",
+        "https://openlibrary.org/books/OL7056002M/An_exposition_of_the_Gospel_of_St._Luke_consisting_of_an_analysis_of_each_chapter_and_of_a_commentar"
+      ],
+      "episodes": {
+        "S": "existing corpus entry; verify status and primary text",
+        "J": "not audited in this registry; consult existing comparison notes",
+        "M": "not audited in this registry; consult existing comparison notes",
+        "A": "not audited in this registry; consult existing comparison notes",
+        "P": "not audited in this registry; consult existing comparison notes",
+        "H": "not audited in this registry; consult existing comparison notes",
+        "B": "not audited in this registry; consult existing comparison notes"
+      },
+      "profile_status": "pending"
+    },
+    {
+      "id": "C033",
+      "name": "Джон Нельсон Дарби",
+      "period": "XIX",
+      "tradition": "протестантизм, Плимутские братья, диспенсационализм",
+      "entity_type": "person",
+      "source_note": "A-text 25.11: Études sur la Parole, Luc §3.5.3 (XIX век, точный год французского тома не установлен; английская серия 1857–1867). «la mort en avait perdu ses terreurs» — смерть потеряла ужас; исполнение обещаний Израилю и присутствие Мессии. Не просьба ускорить смерть, о дальнейшей жизни отдельно не говорит. https://bibliquest.org/JND/JND-ETUDES-nt03_plan-Luc.htm ; традиция https://www.brethrenarchive.org/people/john-nelson-darby",
+      "source_urls": [
+        "https://bibliquest.org/JND/JND-ETUDES-nt03_plan-Luc.htm",
+        "https://www.brethrenarchive.org/people/john-nelson-darby"
+      ],
+      "episodes": {
+        "S": "existing corpus entry; verify status and primary text",
+        "J": "not audited in this registry; consult existing comparison notes",
+        "M": "not audited in this registry; consult existing comparison notes",
+        "A": "not audited in this registry; consult existing comparison notes",
+        "P": "not audited in this registry; consult existing comparison notes",
+        "H": "not audited in this registry; consult existing comparison notes",
+        "B": "not audited in this registry; consult existing comparison notes"
+      },
+      "profile_status": "pending"
+    },
+    {
+      "id": "C034",
+      "name": "Филарет Московский",
+      "period": "XIX",
+      "tradition": "православие",
+      "entity_type": "person",
+      "source_note": "P, западная библеистика и библейские общества — проверить конкретную связь",
+      "source_urls": [],
+      "episodes": {
+        "S": "existing corpus entry; verify status and primary text",
+        "J": "not audited in this registry; consult existing comparison notes",
+        "M": "not audited in this registry; consult existing comparison notes",
+        "A": "not audited in this registry; consult existing comparison notes",
+        "P": "not audited in this registry; consult existing comparison notes",
+        "H": "not audited in this registry; consult existing comparison notes",
+        "B": "not audited in this registry; consult existing comparison notes"
+      },
+      "profile_status": "pending"
+    },
+    {
+      "id": "C035",
+      "name": "Михаил Лузин",
+      "period": "XIX",
+      "tradition": "православие",
+      "entity_type": "person",
+      "source_note": "P, использовал иностранные комментарии и Феофилакта; смещение вправо умеренное после проверки предисловия",
+      "source_urls": [],
+      "episodes": {
+        "S": "existing corpus entry; verify status and primary text",
+        "J": "not audited in this registry; consult existing comparison notes",
+        "M": "not audited in this registry; consult existing comparison notes",
+        "A": "not audited in this registry; consult existing comparison notes",
+        "P": "not audited in this registry; consult existing comparison notes",
+        "H": "not audited in this registry; consult existing comparison notes",
+        "B": "not audited in this registry; consult existing comparison notes"
+      },
+      "profile_status": "pending"
+    },
+    {
+      "id": "C036",
+      "name": "Иоанн Бухарев",
+      "period": "XIX",
+      "tradition": "православие",
+      "entity_type": "person",
+      "source_note": "P",
+      "source_urls": [],
+      "episodes": {
+        "S": "existing corpus entry; verify status and primary text",
+        "J": "not audited in this registry; consult existing comparison notes",
+        "M": "not audited in this registry; consult existing comparison notes",
+        "A": "not audited in this registry; consult existing comparison notes",
+        "P": "not audited in this registry; consult existing comparison notes",
+        "H": "not audited in this registry; consult existing comparison notes",
+        "B": "not audited in this registry; consult existing comparison notes"
+      },
+      "profile_status": "pending"
+    },
+    {
+      "id": "C037",
+      "name": "Альберт Барнс",
+      "period": "XIX",
+      "tradition": "пресвитерианин",
+      "entity_type": "person",
+      "source_note": "A: «removed every reason why he should live any longer»; исчерпание причин жить, B — широкое значение; https://biblehub.com/commentaries/luke/2-29.htm",
+      "source_urls": [
+        "https://biblehub.com/commentaries/luke/2-29.htm"
+      ],
+      "episodes": {
+        "S": "existing corpus entry; verify status and primary text",
+        "J": "not audited in this registry; consult existing comparison notes",
+        "M": "not audited in this registry; consult existing comparison notes",
+        "A": "not audited in this registry; consult existing comparison notes",
+        "P": "not audited in this registry; consult existing comparison notes",
+        "H": "not audited in this registry; consult existing comparison notes",
+        "B": "not audited in this registry; consult existing comparison notes"
+      },
+      "profile_status": "pending"
+    },
+    {
+      "id": "C038",
+      "name": "Фредерик Годе",
+      "period": "XIX",
+      "tradition": "швейцарская реформатская традиция",
+      "entity_type": "person",
+      "source_note": "P: часовой окончил дозор",
+      "source_urls": [],
+      "episodes": {
+        "S": "existing corpus entry; verify status and primary text",
+        "J": "not audited in this registry; consult existing comparison notes",
+        "M": "not audited in this registry; consult existing comparison notes",
+        "A": "not audited in this registry; consult existing comparison notes",
+        "P": "not audited in this registry; consult existing comparison notes",
+        "H": "not audited in this registry; consult existing comparison notes",
+        "B": "not audited in this registry; consult existing comparison notes"
+      },
+      "profile_status": "pending"
+    },
+    {
+      "id": "C039",
+      "name": "Марвин Винсент",
+      "period": "XIX",
+      "tradition": "пресвитерианин (ранее методист)",
+      "entity_type": "person",
+      "source_note": "P: освобождение слуги",
+      "source_urls": [],
+      "episodes": {
+        "S": "existing corpus entry; verify status and primary text",
+        "J": "not audited in this registry; consult existing comparison notes",
+        "M": "not audited in this registry; consult existing comparison notes",
+        "A": "not audited in this registry; consult existing comparison notes",
+        "P": "not audited in this registry; consult existing comparison notes",
+        "H": "not audited in this registry; consult existing comparison notes",
+        "B": "not audited in this registry; consult existing comparison notes"
+      },
+      "profile_status": "pending"
+    },
+    {
+      "id": "C040",
+      "name": "Чарльз Сперджен",
+      "period": "XIX",
+      "tradition": "баптист-кальвинист",
+      "entity_type": "person",
+      "source_note": "A: «ready to live, or ready to die»; готовность жить и умереть, не биография; опубликовано посмертно 29.01.1893; https://www.spurgeon.org/sermons/simeons-swan-song ; отдельно проповедь Nunc dimittis 1871 https://www.spurgeon.org/sermons/nunc-dimittis",
+      "source_urls": [
+        "https://www.spurgeon.org/sermons/simeons-swan-song",
+        "https://www.spurgeon.org/sermons/nunc-dimittis"
+      ],
+      "episodes": {
+        "S": "existing corpus entry; verify status and primary text",
+        "J": "not audited in this registry; consult existing comparison notes",
+        "M": "not audited in this registry; consult existing comparison notes",
+        "A": "not audited in this registry; consult existing comparison notes",
+        "P": "not audited in this registry; consult existing comparison notes",
+        "H": "not audited in this registry; consult existing comparison notes",
+        "B": "not audited in this registry; consult existing comparison notes"
+      },
+      "profile_status": "pending"
+    },
+    {
+      "id": "C041",
+      "name": "Фридрих Юстус Кнехт",
+      "period": "XIX",
+      "tradition": "католицизм",
+      "entity_type": "person",
+      "source_note": "B: радость перед смертью, скорую смерть принимает; предание о смерти до выхода из храма, не факт Евангелия; немецкое изд. 1882; https://www.ecatholic2000.com/knecht/untitled-104.shtml",
+      "source_urls": [
+        "https://www.ecatholic2000.com/knecht/untitled-104.shtml"
+      ],
+      "episodes": {
+        "S": "existing corpus entry; verify status and primary text",
+        "J": "not audited in this registry; consult existing comparison notes",
+        "M": "not audited in this registry; consult existing comparison notes",
+        "A": "not audited in this registry; consult existing comparison notes",
+        "P": "not audited in this registry; consult existing comparison notes",
+        "H": "not audited in this registry; consult existing comparison notes",
+        "B": "not audited in this registry; consult existing comparison notes"
+      },
+      "profile_status": "pending"
+    },
+    {
+      "id": "C042",
+      "name": "Александр Макларен",
+      "period": "рубеж XIX–XX",
+      "tradition": "баптист",
+      "entity_type": "person",
+      "source_note": "A: не просьба, а констатация близости конца; даже удвоенная жизнь не даст большего; https://biblehub.com/commentaries/luke/2-29.htm",
+      "source_urls": [
+        "https://biblehub.com/commentaries/luke/2-29.htm"
+      ],
+      "episodes": {
+        "S": "existing corpus entry; verify status and primary text",
+        "J": "not audited in this registry; consult existing comparison notes",
+        "M": "not audited in this registry; consult existing comparison notes",
+        "A": "not audited in this registry; consult existing comparison notes",
+        "P": "not audited in this registry; consult existing comparison notes",
+        "H": "not audited in this registry; consult existing comparison notes",
+        "B": "not audited in this registry; consult existing comparison notes"
+      },
+      "profile_status": "pending"
+    },
+    {
+      "id": "C043",
+      "name": "Лопухин / Толковая Библия",
+      "period": "1900–1961",
+      "tradition": "православие",
+      "entity_type": "collective attribution unresolved",
+      "source_note": "P: можно умереть с миром; проверить авторство конкретного раздела",
+      "source_urls": [],
+      "episodes": {
+        "S": "existing corpus entry; verify status and primary text",
+        "J": "not audited in this registry; consult existing comparison notes",
+        "M": "not audited in this registry; consult existing comparison notes",
+        "A": "not audited in this registry; consult existing comparison notes",
+        "P": "not audited in this registry; consult existing comparison notes",
+        "H": "not audited in this registry; consult existing comparison notes",
+        "B": "not audited in this registry; consult existing comparison notes"
+      },
+      "profile_status": "pending"
+    },
+    {
+      "id": "C044",
+      "name": "Вениамин Федченков",
+      "period": "1900–1961",
+      "tradition": "православие",
+      "entity_type": "person",
+      "source_note": "P: немощь, тление, миссия после смерти; https://predanie.ru/book/216979-ot-rozhdestva-bogorodicy-do-sreteniya-gospodnya-i-tom/?chapter=chapter_46",
+      "source_urls": [
+        "https://predanie.ru/book/216979-ot-rozhdestva-bogorodicy-do-sreteniya-gospodnya-i-tom/?chapter=chapter_46"
+      ],
+      "episodes": {
+        "S": "existing corpus entry; verify status and primary text",
+        "J": "not audited in this registry; consult existing comparison notes",
+        "M": "not audited in this registry; consult existing comparison notes",
+        "A": "not audited in this registry; consult existing comparison notes",
+        "P": "not audited in this registry; consult existing comparison notes",
+        "H": "not audited in this registry; consult existing comparison notes",
+        "B": "not audited in this registry; consult existing comparison notes"
+      },
+      "profile_status": "pending"
+    },
+    {
+      "id": "C045",
+      "name": "Аверкий Таушев",
+      "period": "1900–1961",
+      "tradition": "православие, РПЦЗ",
+      "entity_type": "person",
+      "source_note": "P: курс 1951–1953, проверить дату издания",
+      "source_urls": [],
+      "episodes": {
+        "S": "existing corpus entry; verify status and primary text",
+        "J": "not audited in this registry; consult existing comparison notes",
+        "M": "not audited in this registry; consult existing comparison notes",
+        "A": "not audited in this registry; consult existing comparison notes",
+        "P": "not audited in this registry; consult existing comparison notes",
+        "H": "not audited in this registry; consult existing comparison notes",
+        "B": "not audited in this registry; consult existing comparison notes"
+      },
+      "profile_status": "pending"
+    },
+    {
+      "id": "C046",
+      "name": "Фома Хопко",
+      "period": "1966–2000",
+      "tradition": "православие, OCA, США",
+      "entity_type": "person",
+      "source_note": "P: The Orthodox Faith, 1970-е; западная среда, не доказательство влияния",
+      "source_urls": [],
+      "episodes": {
+        "S": "existing corpus entry; verify status and primary text",
+        "J": "not audited in this registry; consult existing comparison notes",
+        "M": "not audited in this registry; consult existing comparison notes",
+        "A": "not audited in this registry; consult existing comparison notes",
+        "P": "not audited in this registry; consult existing comparison notes",
+        "H": "not audited in this registry; consult existing comparison notes",
+        "B": "not audited in this registry; consult existing comparison notes"
+      },
+      "profile_status": "pending"
+    },
+    {
+      "id": "C047",
+      "name": "Антоний Сурожский (Блум)",
+      "period": "1966–2000",
+      "tradition": "православие, Московский патриархат, Великобритания",
+      "entity_type": "person",
+      "source_note": "A, 15.02.1982: Флп 1:21–26, остаться жить ради других. Сдвинуть к правому краю: англиканские контакты, ВСЦ; не РПЦЗ. https://azbyka.ru/otechnik/Antonij_Surozhskij/propovedi-2/ ; https://xpam.kiev.ua/sretenie-gospodne.-mitropolit-antoniyi-surozhskiyi.html",
+      "source_urls": [
+        "https://azbyka.ru/otechnik/Antonij_Surozhskij/propovedi-2/",
+        "https://xpam.kiev.ua/sretenie-gospodne.-mitropolit-antoniyi-surozhskiyi.html"
+      ],
+      "episodes": {
+        "S": "existing corpus entry; verify status and primary text",
+        "J": "not audited in this registry; consult existing comparison notes",
+        "M": "not audited in this registry; consult existing comparison notes",
+        "A": "not audited in this registry; consult existing comparison notes",
+        "P": "not audited in this registry; consult existing comparison notes",
+        "H": "not audited in this registry; consult existing comparison notes",
+        "B": "not audited in this registry; consult existing comparison notes"
+      },
+      "profile_status": "pending"
+    },
+    {
+      "id": "C048",
+      "name": "Иоанн Павел II",
+      "period": "1966–2000",
+      "tradition": "католицизм",
+      "entity_type": "person",
+      "source_note": "B: духовное завещание март 2000, опубликовано 2005; «how long I must continue this service»; https://www.vatican.va/content/john-paul-ii/en/speeches/2005/april/documents/hf_jp-ii_spe_20050407_testamento-jp-ii.html ; послание пожилым 1999, P: https://www.vatican.va/content/john-paul-ii/en/letters/1993/documents/hf_jp-ii_let_19990110_elderly.html",
+      "source_urls": [
+        "https://www.vatican.va/content/john-paul-ii/en/speeches/2005/april/documents/hf_jp-ii_spe_20050407_testamento-jp-ii.html",
+        "https://www.vatican.va/content/john-paul-ii/en/letters/1993/documents/hf_jp-ii_let_19990110_elderly.html"
+      ],
+      "episodes": {
+        "S": "existing corpus entry; verify status and primary text",
+        "J": "not audited in this registry; consult existing comparison notes",
+        "M": "not audited in this registry; consult existing comparison notes",
+        "A": "not audited in this registry; consult existing comparison notes",
+        "P": "not audited in this registry; consult existing comparison notes",
+        "H": "not audited in this registry; consult existing comparison notes",
+        "B": "not audited in this registry; consult existing comparison notes"
+      },
+      "profile_status": "pending"
+    },
+    {
+      "id": "C049",
+      "name": "Иов Гумеров",
+      "period": "XXI",
+      "tradition": "православие",
+      "entity_type": "person",
+      "source_note": "P",
+      "source_urls": [],
+      "episodes": {
+        "S": "existing corpus entry; verify status and primary text",
+        "J": "not audited in this registry; consult existing comparison notes",
+        "M": "not audited in this registry; consult existing comparison notes",
+        "A": "not audited in this registry; consult existing comparison notes",
+        "P": "not audited in this registry; consult existing comparison notes",
+        "H": "not audited in this registry; consult existing comparison notes",
+        "B": "not audited in this registry; consult existing comparison notes"
+      },
+      "profile_status": "pending"
+    },
+    {
+      "id": "C050",
+      "name": "Лигон Дункан",
+      "period": "XXI",
+      "tradition": "пресвитерианин, реформаты",
+      "entity_type": "person",
+      "source_note": "A, 24.12.2006: «Did he live on three more years? Ten more years?» — историческая неизвестность, явное допущение продолжения, НЕ D автоматически; https://rts.edu/resources/luke-christmas-liturgy-nunc-dimitis",
+      "source_urls": [
+        "https://rts.edu/resources/luke-christmas-liturgy-nunc-dimitis"
+      ],
+      "episodes": {
+        "S": "existing corpus entry; verify status and primary text",
+        "J": "not audited in this registry; consult existing comparison notes",
+        "M": "not audited in this registry; consult existing comparison notes",
+        "A": "not audited in this registry; consult existing comparison notes",
+        "P": "not audited in this registry; consult existing comparison notes",
+        "H": "not audited in this registry; consult existing comparison notes",
+        "B": "not audited in this registry; consult existing comparison notes"
+      },
+      "profile_status": "pending"
+    },
+    {
+      "id": "C051",
+      "name": "Франциск",
+      "period": "XXI",
+      "tradition": "католицизм",
+      "entity_type": "person",
+      "source_note": "A, 30.03.2022: мирное прощание, передача опыта поколению, положительная ценность старости; https://press.vatican.va/content/francesco/it/audiences/2022/documents/20220330-udienza-generale.html",
+      "source_urls": [
+        "https://press.vatican.va/content/francesco/it/audiences/2022/documents/20220330-udienza-generale.html"
+      ],
+      "episodes": {
+        "S": "existing corpus entry; verify status and primary text",
+        "J": "not audited in this registry; consult existing comparison notes",
+        "M": "not audited in this registry; consult existing comparison notes",
+        "A": "not audited in this registry; consult existing comparison notes",
+        "P": "not audited in this registry; consult existing comparison notes",
+        "H": "not audited in this registry; consult existing comparison notes",
+        "B": "not audited in this registry; consult existing comparison notes"
+      },
+      "profile_status": "pending"
+    },
+    {
+      "id": "C052",
+      "name": "St. Paul Center",
+      "period": "XXI",
+      "tradition": "католицизм",
+      "entity_type": "collective attribution unresolved",
+      "source_note": "P, конкретного автора/текст установить",
+      "source_urls": [],
+      "episodes": {
+        "S": "existing corpus entry; verify status and primary text",
+        "J": "not audited in this registry; consult existing comparison notes",
+        "M": "not audited in this registry; consult existing comparison notes",
+        "A": "not audited in this registry; consult existing comparison notes",
+        "P": "not audited in this registry; consult existing comparison notes",
+        "H": "not audited in this registry; consult existing comparison notes",
+        "B": "not audited in this registry; consult existing comparison notes"
+      },
+      "profile_status": "pending"
+    }
+  ],
+  "discovery_index": {
+    "source": "BibleHub seven anchor pages; navigation labels only, not actual verse commentary or individual author counts",
+    "labels": [
+      {
+        "label": "Alford",
+        "existing_name": null,
+        "listed_on": [
+          "S",
+          "A",
+          "P"
+        ],
+        "status": "resolve work and actual author; check relevant text"
+      },
+      {
+        "label": "BI",
+        "existing_name": null,
+        "listed_on": [
+          "S",
+          "J",
+          "M",
+          "A",
+          "P",
+          "H",
+          "B"
+        ],
+        "status": "resolve work and actual author; check relevant text"
+      },
+      {
+        "label": "Barnes",
+        "existing_name": "Альберт Барнс",
+        "listed_on": [
+          "S",
+          "J",
+          "M",
+          "A",
+          "P",
+          "H",
+          "B"
+        ],
+        "status": "resolve work and actual author; check relevant text"
+      },
+      {
+        "label": "Bengel",
+        "existing_name": "Иоганн Альбрехт Бенгель",
+        "listed_on": [
+          "S",
+          "A",
+          "P"
+        ],
+        "status": "resolve work and actual author; check relevant text"
+      },
+      {
+        "label": "Benson",
+        "existing_name": "Джозеф Бенсон",
+        "listed_on": [
+          "S",
+          "J",
+          "M",
+          "A",
+          "P",
+          "H",
+          "B"
+        ],
+        "status": "resolve work and actual author; check relevant text"
+      },
+      {
+        "label": "Calvin",
+        "existing_name": "Жан Кальвин",
+        "listed_on": [
+          "S",
+          "J",
+          "M",
+          "A",
+          "P"
+        ],
+        "status": "resolve work and actual author; check relevant text"
+      },
+      {
+        "label": "Cambridge",
+        "existing_name": null,
+        "listed_on": [
+          "S",
+          "J",
+          "M",
+          "A",
+          "P",
+          "H",
+          "B"
+        ],
+        "status": "resolve work and actual author; check relevant text"
+      },
+      {
+        "label": "Chrysostom",
+        "existing_name": null,
+        "listed_on": [
+          "P"
+        ],
+        "status": "resolve work and actual author; check relevant text"
+      },
+      {
+        "label": "Clarke",
+        "existing_name": "Адам Кларк",
+        "listed_on": [
+          "S",
+          "J",
+          "M",
+          "A",
+          "P",
+          "H",
+          "B"
+        ],
+        "status": "resolve work and actual author; check relevant text"
+      },
+      {
+        "label": "Darby",
+        "existing_name": "Джон Нельсон Дарби",
+        "listed_on": [
+          "S",
+          "J",
+          "M",
+          "A",
+          "P",
+          "H",
+          "B"
+        ],
+        "status": "resolve work and actual author; check relevant text"
+      },
+      {
+        "label": "Ellicott",
+        "existing_name": null,
+        "listed_on": [
+          "S",
+          "J",
+          "M",
+          "A",
+          "P",
+          "H",
+          "B"
+        ],
+        "status": "resolve work and actual author; check relevant text"
+      },
+      {
+        "label": "Exp_Dct",
+        "existing_name": null,
+        "listed_on": [
+          "S",
+          "J",
+          "M",
+          "A",
+          "P",
+          "H",
+          "B"
+        ],
+        "status": "resolve work and actual author; check relevant text"
+      },
+      {
+        "label": "Exp_Grk",
+        "existing_name": null,
+        "listed_on": [
+          "S",
+          "A",
+          "P"
+        ],
+        "status": "resolve work and actual author; check relevant text"
+      },
+      {
+        "label": "Expositor's",
+        "existing_name": null,
+        "listed_on": [
+          "S",
+          "J",
+          "M",
+          "A",
+          "P",
+          "H",
+          "B"
+        ],
+        "status": "resolve work and actual author; check relevant text"
+      },
+      {
+        "label": "GSB",
+        "existing_name": null,
+        "listed_on": [
+          "S",
+          "J",
+          "M",
+          "A",
+          "P",
+          "H",
+          "B"
+        ],
+        "status": "resolve work and actual author; check relevant text"
+      },
+      {
+        "label": "Gaebelein",
+        "existing_name": null,
+        "listed_on": [
+          "S",
+          "J",
+          "M",
+          "A",
+          "P",
+          "H",
+          "B"
+        ],
+        "status": "resolve work and actual author; check relevant text"
+      },
+      {
+        "label": "Gill",
+        "existing_name": "Джон Гилл",
+        "listed_on": [
+          "S",
+          "J",
+          "M",
+          "A",
+          "P",
+          "H",
+          "B"
+        ],
+        "status": "resolve work and actual author; check relevant text"
+      },
+      {
+        "label": "Gray",
+        "existing_name": null,
+        "listed_on": [
+          "S",
+          "J",
+          "M",
+          "A",
+          "P",
+          "H",
+          "B"
+        ],
+        "status": "resolve work and actual author; check relevant text"
+      },
+      {
+        "label": "Guzik",
+        "existing_name": null,
+        "listed_on": [
+          "S",
+          "J",
+          "M",
+          "A",
+          "P",
+          "H",
+          "B"
+        ],
+        "status": "resolve work and actual author; check relevant text"
+      },
+      {
+        "label": "Hastings",
+        "existing_name": null,
+        "listed_on": [
+          "S",
+          "J",
+          "M",
+          "A",
+          "P",
+          "H",
+          "B"
+        ],
+        "status": "resolve work and actual author; check relevant text"
+      },
+      {
+        "label": "Haydock",
+        "existing_name": null,
+        "listed_on": [
+          "S",
+          "J",
+          "M",
+          "A",
+          "P",
+          "H",
+          "B"
+        ],
+        "status": "resolve work and actual author; check relevant text"
+      },
+      {
+        "label": "Homiletics",
+        "existing_name": null,
+        "listed_on": [
+          "S",
+          "J",
+          "M",
+          "A",
+          "P",
+          "H",
+          "B"
+        ],
+        "status": "resolve work and actual author; check relevant text"
+      },
+      {
+        "label": "ICC",
+        "existing_name": null,
+        "listed_on": [
+          "S",
+          "A",
+          "P"
+        ],
+        "status": "resolve work and actual author; check relevant text"
+      },
+      {
+        "label": "JFB",
+        "existing_name": null,
+        "listed_on": [
+          "S",
+          "J",
+          "M",
+          "A",
+          "P",
+          "H",
+          "B"
+        ],
+        "status": "resolve work and actual author; check relevant text"
+      },
+      {
+        "label": "KD",
+        "existing_name": null,
+        "listed_on": [
+          "J",
+          "M",
+          "H",
+          "B"
+        ],
+        "status": "resolve work and actual author; check relevant text"
+      },
+      {
+        "label": "Kelly",
+        "existing_name": null,
+        "listed_on": [
+          "S",
+          "A",
+          "P"
+        ],
+        "status": "resolve work and actual author; check relevant text"
+      },
+      {
+        "label": "King",
+        "existing_name": null,
+        "listed_on": [
+          "S",
+          "J",
+          "M",
+          "A",
+          "P",
+          "H",
+          "B"
+        ],
+        "status": "resolve work and actual author; check relevant text"
+      },
+      {
+        "label": "Lange",
+        "existing_name": null,
+        "listed_on": [
+          "S",
+          "J",
+          "M",
+          "A",
+          "P",
+          "H",
+          "B"
+        ],
+        "status": "resolve work and actual author; check relevant text"
+      },
+      {
+        "label": "MHC",
+        "existing_name": "Мэтью Генри",
+        "listed_on": [
+          "S",
+          "J",
+          "M",
+          "A",
+          "P",
+          "H",
+          "B"
+        ],
+        "status": "resolve work and actual author; check relevant text"
+      },
+      {
+        "label": "MHCW",
+        "existing_name": "Мэтью Генри",
+        "listed_on": [
+          "S",
+          "J",
+          "M",
+          "A",
+          "P",
+          "H",
+          "B"
+        ],
+        "status": "resolve work and actual author; check relevant text"
+      },
+      {
+        "label": "MacLaren",
+        "existing_name": "Александр Макларен",
+        "listed_on": [
+          "S",
+          "J",
+          "M",
+          "A",
+          "P",
+          "H",
+          "B"
+        ],
+        "status": "resolve work and actual author; check relevant text"
+      },
+      {
+        "label": "Meyer",
+        "existing_name": null,
+        "listed_on": [
+          "S",
+          "A",
+          "P"
+        ],
+        "status": "resolve work and actual author; check relevant text"
+      },
+      {
+        "label": "PNT",
+        "existing_name": null,
+        "listed_on": [
+          "S",
+          "A",
+          "P"
+        ],
+        "status": "resolve work and actual author; check relevant text"
+      },
+      {
+        "label": "Parker",
+        "existing_name": null,
+        "listed_on": [
+          "S",
+          "J",
+          "M",
+          "A",
+          "P",
+          "H",
+          "B"
+        ],
+        "status": "resolve work and actual author; check relevant text"
+      },
+      {
+        "label": "Poole",
+        "existing_name": "Мэтью Пул",
+        "listed_on": [
+          "S",
+          "J",
+          "M",
+          "A",
+          "P",
+          "H",
+          "B"
+        ],
+        "status": "resolve work and actual author; check relevant text"
+      },
+      {
+        "label": "Pulpit",
+        "existing_name": null,
+        "listed_on": [
+          "S",
+          "J",
+          "M",
+          "A",
+          "P",
+          "H",
+          "B"
+        ],
+        "status": "resolve work and actual author; check relevant text"
+      },
+      {
+        "label": "SCO",
+        "existing_name": null,
+        "listed_on": [
+          "S",
+          "J",
+          "M",
+          "A",
+          "P",
+          "H",
+          "B"
+        ],
+        "status": "resolve work and actual author; check relevant text"
+      },
+      {
+        "label": "Sermon",
+        "existing_name": null,
+        "listed_on": [
+          "S",
+          "J",
+          "M",
+          "A",
+          "P",
+          "H",
+          "B"
+        ],
+        "status": "resolve work and actual author; check relevant text"
+      },
+      {
+        "label": "TSK",
+        "existing_name": null,
+        "listed_on": [
+          "S",
+          "J",
+          "M",
+          "A",
+          "P",
+          "H",
+          "B"
+        ],
+        "status": "resolve work and actual author; check relevant text"
+      },
+      {
+        "label": "TTB",
+        "existing_name": null,
+        "listed_on": [
+          "S",
+          "J",
+          "M",
+          "A",
+          "P",
+          "H",
+          "B"
+        ],
+        "status": "resolve work and actual author; check relevant text"
+      },
+      {
+        "label": "VWS",
+        "existing_name": "Марвин Винсент",
+        "listed_on": [
+          "S",
+          "A",
+          "P"
+        ],
+        "status": "resolve work and actual author; check relevant text"
+      },
+      {
+        "label": "WES",
+        "existing_name": null,
+        "listed_on": [
+          "S",
+          "J",
+          "M",
+          "A",
+          "P",
+          "H",
+          "B"
+        ],
+        "status": "resolve work and actual author; check relevant text"
+      }
+    ]
+  }
+}

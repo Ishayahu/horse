@@ -30,6 +30,8 @@
 
 | — | FAITH-REWARD-001 | `faith-and-reward` | Почему вера необходима для награды? Исполнение заповедей, ошибочные убеждения и удел в будущем мире; Шадаль, Рамбам, Раавад, Альбо, сравнительно Ориген | **ON-DEMAND — поставлено 25.11.2026, не начато; CURRENT не меняется** | [Задание и точка продолжения](research/faith-and-reward/research-assignment.md) |
 
+| — | SIMEON-EXEGESIS-001 | `simeon-exegesis` | Историческое изменение толкования Лк 2:29 и сравнительный пилот о Йосефе | **ON-DEMAND — partial, 25.11.2026; CURRENT не меняется** | [Состояние и задание](research/simeon-exegesis/state.md), [корпус](research/simeon-exegesis/corpus.md), [цветовая матрица](research/simeon-exegesis/matrix.html) |
+
 **По прямому поручению пользователя (14.10.2026)** исследования `RPL-TORAH-001` и `RPL-MAMZER-002` перенесены из режима ON DEMAND в **конец общей очереди**, позиции 5 и 6. Сначала идёт работа над Торой до Синая, затем разбор мамзеров и книги לב טהור. [Задание](research/rosenblum-parasha/research-assignment.md), [состояние](research/rosenblum-parasha/state.md), [задачи](research/rosenblum-parasha/tasks.jsonl), [отчёты](reports/rosenblum-parasha/README.md). Ни одно из этих двух исследований ещё не запущено; текущие исследования и их статусы сохраняются.
 
 **Актуальная очередь (обновлено 14.10.2026):** HORSE-RESEARCH-001 остаётся **DONE** (checkpoint `735d6b06ffc771d590ae70e9b9dace0b028bbaeb`). **Текущая задача — HORSE-SUPPLEMENT-001**, затем POLICY-REFORM-001, затем восстановление YIRAT-RESEARCH-001 с прежнего checkpoint. **После подтверждённого закрытия YIRAT** переходить к RPL-TORAH-001, а после отдельного подтверждённого закрытия RPL-TORAH-001 — к RPL-MAMZER-002. Состояния и данные предшествующих задач не сбрасывать.

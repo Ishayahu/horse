@@ -1307,7 +1307,12 @@
           "A",
           "P"
         ],
-        "status": "resolve work and actual author; check relevant text"
+        "status": "target book authors resolved; per-work screening status in batch 02",
+        "batch": "census-batch-02.json",
+        "author_ids": [
+          "C090",
+          "C091"
+        ]
       },
       {
         "label": "Expositor's",
@@ -1321,7 +1326,17 @@
           "H",
           "B"
         ],
-        "status": "resolve work and actual author; check relevant text"
+        "status": "target book authors resolved; per-work screening status in batch 02",
+        "batch": "census-batch-02.json",
+        "author_ids": [
+          "C085",
+          "C086",
+          "C087",
+          "C088",
+          "C089",
+          "C059",
+          "C061"
+        ]
       },
       {
         "label": "GSB",
@@ -1443,7 +1458,16 @@
           "A",
           "P"
         ],
-        "status": "resolve work and actual author; check relevant text"
+        "status": "target book authors resolved; per-work screening status in batch 02",
+        "batch": "census-batch-02.json",
+        "author_ids": [
+          "C081",
+          "C082",
+          "C083",
+          "C084",
+          "C064",
+          "C039"
+        ]
       },
       {
         "label": "JFB",
@@ -1457,7 +1481,13 @@
           "H",
           "B"
         ],
-        "status": "resolve work and actual author; check relevant text"
+        "status": "target book authors resolved; per-work screening status in batch 02",
+        "batch": "census-batch-02.json",
+        "author_ids": [
+          "C071",
+          "C072",
+          "C073"
+        ]
       },
       {
         "label": "KD",
@@ -1510,7 +1540,17 @@
           "H",
           "B"
         ],
-        "status": "resolve work and actual author; check relevant text"
+        "status": "target book authors resolved; per-work screening status in batch 02",
+        "batch": "census-batch-02.json",
+        "author_ids": [
+          "C074",
+          "C075",
+          "C076",
+          "C077",
+          "C078",
+          "C079",
+          "C080"
+        ]
       },
       {
         "label": "MHC",
@@ -1709,14 +1749,23 @@
       "relevant_passage_located": 12,
       "screening_pending": 6,
       "commit": "f8391befe6849acfe0e53862b364df2dce720b8f"
+    },
+    {
+      "path": "census-batch-02.json",
+      "ids": "C071–C091",
+      "persons": 21,
+      "relevant_passage_located": 7,
+      "screening_pending": 14,
+      "existing_author_addenda": 4,
+      "commit": "c9d190a7704ddd7f92c08ffd47a06e04f3ae6f02"
     }
   ],
   "totals": {
     "named_seed_persons": 50,
     "unresolved_collective_seed_labels": 2,
-    "new_candidate_persons": 18,
-    "all_named_candidates": 68,
-    "all_entries_including_collective": 70,
-    "author_episode_slots_for_named_candidates": 476
+    "new_candidate_persons": 39,
+    "all_named_candidates": 89,
+    "all_entries_including_collective": 91,
+    "author_episode_slots_for_named_candidates": 623
   }
 }

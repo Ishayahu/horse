@@ -168,19 +168,20 @@
       "id": "E18",
       "from": "Быт 46:30 (Яаков)",
       "to": "Бонавентура",
-      "type": "hypothesis",
+      "type": "citation",
       "scope": "Лк 2:29",
-      "evidence": "Библейская параллель по прежней находке; проверить латинский текст. Общий источник, не контакт авторов.",
-      "url": ""
+      "evidence": "Commentarius in Lucam II §68, Opera omnia VII pp.59–60: explicitly quotes Jacob; followed by Tobit 3:6. Latin extracted text verified, page image timeout.",
+      "url": "https://www.documentacatholicaomnia.eu/20vs/221_Bonaventura/1221-1274%2C_Bonaventura%2C_Doctoris_Seraphici_Opera_Omnia_%28Quaracchi%29_Vol_07%2C_LT.pdf"
     },
     {
       "id": "E19",
       "from": "Быт 46:30 (Яаков)",
       "to": "Мэтью Пул",
-      "type": "hypothesis",
+      "type": "citation",
       "scope": "Лк 2:29",
-      "evidence": "Параллель по прежней находке; перепроверить точное место.",
-      "url": ""
+      "evidence": "Poole explicitly compares Jacob to Simeon at Luke 2:29–32 and cross-references Luke at Genesis 46:30. Distinguishes greater reason in Simeon.",
+      "url": "https://biblehub.com/commentaries/poole/luke/2.htm",
+      "url2": "https://biblehub.com/commentaries/genesis/46-30.htm"
     },
     {
       "id": "E20",
@@ -197,7 +198,7 @@
       "to": "Альфонс Мария де Лигуори",
       "type": "citation",
       "scope": "Лк 2:29; Apparecchio alla morte VIII.III (1758)",
-      "evidence": "Автор цитирует «Quasi necessitate teneretur, dimitti petit» непосредственно после объяснения смерти Симеона как освобождения. Источник Амвросия — De bono mortis, точный локатор сверить.",
+      "evidence": "Автор цитирует «Quasi necessitate teneretur, dimitti petit» непосредственно после объяснения смерти Симеона как освобождения. Источник Амвросия — De bono mortis, точный локатор сверить. Source confirmed: De bono mortis §5, Latin https://la.wikisource.org/wiki/De_bono_mortis.",
       "url": "https://www.intratext.com/ixt/ITASA0000/_P2H.HTM"
     },
     {
@@ -298,6 +299,70 @@
       "scope": "Посмертная миссия",
       "evidence": "Аналогичная параллель; Бенгель не называет Пельбарта.",
       "url": "https://biblehub.com/commentaries/luke/2-29.htm"
+    },
+    {
+      "id": "E33",
+      "from": "Быт 46:30 (Яаков)",
+      "to": "Джон Трапп",
+      "type": "citation",
+      "scope": "Быт 46:30 → Лк 2:29–30",
+      "evidence": "Explicit comparison in Genesis commentary, not named in Luke 2:29.",
+      "url": "https://www.bibliaplus.org/en/commentaries/192/john-trapp-complete-commentary/genesis/46/30"
+    },
+    {
+      "id": "E34",
+      "from": "Жан Кальвин",
+      "to": "Мэтью Пул",
+      "type": "citation",
+      "scope": "Лк 2:25",
+      "evidence": "Poole names Calvin and Brentius in rejecting identification with famous rabbi, not evidence of 2:29 borrowing.",
+      "url": "https://biblehub.com/commentaries/poole/luke/2.htm"
+    },
+    {
+      "id": "E35",
+      "from": "Иоганн Бренций",
+      "to": "Мэтью Пул",
+      "type": "citation",
+      "scope": "Лк 2:25",
+      "evidence": "Named with Calvin on Simeon's identity; no classification of Brentius on 2:29 yet.",
+      "url": "https://biblehub.com/commentaries/poole/luke/2.htm"
+    },
+    {
+      "id": "E36",
+      "from": "Флп 1:21–26",
+      "to": "Амвросий",
+      "type": "citation",
+      "scope": "Expositio Lucam II.59",
+      "evidence": "Explicit Phil 1:23, desire to be with Christ after bodily release.",
+      "url": "https://la.wikisource.org/wiki/Expositio_evangelii_secundum_Lucam/II"
+    },
+    {
+      "id": "E37",
+      "from": "Флп 1:21–26",
+      "to": "Джон Гилл",
+      "type": "citation",
+      "scope": "Лк 2:29",
+      "evidence": "Explicit Phil 1:21 reference, earthly departure.",
+      "url": "https://biblehub.com/commentaries/luke/2-29.htm"
+    },
+    {
+      "id": "E38",
+      "from": "Товит 3:6",
+      "to": "Бонавентура",
+      "type": "citation",
+      "scope": "Лк 2:29",
+      "evidence": "Tobit's petition follows the Jacob quote; not independent proof of Simeon's own petition.",
+      "url": "https://www.documentacatholicaomnia.eu/20vs/221_Bonaventura/1221-1274%2C_Bonaventura%2C_Doctoris_Seraphici_Opera_Omnia_%28Quaracchi%29_Vol_07%2C_LT.pdf"
+    },
+    {
+      "id": "E39",
+      "from": "Быт 46:30 (Яаков)",
+      "to": "Джон Гилл",
+      "type": "parallel",
+      "scope": "Matched author, Genesis 46:30 vs Luke 2:29",
+      "evidence": "Gill interprets Jacob's statement as readiness with positive value of remaining life; Simeon actually desires death. No cross-reference between these passages in checked Gill paragraphs.",
+      "url": "https://biblehub.com/commentaries/genesis/46-30.htm",
+      "url2": "https://biblehub.com/commentaries/luke/2-29.htm"
     }
   ]
 }
